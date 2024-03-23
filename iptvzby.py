@@ -15,34 +15,6 @@ r = requests.get(url)
 with open("ipv4.txt", "wb") as code:
     code.write(r.content)
 
-# # 获取远程湖南地方频道源，并将.m3u文件转换成.txt
-# json_url = "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mlzlzj/mgtv/main/mgtv.m3u"
-#
-# response = requests.get(json_url)
-# data = response.text
-#
-# lines = data.split('\n')
-#
-# channel_data = []
-# current_name = ''
-#
-# for line in lines:
-#     line = line.strip()
-#     if line.startswith('#EXTINF'):
-#         channel_info = line.split(',', 1)
-#         current_name = channel_info[1] if len(channel_info) > 1 else ''
-#     elif line.startswith('http'):
-#         if current_name and line:
-#             channel_data.append(f'{current_name},{line}')
-#
-# for item in channel_data:
-#     print(item)
-#
-# with open("difang.txt", 'w', encoding='utf-8') as file:
-#     for item in channel_data:
-#         file.write(item + "\n")
-
-# 扫源
 urls = [
     "https://fofa.info/result?qbase64=ImlwdHYvbGl2ZS96aF9jbi5qcyIgJiYgY291bnRyeT0iQ04iICYmIHJlZ2lvbj0iSGViZWki",                # 河 北
     "https://fofa.info/result?qbase64=ImlwdHYvbGl2ZS96aF9jbi5qcyIgJiYgY291bnRyeT0iQ04iICYmIHJlZ2lvbj0iYmVpamluZyI%3D",          # 北 京
@@ -91,21 +63,21 @@ urls = [
     # "https://www.zoomeye.org/searchResult?q=%2Fiptv%2Flive%2Fzh_cn.js%20%2Bcountry%3A%22CN%22%20%2Bsubdivisions%3A%22shandong%22",  # 山 东
     # "https://www.zoomeye.org/searchResult?q=%2Fiptv%2Flive%2Fzh_cn.js%20%2Bcountry%3A%22CN%22%20%2Bsubdivisions%3A%22henan%22",     # 河 南
     # "https://www.zoomeye.org/searchResult?q=%2Fiptv%2Flive%2Fzh_cn.js%20%2Bcountry%3A%22CN%22%20%2Bsubdivisions%3A%22hubei%22",     # 湖 北
-    "https://www.zoomeye.org/searchResult?q=%2Fiptv%2Flive%2Fzh_cn.js%20%2Bcountry%3A%22CN%22%20%2Bsubdivisions%3A%22hunan%22",       # 湖 南
-    "https://www.zoomeye.org/searchResult?q=city:%22changsha%22",	    # 长 沙
-    "https://www.zoomeye.org/searchResult?q=city%3A%22hengyang%22",	    # 衡 阳
-    "https://www.zoomeye.org/searchResult?q=city%3A%22zhuzhou%22",	    # 株 洲
-    "https://www.zoomeye.org/searchResult?q=city%3A%22yueyang%22",	    # 岳 阳
-    "https://www.zoomeye.org/searchResult?q=city%3A%22loudi%22",	    # 娄 底
-    "https://www.zoomeye.org/searchResult?q=city%3A%22chenzhou%22",	    # 郴 州
-    "https://www.zoomeye.org/searchResult?q=city%3A%22xiangtan%22",	    # 湘 潭
-    "https://www.zoomeye.org/searchResult?q=city%3A%22changde%22",	    # 常 德
-    "https://www.zoomeye.org/searchResult?q=city%3A%22yiyang%22",	    # 益 阳
-    "https://www.zoomeye.org/searchResult?q=city%3A%22yongzhou%22",	    # 永 州
-    "https://www.zoomeye.org/searchResult?q=city%3A%22huaihua%22",	    # 怀 化
-    "https://www.zoomeye.org/searchResult?q=city%3A%22xiangxi%22",	    # 湘 西
-    "https://www.zoomeye.org/searchResult?q=city%3A%22shaoyang%22",	    # 邵 阳
-    "https://www.zoomeye.org/searchResult?q=city%3A%22zhangjiajie%22",	# 张家界
+    # "https://www.zoomeye.org/searchResult?q=%2Fiptv%2Flive%2Fzh_cn.js%20%2Bcountry%3A%22CN%22%20%2Bsubdivisions%3A%22hunan%22",       # 湖 南
+    # "https://www.zoomeye.org/searchResult?q=city:%22changsha%22",	        # 长 沙
+    # "https://www.zoomeye.org/searchResult?q=city%3A%22hengyang%22",	    # 衡 阳
+    # "https://www.zoomeye.org/searchResult?q=city%3A%22zhuzhou%22",	    # 株 洲
+    # "https://www.zoomeye.org/searchResult?q=city%3A%22yueyang%22",	    # 岳 阳
+    # "https://www.zoomeye.org/searchResult?q=city%3A%22loudi%22",	        # 娄 底
+    # "https://www.zoomeye.org/searchResult?q=city%3A%22chenzhou%22",	    # 郴 州
+    # "https://www.zoomeye.org/searchResult?q=city%3A%22xiangtan%22",	    # 湘 潭
+    # "https://www.zoomeye.org/searchResult?q=city%3A%22changde%22",	    # 常 德
+    # "https://www.zoomeye.org/searchResult?q=city%3A%22yiyang%22",	        # 益 阳
+    # "https://www.zoomeye.org/searchResult?q=city%3A%22yongzhou%22",	    # 永 州
+    # "https://www.zoomeye.org/searchResult?q=city%3A%22huaihua%22",	    # 怀 化
+    # "https://www.zoomeye.org/searchResult?q=city%3A%22xiangxi%22",	    # 湘 西
+    # "https://www.zoomeye.org/searchResult?q=city%3A%22shaoyang%22",	    # 邵 阳
+    # "https://www.zoomeye.org/searchResult?q=city%3A%22zhangjiajie%22",	# 张家界
 ]
 
 
@@ -303,6 +275,8 @@ for url in urls:
                             name = name.replace("东奥纪实", "冬奥纪实")
                             name = name.replace("卫视台", "卫视")
                             name = name.replace("湖南电视台", "湖南卫视")
+                            name = name.replace("湖南教育电视台", "湖南教育")
+                            name = name.replace("湖南教育台", "湖南教育")
                             name = name.replace("少儿科教", "少儿")
                             name = name.replace("影视剧", "影视")
                             results.append(f"{name},{urld}")
