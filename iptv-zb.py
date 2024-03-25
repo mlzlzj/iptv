@@ -102,7 +102,7 @@ for result in results:
 # 等待所有任务完成
 task_queue.join()
 
-with open("iptvlist.txt", 'w', encoding='utf-8') as file:
+with open("iptv_list.txt", 'w', encoding='utf-8') as file:
     for result in resultsx:
         file.write(result + "\n")
         print(result)
@@ -122,7 +122,7 @@ results.sort(key=lambda x: channel_key(x[0]))
 
 result_counter = 20  # 每个频道需要的个数
 
-with open("iptvlist.txt", 'w', encoding='utf-8') as file:
+with open("iptv_list.txt", 'w', encoding='utf-8') as file:
     channel_counters = {}
     file.write('央视频道,#genre#\n')
     for result in results:
@@ -158,6 +158,21 @@ with open("iptvlist.txt", 'w', encoding='utf-8') as file:
     for result in results:
         channel_name, channel_url = result.split(',', 1)
         if '湖南' in channel_name or '长沙' in channel_name:
+            if channel_name in channel_counters:
+                if channel_counters[channel_name] >= result_counter:
+                    continue
+                else:
+                    file.write(f"{channel_name},{channel_url}\n")
+                    channel_counters[channel_name] += 1
+            else:
+                file.write(f"{channel_name},{channel_url}\n")
+                channel_counters[channel_name] = 1
+
+    channel_counters = {}
+    file.write('港澳频道,#genre#\n')
+    for result in results:
+        channel_name, channel_url = result.split(',', 1)
+        if '凤凰' in channel_name or '翡翠' in channel_name or 'TVB' in channel_name:
             if channel_name in channel_counters:
                 if channel_counters[channel_name] >= result_counter:
                     continue
