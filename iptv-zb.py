@@ -172,7 +172,7 @@ with open("iptv_list.txt", 'w', encoding='utf-8') as file:
     file.write('港澳影视,#genre#\n')
     for result in results:
         channel_name, channel_url = result.split(',', 1)
-        if '凤凰' in channel_name or '翡翠' in channel_name or 'CHC' in channel_name or '电影' in channel_name or '剧场' in channel_name or '戏曲' in channel_name:
+        if '凤凰' in channel_name or '翡翠' in channel_name or 'CHC' in channel_name:
             if channel_name in channel_counters:
                 if channel_counters[channel_name] >= result_counter:
                     continue
