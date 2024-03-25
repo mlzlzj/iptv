@@ -157,7 +157,7 @@ with open("iptv_list.txt", 'w', encoding='utf-8') as file:
     file.write('湖南频道,#genre#\n')
     for result in results:
         channel_name, channel_url = result.split(',', 1)
-        if '湖南' in channel_name or '长沙' in channel_name:
+        if '湖南' in channel_name or '长沙' in channel_name or '金鹰' in channel_name:
             if channel_name in channel_counters:
                 if channel_counters[channel_name] >= result_counter:
                     continue
@@ -169,10 +169,10 @@ with open("iptv_list.txt", 'w', encoding='utf-8') as file:
                 channel_counters[channel_name] = 1
 
     channel_counters = {}
-    file.write('港澳频道,#genre#\n')
+    file.write('港澳影视,#genre#\n')
     for result in results:
         channel_name, channel_url = result.split(',', 1)
-        if '凤凰' in channel_name or '翡翠' in channel_name or 'TVB' in channel_name:
+        if '凤凰' in channel_name or '翡翠' in channel_name or 'CHC' in channel_name or '电影' in channel_name or '剧场' in channel_name or '戏曲' in channel_name:
             if channel_name in channel_counters:
                 if channel_counters[channel_name] >= result_counter:
                     continue
@@ -183,20 +183,20 @@ with open("iptv_list.txt", 'w', encoding='utf-8') as file:
                 file.write(f"{channel_name},{channel_url}\n")
                 channel_counters[channel_name] = 1
 
-    channel_counters = {}
-    file.write('其他频道,#genre#\n')
-    for result in results:
-        channel_name, channel_url = result.split(',', 1)
-        if 'CCTV' not in channel_name and '卫视' not in channel_name and '测试' not in channel_name and '湖南' not in channel_name and '长沙' not in channel_name:
-            if channel_name in channel_counters:
-                if channel_counters[channel_name] >= result_counter:
-                    continue
-                else:
-                    file.write(f"{channel_name},{channel_url}\n")
-                    channel_counters[channel_name] += 1
-            else:
-                file.write(f"{channel_name},{channel_url}\n")
-                channel_counters[channel_name] = 1
+    # channel_counters = {}
+    # file.write('其他频道,#genre#\n')
+    # for result in results:
+    #     channel_name, channel_url = result.split(',', 1)
+    #     if 'CCTV' not in channel_name and '卫视' not in channel_name and '测试' not in channel_name and '湖南' not in channel_name and '长沙' not in channel_name:
+    #         if channel_name in channel_counters:
+    #             if channel_counters[channel_name] >= result_counter:
+    #                 continue
+    #             else:
+    #                 file.write(f"{channel_name},{channel_url}\n")
+    #                 channel_counters[channel_name] += 1
+    #         else:
+    #             file.write(f"{channel_name},{channel_url}\n")
+    #             channel_counters[channel_name] = 1
 
 #  写入更新日期时间
     now = datetime.now()
