@@ -1,4 +1,4 @@
-name: JDY
+name: zb
 
 on:
   schedule:
@@ -24,7 +24,7 @@ jobs:
         run: pip install selenium requests futures eventlet
                 
       - name: Run iptvzby
-        run: python ${{ github.workspace }}/iptvzby.py
+        run: python ${{ github.workspace }}/iptv-zb.py
 
 
       - name: 提交更改
