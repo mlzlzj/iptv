@@ -9,8 +9,6 @@ from datetime import datetime
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36'}
 
-# urls = ['shenzhen','dongguan','jiangmen','huizhou','meizhou','jieyang','shantou','shanwei','zhuhai','foshan','zhongshan','guangzhou'] #广东省
-
 urls = ['changsha', 'zhuzhou', 'hengyang', 'yueyang', 'yiyang', 'huaihua', 'loudi',
         'chenzhou', 'xiangtan', 'changde', 'yongzgou', 'shaoyang', 'zhangjiajie', 'xiangxi']  # 湖南省
 
@@ -182,9 +180,8 @@ for result in results:
     resultxs.append(resultx)
 # 对频道进行排序
 resultxs.sort(key=lambda x: channel_key(x[0]))
-# now_today = datetime.date.today()
 
-result_counter = 80  # 每个频道需要的个数
+result_counter = 30  # 每个频道需要的个数
 
 with open("iptv_list.txt", 'w', encoding='utf-8') as file:
     channel_counters = {}
@@ -243,11 +240,25 @@ with open("iptv_list.txt", 'w', encoding='utf-8') as file:
             else:
                 file.write(f"{channel_name},{channel_url}\n")
                 channel_counters[channel_name] = 1
-    # file.write(f"{now_today}更新,#genre#\n")
-    # 写入更新日期时间
-    now = datetime.now()
-    file.write(f"更新时间,#genre#\n")
-    file.write(f"{now.strftime("%Y-%m-%d")},url\n")
-    file.write(f"{now.strftime("%H:%M:%S")},url\n")
+                
+# 合并所有的txt文件
+file_contents = []
+file_paths = ["iptv_list.txt", "GAT.txt", "zdy.txt"]  # 替换为实际的文件路径列表
+for file_path in file_paths:
+    with open(file_path, 'r', encoding="utf-8") as file:
+        content = file.read()
+        file_contents.append(content)
 
+# 写入合并后的txt文件
+with open("iptv_list.txt", "w", encoding="utf-8") as output:
+    output.write('\n'.join(file_contents))
+# 写入更新日期时间
+    now = datetime.now()
+    output.write(f"更新时间,#genre#\n")
+    output.write(f"{now.strftime("%Y-%m-%d")},url\n")
+    output.write(f"{now.strftime("%H:%M:%S")},url\n")
+
+os.remove("HK.txt")
+os.remove("TW.txt")
+os.remove("GAT.txt")
 print(f"电视频道成功写入iptv_list.txt")
