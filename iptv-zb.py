@@ -312,9 +312,9 @@ with open("iptv_list.txt", 'w', encoding='utf-8') as file:
         output.write(f"{now.strftime("%Y-%m-%d")},url\n")
         output.write(f"{now.strftime("%H:%M:%S")},url\n")
 
-    os.remove("DIYP-v4.txt")
-    os.remove("HK.txt")
-    os.remove("TW.txt")
-    os.remove("GAT.txt")
+    # os.remove("DIYP-v4.txt")
+    # os.remove("HK.txt")
+    # os.remove("TW.txt")
+    # os.remove("GAT.txt")
 
 print(f"电视频道成功写入iptv_list.txt")
