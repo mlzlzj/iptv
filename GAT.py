@@ -36,13 +36,3 @@ for file_path in file_paths:
 # 生成合并后的文件
 with open("GAT.txt", "w", encoding="utf-8") as output:
     output.write('\n'.join(file_contents))
-# # 写入生成日期时间
-#     now = datetime.now()
-#     output.write(f"生成时间,#genre#\n")
-#     output.write(f"{now.strftime("%Y-%m-%d %H:%M:%S")},url\n")
-# 删除临时过渡文件
-os.remove("DIYP-v4.txt")
-os.remove("HK.txt")
-os.remove("TW.txt")
-
-print("港澳台频道文件GAT.txt生成完毕！")
