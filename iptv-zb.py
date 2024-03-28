@@ -8,13 +8,13 @@ import threading
 from queue import Queue
 from datetime import datetime
 
-#  远程获取港澳台直播源文件
+#  获取远程直播源文件
 url = "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Fairy8o/IPTV/main/DIYP-v4.txt"
 r = requests.get(url)
 open('DIYP-v4.txt', 'wb').write(r.content)
 
-keywords = ['凤凰卫视', '凤凰资讯', 'TVB翡翠', 'TVB明珠', 'TVB星河', 'J2', '无线', '有线', '天映', 'VIU',
-            'RTHK', 'HOY', '香港卫视', 'Viu']  # 需要提取的关键字列表
+keywords = ['凤凰卫视', '凤凰资讯', 'TVB翡翠', 'TVB明珠', 'TVB星河', 'J2', '无线', '有线', '天映', 'VIU', 'RTHK', 'HOY',
+            '香港卫视']  # 需要提取的关键字列表
 pattern = '|'.join(keywords)  # 创建正则表达式模式，匹配任意一个关键字
 with open('DIYP-v4.txt', 'r', encoding='utf-8') as file, open('HK.txt', 'w', encoding='utf-8') as HK:
     HK.write('\n港澳频道,#genre#\n')
@@ -22,8 +22,8 @@ with open('DIYP-v4.txt', 'r', encoding='utf-8') as file, open('HK.txt', 'w', enc
         if re.search(pattern, line):  # 如果行中有任意关键字
             HK.write(line)  # 将该行写入输出文件
 
-keywords = ['民视', '中视', '台视', '华视', '新闻台', '东森', '龙祥', '公视', '三立', '大爱', '年代新闻', '人间卫视',
-            '人間', '大立', '八大', 'TVBS', '視','中天','非凡', 'BBC']  # 需要提取的关键字列表
+keywords = ['民视', '中视', '台视', '华视', '新闻台', '东森', '龙祥', '公视', '三立', '大爱', '年代', '人间卫视',
+            '人間', '大立']  # 需要提取的关键字列表
 pattern = '|'.join(keywords)  # 创建正则表达式模式，匹配任意一个关键字
 with open('DIYP-v4.txt', 'r', encoding='utf-8') as file, open('TW.txt', 'w', encoding='utf-8') as TW:
     TW.write('\n台湾频道,#genre#\n')
