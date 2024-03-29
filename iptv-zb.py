@@ -2,7 +2,6 @@ import time
 import os
 import re
 import base64
-import datetime
 import requests
 import threading
 from queue import Queue
@@ -345,13 +344,13 @@ with open("iptv_list.txt", "w", encoding="utf-8") as output:
 # 写入更新日期时间
     # file.write(f"{now_today}更新,#genre#\n")
     now = datetime.now()
-    output.write(f"更新时间,#genre#\n")
+    output.write(f"\n更新时间,#genre#\n")
     output.write(f"{now.strftime("%Y-%m-%d")},url\n")
     output.write(f"{now.strftime("%H:%M:%S")},url\n")
 
-    os.remove("DIYP-v4.txt")
-    os.remove("HK.txt")
-    os.remove("TW.txt")
-    os.remove("GAT.txt")
+os.remove("DIYP-v4.txt")
+os.remove("HK.txt")
+os.remove("TW.txt")
+os.remove("GAT.txt")
 
 print(f"电视频道成功写入iptv_list.txt")
