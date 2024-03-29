@@ -2,16 +2,52 @@ import time
 import os
 import re
 import base64
+import datetime
 import requests
 import threading
 from queue import Queue
 from datetime import datetime
 
+#  获取远程直播源文件
+url = "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Fairy8o/IPTV/main/DIYP-v4.txt"
+r = requests.get(url)
+open('DIYP-v4.txt', 'wb').write(r.content)
+
+keywords = ['凤凰卫视', '凤凰资讯', 'TVB翡翠', 'TVB明珠', 'TVB星河', 'J2', '无线', '有线', '天映', 'VIU', 'RTHK', 'HOY',
+            '香港卫视','Viut']  # 需要提取的关键字列表
+pattern = '|'.join(keywords)  # 创建正则表达式模式，匹配任意一个关键字
+with open('DIYP-v4.txt', 'r', encoding='utf-8') as file, open('HK.txt', 'w', encoding='utf-8') as HK:
+    HK.write('\n港澳频道,#genre#\n')
+    for line in file:
+        if re.search(pattern, line):  # 如果行中有任意关键字
+            HK.write(line)  # 将该行写入输出文件
+
+keywords = ['民视', '中视', '台视', '华视', '新闻台', '东森', '龙祥', '公视', '三立', '大爱', '年代新闻', '人间卫视',
+            '人間', '大立']  # 需要提取的关键字列表
+pattern = '|'.join(keywords)  # 创建正则表达式模式，匹配任意一个关键字
+with open('DIYP-v4.txt', 'r', encoding='utf-8') as file, open('TW.txt', 'w', encoding='utf-8') as TW:
+    TW.write('\n台湾频道,#genre#\n')
+    for line in file:
+        if re.search(pattern, line):  # 如果行中有任意关键字
+            TW.write(line)  # 将该行写入输出文件
+
+# 读取要合并的香港频道和台湾频道文件
+file_contents = []
+file_paths = ["HK.txt", "TW.txt"]  # 替换为实际的文件路径列表
+for file_path in file_paths:
+    with open(file_path, 'r', encoding="utf-8") as file:
+        content = file.read()
+        file_contents.append(content)
+# 生成合并后的文件
+with open("GAT.txt", "w", encoding="utf-8") as output:
+    output.write('\n'.join(file_contents))
+
 # 线程安全的队列，用于存储下载任务
 task_queue = Queue()
 
 headers = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36'}
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 '
+                  'Safari/537.36'}
 
 urls = ["changsha", "zhuzhou", "xiangtan", "hengyang", "shaoyang", "yueyang", "changde", "zhangjiajie", "yiyang",
         "chenzhou", "yongzhou", "huaihua", "loudi"]
@@ -30,7 +66,8 @@ channelsx = [
     "CCTV12,http://8.8.8.8:8/udp/239.76.246.162:1234", "CCTV13,http://8.8.8.8:8/udp/239.76.246.93:1234",
     "CCTV14,http://8.8.8.8:8/udp/239.76.246.164:1234", "CCTV15,http://8.8.8.8:8/udp/239.76.245.252:1234",
     "CCTV16,http://8.8.8.8:8/udp/239.76.246.98:1234", "CCTV17,http://8.8.8.8:8/udp/239.76.245.238:1234",
-    "体育,http://8.8.8.8:8/udp/239.76.246.136:1234", "湖南教育,http://8.8.8.8:8/udp/239.76.252.233:9000"
+    "CCTV16 4K,http://8.8.8.8:8/udp/239.76.246.214:1234", "CCTV16 4k,http://8.8.8.8:8/udp/239.76.246.224:1234",
+    "CCTV16 4k,http://8.8.8.8:8/udp/239.76.246.230:1234", "体育,http://8.8.8.8:8/udp/239.76.246.136:1234",
     "金鹰卡通,http://8.8.8.8:8/udp/239.76.245.120:1234", "金鹰纪实,http://8.8.8.8:8/udp/239.76.245.122:1234",
     "快乐垂钓,http://8.8.8.8:8/udp/239.76.245.127:1234", "湖南教育,http://8.8.8.8:8/udp/239.76.245.233:1234",
     "茶频道,http://8.8.8.8:8/udp/239.76.245.239:1234", "广东卫视,http://8.8.8.8:8/udp/239.76.245.189:1234",
@@ -88,7 +125,7 @@ channelsx = [
     "金鹰卡通,http://8.8.8.8:8/udp/239.76.253.107:9000", "湖南公共,http://8.8.8.8:8/udp/239.76.253.109:9000",
     "金鹰纪实,http://8.8.8.8:8/udp/239.76.253.110:9000", "长沙新闻,http://8.8.8.8:8/udp/239.76.253.121:9000",
     "长沙政法,http://8.8.8.8:8/udp/239.76.253.122:9000", "芒果汽车,http://8.8.8.8:8/udp/239.76.253.123:9000",
-    "欢笑剧场,http://8.8.8.8:8/udp/239.76.253.130:9000", "游戏风云,http://8.8.8.8:8/udp/239.76.253.132:9000",
+    "欢笑剧场4K,http://8.8.8.8:8/udp/239.76.253.130:9000", "游戏风云,http://8.8.8.8:8/udp/239.76.253.132:9000",
     "极速汽车,http://8.8.8.8:8/udp/239.76.253.133:9000", "动漫秀场,http://8.8.8.8:8/udp/239.76.253.131:9000",
     "凤凰中文,http://8.8.8.8:8/udp/239.76.253.135:9000", "凤凰资讯,http://8.8.8.8:8/udp/239.76.253.134:9000",
     "体育,http://8.8.8.8:8/udp/239.76.253.136:9000", "全纪实,http://8.8.8.8:8/udp/239.76.253.137:9000",
@@ -101,7 +138,8 @@ channelsx = [
     "CCTV10,http://8.8.8.8:8/udp/239.76.253.160:9000", "CCTV12,http://8.8.8.8:8/udp/239.76.253.162:9000",
     "CCTV13,http://8.8.8.8:8/udp/239.76.253.93:9000", "CCTV14,http://8.8.8.8:8/udp/239.76.253.164:9000",
     "CCTV16,http://8.8.8.8:8/udp/239.76.253.98:9000", "CCTV16 4K,http://8.8.8.8:8/udp/239.76.253.214:9000",
-    "江苏卫视,http://8.8.8.8:8/udp/239.76.253.181:9000", "甘肃卫视,http://8.8.8.8:8/udp/239.76.253.94:9000",
+    "CCTV16 4K,http://8.8.8.8:8/udp/239.76.254.200:9000", "CCTV16 4K,http://8.8.8.8:8/udp/239.76.253.224:9000",
+    "CCTV16 4K,http://8.8.8.8:8/udp/239.76.253.230:9000", "江苏卫视,http://8.8.8.8:8/udp/239.76.253.181:9000",
     "浙江卫视,http://8.8.8.8:8/udp/239.76.253.182:9000", "北京卫视,http://8.8.8.8:8/udp/239.76.253.184:9000",
     "天津卫视,http://8.8.8.8:8/udp/239.76.253.185:9000", "东方卫视,http://8.8.8.8:8/udp/239.76.253.186:9000",
     "深圳卫视,http://8.8.8.8:8/udp/239.76.253.188:9000", "湖北卫视,http://8.8.8.8:8/udp/239.76.253.193:9000",
@@ -110,7 +148,7 @@ channelsx = [
     "海南卫视,http://8.8.8.8:8/udp/239.76.253.203:9000", "四川卫视,http://8.8.8.8:8/udp/239.76.253.91:9000",
     "重庆卫视,http://8.8.8.8:8/udp/239.76.253.92:9000", "广西卫视,http://8.8.8.8:8/udp/239.76.254.54:9000",
     "陕西卫视,http://8.8.8.8:8/udp/239.76.254.76:9000", "云南卫视,http://8.8.8.8:8/udp/239.76.254.60:9000",
-    "青海卫视,http://8.8.8.8:8/udp/239.76.254.132:9000", "湘西公共,http://8.8.8.8:8/udp/239.76.252.210:9000", 
+    "青海卫视,http://8.8.8.8:8/udp/239.76.254.132:9000", "甘肃卫视,http://8.8.8.8:8/udp/239.76.253.94:9000",
     "都市剧场,http://8.8.8.8:8/udp/239.76.253.215:9000", "生活时尚,http://8.8.8.8:8/udp/239.76.253.223:9000",
     "长沙女姓,http://8.8.8.8:8/udp/239.76.252.23:9000", "湖南卫视,http://8.8.8.8:8/udp/239.76.252.115:9000",
     "湖南经视,http://8.8.8.8:8/udp/239.76.252.116:9000", "湖南电视剧,http://8.8.8.8:8/udp/239.76.252.118:9000",
@@ -124,7 +162,9 @@ channelsx = [
     "安徽卫视,http://8.8.8.8:8/udp/239.76.252.196:9000", "辽宁卫视,http://8.8.8.8:8/udp/239.76.252.197:9000",
     "河北卫视,http://8.8.8.8:8/udp/239.76.252.199:9000", "贵州卫视,http://8.8.8.8:8/udp/239.76.252.198:9000",
     "芒果乐搜,http://8.8.8.8:8/udp/239.76.252.200:9000", "长沙影视,http://8.8.8.8:8/udp/239.76.252.204:9000",
-    "湘西综合,http://8.8.8.8:8/udp/239.76.252.208:9000", "湘西公共,http://8.8.8.8:8/udp/239.76.252.209:9000",     
+    "湘西综合,http://8.8.8.8:8/udp/239.76.252.208:9000", "湘西公共,http://8.8.8.8:8/udp/239.76.252.209:9000",
+    "湘西公共,http://8.8.8.8:8/udp/239.76.252.210:9000", "芒果乐淘,http://8.8.8.8:8/udp/239.76.252.215:9000",
+    "湖南教育,http://8.8.8.8:8/udp/239.76.252.233:9000"
 ]
 
 results = []
@@ -198,7 +238,7 @@ def worker():
 
 
 # 创建多个工作线程
-num_threads = 20
+num_threads = 10
 for _ in range(num_threads):
     t = threading.Thread(target=worker, daemon=True)
     t.start()
@@ -273,12 +313,13 @@ with open("iptv_list.txt", 'w', encoding='utf-8') as file:
             else:
                 file.write(f"{channel_name},{channel_url}\n")
                 channel_counters[channel_name] = 1
+
     channel_counters = {}
     file.write('\n其他频道,#genre#\n')
     for result in resultxs:
         channel_name, channel_url = result
         if 'CCTV' not in channel_name and '卫视' not in channel_name and '测试' not in channel_name and '湖南' not in \
-            channel_name and '长沙' not in channel_name and '金鹰' not in channel_name and '凤凰' not in channel_name:
+                channel_name and '长沙' not in channel_name and '金鹰' not in channel_name and '凤凰' not in channel_name:
             if channel_name in channel_counters:
                 if channel_counters[channel_name] >= result_counter:
                     continue
@@ -289,6 +330,7 @@ with open("iptv_list.txt", 'w', encoding='utf-8') as file:
                 file.write(f"{channel_name},{channel_url}\n")
                 channel_counters[channel_name] = 1
 
+
 # 合并所有的txt文件
 file_contents = []
 file_paths = ["iptv_list.txt", "GAT.txt", "zdy.txt"]  # 替换为实际的文件路径列表
@@ -297,19 +339,19 @@ for file_path in file_paths:
         content = file.read()
         file_contents.append(content)
 
-# 写入合并后的txt文件
+    # 写入合并后的txt文件
 with open("iptv_list.txt", "w", encoding="utf-8") as output:
     output.write('\n'.join(file_contents))
-    # 写入更新日期时间
+# 写入更新日期时间
     # file.write(f"{now_today}更新,#genre#\n")
     now = datetime.now()
     output.write(f"更新时间,#genre#\n")
     output.write(f"{now.strftime("%Y-%m-%d")},url\n")
     output.write(f"{now.strftime("%H:%M:%S")},url\n")
 
-os.remove("DIYP-v4.txt")
-os.remove("HK.txt")
-os.remove("TW.txt")
-os.remove("GAT.txt")
+    os.remove("DIYP-v4.txt")
+    os.remove("HK.txt")
+    os.remove("TW.txt")
+    os.remove("GAT.txt")
 
 print(f"电视频道成功写入iptv_list.txt")
