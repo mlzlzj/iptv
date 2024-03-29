@@ -23,8 +23,6 @@ jobs:
       - name: Install dependencies
         run: pip install selenium requests futures eventlet
                 
-      - name: Run GAT
-        run: python ${{ github.workspace }}/GAT.py
       - name: Run ZB
         run: python ${{ github.workspace }}/iptv-zb.py
 
