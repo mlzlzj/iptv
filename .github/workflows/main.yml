@@ -26,7 +26,7 @@ jobs:
       - name: Run ZB
         run: python ${{ github.workspace }}/iptv-zb.py
 
-         echo "Auto Update IPTV in ${{ steps.date.outputs.date }}" > README.md  
+         echo "Auto Update 湖南移动组播源 in ${{ steps.date.outputs.date }}" > README.md  
          
       - name: 提交更改
         run: |
