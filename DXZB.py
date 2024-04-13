@@ -339,7 +339,7 @@ for file_path in file_paths:
         file_contents.append(content)
 
     # 写入合并后的txt文件
-with open("iptv_dx.txt", "w", encoding="utf-8") as output:
+with open("iptv_list.txt", "w", encoding="utf-8") as output:
     output.write('\n'.join(file_contents))
 # 写入更新日期时间
     # file.write(f"{now_today}更新,#genre#\n")
