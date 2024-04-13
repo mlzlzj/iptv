@@ -24,10 +24,10 @@ jobs:
         run: pip install selenium requests futures eventlet
                 
       - name: Run DXZB
-        run: python ${{ github.workspace }}/iptv-dxzb.py
+        run: python ${{ github.workspace }}/DXZB.py
         
       - name: Run LTZB
-        run: python ${{ github.workspace }}/iptv-ltzb.py
+        run: python ${{ github.workspace }}/LTZB.py
 
          echo "Auto Update 湖南电信和联通组播源 in ${{ steps.date.outputs.date }}" > README.md  
          
