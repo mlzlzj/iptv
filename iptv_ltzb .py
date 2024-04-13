@@ -213,14 +213,14 @@ with open("iptv.txt", 'w', encoding='utf-8') as file:
 
 # 合并所有的txt文件
 file_contents = []
-file_paths = ["iptv.txt", "GAT.txt"]  # 替换为实际的文件路径列表
+file_paths = ["iptv.txt", "GAT.txt", "zby.txt"]  # 替换为实际的文件路径列表
 for file_path in file_paths:
     with open(file_path, 'r', encoding="utf-8") as file:
         content = file.read()
         file_contents.append(content)
 
 # 写入合并后的txt文件
-with open("iptv_hncmcc.txt", "w", encoding="utf-8") as output:
+with open("iptv_lt.txt", "w", encoding="utf-8") as output:
     output.write('\n'.join(file_contents))
 
     now = datetime.now()
@@ -234,4 +234,4 @@ with open("iptv_hncmcc.txt", "w", encoding="utf-8") as output:
     os.remove("TW.txt")
     os.remove("GAT.txt")
 
-    print(f"电视频道成功写入iptv_list.txt")
+    print(f"电视频道成功写入iptv_lt.txt")
