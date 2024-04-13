@@ -26,7 +26,7 @@ jobs:
       - name: Run dxZB
         run: python ${{ github.workspace }}/iptv-dxzb.py
         
-      - name: Run dxZB
+      - name: Run ltZB
         run: python ${{ github.workspace }}/iptv-ltzb.py
 
          echo "Auto Update 湖南移动组播源 in ${{ steps.date.outputs.date }}" > README.md  
