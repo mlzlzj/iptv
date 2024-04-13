@@ -23,13 +23,13 @@ jobs:
       - name: Install dependencies
         run: pip install selenium requests futures eventlet
                 
-      # - name: Run DXZB
-      #   run: python ${{ github.workspace }}/iptv-dxzb.py
+      - name: Run DXZB
+        run: python ${{ github.workspace }}/iptv-dxzb.py
         
       - name: Run LTZB
         run: python ${{ github.workspace }}/iptv-ltzb.py
 
-         echo "Auto Update 湖南移动组播源 in ${{ steps.date.outputs.date }}" > README.md  
+         echo "Auto Update 湖南电信和联通组播源 in ${{ steps.date.outputs.date }}" > README.md  
          
       - name: 提交更改
         run: |
