@@ -269,7 +269,7 @@ resultxs.sort(key=lambda x: channel_key(x[0]))
 
 result_counter = 10  # 每个频道需要的个数
 
-with open("iptv_list.txt", 'w', encoding='utf-8') as file:
+with open("iptv_dx.txt", 'w', encoding='utf-8') as file:
     channel_counters = {}
     file.write('央视频道,#genre#\n')
     for result in resultxs:
@@ -332,7 +332,7 @@ with open("iptv_list.txt", 'w', encoding='utf-8') as file:
 
 # 合并所有的txt文件
 file_contents = []
-file_paths = ["iptv_list.txt", "GAT.txt", "zdy.txt"]  # 替换为实际的文件路径列表
+file_paths = ["iptv_dx.txt", "GAT.txt", "zdy.txt"]  # 替换为实际的文件路径列表
 for file_path in file_paths:
     with open(file_path, 'r', encoding="utf-8") as file:
         content = file.read()
