@@ -152,7 +152,7 @@ resultxs.sort(key=lambda x: channel_key(x[0]))
 
 result_counter = 10  # 每个频道需要的个数
 
-with open("iptv.txt", 'w', encoding='utf-8') as file:
+with open("iptv_lt.txt", 'w', encoding='utf-8') as file:
     channel_counters = {}
     file.write('央视频道,#genre#\n')
     for result in resultxs:
