@@ -370,8 +370,8 @@ def txt_to_m3u(input_file, output_file):
         # 遍历txt文件内容
         for line in lines:
             line = line.strip()
-            # if "," in line: # 防止文件里面缺失“,”号报错
-            if line:
+            if "," in line: # 防止文件里面缺失“,”号报错
+            # if line:
                 # 检查是否是genre行
                 channel_name, channel_url = line.split(',', 1)
                 if channel_url == '#genre#':
