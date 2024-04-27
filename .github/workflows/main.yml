@@ -23,11 +23,9 @@ jobs:
       - name: Install dependencies
         run: pip install selenium requests futures eventlet
                 
-      - name: Run DXZB
-        run: python ${{ github.workspace }}/DXZB.py
+      - name: Run ZB
+        run: python ${{ github.workspace }}/hunan-ZB.py
 
-         echo "Auto Update 湖南电信组播源 in ${{ steps.date.outputs.date }}" > README.md  
-         
       - name: 提交更改
         run: |
           git config --local user.email "vjfchen@sina.com"
