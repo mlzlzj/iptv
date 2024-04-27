@@ -329,7 +329,7 @@ with open("iptv.txt", 'w', encoding='utf-8') as file:
     file.write('\n卫视频道,#genre#\n')
     for result in resultxs:
         channel_name, channel_url = result
-        if '卫视' in channel_name or '凤凰' in channel_name:
+        if '卫视' in channel_name or '凤凰' in channel_name or 'CHC' in channel_name:
             if channel_name in channel_counters:
                 if channel_counters[channel_name] >= result_counter:
                     continue
@@ -354,21 +354,21 @@ with open("iptv.txt", 'w', encoding='utf-8') as file:
                 file.write(f"{channel_name},{channel_url}\n")
                 channel_counters[channel_name] = 1
 
-    channel_counters = {}
-    file.write('\n其他频道,#genre#\n')
-    for result in resultxs:
-        channel_name, channel_url = result
-        if 'CCTV' not in channel_name and '卫视' not in channel_name and '测试' not in channel_name and '湖南' not in \
-                channel_name and '长沙' not in channel_name and '金鹰' not in channel_name and '凤凰' not in channel_name:
-            if channel_name in channel_counters:
-                if channel_counters[channel_name] >= result_counter:
-                    continue
-                else:
-                    file.write(f"{channel_name},{channel_url}\n")
-                    channel_counters[channel_name] += 1
-            else:
-                file.write(f"{channel_name},{channel_url}\n")
-                channel_counters[channel_name] = 1
+    # channel_counters = {}
+    # file.write('\n其他频道,#genre#\n')
+    # for result in resultxs:
+    #     channel_name, channel_url = result
+    #     if 'CCTV' not in channel_name and '卫视' not in channel_name and '测试' not in channel_name and '湖南' not in \
+    #             channel_name and '长沙' not in channel_name and '金鹰' not in channel_name and '凤凰' not in channel_name:
+    #         if channel_name in channel_counters:
+    #             if channel_counters[channel_name] >= result_counter:
+    #                 continue
+    #             else:
+    #                 file.write(f"{channel_name},{channel_url}\n")
+    #                 channel_counters[channel_name] += 1
+    #         else:
+    #             file.write(f"{channel_name},{channel_url}\n")
+    #             channel_counters[channel_name] = 1
 
 
 # 合并所有的txt文件
