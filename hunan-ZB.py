@@ -84,7 +84,7 @@ for url in urls:
 
 urls_all = set(urls_all)  # 去重得到唯一的URL列表
 for urlx in urls_all:
-    channel = [f'{name},{url.replace("http://8.8.8.8:8", urlx)}' for name, url in
+    channel = [f'{name},{url.replace("http://175.10.59.126:4022", urlx)}' for name, url in
                [line.strip().split(',') for line in open("hunan.txt", 'r', encoding='utf-8')]]
     results.extend(channel)
 
@@ -213,7 +213,7 @@ with open("iptv.txt", 'w', encoding='utf-8') as file:
 
 # 合并所有的txt文件
 file_contents = []
-file_paths = ["iptv.txt", "GAT.txt"]  # 替换为实际的文件路径列表
+file_paths = ["iptv.txt", "GAT.txt", "zdy.txt"]  # 替换为实际的文件路径列表
 for file_path in file_paths:
     with open(file_path, 'r', encoding="utf-8") as file:
         content = file.read()
@@ -227,5 +227,12 @@ with open("iptv_list.txt", "w", encoding="utf-8") as output:
     output.write(f"更新时间,#genre#\n")
     output.write(f"{now.strftime("%Y-%m-%d")},url\n")
     output.write(f"{now.strftime("%H:%M:%S")},url\n")
+
+os.remove("DIYP-v4.txt")
+os.remove("iptv.txt")
+os.remove("HK.txt")
+os.remove("TW.txt")
+os.remove("GAT.txt")
+os.remove("iptv.txt")
 
     print(f"电视频道成功写入iptv_list.txt")
