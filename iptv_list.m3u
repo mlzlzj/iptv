@@ -1,24 +1,24 @@
 #EXTM3U
 #EXTINF:-1 group-title="央视频道",CCTV1
+http://175.10.59.126:4022/udp/239.76.245.51:1234
+#EXTINF:-1 group-title="央视频道",CCTV1
+http://175.10.59.126:4022/udp/239.76.245.51:1234
+#EXTINF:-1 group-title="央视频道",CCTV1
+http://175.10.59.126:4022/udp/239.76.245.51:1234
+#EXTINF:-1 group-title="央视频道",CCTV1
+http://175.10.59.126:4022/udp/239.76.245.51:1234
+#EXTINF:-1 group-title="央视频道",CCTV1
+http://175.10.59.126:4022/udp/239.76.245.51:1234
+#EXTINF:-1 group-title="央视频道",CCTV1
+http://175.10.59.126:4022/udp/239.76.245.51:1234
+#EXTINF:-1 group-title="央视频道",CCTV1
+http://175.10.59.126:4022/udp/239.76.245.51:1234
+#EXTINF:-1 group-title="央视频道",CCTV1
 http://175.10.59.126:4022/udp/239.76.246.151:1234
 #EXTINF:-1 group-title="央视频道",CCTV1
 http://175.10.59.126:4022/udp/239.76.245.51:1234
 #EXTINF:-1 group-title="央视频道",CCTV1
 http://175.10.59.126:4022/udp/239.76.245.51:1234
-#EXTINF:-1 group-title="央视频道",CCTV1
-http://175.10.59.126:4022/udp/239.76.245.51:1234
-#EXTINF:-1 group-title="央视频道",CCTV1
-http://175.10.59.126:4022/udp/239.76.245.51:1234
-#EXTINF:-1 group-title="央视频道",CCTV1
-http://175.10.59.126:4022/udp/239.76.246.151:1234
-#EXTINF:-1 group-title="央视频道",CCTV1
-http://175.10.59.126:4022/udp/239.76.245.51:1234
-#EXTINF:-1 group-title="央视频道",CCTV1
-http://175.10.59.126:4022/udp/239.76.246.151:1234
-#EXTINF:-1 group-title="央视频道",CCTV1
-http://175.10.59.126:4022/udp/239.76.245.51:1234
-#EXTINF:-1 group-title="央视频道",CCTV1
-http://175.10.59.126:4022/udp/239.76.245.51:1234
 #EXTINF:-1 group-title="央视频道",CCTV2
 http://175.10.59.126:4022/udp/239.76.246.152:1234
 #EXTINF:-1 group-title="央视频道",CCTV2
@@ -58,7 +58,7 @@ http://175.10.59.126:4022/udp/239.76.246.153:1234
 #EXTINF:-1 group-title="央视频道",CCTV3
 http://175.10.59.126:4022/udp/239.76.246.153:1234
 #EXTINF:-1 group-title="央视频道",CCTV3
-http://175.10.59.126:4022/udp/239.76.246.153:1234
+http://175.10.59.126:4022/udp/239.76.253.153:9000
 #EXTINF:-1 group-title="央视频道",CCTV4
 http://175.10.59.126:4022/udp/239.76.245.195:1234
 #EXTINF:-1 group-title="央视频道",CCTV4
@@ -459,6 +459,286 @@ http://175.10.59.126:4022/udp/239.76.245.238:1234
 http://175.10.59.126:4022/udp/239.76.245.238:1234
 #EXTINF:-1 group-title="央视频道",CCTV17
 http://175.10.59.126:4022/udp/239.76.245.238:1234
+#EXTINF:-1 group-title="央视频道",CCTV世界地理
+http://175.10.59.126:4022/udp/239.76.254.57:9000
+#EXTINF:-1 group-title="央视频道",CCTV世界地理
+http://175.10.59.126:4022/udp/239.76.254.57:9000
+#EXTINF:-1 group-title="央视频道",CCTV世界地理
+http://175.10.59.126:4022/udp/239.76.254.57:9000
+#EXTINF:-1 group-title="央视频道",CCTV世界地理
+http://175.10.59.126:4022/udp/239.76.254.57:9000
+#EXTINF:-1 group-title="央视频道",CCTV世界地理
+http://175.10.59.126:4022/udp/239.76.254.57:9000
+#EXTINF:-1 group-title="央视频道",CCTV世界地理
+http://175.10.59.126:4022/udp/239.76.254.57:9000
+#EXTINF:-1 group-title="央视频道",CCTV世界地理
+http://175.10.59.126:4022/udp/239.76.254.57:9000
+#EXTINF:-1 group-title="央视频道",CCTV世界地理
+http://175.10.59.126:4022/udp/239.76.254.57:9000
+#EXTINF:-1 group-title="央视频道",CCTV世界地理
+http://175.10.59.126:4022/udp/239.76.254.57:9000
+#EXTINF:-1 group-title="央视频道",CCTV世界地理
+http://175.10.59.126:4022/udp/239.76.254.57:9000
+#EXTINF:-1 group-title="央视频道",CCTV兵器科技
+http://175.10.59.126:4022/udp/239.76.254.59:9000
+#EXTINF:-1 group-title="央视频道",CCTV兵器科技
+http://175.10.59.126:4022/udp/239.76.254.59:9000
+#EXTINF:-1 group-title="央视频道",CCTV兵器科技
+http://175.10.59.126:4022/udp/239.76.254.59:9000
+#EXTINF:-1 group-title="央视频道",CCTV兵器科技
+http://175.10.59.126:4022/udp/239.76.254.59:9000
+#EXTINF:-1 group-title="央视频道",CCTV兵器科技
+http://175.10.59.126:4022/udp/239.76.254.59:9000
+#EXTINF:-1 group-title="央视频道",CCTV兵器科技
+http://175.10.59.126:4022/udp/239.76.254.59:9000
+#EXTINF:-1 group-title="央视频道",CCTV兵器科技
+http://175.10.59.126:4022/udp/239.76.254.59:9000
+#EXTINF:-1 group-title="央视频道",CCTV兵器科技
+http://175.10.59.126:4022/udp/239.76.254.59:9000
+#EXTINF:-1 group-title="央视频道",CCTV兵器科技
+http://175.10.59.126:4022/udp/239.76.254.59:9000
+#EXTINF:-1 group-title="央视频道",CCTV兵器科技
+http://175.10.59.126:4022/udp/239.76.254.59:9000
+#EXTINF:-1 group-title="央视频道",CCTV央视台球
+http://175.10.59.126:4022/udp/239.76.254.58:9000
+#EXTINF:-1 group-title="央视频道",CCTV央视台球
+http://175.10.59.126:4022/udp/239.76.254.58:9000
+#EXTINF:-1 group-title="央视频道",CCTV央视台球
+http://175.10.59.126:4022/udp/239.76.254.58:9000
+#EXTINF:-1 group-title="央视频道",CCTV央视台球
+http://175.10.59.126:4022/udp/239.76.254.58:9000
+#EXTINF:-1 group-title="央视频道",CCTV央视台球
+http://175.10.59.126:4022/udp/239.76.254.58:9000
+#EXTINF:-1 group-title="央视频道",CCTV央视台球
+http://175.10.59.126:4022/udp/239.76.254.58:9000
+#EXTINF:-1 group-title="央视频道",CCTV央视台球
+http://175.10.59.126:4022/udp/239.76.254.58:9000
+#EXTINF:-1 group-title="央视频道",CCTV央视台球
+http://175.10.59.126:4022/udp/239.76.254.58:9000
+#EXTINF:-1 group-title="央视频道",CCTV央视台球
+http://175.10.59.126:4022/udp/239.76.254.58:9000
+#EXTINF:-1 group-title="央视频道",CCTV央视台球
+http://175.10.59.126:4022/udp/239.76.254.58:9000
+#EXTINF:-1 group-title="央视频道",CCTV央视文化精品
+http://175.10.59.126:4022/udp/239.76.254.56:9000
+#EXTINF:-1 group-title="央视频道",CCTV央视文化精品
+http://175.10.59.126:4022/udp/239.76.254.56:9000
+#EXTINF:-1 group-title="央视频道",CCTV央视文化精品
+http://175.10.59.126:4022/udp/239.76.254.56:9000
+#EXTINF:-1 group-title="央视频道",CCTV央视文化精品
+http://175.10.59.126:4022/udp/239.76.254.56:9000
+#EXTINF:-1 group-title="央视频道",CCTV央视文化精品
+http://175.10.59.126:4022/udp/239.76.254.56:9000
+#EXTINF:-1 group-title="央视频道",CCTV央视文化精品
+http://175.10.59.126:4022/udp/239.76.254.56:9000
+#EXTINF:-1 group-title="央视频道",CCTV央视文化精品
+http://175.10.59.126:4022/udp/239.76.254.56:9000
+#EXTINF:-1 group-title="央视频道",CCTV央视文化精品
+http://175.10.59.126:4022/udp/239.76.254.56:9000
+#EXTINF:-1 group-title="央视频道",CCTV央视文化精品
+http://175.10.59.126:4022/udp/239.76.254.56:9000
+#EXTINF:-1 group-title="央视频道",CCTV央视文化精品
+http://175.10.59.126:4022/udp/239.76.254.56:9000
+#EXTINF:-1 group-title="央视频道",CCTV央视高尔夫
+http://175.10.59.126:4022/udp/239.76.254.62:9000
+#EXTINF:-1 group-title="央视频道",CCTV央视高尔夫
+http://175.10.59.126:4022/udp/239.76.254.62:9000
+#EXTINF:-1 group-title="央视频道",CCTV央视高尔夫
+http://175.10.59.126:4022/udp/239.76.254.62:9000
+#EXTINF:-1 group-title="央视频道",CCTV央视高尔夫
+http://175.10.59.126:4022/udp/239.76.254.62:9000
+#EXTINF:-1 group-title="央视频道",CCTV央视高尔夫
+http://175.10.59.126:4022/udp/239.76.254.62:9000
+#EXTINF:-1 group-title="央视频道",CCTV央视高尔夫
+http://175.10.59.126:4022/udp/239.76.254.62:9000
+#EXTINF:-1 group-title="央视频道",CCTV央视高尔夫
+http://175.10.59.126:4022/udp/239.76.254.62:9000
+#EXTINF:-1 group-title="央视频道",CCTV央视高尔夫
+http://175.10.59.126:4022/udp/239.76.254.62:9000
+#EXTINF:-1 group-title="央视频道",CCTV央视高尔夫
+http://175.10.59.126:4022/udp/239.76.254.62:9000
+#EXTINF:-1 group-title="央视频道",CCTV央视高尔夫
+http://175.10.59.126:4022/udp/239.76.254.62:9000
+#EXTINF:-1 group-title="央视频道",CCTV女姓时尚
+http://175.10.59.126:4022/udp/239.76.254.55:9000
+#EXTINF:-1 group-title="央视频道",CCTV女姓时尚
+http://175.10.59.126:4022/udp/239.76.254.55:9000
+#EXTINF:-1 group-title="央视频道",CCTV女姓时尚
+http://175.10.59.126:4022/udp/239.76.254.55:9000
+#EXTINF:-1 group-title="央视频道",CCTV女姓时尚
+http://175.10.59.126:4022/udp/239.76.254.55:9000
+#EXTINF:-1 group-title="央视频道",CCTV女姓时尚
+http://175.10.59.126:4022/udp/239.76.254.55:9000
+#EXTINF:-1 group-title="央视频道",CCTV女姓时尚
+http://175.10.59.126:4022/udp/239.76.254.55:9000
+#EXTINF:-1 group-title="央视频道",CCTV女姓时尚
+http://175.10.59.126:4022/udp/239.76.254.55:9000
+#EXTINF:-1 group-title="央视频道",CCTV女姓时尚
+http://175.10.59.126:4022/udp/239.76.254.55:9000
+#EXTINF:-1 group-title="央视频道",CCTV女姓时尚
+http://175.10.59.126:4022/udp/239.76.254.55:9000
+#EXTINF:-1 group-title="央视频道",CCTV女姓时尚
+http://175.10.59.126:4022/udp/239.76.254.55:9000
+#EXTINF:-1 group-title="央视频道",CCTV怀旧剧场
+http://175.10.59.126:4022/udp/239.76.254.53:9000
+#EXTINF:-1 group-title="央视频道",CCTV怀旧剧场
+http://175.10.59.126:4022/udp/239.76.254.53:9000
+#EXTINF:-1 group-title="央视频道",CCTV怀旧剧场
+http://175.10.59.126:4022/udp/239.76.254.53:9000
+#EXTINF:-1 group-title="央视频道",CCTV怀旧剧场
+http://175.10.59.126:4022/udp/239.76.254.53:9000
+#EXTINF:-1 group-title="央视频道",CCTV怀旧剧场
+http://175.10.59.126:4022/udp/239.76.254.53:9000
+#EXTINF:-1 group-title="央视频道",CCTV怀旧剧场
+http://175.10.59.126:4022/udp/239.76.254.53:9000
+#EXTINF:-1 group-title="央视频道",CCTV怀旧剧场
+http://175.10.59.126:4022/udp/239.76.254.53:9000
+#EXTINF:-1 group-title="央视频道",CCTV怀旧剧场
+http://175.10.59.126:4022/udp/239.76.254.53:9000
+#EXTINF:-1 group-title="央视频道",CCTV怀旧剧场
+http://175.10.59.126:4022/udp/239.76.254.53:9000
+#EXTINF:-1 group-title="央视频道",CCTV怀旧剧场
+http://175.10.59.126:4022/udp/239.76.254.53:9000
+#EXTINF:-1 group-title="央视频道",CCTV电视指南
+http://175.10.59.126:4022/udp/239.76.254.61:9000
+#EXTINF:-1 group-title="央视频道",CCTV电视指南
+http://175.10.59.126:4022/udp/239.76.254.61:9000
+#EXTINF:-1 group-title="央视频道",CCTV电视指南
+http://175.10.59.126:4022/udp/239.76.254.61:9000
+#EXTINF:-1 group-title="央视频道",CCTV电视指南
+http://175.10.59.126:4022/udp/239.76.254.61:9000
+#EXTINF:-1 group-title="央视频道",CCTV电视指南
+http://175.10.59.126:4022/udp/239.76.254.61:9000
+#EXTINF:-1 group-title="央视频道",CCTV电视指南
+http://175.10.59.126:4022/udp/239.76.254.61:9000
+#EXTINF:-1 group-title="央视频道",CCTV电视指南
+http://175.10.59.126:4022/udp/239.76.254.61:9000
+#EXTINF:-1 group-title="央视频道",CCTV电视指南
+http://175.10.59.126:4022/udp/239.76.254.61:9000
+#EXTINF:-1 group-title="央视频道",CCTV电视指南
+http://175.10.59.126:4022/udp/239.76.254.61:9000
+#EXTINF:-1 group-title="央视频道",CCTV电视指南
+http://175.10.59.126:4022/udp/239.76.254.61:9000
+#EXTINF:-1 group-title="央视频道",CCTV风云剧场
+http://175.10.59.126:4022/udp/239.76.254.50:9000
+#EXTINF:-1 group-title="央视频道",CCTV风云剧场
+http://175.10.59.126:4022/udp/239.76.254.50:9000
+#EXTINF:-1 group-title="央视频道",CCTV风云剧场
+http://175.10.59.126:4022/udp/239.76.254.50:9000
+#EXTINF:-1 group-title="央视频道",CCTV风云剧场
+http://175.10.59.126:4022/udp/239.76.254.50:9000
+#EXTINF:-1 group-title="央视频道",CCTV风云剧场
+http://175.10.59.126:4022/udp/239.76.254.50:9000
+#EXTINF:-1 group-title="央视频道",CCTV风云剧场
+http://175.10.59.126:4022/udp/239.76.254.50:9000
+#EXTINF:-1 group-title="央视频道",CCTV风云剧场
+http://175.10.59.126:4022/udp/239.76.254.50:9000
+#EXTINF:-1 group-title="央视频道",CCTV风云剧场
+http://175.10.59.126:4022/udp/239.76.254.50:9000
+#EXTINF:-1 group-title="央视频道",CCTV风云剧场
+http://175.10.59.126:4022/udp/239.76.254.50:9000
+#EXTINF:-1 group-title="央视频道",CCTV风云剧场
+http://175.10.59.126:4022/udp/239.76.254.50:9000
+#EXTINF:-1 group-title="央视频道",CCTV风云足球
+http://175.10.59.126:4022/udp/239.76.254.52:9000
+#EXTINF:-1 group-title="央视频道",CCTV风云足球
+http://175.10.59.126:4022/udp/239.76.254.52:9000
+#EXTINF:-1 group-title="央视频道",CCTV风云足球
+http://175.10.59.126:4022/udp/239.76.254.52:9000
+#EXTINF:-1 group-title="央视频道",CCTV风云足球
+http://175.10.59.126:4022/udp/239.76.254.52:9000
+#EXTINF:-1 group-title="央视频道",CCTV风云足球
+http://175.10.59.126:4022/udp/239.76.254.52:9000
+#EXTINF:-1 group-title="央视频道",CCTV风云足球
+http://175.10.59.126:4022/udp/239.76.254.52:9000
+#EXTINF:-1 group-title="央视频道",CCTV风云足球
+http://175.10.59.126:4022/udp/239.76.254.52:9000
+#EXTINF:-1 group-title="央视频道",CCTV风云足球
+http://175.10.59.126:4022/udp/239.76.254.52:9000
+#EXTINF:-1 group-title="央视频道",CCTV风云足球
+http://175.10.59.126:4022/udp/239.76.254.52:9000
+#EXTINF:-1 group-title="央视频道",CCTV风云足球
+http://175.10.59.126:4022/udp/239.76.254.52:9000
+#EXTINF:-1 group-title="央视频道",CCTV风云音乐
+http://175.10.59.126:4022/udp/239.76.254.51:9000
+#EXTINF:-1 group-title="央视频道",CCTV风云音乐
+http://175.10.59.126:4022/udp/239.76.254.51:9000
+#EXTINF:-1 group-title="央视频道",CCTV风云音乐
+http://175.10.59.126:4022/udp/239.76.254.51:9000
+#EXTINF:-1 group-title="央视频道",CCTV风云音乐
+http://175.10.59.126:4022/udp/239.76.254.51:9000
+#EXTINF:-1 group-title="央视频道",CCTV风云音乐
+http://175.10.59.126:4022/udp/239.76.254.51:9000
+#EXTINF:-1 group-title="央视频道",CCTV风云音乐
+http://175.10.59.126:4022/udp/239.76.254.51:9000
+#EXTINF:-1 group-title="央视频道",CCTV风云音乐
+http://175.10.59.126:4022/udp/239.76.254.51:9000
+#EXTINF:-1 group-title="央视频道",CCTV风云音乐
+http://175.10.59.126:4022/udp/239.76.254.51:9000
+#EXTINF:-1 group-title="央视频道",CCTV风云音乐
+http://175.10.59.126:4022/udp/239.76.254.51:9000
+#EXTINF:-1 group-title="央视频道",CCTV风云音乐
+http://175.10.59.126:4022/udp/239.76.254.51:9000
+#EXTINF:-1 group-title="卫视频道",CHC动作电影
+http://175.10.59.126:4022/udp/239.76.245.243:1234
+#EXTINF:-1 group-title="卫视频道",CHC动作电影
+http://175.10.59.126:4022/udp/239.76.245.243:1234
+#EXTINF:-1 group-title="卫视频道",CHC动作电影
+http://175.10.59.126:4022/udp/239.76.245.243:1234
+#EXTINF:-1 group-title="卫视频道",CHC动作电影
+http://175.10.59.126:4022/udp/239.76.245.243:1234
+#EXTINF:-1 group-title="卫视频道",CHC动作电影
+http://175.10.59.126:4022/udp/239.76.245.243:1234
+#EXTINF:-1 group-title="卫视频道",CHC动作电影
+http://175.10.59.126:4022/udp/239.76.245.243:1234
+#EXTINF:-1 group-title="卫视频道",CHC动作电影
+http://175.10.59.126:4022/udp/239.76.245.243:1234
+#EXTINF:-1 group-title="卫视频道",CHC动作电影
+http://175.10.59.126:4022/udp/239.76.245.243:1234
+#EXTINF:-1 group-title="卫视频道",CHC动作电影
+http://175.10.59.126:4022/udp/239.76.245.243:1234
+#EXTINF:-1 group-title="卫视频道",CHC动作电影
+http://175.10.59.126:4022/udp/239.76.245.243:1234
+#EXTINF:-1 group-title="卫视频道",CHC家庭影院
+http://175.10.59.126:4022/udp/239.76.245.241:1234
+#EXTINF:-1 group-title="卫视频道",CHC家庭影院
+http://175.10.59.126:4022/udp/239.76.245.241:1234
+#EXTINF:-1 group-title="卫视频道",CHC家庭影院
+http://175.10.59.126:4022/udp/239.76.245.241:1234
+#EXTINF:-1 group-title="卫视频道",CHC家庭影院
+http://175.10.59.126:4022/udp/239.76.245.241:1234
+#EXTINF:-1 group-title="卫视频道",CHC家庭影院
+http://175.10.59.126:4022/udp/239.76.245.241:1234
+#EXTINF:-1 group-title="卫视频道",CHC家庭影院
+http://175.10.59.126:4022/udp/239.76.245.241:1234
+#EXTINF:-1 group-title="卫视频道",CHC家庭影院
+http://175.10.59.126:4022/udp/239.76.245.241:1234
+#EXTINF:-1 group-title="卫视频道",CHC家庭影院
+http://175.10.59.126:4022/udp/239.76.245.241:1234
+#EXTINF:-1 group-title="卫视频道",CHC家庭影院
+http://175.10.59.126:4022/udp/239.76.245.241:1234
+#EXTINF:-1 group-title="卫视频道",CHC家庭影院
+http://175.10.59.126:4022/udp/239.76.245.241:1234
+#EXTINF:-1 group-title="卫视频道",CHC高清电影
+http://175.10.59.126:4022/udp/239.76.245.242:1234
+#EXTINF:-1 group-title="卫视频道",CHC高清电影
+http://175.10.59.126:4022/udp/239.76.245.242:1234
+#EXTINF:-1 group-title="卫视频道",CHC高清电影
+http://175.10.59.126:4022/udp/239.76.245.242:1234
+#EXTINF:-1 group-title="卫视频道",CHC高清电影
+http://175.10.59.126:4022/udp/239.76.245.242:1234
+#EXTINF:-1 group-title="卫视频道",CHC高清电影
+http://175.10.59.126:4022/udp/239.76.245.242:1234
+#EXTINF:-1 group-title="卫视频道",CHC高清电影
+http://175.10.59.126:4022/udp/239.76.245.242:1234
+#EXTINF:-1 group-title="卫视频道",CHC高清电影
+http://175.10.59.126:4022/udp/239.76.245.242:1234
+#EXTINF:-1 group-title="卫视频道",CHC高清电影
+http://175.10.59.126:4022/udp/239.76.245.242:1234
+#EXTINF:-1 group-title="卫视频道",CHC高清电影
+http://175.10.59.126:4022/udp/239.76.245.242:1234
+#EXTINF:-1 group-title="卫视频道",CHC高清电影
+http://175.10.59.126:4022/udp/239.76.245.242:1234
 #EXTINF:-1 group-title="卫视频道",东南卫视
 http://175.10.59.126:4022/udp/239.76.245.190:1234
 #EXTINF:-1 group-title="卫视频道",东南卫视
@@ -1339,1686 +1619,6 @@ http://175.10.59.126:4022/udp/239.76.246.121:1234
 http://175.10.59.126:4022/udp/239.76.246.121:1234
 #EXTINF:-1 group-title="湖南频道",长沙新闻
 http://175.10.59.126:4022/udp/239.76.246.121:1234
-#EXTINF:-1 group-title="其他频道",IPTV 4k电影
-http://175.10.59.126:4022/udp/239.76.252.35:9000
-#EXTINF:-1 group-title="其他频道",IPTV 4k电影
-http://175.10.59.126:4022/udp/239.76.252.35:9000
-#EXTINF:-1 group-title="其他频道",IPTV 4k电影
-http://175.10.59.126:4022/udp/239.76.252.35:9000
-#EXTINF:-1 group-title="其他频道",IPTV 4k电影
-http://175.10.59.126:4022/udp/239.76.252.35:9000
-#EXTINF:-1 group-title="其他频道",IPTV 4k电影
-http://175.10.59.126:4022/udp/239.76.252.35:9000
-#EXTINF:-1 group-title="其他频道",IPTV 4k电影
-http://175.10.59.126:4022/udp/239.76.252.35:9000
-#EXTINF:-1 group-title="其他频道",IPTV 4k电影
-http://175.10.59.126:4022/udp/239.76.252.35:9000
-#EXTINF:-1 group-title="其他频道",IPTV 4k电影
-http://175.10.59.126:4022/udp/239.76.252.35:9000
-#EXTINF:-1 group-title="其他频道",IPTV 4k电影
-http://175.10.59.126:4022/udp/239.76.252.35:9000
-#EXTINF:-1 group-title="其他频道",IPTV 4k电影
-http://175.10.59.126:4022/udp/239.76.252.35:9000
-#EXTINF:-1 group-title="其他频道",IPTV4k
-http://175.10.59.126:4022/udp/239.76.245.35:1234
-#EXTINF:-1 group-title="其他频道",IPTV4k
-http://175.10.59.126:4022/udp/239.76.245.35:1234
-#EXTINF:-1 group-title="其他频道",IPTV4k
-http://175.10.59.126:4022/udp/239.76.245.35:1234
-#EXTINF:-1 group-title="其他频道",IPTV4k
-http://175.10.59.126:4022/udp/239.76.245.35:1234
-#EXTINF:-1 group-title="其他频道",IPTV4k
-http://175.10.59.126:4022/udp/239.76.245.35:1234
-#EXTINF:-1 group-title="其他频道",IPTV4k
-http://175.10.59.126:4022/udp/239.76.245.35:1234
-#EXTINF:-1 group-title="其他频道",IPTV4k
-http://175.10.59.126:4022/udp/239.76.245.35:1234
-#EXTINF:-1 group-title="其他频道",IPTV4k
-http://175.10.59.126:4022/udp/239.76.245.35:1234
-#EXTINF:-1 group-title="其他频道",IPTV4k
-http://175.10.59.126:4022/udp/239.76.245.35:1234
-#EXTINF:-1 group-title="其他频道",IPTV4k
-http://175.10.59.126:4022/udp/239.76.245.35:1234
-#EXTINF:-1 group-title="其他频道",IPTV5
-http://175.10.59.126:4022/udp/239.76.252.222:9000
-#EXTINF:-1 group-title="其他频道",IPTV5
-http://175.10.59.126:4022/udp/239.76.252.222:9000
-#EXTINF:-1 group-title="其他频道",IPTV5
-http://175.10.59.126:4022/udp/239.76.252.222:9000
-#EXTINF:-1 group-title="其他频道",IPTV5
-http://175.10.59.126:4022/udp/239.76.252.222:9000
-#EXTINF:-1 group-title="其他频道",IPTV5
-http://175.10.59.126:4022/udp/239.76.252.222:9000
-#EXTINF:-1 group-title="其他频道",IPTV5
-http://175.10.59.126:4022/udp/239.76.252.222:9000
-#EXTINF:-1 group-title="其他频道",IPTV5
-http://175.10.59.126:4022/udp/239.76.252.222:9000
-#EXTINF:-1 group-title="其他频道",IPTV5
-http://175.10.59.126:4022/udp/239.76.252.222:9000
-#EXTINF:-1 group-title="其他频道",IPTV5
-http://175.10.59.126:4022/udp/239.76.252.222:9000
-#EXTINF:-1 group-title="其他频道",IPTV5
-http://175.10.59.126:4022/udp/239.76.252.222:9000
-#EXTINF:-1 group-title="其他频道",CGTN俄语
-http://175.10.59.126:4022/udp/239.76.246.86:1234
-#EXTINF:-1 group-title="其他频道",CGTN俄语
-http://175.10.59.126:4022/udp/239.76.246.86:1234
-#EXTINF:-1 group-title="其他频道",CGTN俄语
-http://175.10.59.126:4022/udp/239.76.246.86:1234
-#EXTINF:-1 group-title="其他频道",CGTN俄语
-http://175.10.59.126:4022/udp/239.76.246.86:1234
-#EXTINF:-1 group-title="其他频道",CGTN俄语
-http://175.10.59.126:4022/udp/239.76.246.86:1234
-#EXTINF:-1 group-title="其他频道",CGTN俄语
-http://175.10.59.126:4022/udp/239.76.246.86:1234
-#EXTINF:-1 group-title="其他频道",CGTN俄语
-http://175.10.59.126:4022/udp/239.76.246.86:1234
-#EXTINF:-1 group-title="其他频道",CGTN俄语
-http://175.10.59.126:4022/udp/239.76.246.86:1234
-#EXTINF:-1 group-title="其他频道",CGTN俄语
-http://175.10.59.126:4022/udp/239.76.246.86:1234
-#EXTINF:-1 group-title="其他频道",CGTN俄语
-http://175.10.59.126:4022/udp/239.76.246.86:1234
-#EXTINF:-1 group-title="其他频道",CGTN法语
-http://175.10.59.126:4022/udp/239.76.246.87:1234
-#EXTINF:-1 group-title="其他频道",CGTN法语
-http://175.10.59.126:4022/udp/239.76.246.87:1234
-#EXTINF:-1 group-title="其他频道",CGTN法语
-http://175.10.59.126:4022/udp/239.76.246.87:1234
-#EXTINF:-1 group-title="其他频道",CGTN法语
-http://175.10.59.126:4022/udp/239.76.246.87:1234
-#EXTINF:-1 group-title="其他频道",CGTN法语
-http://175.10.59.126:4022/udp/239.76.246.87:1234
-#EXTINF:-1 group-title="其他频道",CGTN法语
-http://175.10.59.126:4022/udp/239.76.246.87:1234
-#EXTINF:-1 group-title="其他频道",CGTN法语
-http://175.10.59.126:4022/udp/239.76.246.87:1234
-#EXTINF:-1 group-title="其他频道",CGTN法语
-http://175.10.59.126:4022/udp/239.76.246.87:1234
-#EXTINF:-1 group-title="其他频道",CGTN法语
-http://175.10.59.126:4022/udp/239.76.246.87:1234
-#EXTINF:-1 group-title="其他频道",CGTN法语
-http://175.10.59.126:4022/udp/239.76.246.87:1234
-#EXTINF:-1 group-title="其他频道",CGTN纪录高清
-http://175.10.59.126:4022/udp/239.76.252.67:9000
-#EXTINF:-1 group-title="其他频道",CGTN纪录高清
-http://175.10.59.126:4022/udp/239.76.252.67:9000
-#EXTINF:-1 group-title="其他频道",CGTN纪录高清
-http://175.10.59.126:4022/udp/239.76.252.67:9000
-#EXTINF:-1 group-title="其他频道",CGTN纪录高清
-http://175.10.59.126:4022/udp/239.76.252.67:9000
-#EXTINF:-1 group-title="其他频道",CGTN纪录高清
-http://175.10.59.126:4022/udp/239.76.252.67:9000
-#EXTINF:-1 group-title="其他频道",CGTN纪录高清
-http://175.10.59.126:4022/udp/239.76.252.67:9000
-#EXTINF:-1 group-title="其他频道",CGTN纪录高清
-http://175.10.59.126:4022/udp/239.76.252.67:9000
-#EXTINF:-1 group-title="其他频道",CGTN纪录高清
-http://175.10.59.126:4022/udp/239.76.252.67:9000
-#EXTINF:-1 group-title="其他频道",CGTN纪录高清
-http://175.10.59.126:4022/udp/239.76.252.67:9000
-#EXTINF:-1 group-title="其他频道",CGTN纪录高清
-http://175.10.59.126:4022/udp/239.76.252.67:9000
-#EXTINF:-1 group-title="其他频道",CGTN英语
-http://175.10.59.126:4022/udp/239.76.245.67:1234
-#EXTINF:-1 group-title="其他频道",CGTN英语
-http://175.10.59.126:4022/udp/239.76.245.67:1234
-#EXTINF:-1 group-title="其他频道",CGTN英语
-http://175.10.59.126:4022/udp/239.76.245.67:1234
-#EXTINF:-1 group-title="其他频道",CGTN英语
-http://175.10.59.126:4022/udp/239.76.245.67:1234
-#EXTINF:-1 group-title="其他频道",CGTN英语
-http://175.10.59.126:4022/udp/239.76.245.67:1234
-#EXTINF:-1 group-title="其他频道",CGTN英语
-http://175.10.59.126:4022/udp/239.76.245.67:1234
-#EXTINF:-1 group-title="其他频道",CGTN英语
-http://175.10.59.126:4022/udp/239.76.245.67:1234
-#EXTINF:-1 group-title="其他频道",CGTN英语
-http://175.10.59.126:4022/udp/239.76.245.67:1234
-#EXTINF:-1 group-title="其他频道",CGTN英语
-http://175.10.59.126:4022/udp/239.76.245.67:1234
-#EXTINF:-1 group-title="其他频道",CGTN英语
-http://175.10.59.126:4022/udp/239.76.245.67:1234
-#EXTINF:-1 group-title="其他频道",CGTN英语高清
-http://175.10.59.126:4022/udp/239.76.252.66:9000
-#EXTINF:-1 group-title="其他频道",CGTN英语高清
-http://175.10.59.126:4022/udp/239.76.252.66:9000
-#EXTINF:-1 group-title="其他频道",CGTN英语高清
-http://175.10.59.126:4022/udp/239.76.252.66:9000
-#EXTINF:-1 group-title="其他频道",CGTN英语高清
-http://175.10.59.126:4022/udp/239.76.252.66:9000
-#EXTINF:-1 group-title="其他频道",CGTN英语高清
-http://175.10.59.126:4022/udp/239.76.252.66:9000
-#EXTINF:-1 group-title="其他频道",CGTN英语高清
-http://175.10.59.126:4022/udp/239.76.252.66:9000
-#EXTINF:-1 group-title="其他频道",CGTN英语高清
-http://175.10.59.126:4022/udp/239.76.252.66:9000
-#EXTINF:-1 group-title="其他频道",CGTN英语高清
-http://175.10.59.126:4022/udp/239.76.252.66:9000
-#EXTINF:-1 group-title="其他频道",CGTN英语高清
-http://175.10.59.126:4022/udp/239.76.252.66:9000
-#EXTINF:-1 group-title="其他频道",CGTN英语高清
-http://175.10.59.126:4022/udp/239.76.252.66:9000
-#EXTINF:-1 group-title="其他频道",CGTN西班牙语
-http://175.10.59.126:4022/udp/239.76.246.88:1234
-#EXTINF:-1 group-title="其他频道",CGTN西班牙语
-http://175.10.59.126:4022/udp/239.76.246.88:1234
-#EXTINF:-1 group-title="其他频道",CGTN西班牙语
-http://175.10.59.126:4022/udp/239.76.246.88:1234
-#EXTINF:-1 group-title="其他频道",CGTN西班牙语
-http://175.10.59.126:4022/udp/239.76.246.88:1234
-#EXTINF:-1 group-title="其他频道",CGTN西班牙语
-http://175.10.59.126:4022/udp/239.76.246.88:1234
-#EXTINF:-1 group-title="其他频道",CGTN西班牙语
-http://175.10.59.126:4022/udp/239.76.246.88:1234
-#EXTINF:-1 group-title="其他频道",CGTN西班牙语
-http://175.10.59.126:4022/udp/239.76.246.88:1234
-#EXTINF:-1 group-title="其他频道",CGTN西班牙语
-http://175.10.59.126:4022/udp/239.76.246.88:1234
-#EXTINF:-1 group-title="其他频道",CGTN西班牙语
-http://175.10.59.126:4022/udp/239.76.246.88:1234
-#EXTINF:-1 group-title="其他频道",CGTN西班牙语
-http://175.10.59.126:4022/udp/239.76.246.88:1234
-#EXTINF:-1 group-title="其他频道",CGTN记录
-http://175.10.59.126:4022/udp/239.76.245.66:1234
-#EXTINF:-1 group-title="其他频道",CGTN记录
-http://175.10.59.126:4022/udp/239.76.245.66:1234
-#EXTINF:-1 group-title="其他频道",CGTN记录
-http://175.10.59.126:4022/udp/239.76.245.66:1234
-#EXTINF:-1 group-title="其他频道",CGTN记录
-http://175.10.59.126:4022/udp/239.76.245.66:1234
-#EXTINF:-1 group-title="其他频道",CGTN记录
-http://175.10.59.126:4022/udp/239.76.245.66:1234
-#EXTINF:-1 group-title="其他频道",CGTN记录
-http://175.10.59.126:4022/udp/239.76.245.66:1234
-#EXTINF:-1 group-title="其他频道",CGTN记录
-http://175.10.59.126:4022/udp/239.76.245.66:1234
-#EXTINF:-1 group-title="其他频道",CGTN记录
-http://175.10.59.126:4022/udp/239.76.245.66:1234
-#EXTINF:-1 group-title="其他频道",CGTN记录
-http://175.10.59.126:4022/udp/239.76.245.66:1234
-#EXTINF:-1 group-title="其他频道",CGTN记录
-http://175.10.59.126:4022/udp/239.76.245.66:1234
-#EXTINF:-1 group-title="其他频道",CGTN阿拉伯语
-http://175.10.59.126:4022/udp/239.76.246.97:1234
-#EXTINF:-1 group-title="其他频道",CGTN阿拉伯语
-http://175.10.59.126:4022/udp/239.76.246.97:1234
-#EXTINF:-1 group-title="其他频道",CGTN阿拉伯语
-http://175.10.59.126:4022/udp/239.76.246.97:1234
-#EXTINF:-1 group-title="其他频道",CGTN阿拉伯语
-http://175.10.59.126:4022/udp/239.76.246.97:1234
-#EXTINF:-1 group-title="其他频道",CGTN阿拉伯语
-http://175.10.59.126:4022/udp/239.76.246.97:1234
-#EXTINF:-1 group-title="其他频道",CGTN阿拉伯语
-http://175.10.59.126:4022/udp/239.76.246.97:1234
-#EXTINF:-1 group-title="其他频道",CGTN阿拉伯语
-http://175.10.59.126:4022/udp/239.76.246.97:1234
-#EXTINF:-1 group-title="其他频道",CGTN阿拉伯语
-http://175.10.59.126:4022/udp/239.76.246.97:1234
-#EXTINF:-1 group-title="其他频道",CGTN阿拉伯语
-http://175.10.59.126:4022/udp/239.76.246.97:1234
-#EXTINF:-1 group-title="其他频道",CGTN阿拉伯语
-http://175.10.59.126:4022/udp/239.76.246.97:1234
-#EXTINF:-1 group-title="其他频道",CHC动作电影
-http://175.10.59.126:4022/udp/239.76.245.243:1234
-#EXTINF:-1 group-title="其他频道",CHC动作电影
-http://175.10.59.126:4022/udp/239.76.245.243:1234
-#EXTINF:-1 group-title="其他频道",CHC动作电影
-http://175.10.59.126:4022/udp/239.76.245.243:1234
-#EXTINF:-1 group-title="其他频道",CHC动作电影
-http://175.10.59.126:4022/udp/239.76.245.243:1234
-#EXTINF:-1 group-title="其他频道",CHC动作电影
-http://175.10.59.126:4022/udp/239.76.245.243:1234
-#EXTINF:-1 group-title="其他频道",CHC动作电影
-http://175.10.59.126:4022/udp/239.76.245.243:1234
-#EXTINF:-1 group-title="其他频道",CHC动作电影
-http://175.10.59.126:4022/udp/239.76.245.243:1234
-#EXTINF:-1 group-title="其他频道",CHC动作电影
-http://175.10.59.126:4022/udp/239.76.245.243:1234
-#EXTINF:-1 group-title="其他频道",CHC动作电影
-http://175.10.59.126:4022/udp/239.76.245.243:1234
-#EXTINF:-1 group-title="其他频道",CHC动作电影
-http://175.10.59.126:4022/udp/239.76.245.243:1234
-#EXTINF:-1 group-title="其他频道",CHC家庭影院
-http://175.10.59.126:4022/udp/239.76.245.241:1234
-#EXTINF:-1 group-title="其他频道",CHC家庭影院
-http://175.10.59.126:4022/udp/239.76.245.241:1234
-#EXTINF:-1 group-title="其他频道",CHC家庭影院
-http://175.10.59.126:4022/udp/239.76.245.241:1234
-#EXTINF:-1 group-title="其他频道",CHC家庭影院
-http://175.10.59.126:4022/udp/239.76.245.241:1234
-#EXTINF:-1 group-title="其他频道",CHC家庭影院
-http://175.10.59.126:4022/udp/239.76.245.241:1234
-#EXTINF:-1 group-title="其他频道",CHC家庭影院
-http://175.10.59.126:4022/udp/239.76.245.241:1234
-#EXTINF:-1 group-title="其他频道",CHC家庭影院
-http://175.10.59.126:4022/udp/239.76.245.241:1234
-#EXTINF:-1 group-title="其他频道",CHC家庭影院
-http://175.10.59.126:4022/udp/239.76.245.241:1234
-#EXTINF:-1 group-title="其他频道",CHC家庭影院
-http://175.10.59.126:4022/udp/239.76.245.241:1234
-#EXTINF:-1 group-title="其他频道",CHC家庭影院
-http://175.10.59.126:4022/udp/239.76.245.241:1234
-#EXTINF:-1 group-title="其他频道",CHC高清电影
-http://175.10.59.126:4022/udp/239.76.245.242:1234
-#EXTINF:-1 group-title="其他频道",CHC高清电影
-http://175.10.59.126:4022/udp/239.76.245.242:1234
-#EXTINF:-1 group-title="其他频道",CHC高清电影
-http://175.10.59.126:4022/udp/239.76.245.242:1234
-#EXTINF:-1 group-title="其他频道",CHC高清电影
-http://175.10.59.126:4022/udp/239.76.245.242:1234
-#EXTINF:-1 group-title="其他频道",CHC高清电影
-http://175.10.59.126:4022/udp/239.76.245.242:1234
-#EXTINF:-1 group-title="其他频道",CHC高清电影
-http://175.10.59.126:4022/udp/239.76.245.242:1234
-#EXTINF:-1 group-title="其他频道",CHC高清电影
-http://175.10.59.126:4022/udp/239.76.245.242:1234
-#EXTINF:-1 group-title="其他频道",CHC高清电影
-http://175.10.59.126:4022/udp/239.76.245.242:1234
-#EXTINF:-1 group-title="其他频道",CHC高清电影
-http://175.10.59.126:4022/udp/239.76.245.242:1234
-#EXTINF:-1 group-title="其他频道",CHC高清电影
-http://175.10.59.126:4022/udp/239.76.245.242:1234
-#EXTINF:-1 group-title="其他频道",IPTV健康之路
-http://175.10.59.126:4022/udp/239.76.246.42:1234
-#EXTINF:-1 group-title="其他频道",IPTV健康之路
-http://175.10.59.126:4022/udp/239.76.246.42:1234
-#EXTINF:-1 group-title="其他频道",IPTV健康之路
-http://175.10.59.126:4022/udp/239.76.246.42:1234
-#EXTINF:-1 group-title="其他频道",IPTV健康之路
-http://175.10.59.126:4022/udp/239.76.246.42:1234
-#EXTINF:-1 group-title="其他频道",IPTV健康之路
-http://175.10.59.126:4022/udp/239.76.246.42:1234
-#EXTINF:-1 group-title="其他频道",IPTV健康之路
-http://175.10.59.126:4022/udp/239.76.246.42:1234
-#EXTINF:-1 group-title="其他频道",IPTV健康之路
-http://175.10.59.126:4022/udp/239.76.246.42:1234
-#EXTINF:-1 group-title="其他频道",IPTV健康之路
-http://175.10.59.126:4022/udp/239.76.246.42:1234
-#EXTINF:-1 group-title="其他频道",IPTV健康之路
-http://175.10.59.126:4022/udp/239.76.246.42:1234
-#EXTINF:-1 group-title="其他频道",IPTV健康之路
-http://175.10.59.126:4022/udp/239.76.246.42:1234
-#EXTINF:-1 group-title="其他频道",IPTV古装剧场
-http://175.10.59.126:4022/udp/239.76.245.219:1234
-#EXTINF:-1 group-title="其他频道",IPTV古装剧场
-http://175.10.59.126:4022/udp/239.76.245.219:1234
-#EXTINF:-1 group-title="其他频道",IPTV古装剧场
-http://175.10.59.126:4022/udp/239.76.245.219:1234
-#EXTINF:-1 group-title="其他频道",IPTV古装剧场
-http://175.10.59.126:4022/udp/239.76.245.219:1234
-#EXTINF:-1 group-title="其他频道",IPTV古装剧场
-http://175.10.59.126:4022/udp/239.76.245.219:1234
-#EXTINF:-1 group-title="其他频道",IPTV古装剧场
-http://175.10.59.126:4022/udp/239.76.245.219:1234
-#EXTINF:-1 group-title="其他频道",IPTV古装剧场
-http://175.10.59.126:4022/udp/239.76.245.219:1234
-#EXTINF:-1 group-title="其他频道",IPTV古装剧场
-http://175.10.59.126:4022/udp/239.76.245.219:1234
-#EXTINF:-1 group-title="其他频道",IPTV古装剧场
-http://175.10.59.126:4022/udp/239.76.245.219:1234
-#EXTINF:-1 group-title="其他频道",IPTV古装剧场
-http://175.10.59.126:4022/udp/239.76.245.219:1234
-#EXTINF:-1 group-title="其他频道",IPTV家庭剧场
-http://175.10.59.126:4022/udp/239.76.245.220:1234
-#EXTINF:-1 group-title="其他频道",IPTV家庭剧场
-http://175.10.59.126:4022/udp/239.76.245.220:1234
-#EXTINF:-1 group-title="其他频道",IPTV家庭剧场
-http://175.10.59.126:4022/udp/239.76.245.220:1234
-#EXTINF:-1 group-title="其他频道",IPTV家庭剧场
-http://175.10.59.126:4022/udp/239.76.245.220:1234
-#EXTINF:-1 group-title="其他频道",IPTV家庭剧场
-http://175.10.59.126:4022/udp/239.76.245.220:1234
-#EXTINF:-1 group-title="其他频道",IPTV家庭剧场
-http://175.10.59.126:4022/udp/239.76.245.220:1234
-#EXTINF:-1 group-title="其他频道",IPTV家庭剧场
-http://175.10.59.126:4022/udp/239.76.245.220:1234
-#EXTINF:-1 group-title="其他频道",IPTV家庭剧场
-http://175.10.59.126:4022/udp/239.76.245.220:1234
-#EXTINF:-1 group-title="其他频道",IPTV家庭剧场
-http://175.10.59.126:4022/udp/239.76.245.220:1234
-#EXTINF:-1 group-title="其他频道",IPTV家庭剧场
-http://175.10.59.126:4022/udp/239.76.245.220:1234
-#EXTINF:-1 group-title="其他频道",IPTV广场舞
-http://175.10.59.126:4022/udp/239.76.245.134:1234
-#EXTINF:-1 group-title="其他频道",IPTV广场舞
-http://175.10.59.126:4022/udp/239.76.245.134:1234
-#EXTINF:-1 group-title="其他频道",IPTV广场舞
-http://175.10.59.126:4022/udp/239.76.245.134:1234
-#EXTINF:-1 group-title="其他频道",IPTV广场舞
-http://175.10.59.126:4022/udp/239.76.245.134:1234
-#EXTINF:-1 group-title="其他频道",IPTV广场舞
-http://175.10.59.126:4022/udp/239.76.245.134:1234
-#EXTINF:-1 group-title="其他频道",IPTV广场舞
-http://175.10.59.126:4022/udp/239.76.245.134:1234
-#EXTINF:-1 group-title="其他频道",IPTV广场舞
-http://175.10.59.126:4022/udp/239.76.245.134:1234
-#EXTINF:-1 group-title="其他频道",IPTV广场舞
-http://175.10.59.126:4022/udp/239.76.245.134:1234
-#EXTINF:-1 group-title="其他频道",IPTV广场舞
-http://175.10.59.126:4022/udp/239.76.245.134:1234
-#EXTINF:-1 group-title="其他频道",IPTV广场舞
-http://175.10.59.126:4022/udp/239.76.245.134:1234
-#EXTINF:-1 group-title="其他频道",IPTV戏剧
-http://175.10.59.126:4022/udp/239.76.253.40:9000
-#EXTINF:-1 group-title="其他频道",IPTV戏剧
-http://175.10.59.126:4022/udp/239.76.253.40:9000
-#EXTINF:-1 group-title="其他频道",IPTV戏剧
-http://175.10.59.126:4022/udp/239.76.253.40:9000
-#EXTINF:-1 group-title="其他频道",IPTV戏剧
-http://175.10.59.126:4022/udp/239.76.253.40:9000
-#EXTINF:-1 group-title="其他频道",IPTV戏剧
-http://175.10.59.126:4022/udp/239.76.253.40:9000
-#EXTINF:-1 group-title="其他频道",IPTV戏剧
-http://175.10.59.126:4022/udp/239.76.253.40:9000
-#EXTINF:-1 group-title="其他频道",IPTV戏剧
-http://175.10.59.126:4022/udp/239.76.253.40:9000
-#EXTINF:-1 group-title="其他频道",IPTV戏剧
-http://175.10.59.126:4022/udp/239.76.253.40:9000
-#EXTINF:-1 group-title="其他频道",IPTV戏剧
-http://175.10.59.126:4022/udp/239.76.253.40:9000
-#EXTINF:-1 group-title="其他频道",IPTV戏剧
-http://175.10.59.126:4022/udp/239.76.253.40:9000
-#EXTINF:-1 group-title="其他频道",IPTV戏曲频道
-http://175.10.59.126:4022/udp/239.76.246.40:1234
-#EXTINF:-1 group-title="其他频道",IPTV戏曲频道
-http://175.10.59.126:4022/udp/239.76.246.40:1234
-#EXTINF:-1 group-title="其他频道",IPTV戏曲频道
-http://175.10.59.126:4022/udp/239.76.246.40:1234
-#EXTINF:-1 group-title="其他频道",IPTV戏曲频道
-http://175.10.59.126:4022/udp/239.76.246.40:1234
-#EXTINF:-1 group-title="其他频道",IPTV戏曲频道
-http://175.10.59.126:4022/udp/239.76.246.40:1234
-#EXTINF:-1 group-title="其他频道",IPTV戏曲频道
-http://175.10.59.126:4022/udp/239.76.246.40:1234
-#EXTINF:-1 group-title="其他频道",IPTV戏曲频道
-http://175.10.59.126:4022/udp/239.76.246.40:1234
-#EXTINF:-1 group-title="其他频道",IPTV戏曲频道
-http://175.10.59.126:4022/udp/239.76.246.40:1234
-#EXTINF:-1 group-title="其他频道",IPTV戏曲频道
-http://175.10.59.126:4022/udp/239.76.246.40:1234
-#EXTINF:-1 group-title="其他频道",IPTV戏曲频道
-http://175.10.59.126:4022/udp/239.76.246.40:1234
-#EXTINF:-1 group-title="其他频道",IPTV抗战剧场
-http://175.10.59.126:4022/udp/239.76.245.218:1234
-#EXTINF:-1 group-title="其他频道",IPTV抗战剧场
-http://175.10.59.126:4022/udp/239.76.245.218:1234
-#EXTINF:-1 group-title="其他频道",IPTV抗战剧场
-http://175.10.59.126:4022/udp/239.76.245.218:1234
-#EXTINF:-1 group-title="其他频道",IPTV抗战剧场
-http://175.10.59.126:4022/udp/239.76.245.218:1234
-#EXTINF:-1 group-title="其他频道",IPTV抗战剧场
-http://175.10.59.126:4022/udp/239.76.245.218:1234
-#EXTINF:-1 group-title="其他频道",IPTV抗战剧场
-http://175.10.59.126:4022/udp/239.76.245.218:1234
-#EXTINF:-1 group-title="其他频道",IPTV抗战剧场
-http://175.10.59.126:4022/udp/239.76.245.218:1234
-#EXTINF:-1 group-title="其他频道",IPTV抗战剧场
-http://175.10.59.126:4022/udp/239.76.245.218:1234
-#EXTINF:-1 group-title="其他频道",IPTV抗战剧场
-http://175.10.59.126:4022/udp/239.76.245.218:1234
-#EXTINF:-1 group-title="其他频道",IPTV抗战剧场
-http://175.10.59.126:4022/udp/239.76.245.218:1234
-#EXTINF:-1 group-title="其他频道",IPTV搞笑动画
-http://175.10.59.126:4022/udp/239.76.254.207:9000
-#EXTINF:-1 group-title="其他频道",IPTV搞笑动画
-http://175.10.59.126:4022/udp/239.76.254.207:9000
-#EXTINF:-1 group-title="其他频道",IPTV搞笑动画
-http://175.10.59.126:4022/udp/239.76.254.207:9000
-#EXTINF:-1 group-title="其他频道",IPTV搞笑动画
-http://175.10.59.126:4022/udp/239.76.254.207:9000
-#EXTINF:-1 group-title="其他频道",IPTV搞笑动画
-http://175.10.59.126:4022/udp/239.76.254.207:9000
-#EXTINF:-1 group-title="其他频道",IPTV搞笑动画
-http://175.10.59.126:4022/udp/239.76.254.207:9000
-#EXTINF:-1 group-title="其他频道",IPTV搞笑动画
-http://175.10.59.126:4022/udp/239.76.254.207:9000
-#EXTINF:-1 group-title="其他频道",IPTV搞笑动画
-http://175.10.59.126:4022/udp/239.76.254.207:9000
-#EXTINF:-1 group-title="其他频道",IPTV搞笑动画
-http://175.10.59.126:4022/udp/239.76.254.207:9000
-#EXTINF:-1 group-title="其他频道",IPTV搞笑动画
-http://175.10.59.126:4022/udp/239.76.254.207:9000
-#EXTINF:-1 group-title="其他频道",IPTV故事
-http://175.10.59.126:4022/udp/239.76.253.41:9000
-#EXTINF:-1 group-title="其他频道",IPTV故事
-http://175.10.59.126:4022/udp/239.76.253.41:9000
-#EXTINF:-1 group-title="其他频道",IPTV故事
-http://175.10.59.126:4022/udp/239.76.253.41:9000
-#EXTINF:-1 group-title="其他频道",IPTV故事
-http://175.10.59.126:4022/udp/239.76.253.41:9000
-#EXTINF:-1 group-title="其他频道",IPTV故事
-http://175.10.59.126:4022/udp/239.76.253.41:9000
-#EXTINF:-1 group-title="其他频道",IPTV故事
-http://175.10.59.126:4022/udp/239.76.253.41:9000
-#EXTINF:-1 group-title="其他频道",IPTV故事
-http://175.10.59.126:4022/udp/239.76.253.41:9000
-#EXTINF:-1 group-title="其他频道",IPTV故事
-http://175.10.59.126:4022/udp/239.76.253.41:9000
-#EXTINF:-1 group-title="其他频道",IPTV故事
-http://175.10.59.126:4022/udp/239.76.253.41:9000
-#EXTINF:-1 group-title="其他频道",IPTV故事
-http://175.10.59.126:4022/udp/239.76.253.41:9000
-#EXTINF:-1 group-title="其他频道",IPTV故事频道
-http://175.10.59.126:4022/udp/239.76.246.41:1234
-#EXTINF:-1 group-title="其他频道",IPTV故事频道
-http://175.10.59.126:4022/udp/239.76.246.41:1234
-#EXTINF:-1 group-title="其他频道",IPTV故事频道
-http://175.10.59.126:4022/udp/239.76.246.41:1234
-#EXTINF:-1 group-title="其他频道",IPTV故事频道
-http://175.10.59.126:4022/udp/239.76.246.41:1234
-#EXTINF:-1 group-title="其他频道",IPTV故事频道
-http://175.10.59.126:4022/udp/239.76.246.41:1234
-#EXTINF:-1 group-title="其他频道",IPTV故事频道
-http://175.10.59.126:4022/udp/239.76.246.41:1234
-#EXTINF:-1 group-title="其他频道",IPTV故事频道
-http://175.10.59.126:4022/udp/239.76.246.41:1234
-#EXTINF:-1 group-title="其他频道",IPTV故事频道
-http://175.10.59.126:4022/udp/239.76.246.41:1234
-#EXTINF:-1 group-title="其他频道",IPTV故事频道
-http://175.10.59.126:4022/udp/239.76.246.41:1234
-#EXTINF:-1 group-title="其他频道",IPTV故事频道
-http://175.10.59.126:4022/udp/239.76.253.41:9000
-#EXTINF:-1 group-title="其他频道",IPTV甜宠剧场
-http://175.10.59.126:4022/udp/239.76.254.109:9000
-#EXTINF:-1 group-title="其他频道",IPTV甜宠剧场
-http://175.10.59.126:4022/udp/239.76.254.109:9000
-#EXTINF:-1 group-title="其他频道",IPTV甜宠剧场
-http://175.10.59.126:4022/udp/239.76.254.109:9000
-#EXTINF:-1 group-title="其他频道",IPTV甜宠剧场
-http://175.10.59.126:4022/udp/239.76.254.109:9000
-#EXTINF:-1 group-title="其他频道",IPTV甜宠剧场
-http://175.10.59.126:4022/udp/239.76.254.109:9000
-#EXTINF:-1 group-title="其他频道",IPTV甜宠剧场
-http://175.10.59.126:4022/udp/239.76.254.109:9000
-#EXTINF:-1 group-title="其他频道",IPTV甜宠剧场
-http://175.10.59.126:4022/udp/239.76.254.109:9000
-#EXTINF:-1 group-title="其他频道",IPTV甜宠剧场
-http://175.10.59.126:4022/udp/239.76.254.109:9000
-#EXTINF:-1 group-title="其他频道",IPTV甜宠剧场
-http://175.10.59.126:4022/udp/239.76.254.109:9000
-#EXTINF:-1 group-title="其他频道",IPTV甜宠剧场
-http://175.10.59.126:4022/udp/239.76.254.109:9000
-#EXTINF:-1 group-title="其他频道",IPTV电竞
-http://175.10.59.126:4022/udp/239.76.245.136:1234
-#EXTINF:-1 group-title="其他频道",IPTV电竞
-http://175.10.59.126:4022/udp/239.76.245.136:1234
-#EXTINF:-1 group-title="其他频道",IPTV电竞
-http://175.10.59.126:4022/udp/239.76.245.136:1234
-#EXTINF:-1 group-title="其他频道",IPTV电竞
-http://175.10.59.126:4022/udp/239.76.245.136:1234
-#EXTINF:-1 group-title="其他频道",IPTV电竞
-http://175.10.59.126:4022/udp/239.76.245.136:1234
-#EXTINF:-1 group-title="其他频道",IPTV电竞
-http://175.10.59.126:4022/udp/239.76.245.136:1234
-#EXTINF:-1 group-title="其他频道",IPTV电竞
-http://175.10.59.126:4022/udp/239.76.245.136:1234
-#EXTINF:-1 group-title="其他频道",IPTV电竞
-http://175.10.59.126:4022/udp/239.76.245.136:1234
-#EXTINF:-1 group-title="其他频道",IPTV电竞
-http://175.10.59.126:4022/udp/239.76.245.136:1234
-#EXTINF:-1 group-title="其他频道",IPTV电竞
-http://175.10.59.126:4022/udp/239.76.245.136:1234
-#EXTINF:-1 group-title="其他频道",IPTV精选热播
-http://175.10.59.126:4022/udp/239.76.254.110:9000
-#EXTINF:-1 group-title="其他频道",IPTV精选热播
-http://175.10.59.126:4022/udp/239.76.254.110:9000
-#EXTINF:-1 group-title="其他频道",IPTV精选热播
-http://175.10.59.126:4022/udp/239.76.254.110:9000
-#EXTINF:-1 group-title="其他频道",IPTV精选热播
-http://175.10.59.126:4022/udp/239.76.254.110:9000
-#EXTINF:-1 group-title="其他频道",IPTV精选热播
-http://175.10.59.126:4022/udp/239.76.254.110:9000
-#EXTINF:-1 group-title="其他频道",IPTV精选热播
-http://175.10.59.126:4022/udp/239.76.254.110:9000
-#EXTINF:-1 group-title="其他频道",IPTV精选热播
-http://175.10.59.126:4022/udp/239.76.254.110:9000
-#EXTINF:-1 group-title="其他频道",IPTV精选热播
-http://175.10.59.126:4022/udp/239.76.254.110:9000
-#EXTINF:-1 group-title="其他频道",IPTV精选热播
-http://175.10.59.126:4022/udp/239.76.254.110:9000
-#EXTINF:-1 group-title="其他频道",IPTV精选热播
-http://175.10.59.126:4022/udp/239.76.254.110:9000
-#EXTINF:-1 group-title="其他频道",IPTV经典剧场
-http://175.10.59.126:4022/udp/239.76.245.221:1234
-#EXTINF:-1 group-title="其他频道",IPTV经典剧场
-http://175.10.59.126:4022/udp/239.76.245.221:1234
-#EXTINF:-1 group-title="其他频道",IPTV经典剧场
-http://175.10.59.126:4022/udp/239.76.245.221:1234
-#EXTINF:-1 group-title="其他频道",IPTV经典剧场
-http://175.10.59.126:4022/udp/239.76.245.221:1234
-#EXTINF:-1 group-title="其他频道",IPTV经典剧场
-http://175.10.59.126:4022/udp/239.76.245.221:1234
-#EXTINF:-1 group-title="其他频道",IPTV经典剧场
-http://175.10.59.126:4022/udp/239.76.245.221:1234
-#EXTINF:-1 group-title="其他频道",IPTV经典剧场
-http://175.10.59.126:4022/udp/239.76.245.221:1234
-#EXTINF:-1 group-title="其他频道",IPTV经典剧场
-http://175.10.59.126:4022/udp/239.76.245.221:1234
-#EXTINF:-1 group-title="其他频道",IPTV经典剧场
-http://175.10.59.126:4022/udp/239.76.245.221:1234
-#EXTINF:-1 group-title="其他频道",IPTV经典剧场
-http://175.10.59.126:4022/udp/239.76.245.221:1234
-#EXTINF:-1 group-title="其他频道",IPTV综艺纪实
-http://175.10.59.126:4022/udp/239.76.254.111:9000
-#EXTINF:-1 group-title="其他频道",IPTV综艺纪实
-http://175.10.59.126:4022/udp/239.76.254.111:9000
-#EXTINF:-1 group-title="其他频道",IPTV综艺纪实
-http://175.10.59.126:4022/udp/239.76.254.111:9000
-#EXTINF:-1 group-title="其他频道",IPTV综艺纪实
-http://175.10.59.126:4022/udp/239.76.254.111:9000
-#EXTINF:-1 group-title="其他频道",IPTV综艺纪实
-http://175.10.59.126:4022/udp/239.76.254.111:9000
-#EXTINF:-1 group-title="其他频道",IPTV综艺纪实
-http://175.10.59.126:4022/udp/239.76.254.111:9000
-#EXTINF:-1 group-title="其他频道",IPTV综艺纪实
-http://175.10.59.126:4022/udp/239.76.254.111:9000
-#EXTINF:-1 group-title="其他频道",IPTV综艺纪实
-http://175.10.59.126:4022/udp/239.76.254.111:9000
-#EXTINF:-1 group-title="其他频道",IPTV综艺纪实
-http://175.10.59.126:4022/udp/239.76.254.111:9000
-#EXTINF:-1 group-title="其他频道",IPTV综艺纪实
-http://175.10.59.126:4022/udp/239.76.254.111:9000
-#EXTINF:-1 group-title="其他频道",IPTV芒果
-http://175.10.59.126:4022/udp/239.76.246.126:1234
-#EXTINF:-1 group-title="其他频道",IPTV芒果
-http://175.10.59.126:4022/udp/239.76.246.126:1234
-#EXTINF:-1 group-title="其他频道",IPTV芒果
-http://175.10.59.126:4022/udp/239.76.246.126:1234
-#EXTINF:-1 group-title="其他频道",IPTV芒果
-http://175.10.59.126:4022/udp/239.76.246.126:1234
-#EXTINF:-1 group-title="其他频道",IPTV芒果
-http://175.10.59.126:4022/udp/239.76.246.126:1234
-#EXTINF:-1 group-title="其他频道",IPTV芒果
-http://175.10.59.126:4022/udp/239.76.246.126:1234
-#EXTINF:-1 group-title="其他频道",IPTV芒果
-http://175.10.59.126:4022/udp/239.76.246.126:1234
-#EXTINF:-1 group-title="其他频道",IPTV芒果
-http://175.10.59.126:4022/udp/239.76.246.126:1234
-#EXTINF:-1 group-title="其他频道",IPTV芒果
-http://175.10.59.126:4022/udp/239.76.246.126:1234
-#EXTINF:-1 group-title="其他频道",IPTV芒果
-http://175.10.59.126:4022/udp/239.76.246.126:1234
-#EXTINF:-1 group-title="其他频道",IPTV芒果互娱
-http://175.10.59.126:4022/udp/239.76.253.126:9000
-#EXTINF:-1 group-title="其他频道",IPTV芒果互娱
-http://175.10.59.126:4022/udp/239.76.253.126:9000
-#EXTINF:-1 group-title="其他频道",IPTV芒果互娱
-http://175.10.59.126:4022/udp/239.76.253.126:9000
-#EXTINF:-1 group-title="其他频道",IPTV芒果互娱
-http://175.10.59.126:4022/udp/239.76.253.126:9000
-#EXTINF:-1 group-title="其他频道",IPTV芒果互娱
-http://175.10.59.126:4022/udp/239.76.253.126:9000
-#EXTINF:-1 group-title="其他频道",IPTV芒果互娱
-http://175.10.59.126:4022/udp/239.76.253.126:9000
-#EXTINF:-1 group-title="其他频道",IPTV芒果互娱
-http://175.10.59.126:4022/udp/239.76.253.126:9000
-#EXTINF:-1 group-title="其他频道",IPTV芒果互娱
-http://175.10.59.126:4022/udp/239.76.253.126:9000
-#EXTINF:-1 group-title="其他频道",IPTV芒果互娱
-http://175.10.59.126:4022/udp/239.76.253.126:9000
-#EXTINF:-1 group-title="其他频道",IPTV芒果互娱
-http://175.10.59.126:4022/udp/239.76.253.126:9000
-#EXTINF:-1 group-title="其他频道",IPTV高清院线
-http://175.10.59.126:4022/udp/239.76.245.217:1234
-#EXTINF:-1 group-title="其他频道",IPTV高清院线
-http://175.10.59.126:4022/udp/239.76.245.217:1234
-#EXTINF:-1 group-title="其他频道",IPTV高清院线
-http://175.10.59.126:4022/udp/239.76.245.217:1234
-#EXTINF:-1 group-title="其他频道",IPTV高清院线
-http://175.10.59.126:4022/udp/239.76.245.217:1234
-#EXTINF:-1 group-title="其他频道",IPTV高清院线
-http://175.10.59.126:4022/udp/239.76.245.217:1234
-#EXTINF:-1 group-title="其他频道",IPTV高清院线
-http://175.10.59.126:4022/udp/239.76.245.217:1234
-#EXTINF:-1 group-title="其他频道",IPTV高清院线
-http://175.10.59.126:4022/udp/239.76.245.217:1234
-#EXTINF:-1 group-title="其他频道",IPTV高清院线
-http://175.10.59.126:4022/udp/239.76.245.217:1234
-#EXTINF:-1 group-title="其他频道",IPTV高清院线
-http://175.10.59.126:4022/udp/239.76.245.217:1234
-#EXTINF:-1 group-title="其他频道",IPTV高清院线
-http://175.10.59.126:4022/udp/239.76.245.217:1234
-#EXTINF:-1 group-title="其他频道",LDETV
-http://175.10.59.126:4022/udp/239.76.248.20:1234
-#EXTINF:-1 group-title="其他频道",LDETV
-http://175.10.59.126:4022/udp/239.76.248.20:1234
-#EXTINF:-1 group-title="其他频道",LDETV
-http://175.10.59.126:4022/udp/239.76.248.20:1234
-#EXTINF:-1 group-title="其他频道",LDETV
-http://175.10.59.126:4022/udp/239.76.248.20:1234
-#EXTINF:-1 group-title="其他频道",LDETV
-http://175.10.59.126:4022/udp/239.76.248.20:1234
-#EXTINF:-1 group-title="其他频道",LDETV
-http://175.10.59.126:4022/udp/239.76.248.20:1234
-#EXTINF:-1 group-title="其他频道",LDETV
-http://175.10.59.126:4022/udp/239.76.248.20:1234
-#EXTINF:-1 group-title="其他频道",LDETV
-http://175.10.59.126:4022/udp/239.76.248.20:1234
-#EXTINF:-1 group-title="其他频道",LDETV
-http://175.10.59.126:4022/udp/239.76.248.20:1234
-#EXTINF:-1 group-title="其他频道",LDETV
-http://175.10.59.126:4022/udp/239.76.248.20:1234
-#EXTINF:-1 group-title="其他频道",XNXTV
-http://175.10.59.126:4022/udp/239.76.248.21:1234
-#EXTINF:-1 group-title="其他频道",XNXTV
-http://175.10.59.126:4022/udp/239.76.248.21:1234
-#EXTINF:-1 group-title="其他频道",XNXTV
-http://175.10.59.126:4022/udp/239.76.248.21:1234
-#EXTINF:-1 group-title="其他频道",XNXTV
-http://175.10.59.126:4022/udp/239.76.248.21:1234
-#EXTINF:-1 group-title="其他频道",XNXTV
-http://175.10.59.126:4022/udp/239.76.248.21:1234
-#EXTINF:-1 group-title="其他频道",XNXTV
-http://175.10.59.126:4022/udp/239.76.248.21:1234
-#EXTINF:-1 group-title="其他频道",XNXTV
-http://175.10.59.126:4022/udp/239.76.248.21:1234
-#EXTINF:-1 group-title="其他频道",XNXTV
-http://175.10.59.126:4022/udp/239.76.248.21:1234
-#EXTINF:-1 group-title="其他频道",XNXTV
-http://175.10.59.126:4022/udp/239.76.248.21:1234
-#EXTINF:-1 group-title="其他频道",XNXTV
-http://175.10.59.126:4022/udp/239.76.248.21:1234
-#EXTINF:-1 group-title="其他频道",世界地理
-http://175.10.59.126:4022/udp/239.76.254.57:9000
-#EXTINF:-1 group-title="其他频道",世界地理
-http://175.10.59.126:4022/udp/239.76.254.57:9000
-#EXTINF:-1 group-title="其他频道",世界地理
-http://175.10.59.126:4022/udp/239.76.254.57:9000
-#EXTINF:-1 group-title="其他频道",世界地理
-http://175.10.59.126:4022/udp/239.76.254.57:9000
-#EXTINF:-1 group-title="其他频道",世界地理
-http://175.10.59.126:4022/udp/239.76.254.57:9000
-#EXTINF:-1 group-title="其他频道",世界地理
-http://175.10.59.126:4022/udp/239.76.254.57:9000
-#EXTINF:-1 group-title="其他频道",世界地理
-http://175.10.59.126:4022/udp/239.76.254.57:9000
-#EXTINF:-1 group-title="其他频道",世界地理
-http://175.10.59.126:4022/udp/239.76.254.57:9000
-#EXTINF:-1 group-title="其他频道",世界地理
-http://175.10.59.126:4022/udp/239.76.254.57:9000
-#EXTINF:-1 group-title="其他频道",世界地理
-http://175.10.59.126:4022/udp/239.76.254.57:9000
-#EXTINF:-1 group-title="其他频道",中国教育
-http://175.10.59.126:4022/udp/239.76.245.192:1234
-#EXTINF:-1 group-title="其他频道",中国教育
-http://175.10.59.126:4022/udp/239.76.245.192:1234
-#EXTINF:-1 group-title="其他频道",中国教育
-http://175.10.59.126:4022/udp/239.76.245.192:1234
-#EXTINF:-1 group-title="其他频道",中国教育
-http://175.10.59.126:4022/udp/239.76.245.192:1234
-#EXTINF:-1 group-title="其他频道",中国教育
-http://175.10.59.126:4022/udp/239.76.245.192:1234
-#EXTINF:-1 group-title="其他频道",中国教育
-http://175.10.59.126:4022/udp/239.76.245.192:1234
-#EXTINF:-1 group-title="其他频道",中国教育
-http://175.10.59.126:4022/udp/239.76.245.192:1234
-#EXTINF:-1 group-title="其他频道",中国教育
-http://175.10.59.126:4022/udp/239.76.245.192:1234
-#EXTINF:-1 group-title="其他频道",中国教育
-http://175.10.59.126:4022/udp/239.76.245.192:1234
-#EXTINF:-1 group-title="其他频道",中国教育
-http://175.10.59.126:4022/udp/239.76.245.192:1234
-#EXTINF:-1 group-title="其他频道",体育
-http://175.10.59.126:4022/udp/239.76.246.136:1234
-#EXTINF:-1 group-title="其他频道",体育
-http://175.10.59.126:4022/udp/239.76.246.136:1234
-#EXTINF:-1 group-title="其他频道",体育
-http://175.10.59.126:4022/udp/239.76.246.136:1234
-#EXTINF:-1 group-title="其他频道",体育
-http://175.10.59.126:4022/udp/239.76.246.136:1234
-#EXTINF:-1 group-title="其他频道",体育
-http://175.10.59.126:4022/udp/239.76.246.136:1234
-#EXTINF:-1 group-title="其他频道",体育
-http://175.10.59.126:4022/udp/239.76.246.136:1234
-#EXTINF:-1 group-title="其他频道",体育
-http://175.10.59.126:4022/udp/239.76.246.136:1234
-#EXTINF:-1 group-title="其他频道",体育
-http://175.10.59.126:4022/udp/239.76.246.136:1234
-#EXTINF:-1 group-title="其他频道",体育
-http://175.10.59.126:4022/udp/239.76.246.136:1234
-#EXTINF:-1 group-title="其他频道",体育
-http://175.10.59.126:4022/udp/239.76.246.136:1234
-#EXTINF:-1 group-title="其他频道",健康电视
-http://175.10.59.126:4022/udp/239.76.246.127:1234
-#EXTINF:-1 group-title="其他频道",健康电视
-http://175.10.59.126:4022/udp/239.76.246.127:1234
-#EXTINF:-1 group-title="其他频道",健康电视
-http://175.10.59.126:4022/udp/239.76.246.127:1234
-#EXTINF:-1 group-title="其他频道",健康电视
-http://175.10.59.126:4022/udp/239.76.246.127:1234
-#EXTINF:-1 group-title="其他频道",健康电视
-http://175.10.59.126:4022/udp/239.76.246.127:1234
-#EXTINF:-1 group-title="其他频道",健康电视
-http://175.10.59.126:4022/udp/239.76.246.127:1234
-#EXTINF:-1 group-title="其他频道",健康电视
-http://175.10.59.126:4022/udp/239.76.246.127:1234
-#EXTINF:-1 group-title="其他频道",健康电视
-http://175.10.59.126:4022/udp/239.76.246.127:1234
-#EXTINF:-1 group-title="其他频道",健康电视
-http://175.10.59.126:4022/udp/239.76.246.127:1234
-#EXTINF:-1 group-title="其他频道",健康电视
-http://175.10.59.126:4022/udp/239.76.246.127:1234
-#EXTINF:-1 group-title="其他频道",全纪实
-http://175.10.59.126:4022/udp/239.76.246.137:1234
-#EXTINF:-1 group-title="其他频道",全纪实
-http://175.10.59.126:4022/udp/239.76.246.137:1234
-#EXTINF:-1 group-title="其他频道",全纪实
-http://175.10.59.126:4022/udp/239.76.246.137:1234
-#EXTINF:-1 group-title="其他频道",全纪实
-http://175.10.59.126:4022/udp/239.76.246.137:1234
-#EXTINF:-1 group-title="其他频道",全纪实
-http://175.10.59.126:4022/udp/239.76.246.137:1234
-#EXTINF:-1 group-title="其他频道",全纪实
-http://175.10.59.126:4022/udp/239.76.246.137:1234
-#EXTINF:-1 group-title="其他频道",全纪实
-http://175.10.59.126:4022/udp/239.76.246.137:1234
-#EXTINF:-1 group-title="其他频道",全纪实
-http://175.10.59.126:4022/udp/239.76.246.137:1234
-#EXTINF:-1 group-title="其他频道",全纪实
-http://175.10.59.126:4022/udp/239.76.246.137:1234
-#EXTINF:-1 group-title="其他频道",全纪实
-http://175.10.59.126:4022/udp/239.76.246.137:1234
-#EXTINF:-1 group-title="其他频道",兵器科技
-http://175.10.59.126:4022/udp/239.76.254.59:9000
-#EXTINF:-1 group-title="其他频道",兵器科技
-http://175.10.59.126:4022/udp/239.76.254.59:9000
-#EXTINF:-1 group-title="其他频道",兵器科技
-http://175.10.59.126:4022/udp/239.76.254.59:9000
-#EXTINF:-1 group-title="其他频道",兵器科技
-http://175.10.59.126:4022/udp/239.76.254.59:9000
-#EXTINF:-1 group-title="其他频道",兵器科技
-http://175.10.59.126:4022/udp/239.76.254.59:9000
-#EXTINF:-1 group-title="其他频道",兵器科技
-http://175.10.59.126:4022/udp/239.76.254.59:9000
-#EXTINF:-1 group-title="其他频道",兵器科技
-http://175.10.59.126:4022/udp/239.76.254.59:9000
-#EXTINF:-1 group-title="其他频道",兵器科技
-http://175.10.59.126:4022/udp/239.76.254.59:9000
-#EXTINF:-1 group-title="其他频道",兵器科技
-http://175.10.59.126:4022/udp/239.76.254.59:9000
-#EXTINF:-1 group-title="其他频道",兵器科技
-http://175.10.59.126:4022/udp/239.76.254.59:9000
-#EXTINF:-1 group-title="其他频道",动漫秀场
-http://175.10.59.126:4022/udp/239.76.246.131:1234
-#EXTINF:-1 group-title="其他频道",动漫秀场
-http://175.10.59.126:4022/udp/239.76.246.131:1234
-#EXTINF:-1 group-title="其他频道",动漫秀场
-http://175.10.59.126:4022/udp/239.76.246.131:1234
-#EXTINF:-1 group-title="其他频道",动漫秀场
-http://175.10.59.126:4022/udp/239.76.246.131:1234
-#EXTINF:-1 group-title="其他频道",动漫秀场
-http://175.10.59.126:4022/udp/239.76.246.131:1234
-#EXTINF:-1 group-title="其他频道",动漫秀场
-http://175.10.59.126:4022/udp/239.76.246.131:1234
-#EXTINF:-1 group-title="其他频道",动漫秀场
-http://175.10.59.126:4022/udp/239.76.246.131:1234
-#EXTINF:-1 group-title="其他频道",动漫秀场
-http://175.10.59.126:4022/udp/239.76.246.131:1234
-#EXTINF:-1 group-title="其他频道",动漫秀场
-http://175.10.59.126:4022/udp/239.76.253.131:9000
-#EXTINF:-1 group-title="其他频道",动漫秀场
-http://175.10.59.126:4022/udp/239.76.246.131:1234
-#EXTINF:-1 group-title="其他频道",北京少儿
-http://175.10.59.126:4022/udp/239.76.254.81:9000
-#EXTINF:-1 group-title="其他频道",北京少儿
-http://175.10.59.126:4022/udp/239.76.254.81:9000
-#EXTINF:-1 group-title="其他频道",北京少儿
-http://175.10.59.126:4022/udp/239.76.254.81:9000
-#EXTINF:-1 group-title="其他频道",北京少儿
-http://175.10.59.126:4022/udp/239.76.254.81:9000
-#EXTINF:-1 group-title="其他频道",北京少儿
-http://175.10.59.126:4022/udp/239.76.254.81:9000
-#EXTINF:-1 group-title="其他频道",北京少儿
-http://175.10.59.126:4022/udp/239.76.254.81:9000
-#EXTINF:-1 group-title="其他频道",北京少儿
-http://175.10.59.126:4022/udp/239.76.254.81:9000
-#EXTINF:-1 group-title="其他频道",北京少儿
-http://175.10.59.126:4022/udp/239.76.254.81:9000
-#EXTINF:-1 group-title="其他频道",北京少儿
-http://175.10.59.126:4022/udp/239.76.254.81:9000
-#EXTINF:-1 group-title="其他频道",北京少儿
-http://175.10.59.126:4022/udp/239.76.254.81:9000
-#EXTINF:-1 group-title="其他频道",央视台球
-http://175.10.59.126:4022/udp/239.76.254.58:9000
-#EXTINF:-1 group-title="其他频道",央视台球
-http://175.10.59.126:4022/udp/239.76.254.58:9000
-#EXTINF:-1 group-title="其他频道",央视台球
-http://175.10.59.126:4022/udp/239.76.254.58:9000
-#EXTINF:-1 group-title="其他频道",央视台球
-http://175.10.59.126:4022/udp/239.76.254.58:9000
-#EXTINF:-1 group-title="其他频道",央视台球
-http://175.10.59.126:4022/udp/239.76.254.58:9000
-#EXTINF:-1 group-title="其他频道",央视台球
-http://175.10.59.126:4022/udp/239.76.254.58:9000
-#EXTINF:-1 group-title="其他频道",央视台球
-http://175.10.59.126:4022/udp/239.76.254.58:9000
-#EXTINF:-1 group-title="其他频道",央视台球
-http://175.10.59.126:4022/udp/239.76.254.58:9000
-#EXTINF:-1 group-title="其他频道",央视台球
-http://175.10.59.126:4022/udp/239.76.254.58:9000
-#EXTINF:-1 group-title="其他频道",央视台球
-http://175.10.59.126:4022/udp/239.76.254.58:9000
-#EXTINF:-1 group-title="其他频道",央视文化精品
-http://175.10.59.126:4022/udp/239.76.254.56:9000
-#EXTINF:-1 group-title="其他频道",央视文化精品
-http://175.10.59.126:4022/udp/239.76.254.56:9000
-#EXTINF:-1 group-title="其他频道",央视文化精品
-http://175.10.59.126:4022/udp/239.76.254.56:9000
-#EXTINF:-1 group-title="其他频道",央视文化精品
-http://175.10.59.126:4022/udp/239.76.254.56:9000
-#EXTINF:-1 group-title="其他频道",央视文化精品
-http://175.10.59.126:4022/udp/239.76.254.56:9000
-#EXTINF:-1 group-title="其他频道",央视文化精品
-http://175.10.59.126:4022/udp/239.76.254.56:9000
-#EXTINF:-1 group-title="其他频道",央视文化精品
-http://175.10.59.126:4022/udp/239.76.254.56:9000
-#EXTINF:-1 group-title="其他频道",央视文化精品
-http://175.10.59.126:4022/udp/239.76.254.56:9000
-#EXTINF:-1 group-title="其他频道",央视文化精品
-http://175.10.59.126:4022/udp/239.76.254.56:9000
-#EXTINF:-1 group-title="其他频道",央视文化精品
-http://175.10.59.126:4022/udp/239.76.254.56:9000
-#EXTINF:-1 group-title="其他频道",央视高尔夫
-http://175.10.59.126:4022/udp/239.76.254.62:9000
-#EXTINF:-1 group-title="其他频道",央视高尔夫
-http://175.10.59.126:4022/udp/239.76.254.62:9000
-#EXTINF:-1 group-title="其他频道",央视高尔夫
-http://175.10.59.126:4022/udp/239.76.254.62:9000
-#EXTINF:-1 group-title="其他频道",央视高尔夫
-http://175.10.59.126:4022/udp/239.76.254.62:9000
-#EXTINF:-1 group-title="其他频道",央视高尔夫
-http://175.10.59.126:4022/udp/239.76.254.62:9000
-#EXTINF:-1 group-title="其他频道",央视高尔夫
-http://175.10.59.126:4022/udp/239.76.254.62:9000
-#EXTINF:-1 group-title="其他频道",央视高尔夫
-http://175.10.59.126:4022/udp/239.76.254.62:9000
-#EXTINF:-1 group-title="其他频道",央视高尔夫
-http://175.10.59.126:4022/udp/239.76.254.62:9000
-#EXTINF:-1 group-title="其他频道",央视高尔夫
-http://175.10.59.126:4022/udp/239.76.254.62:9000
-#EXTINF:-1 group-title="其他频道",央视高尔夫
-http://175.10.59.126:4022/udp/239.76.254.62:9000
-#EXTINF:-1 group-title="其他频道",女姓时尚
-http://175.10.59.126:4022/udp/239.76.254.55:9000
-#EXTINF:-1 group-title="其他频道",女姓时尚
-http://175.10.59.126:4022/udp/239.76.254.55:9000
-#EXTINF:-1 group-title="其他频道",女姓时尚
-http://175.10.59.126:4022/udp/239.76.254.55:9000
-#EXTINF:-1 group-title="其他频道",女姓时尚
-http://175.10.59.126:4022/udp/239.76.254.55:9000
-#EXTINF:-1 group-title="其他频道",女姓时尚
-http://175.10.59.126:4022/udp/239.76.254.55:9000
-#EXTINF:-1 group-title="其他频道",女姓时尚
-http://175.10.59.126:4022/udp/239.76.254.55:9000
-#EXTINF:-1 group-title="其他频道",女姓时尚
-http://175.10.59.126:4022/udp/239.76.254.55:9000
-#EXTINF:-1 group-title="其他频道",女姓时尚
-http://175.10.59.126:4022/udp/239.76.254.55:9000
-#EXTINF:-1 group-title="其他频道",女姓时尚
-http://175.10.59.126:4022/udp/239.76.254.55:9000
-#EXTINF:-1 group-title="其他频道",女姓时尚
-http://175.10.59.126:4022/udp/239.76.254.55:9000
-#EXTINF:-1 group-title="其他频道",娄底公共
-http://175.10.59.126:4022/udp/239.76.248.19:1234
-#EXTINF:-1 group-title="其他频道",娄底公共
-http://175.10.59.126:4022/udp/239.76.248.19:1234
-#EXTINF:-1 group-title="其他频道",娄底公共
-http://175.10.59.126:4022/udp/239.76.248.19:1234
-#EXTINF:-1 group-title="其他频道",娄底公共
-http://175.10.59.126:4022/udp/239.76.248.19:1234
-#EXTINF:-1 group-title="其他频道",娄底公共
-http://175.10.59.126:4022/udp/239.76.248.19:1234
-#EXTINF:-1 group-title="其他频道",娄底公共
-http://175.10.59.126:4022/udp/239.76.248.19:1234
-#EXTINF:-1 group-title="其他频道",娄底公共
-http://175.10.59.126:4022/udp/239.76.248.19:1234
-#EXTINF:-1 group-title="其他频道",娄底公共
-http://175.10.59.126:4022/udp/239.76.248.19:1234
-#EXTINF:-1 group-title="其他频道",娄底公共
-http://175.10.59.126:4022/udp/239.76.248.19:1234
-#EXTINF:-1 group-title="其他频道",娄底公共
-http://175.10.59.126:4022/udp/239.76.248.19:1234
-#EXTINF:-1 group-title="其他频道",娄底综合
-http://175.10.59.126:4022/udp/239.76.248.18:1234
-#EXTINF:-1 group-title="其他频道",娄底综合
-http://175.10.59.126:4022/udp/239.76.248.18:1234
-#EXTINF:-1 group-title="其他频道",娄底综合
-http://175.10.59.126:4022/udp/239.76.248.18:1234
-#EXTINF:-1 group-title="其他频道",娄底综合
-http://175.10.59.126:4022/udp/239.76.248.18:1234
-#EXTINF:-1 group-title="其他频道",娄底综合
-http://175.10.59.126:4022/udp/239.76.248.18:1234
-#EXTINF:-1 group-title="其他频道",娄底综合
-http://175.10.59.126:4022/udp/239.76.248.18:1234
-#EXTINF:-1 group-title="其他频道",娄底综合
-http://175.10.59.126:4022/udp/239.76.248.18:1234
-#EXTINF:-1 group-title="其他频道",娄底综合
-http://175.10.59.126:4022/udp/239.76.248.18:1234
-#EXTINF:-1 group-title="其他频道",娄底综合
-http://175.10.59.126:4022/udp/239.76.248.18:1234
-#EXTINF:-1 group-title="其他频道",娄底综合
-http://175.10.59.126:4022/udp/239.76.248.18:1234
-#EXTINF:-1 group-title="其他频道",常德公共
-http://175.10.59.126:4022/udp/239.76.248.11:1234
-#EXTINF:-1 group-title="其他频道",常德公共
-http://175.10.59.126:4022/udp/239.76.248.11:1234
-#EXTINF:-1 group-title="其他频道",常德公共
-http://175.10.59.126:4022/udp/239.76.248.11:1234
-#EXTINF:-1 group-title="其他频道",常德公共
-http://175.10.59.126:4022/udp/239.76.248.11:1234
-#EXTINF:-1 group-title="其他频道",常德公共
-http://175.10.59.126:4022/udp/239.76.248.11:1234
-#EXTINF:-1 group-title="其他频道",常德公共
-http://175.10.59.126:4022/udp/239.76.248.11:1234
-#EXTINF:-1 group-title="其他频道",常德公共
-http://175.10.59.126:4022/udp/239.76.248.11:1234
-#EXTINF:-1 group-title="其他频道",常德公共
-http://175.10.59.126:4022/udp/239.76.248.11:1234
-#EXTINF:-1 group-title="其他频道",常德公共
-http://175.10.59.126:4022/udp/239.76.248.11:1234
-#EXTINF:-1 group-title="其他频道",常德公共
-http://175.10.59.126:4022/udp/239.76.248.11:1234
-#EXTINF:-1 group-title="其他频道",常德综合
-http://175.10.59.126:4022/udp/239.76.248.10:1234
-#EXTINF:-1 group-title="其他频道",常德综合
-http://175.10.59.126:4022/udp/239.76.248.10:1234
-#EXTINF:-1 group-title="其他频道",常德综合
-http://175.10.59.126:4022/udp/239.76.248.10:1234
-#EXTINF:-1 group-title="其他频道",常德综合
-http://175.10.59.126:4022/udp/239.76.248.10:1234
-#EXTINF:-1 group-title="其他频道",常德综合
-http://175.10.59.126:4022/udp/239.76.248.10:1234
-#EXTINF:-1 group-title="其他频道",常德综合
-http://175.10.59.126:4022/udp/239.76.248.10:1234
-#EXTINF:-1 group-title="其他频道",常德综合
-http://175.10.59.126:4022/udp/239.76.248.10:1234
-#EXTINF:-1 group-title="其他频道",常德综合
-http://175.10.59.126:4022/udp/239.76.248.10:1234
-#EXTINF:-1 group-title="其他频道",常德综合
-http://175.10.59.126:4022/udp/239.76.248.10:1234
-#EXTINF:-1 group-title="其他频道",常德综合
-http://175.10.59.126:4022/udp/239.76.248.10:1234
-#EXTINF:-1 group-title="其他频道",张家界
-http://175.10.59.126:4022/udp/239.76.245.235:1234
-#EXTINF:-1 group-title="其他频道",张家界
-http://175.10.59.126:4022/udp/239.76.245.235:1234
-#EXTINF:-1 group-title="其他频道",张家界
-http://175.10.59.126:4022/udp/239.76.245.235:1234
-#EXTINF:-1 group-title="其他频道",张家界
-http://175.10.59.126:4022/udp/239.76.245.235:1234
-#EXTINF:-1 group-title="其他频道",张家界
-http://175.10.59.126:4022/udp/239.76.245.235:1234
-#EXTINF:-1 group-title="其他频道",张家界
-http://175.10.59.126:4022/udp/239.76.245.235:1234
-#EXTINF:-1 group-title="其他频道",张家界
-http://175.10.59.126:4022/udp/239.76.245.235:1234
-#EXTINF:-1 group-title="其他频道",张家界
-http://175.10.59.126:4022/udp/239.76.245.235:1234
-#EXTINF:-1 group-title="其他频道",张家界
-http://175.10.59.126:4022/udp/239.76.245.235:1234
-#EXTINF:-1 group-title="其他频道",张家界
-http://175.10.59.126:4022/udp/239.76.245.235:1234
-#EXTINF:-1 group-title="其他频道",张家界综合
-http://175.10.59.126:4022/udp/239.76.245.234:1234
-#EXTINF:-1 group-title="其他频道",张家界综合
-http://175.10.59.126:4022/udp/239.76.245.234:1234
-#EXTINF:-1 group-title="其他频道",张家界综合
-http://175.10.59.126:4022/udp/239.76.245.234:1234
-#EXTINF:-1 group-title="其他频道",张家界综合
-http://175.10.59.126:4022/udp/239.76.245.234:1234
-#EXTINF:-1 group-title="其他频道",张家界综合
-http://175.10.59.126:4022/udp/239.76.245.234:1234
-#EXTINF:-1 group-title="其他频道",张家界综合
-http://175.10.59.126:4022/udp/239.76.245.234:1234
-#EXTINF:-1 group-title="其他频道",张家界综合
-http://175.10.59.126:4022/udp/239.76.245.234:1234
-#EXTINF:-1 group-title="其他频道",张家界综合
-http://175.10.59.126:4022/udp/239.76.245.234:1234
-#EXTINF:-1 group-title="其他频道",张家界综合
-http://175.10.59.126:4022/udp/239.76.245.234:1234
-#EXTINF:-1 group-title="其他频道",张家界综合
-http://175.10.59.126:4022/udp/239.76.245.234:1234
-#EXTINF:-1 group-title="其他频道",快乐垂钓
-http://175.10.59.126:4022/udp/239.76.245.127:1234
-#EXTINF:-1 group-title="其他频道",快乐垂钓
-http://175.10.59.126:4022/udp/239.76.245.127:1234
-#EXTINF:-1 group-title="其他频道",快乐垂钓
-http://175.10.59.126:4022/udp/239.76.245.127:1234
-#EXTINF:-1 group-title="其他频道",快乐垂钓
-http://175.10.59.126:4022/udp/239.76.245.127:1234
-#EXTINF:-1 group-title="其他频道",快乐垂钓
-http://175.10.59.126:4022/udp/239.76.245.127:1234
-#EXTINF:-1 group-title="其他频道",快乐垂钓
-http://175.10.59.126:4022/udp/239.76.245.127:1234
-#EXTINF:-1 group-title="其他频道",快乐垂钓
-http://175.10.59.126:4022/udp/239.76.245.127:1234
-#EXTINF:-1 group-title="其他频道",快乐垂钓
-http://175.10.59.126:4022/udp/239.76.245.127:1234
-#EXTINF:-1 group-title="其他频道",快乐垂钓
-http://175.10.59.126:4022/udp/239.76.245.127:1234
-#EXTINF:-1 group-title="其他频道",快乐垂钓
-http://175.10.59.126:4022/udp/239.76.245.127:1234
-#EXTINF:-1 group-title="其他频道",怀化综合
-http://175.10.59.126:4022/udp/239.76.255.12:9000
-#EXTINF:-1 group-title="其他频道",怀化综合
-http://175.10.59.126:4022/udp/239.76.255.12:9000
-#EXTINF:-1 group-title="其他频道",怀化综合
-http://175.10.59.126:4022/udp/239.76.255.12:9000
-#EXTINF:-1 group-title="其他频道",怀化综合
-http://175.10.59.126:4022/udp/239.76.255.12:9000
-#EXTINF:-1 group-title="其他频道",怀化综合
-http://175.10.59.126:4022/udp/239.76.255.12:9000
-#EXTINF:-1 group-title="其他频道",怀化综合
-http://175.10.59.126:4022/udp/239.76.255.12:9000
-#EXTINF:-1 group-title="其他频道",怀化综合
-http://175.10.59.126:4022/udp/239.76.255.12:9000
-#EXTINF:-1 group-title="其他频道",怀化综合
-http://175.10.59.126:4022/udp/239.76.255.12:9000
-#EXTINF:-1 group-title="其他频道",怀化综合
-http://175.10.59.126:4022/udp/239.76.255.12:9000
-#EXTINF:-1 group-title="其他频道",怀化综合
-http://175.10.59.126:4022/udp/239.76.255.12:9000
-#EXTINF:-1 group-title="其他频道",怀旧剧场
-http://175.10.59.126:4022/udp/239.76.254.53:9000
-#EXTINF:-1 group-title="其他频道",怀旧剧场
-http://175.10.59.126:4022/udp/239.76.254.53:9000
-#EXTINF:-1 group-title="其他频道",怀旧剧场
-http://175.10.59.126:4022/udp/239.76.254.53:9000
-#EXTINF:-1 group-title="其他频道",怀旧剧场
-http://175.10.59.126:4022/udp/239.76.254.53:9000
-#EXTINF:-1 group-title="其他频道",怀旧剧场
-http://175.10.59.126:4022/udp/239.76.254.53:9000
-#EXTINF:-1 group-title="其他频道",怀旧剧场
-http://175.10.59.126:4022/udp/239.76.254.53:9000
-#EXTINF:-1 group-title="其他频道",怀旧剧场
-http://175.10.59.126:4022/udp/239.76.254.53:9000
-#EXTINF:-1 group-title="其他频道",怀旧剧场
-http://175.10.59.126:4022/udp/239.76.254.53:9000
-#EXTINF:-1 group-title="其他频道",怀旧剧场
-http://175.10.59.126:4022/udp/239.76.254.53:9000
-#EXTINF:-1 group-title="其他频道",怀旧剧场
-http://175.10.59.126:4022/udp/239.76.254.53:9000
-#EXTINF:-1 group-title="其他频道",文物宝库
-http://175.10.59.126:4022/udp/239.76.245.180:1234
-#EXTINF:-1 group-title="其他频道",文物宝库
-http://175.10.59.126:4022/udp/239.76.245.180:1234
-#EXTINF:-1 group-title="其他频道",文物宝库
-http://175.10.59.126:4022/udp/239.76.245.180:1234
-#EXTINF:-1 group-title="其他频道",文物宝库
-http://175.10.59.126:4022/udp/239.76.245.180:1234
-#EXTINF:-1 group-title="其他频道",文物宝库
-http://175.10.59.126:4022/udp/239.76.245.180:1234
-#EXTINF:-1 group-title="其他频道",文物宝库
-http://175.10.59.126:4022/udp/239.76.245.180:1234
-#EXTINF:-1 group-title="其他频道",文物宝库
-http://175.10.59.126:4022/udp/239.76.245.180:1234
-#EXTINF:-1 group-title="其他频道",文物宝库
-http://175.10.59.126:4022/udp/239.76.245.180:1234
-#EXTINF:-1 group-title="其他频道",文物宝库
-http://175.10.59.126:4022/udp/239.76.245.180:1234
-#EXTINF:-1 group-title="其他频道",文物宝库
-http://175.10.59.126:4022/udp/239.76.245.180:1234
-#EXTINF:-1 group-title="其他频道",极速汽车
-http://175.10.59.126:4022/udp/239.76.246.133:1234
-#EXTINF:-1 group-title="其他频道",极速汽车
-http://175.10.59.126:4022/udp/239.76.246.133:1234
-#EXTINF:-1 group-title="其他频道",极速汽车
-http://175.10.59.126:4022/udp/239.76.246.133:1234
-#EXTINF:-1 group-title="其他频道",极速汽车
-http://175.10.59.126:4022/udp/239.76.246.133:1234
-#EXTINF:-1 group-title="其他频道",极速汽车
-http://175.10.59.126:4022/udp/239.76.246.133:1234
-#EXTINF:-1 group-title="其他频道",极速汽车
-http://175.10.59.126:4022/udp/239.76.246.133:1234
-#EXTINF:-1 group-title="其他频道",极速汽车
-http://175.10.59.126:4022/udp/239.76.246.133:1234
-#EXTINF:-1 group-title="其他频道",极速汽车
-http://175.10.59.126:4022/udp/239.76.246.133:1234
-#EXTINF:-1 group-title="其他频道",极速汽车
-http://175.10.59.126:4022/udp/239.76.246.133:1234
-#EXTINF:-1 group-title="其他频道",极速汽车
-http://175.10.59.126:4022/udp/239.76.246.133:1234
-#EXTINF:-1 group-title="其他频道",欢笑剧场
-http://175.10.59.126:4022/udp/239.76.246.130:1234
-#EXTINF:-1 group-title="其他频道",欢笑剧场
-http://175.10.59.126:4022/udp/239.76.246.130:1234
-#EXTINF:-1 group-title="其他频道",欢笑剧场
-http://175.10.59.126:4022/udp/239.76.246.130:1234
-#EXTINF:-1 group-title="其他频道",欢笑剧场
-http://175.10.59.126:4022/udp/239.76.246.130:1234
-#EXTINF:-1 group-title="其他频道",欢笑剧场
-http://175.10.59.126:4022/udp/239.76.246.130:1234
-#EXTINF:-1 group-title="其他频道",欢笑剧场
-http://175.10.59.126:4022/udp/239.76.246.130:1234
-#EXTINF:-1 group-title="其他频道",欢笑剧场
-http://175.10.59.126:4022/udp/239.76.246.130:1234
-#EXTINF:-1 group-title="其他频道",欢笑剧场
-http://175.10.59.126:4022/udp/239.76.246.130:1234
-#EXTINF:-1 group-title="其他频道",欢笑剧场
-http://175.10.59.126:4022/udp/239.76.246.130:1234
-#EXTINF:-1 group-title="其他频道",欢笑剧场
-http://175.10.59.126:4022/udp/239.76.246.130:1234
-#EXTINF:-1 group-title="其他频道",武术世界
-http://175.10.59.126:4022/udp/239.76.245.181:1234
-#EXTINF:-1 group-title="其他频道",武术世界
-http://175.10.59.126:4022/udp/239.76.245.181:1234
-#EXTINF:-1 group-title="其他频道",武术世界
-http://175.10.59.126:4022/udp/239.76.245.181:1234
-#EXTINF:-1 group-title="其他频道",武术世界
-http://175.10.59.126:4022/udp/239.76.245.181:1234
-#EXTINF:-1 group-title="其他频道",武术世界
-http://175.10.59.126:4022/udp/239.76.245.181:1234
-#EXTINF:-1 group-title="其他频道",武术世界
-http://175.10.59.126:4022/udp/239.76.245.181:1234
-#EXTINF:-1 group-title="其他频道",武术世界
-http://175.10.59.126:4022/udp/239.76.245.181:1234
-#EXTINF:-1 group-title="其他频道",武术世界
-http://175.10.59.126:4022/udp/239.76.245.181:1234
-#EXTINF:-1 group-title="其他频道",武术世界
-http://175.10.59.126:4022/udp/239.76.245.181:1234
-#EXTINF:-1 group-title="其他频道",武术世界
-http://175.10.59.126:4022/udp/239.76.245.181:1234
-#EXTINF:-1 group-title="其他频道",永州新闻
-http://175.10.59.126:4022/udp/239.76.248.57:1234
-#EXTINF:-1 group-title="其他频道",永州新闻
-http://175.10.59.126:4022/udp/239.76.248.57:1234
-#EXTINF:-1 group-title="其他频道",永州新闻
-http://175.10.59.126:4022/udp/239.76.248.57:1234
-#EXTINF:-1 group-title="其他频道",永州新闻
-http://175.10.59.126:4022/udp/239.76.248.57:1234
-#EXTINF:-1 group-title="其他频道",永州新闻
-http://175.10.59.126:4022/udp/239.76.248.57:1234
-#EXTINF:-1 group-title="其他频道",永州新闻
-http://175.10.59.126:4022/udp/239.76.248.57:1234
-#EXTINF:-1 group-title="其他频道",永州新闻
-http://175.10.59.126:4022/udp/239.76.248.57:1234
-#EXTINF:-1 group-title="其他频道",永州新闻
-http://175.10.59.126:4022/udp/239.76.248.57:1234
-#EXTINF:-1 group-title="其他频道",永州新闻
-http://175.10.59.126:4022/udp/239.76.248.57:1234
-#EXTINF:-1 group-title="其他频道",永州新闻
-http://175.10.59.126:4022/udp/239.76.248.57:1234
-#EXTINF:-1 group-title="其他频道",河南梨园
-http://175.10.59.126:4022/udp/239.76.252.179:9000
-#EXTINF:-1 group-title="其他频道",河南梨园
-http://175.10.59.126:4022/udp/239.76.252.179:9000
-#EXTINF:-1 group-title="其他频道",河南梨园
-http://175.10.59.126:4022/udp/239.76.252.179:9000
-#EXTINF:-1 group-title="其他频道",河南梨园
-http://175.10.59.126:4022/udp/239.76.252.179:9000
-#EXTINF:-1 group-title="其他频道",河南梨园
-http://175.10.59.126:4022/udp/239.76.252.179:9000
-#EXTINF:-1 group-title="其他频道",河南梨园
-http://175.10.59.126:4022/udp/239.76.252.179:9000
-#EXTINF:-1 group-title="其他频道",河南梨园
-http://175.10.59.126:4022/udp/239.76.252.179:9000
-#EXTINF:-1 group-title="其他频道",河南梨园
-http://175.10.59.126:4022/udp/239.76.252.179:9000
-#EXTINF:-1 group-title="其他频道",河南梨园
-http://175.10.59.126:4022/udp/239.76.252.179:9000
-#EXTINF:-1 group-title="其他频道",河南梨园
-http://175.10.59.126:4022/udp/239.76.252.179:9000
-#EXTINF:-1 group-title="其他频道",河南梨园D
-http://175.10.59.126:4022/udp/239.76.245.179:1234
-#EXTINF:-1 group-title="其他频道",河南梨园D
-http://175.10.59.126:4022/udp/239.76.245.179:1234
-#EXTINF:-1 group-title="其他频道",河南梨园D
-http://175.10.59.126:4022/udp/239.76.245.179:1234
-#EXTINF:-1 group-title="其他频道",河南梨园D
-http://175.10.59.126:4022/udp/239.76.245.179:1234
-#EXTINF:-1 group-title="其他频道",河南梨园D
-http://175.10.59.126:4022/udp/239.76.245.179:1234
-#EXTINF:-1 group-title="其他频道",河南梨园D
-http://175.10.59.126:4022/udp/239.76.245.179:1234
-#EXTINF:-1 group-title="其他频道",河南梨园D
-http://175.10.59.126:4022/udp/239.76.245.179:1234
-#EXTINF:-1 group-title="其他频道",河南梨园D
-http://175.10.59.126:4022/udp/239.76.245.179:1234
-#EXTINF:-1 group-title="其他频道",河南梨园D
-http://175.10.59.126:4022/udp/239.76.245.179:1234
-#EXTINF:-1 group-title="其他频道",河南梨园D
-http://175.10.59.126:4022/udp/239.76.245.179:1234
-#EXTINF:-1 group-title="其他频道",法治天地
-http://175.10.59.126:4022/udp/239.76.246.138:1234
-#EXTINF:-1 group-title="其他频道",法治天地
-http://175.10.59.126:4022/udp/239.76.246.138:1234
-#EXTINF:-1 group-title="其他频道",法治天地
-http://175.10.59.126:4022/udp/239.76.246.138:1234
-#EXTINF:-1 group-title="其他频道",法治天地
-http://175.10.59.126:4022/udp/239.76.246.138:1234
-#EXTINF:-1 group-title="其他频道",法治天地
-http://175.10.59.126:4022/udp/239.76.246.138:1234
-#EXTINF:-1 group-title="其他频道",法治天地
-http://175.10.59.126:4022/udp/239.76.246.138:1234
-#EXTINF:-1 group-title="其他频道",法治天地
-http://175.10.59.126:4022/udp/239.76.246.138:1234
-#EXTINF:-1 group-title="其他频道",法治天地
-http://175.10.59.126:4022/udp/239.76.246.138:1234
-#EXTINF:-1 group-title="其他频道",法治天地
-http://175.10.59.126:4022/udp/239.76.246.138:1234
-#EXTINF:-1 group-title="其他频道",法治天地
-http://175.10.59.126:4022/udp/239.76.246.138:1234
-#EXTINF:-1 group-title="其他频道",浏阳
-http://175.10.59.126:4022/udp/239.76.248.6:1234
-#EXTINF:-1 group-title="其他频道",浏阳
-http://175.10.59.126:4022/udp/239.76.248.6:1234
-#EXTINF:-1 group-title="其他频道",浏阳
-http://175.10.59.126:4022/udp/239.76.248.6:1234
-#EXTINF:-1 group-title="其他频道",浏阳
-http://175.10.59.126:4022/udp/239.76.248.6:1234
-#EXTINF:-1 group-title="其他频道",浏阳
-http://175.10.59.126:4022/udp/239.76.248.6:1234
-#EXTINF:-1 group-title="其他频道",浏阳
-http://175.10.59.126:4022/udp/239.76.248.6:1234
-#EXTINF:-1 group-title="其他频道",浏阳
-http://175.10.59.126:4022/udp/239.76.248.6:1234
-#EXTINF:-1 group-title="其他频道",浏阳
-http://175.10.59.126:4022/udp/239.76.248.6:1234
-#EXTINF:-1 group-title="其他频道",浏阳
-http://175.10.59.126:4022/udp/239.76.248.6:1234
-#EXTINF:-1 group-title="其他频道",浏阳
-http://175.10.59.126:4022/udp/239.76.248.6:1234
-#EXTINF:-1 group-title="其他频道",游戏风云
-http://175.10.59.126:4022/udp/239.76.246.132:1234
-#EXTINF:-1 group-title="其他频道",游戏风云
-http://175.10.59.126:4022/udp/239.76.246.132:1234
-#EXTINF:-1 group-title="其他频道",游戏风云
-http://175.10.59.126:4022/udp/239.76.246.132:1234
-#EXTINF:-1 group-title="其他频道",游戏风云
-http://175.10.59.126:4022/udp/239.76.246.132:1234
-#EXTINF:-1 group-title="其他频道",游戏风云
-http://175.10.59.126:4022/udp/239.76.246.132:1234
-#EXTINF:-1 group-title="其他频道",游戏风云
-http://175.10.59.126:4022/udp/239.76.246.132:1234
-#EXTINF:-1 group-title="其他频道",游戏风云
-http://175.10.59.126:4022/udp/239.76.246.132:1234
-#EXTINF:-1 group-title="其他频道",游戏风云
-http://175.10.59.126:4022/udp/239.76.246.132:1234
-#EXTINF:-1 group-title="其他频道",游戏风云
-http://175.10.59.126:4022/udp/239.76.246.132:1234
-#EXTINF:-1 group-title="其他频道",游戏风云
-http://175.10.59.126:4022/udp/239.76.246.132:1234
-#EXTINF:-1 group-title="其他频道",湘西公共
-http://175.10.59.126:4022/udp/239.76.252.209:9000
-#EXTINF:-1 group-title="其他频道",湘西公共
-http://175.10.59.126:4022/udp/239.76.252.209:9000
-#EXTINF:-1 group-title="其他频道",湘西公共
-http://175.10.59.126:4022/udp/239.76.252.209:9000
-#EXTINF:-1 group-title="其他频道",湘西公共
-http://175.10.59.126:4022/udp/239.76.252.209:9000
-#EXTINF:-1 group-title="其他频道",湘西公共
-http://175.10.59.126:4022/udp/239.76.252.209:9000
-#EXTINF:-1 group-title="其他频道",湘西公共
-http://175.10.59.126:4022/udp/239.76.252.209:9000
-#EXTINF:-1 group-title="其他频道",湘西公共
-http://175.10.59.126:4022/udp/239.76.252.209:9000
-#EXTINF:-1 group-title="其他频道",湘西公共
-http://175.10.59.126:4022/udp/239.76.252.209:9000
-#EXTINF:-1 group-title="其他频道",湘西公共
-http://175.10.59.126:4022/udp/239.76.252.209:9000
-#EXTINF:-1 group-title="其他频道",湘西公共
-http://175.10.59.126:4022/udp/239.76.252.209:9000
-#EXTINF:-1 group-title="其他频道",湘西综合
-http://175.10.59.126:4022/udp/239.76.245.208:1234
-#EXTINF:-1 group-title="其他频道",湘西综合
-http://175.10.59.126:4022/udp/239.76.245.208:1234
-#EXTINF:-1 group-title="其他频道",湘西综合
-http://175.10.59.126:4022/udp/239.76.245.208:1234
-#EXTINF:-1 group-title="其他频道",湘西综合
-http://175.10.59.126:4022/udp/239.76.245.208:1234
-#EXTINF:-1 group-title="其他频道",湘西综合
-http://175.10.59.126:4022/udp/239.76.245.208:1234
-#EXTINF:-1 group-title="其他频道",湘西综合
-http://175.10.59.126:4022/udp/239.76.245.208:1234
-#EXTINF:-1 group-title="其他频道",湘西综合
-http://175.10.59.126:4022/udp/239.76.245.208:1234
-#EXTINF:-1 group-title="其他频道",湘西综合
-http://175.10.59.126:4022/udp/239.76.245.208:1234
-#EXTINF:-1 group-title="其他频道",湘西综合
-http://175.10.59.126:4022/udp/239.76.245.208:1234
-#EXTINF:-1 group-title="其他频道",湘西综合
-http://175.10.59.126:4022/udp/239.76.245.208:1234
-#EXTINF:-1 group-title="其他频道",生活时尚
-http://175.10.59.126:4022/udp/239.76.246.223:1234
-#EXTINF:-1 group-title="其他频道",生活时尚
-http://175.10.59.126:4022/udp/239.76.246.223:1234
-#EXTINF:-1 group-title="其他频道",生活时尚
-http://175.10.59.126:4022/udp/239.76.246.223:1234
-#EXTINF:-1 group-title="其他频道",生活时尚
-http://175.10.59.126:4022/udp/239.76.246.223:1234
-#EXTINF:-1 group-title="其他频道",生活时尚
-http://175.10.59.126:4022/udp/239.76.246.223:1234
-#EXTINF:-1 group-title="其他频道",生活时尚
-http://175.10.59.126:4022/udp/239.76.246.223:1234
-#EXTINF:-1 group-title="其他频道",生活时尚
-http://175.10.59.126:4022/udp/239.76.246.223:1234
-#EXTINF:-1 group-title="其他频道",生活时尚
-http://175.10.59.126:4022/udp/239.76.246.223:1234
-#EXTINF:-1 group-title="其他频道",生活时尚
-http://175.10.59.126:4022/udp/239.76.246.223:1234
-#EXTINF:-1 group-title="其他频道",生活时尚
-http://175.10.59.126:4022/udp/239.76.246.223:1234
-#EXTINF:-1 group-title="其他频道",电视指南
-http://175.10.59.126:4022/udp/239.76.254.61:9000
-#EXTINF:-1 group-title="其他频道",电视指南
-http://175.10.59.126:4022/udp/239.76.254.61:9000
-#EXTINF:-1 group-title="其他频道",电视指南
-http://175.10.59.126:4022/udp/239.76.254.61:9000
-#EXTINF:-1 group-title="其他频道",电视指南
-http://175.10.59.126:4022/udp/239.76.254.61:9000
-#EXTINF:-1 group-title="其他频道",电视指南
-http://175.10.59.126:4022/udp/239.76.254.61:9000
-#EXTINF:-1 group-title="其他频道",电视指南
-http://175.10.59.126:4022/udp/239.76.254.61:9000
-#EXTINF:-1 group-title="其他频道",电视指南
-http://175.10.59.126:4022/udp/239.76.254.61:9000
-#EXTINF:-1 group-title="其他频道",电视指南
-http://175.10.59.126:4022/udp/239.76.254.61:9000
-#EXTINF:-1 group-title="其他频道",电视指南
-http://175.10.59.126:4022/udp/239.76.254.61:9000
-#EXTINF:-1 group-title="其他频道",电视指南
-http://175.10.59.126:4022/udp/239.76.254.61:9000
-#EXTINF:-1 group-title="其他频道",第一剧场
-http://175.10.59.126:4022/udp/239.76.254.49:9000
-#EXTINF:-1 group-title="其他频道",第一剧场
-http://175.10.59.126:4022/udp/239.76.254.49:9000
-#EXTINF:-1 group-title="其他频道",第一剧场
-http://175.10.59.126:4022/udp/239.76.254.49:9000
-#EXTINF:-1 group-title="其他频道",第一剧场
-http://175.10.59.126:4022/udp/239.76.254.49:9000
-#EXTINF:-1 group-title="其他频道",第一剧场
-http://175.10.59.126:4022/udp/239.76.254.49:9000
-#EXTINF:-1 group-title="其他频道",第一剧场
-http://175.10.59.126:4022/udp/239.76.254.49:9000
-#EXTINF:-1 group-title="其他频道",第一剧场
-http://175.10.59.126:4022/udp/239.76.254.49:9000
-#EXTINF:-1 group-title="其他频道",第一剧场
-http://175.10.59.126:4022/udp/239.76.254.49:9000
-#EXTINF:-1 group-title="其他频道",第一剧场
-http://175.10.59.126:4022/udp/239.76.254.49:9000
-#EXTINF:-1 group-title="其他频道",第一剧场
-http://175.10.59.126:4022/udp/239.76.254.49:9000
-#EXTINF:-1 group-title="其他频道",芒果乐搜
-http://175.10.59.126:4022/udp/239.76.245.200:1234
-#EXTINF:-1 group-title="其他频道",芒果乐搜
-http://175.10.59.126:4022/udp/239.76.245.200:1234
-#EXTINF:-1 group-title="其他频道",芒果乐搜
-http://175.10.59.126:4022/udp/239.76.245.200:1234
-#EXTINF:-1 group-title="其他频道",芒果乐搜
-http://175.10.59.126:4022/udp/239.76.245.200:1234
-#EXTINF:-1 group-title="其他频道",芒果乐搜
-http://175.10.59.126:4022/udp/239.76.245.200:1234
-#EXTINF:-1 group-title="其他频道",芒果乐搜
-http://175.10.59.126:4022/udp/239.76.245.200:1234
-#EXTINF:-1 group-title="其他频道",芒果乐搜
-http://175.10.59.126:4022/udp/239.76.245.200:1234
-#EXTINF:-1 group-title="其他频道",芒果乐搜
-http://175.10.59.126:4022/udp/239.76.245.200:1234
-#EXTINF:-1 group-title="其他频道",芒果乐搜
-http://175.10.59.126:4022/udp/239.76.245.200:1234
-#EXTINF:-1 group-title="其他频道",芒果乐搜
-http://175.10.59.126:4022/udp/239.76.245.200:1234
-#EXTINF:-1 group-title="其他频道",芒果乐活
-http://175.10.59.126:4022/udp/239.76.245.201:1234
-#EXTINF:-1 group-title="其他频道",芒果乐活
-http://175.10.59.126:4022/udp/239.76.245.201:1234
-#EXTINF:-1 group-title="其他频道",芒果乐活
-http://175.10.59.126:4022/udp/239.76.245.201:1234
-#EXTINF:-1 group-title="其他频道",芒果乐活
-http://175.10.59.126:4022/udp/239.76.245.201:1234
-#EXTINF:-1 group-title="其他频道",芒果乐活
-http://175.10.59.126:4022/udp/239.76.245.201:1234
-#EXTINF:-1 group-title="其他频道",芒果乐活
-http://175.10.59.126:4022/udp/239.76.245.201:1234
-#EXTINF:-1 group-title="其他频道",芒果乐活
-http://175.10.59.126:4022/udp/239.76.245.201:1234
-#EXTINF:-1 group-title="其他频道",芒果乐活
-http://175.10.59.126:4022/udp/239.76.245.201:1234
-#EXTINF:-1 group-title="其他频道",芒果乐活
-http://175.10.59.126:4022/udp/239.76.245.201:1234
-#EXTINF:-1 group-title="其他频道",芒果乐活
-http://175.10.59.126:4022/udp/239.76.245.201:1234
-#EXTINF:-1 group-title="其他频道",芒果乐淘
-http://175.10.59.126:4022/udp/239.76.245.215:1234
-#EXTINF:-1 group-title="其他频道",芒果乐淘
-http://175.10.59.126:4022/udp/239.76.245.215:1234
-#EXTINF:-1 group-title="其他频道",芒果乐淘
-http://175.10.59.126:4022/udp/239.76.245.215:1234
-#EXTINF:-1 group-title="其他频道",芒果乐淘
-http://175.10.59.126:4022/udp/239.76.245.215:1234
-#EXTINF:-1 group-title="其他频道",芒果乐淘
-http://175.10.59.126:4022/udp/239.76.245.215:1234
-#EXTINF:-1 group-title="其他频道",芒果乐淘
-http://175.10.59.126:4022/udp/239.76.245.215:1234
-#EXTINF:-1 group-title="其他频道",芒果乐淘
-http://175.10.59.126:4022/udp/239.76.245.215:1234
-#EXTINF:-1 group-title="其他频道",芒果乐淘
-http://175.10.59.126:4022/udp/239.76.245.215:1234
-#EXTINF:-1 group-title="其他频道",芒果乐淘
-http://175.10.59.126:4022/udp/239.76.245.215:1234
-#EXTINF:-1 group-title="其他频道",芒果乐淘
-http://175.10.59.126:4022/udp/239.76.245.215:1234
-#EXTINF:-1 group-title="其他频道",芒果汽车
-http://175.10.59.126:4022/udp/239.76.253.123:9000
-#EXTINF:-1 group-title="其他频道",芒果汽车
-http://175.10.59.126:4022/udp/239.76.253.123:9000
-#EXTINF:-1 group-title="其他频道",芒果汽车
-http://175.10.59.126:4022/udp/239.76.253.123:9000
-#EXTINF:-1 group-title="其他频道",芒果汽车
-http://175.10.59.126:4022/udp/239.76.253.123:9000
-#EXTINF:-1 group-title="其他频道",芒果汽车
-http://175.10.59.126:4022/udp/239.76.253.123:9000
-#EXTINF:-1 group-title="其他频道",芒果汽车
-http://175.10.59.126:4022/udp/239.76.253.123:9000
-#EXTINF:-1 group-title="其他频道",芒果汽车
-http://175.10.59.126:4022/udp/239.76.253.123:9000
-#EXTINF:-1 group-title="其他频道",芒果汽车
-http://175.10.59.126:4022/udp/239.76.253.123:9000
-#EXTINF:-1 group-title="其他频道",芒果汽车
-http://175.10.59.126:4022/udp/239.76.253.123:9000
-#EXTINF:-1 group-title="其他频道",芒果汽车
-http://175.10.59.126:4022/udp/239.76.253.123:9000
-#EXTINF:-1 group-title="其他频道",茶频道
-http://175.10.59.126:4022/udp/239.76.245.239:1234
-#EXTINF:-1 group-title="其他频道",茶频道
-http://175.10.59.126:4022/udp/239.76.245.239:1234
-#EXTINF:-1 group-title="其他频道",茶频道
-http://175.10.59.126:4022/udp/239.76.245.239:1234
-#EXTINF:-1 group-title="其他频道",茶频道
-http://175.10.59.126:4022/udp/239.76.245.239:1234
-#EXTINF:-1 group-title="其他频道",茶频道
-http://175.10.59.126:4022/udp/239.76.245.239:1234
-#EXTINF:-1 group-title="其他频道",茶频道
-http://175.10.59.126:4022/udp/239.76.245.239:1234
-#EXTINF:-1 group-title="其他频道",茶频道
-http://175.10.59.126:4022/udp/239.76.245.239:1234
-#EXTINF:-1 group-title="其他频道",茶频道
-http://175.10.59.126:4022/udp/239.76.245.239:1234
-#EXTINF:-1 group-title="其他频道",茶频道
-http://175.10.59.126:4022/udp/239.76.245.239:1234
-#EXTINF:-1 group-title="其他频道",茶频道
-http://175.10.59.126:4022/udp/239.76.245.239:1234
-#EXTINF:-1 group-title="其他频道",衡阳公共
-http://175.10.59.126:4022/udp/239.76.248.14:1234
-#EXTINF:-1 group-title="其他频道",衡阳公共
-http://175.10.59.126:4022/udp/239.76.248.14:1234
-#EXTINF:-1 group-title="其他频道",衡阳公共
-http://175.10.59.126:4022/udp/239.76.248.14:1234
-#EXTINF:-1 group-title="其他频道",衡阳公共
-http://175.10.59.126:4022/udp/239.76.248.14:1234
-#EXTINF:-1 group-title="其他频道",衡阳公共
-http://175.10.59.126:4022/udp/239.76.248.14:1234
-#EXTINF:-1 group-title="其他频道",衡阳公共
-http://175.10.59.126:4022/udp/239.76.248.14:1234
-#EXTINF:-1 group-title="其他频道",衡阳公共
-http://175.10.59.126:4022/udp/239.76.248.14:1234
-#EXTINF:-1 group-title="其他频道",衡阳公共
-http://175.10.59.126:4022/udp/239.76.248.14:1234
-#EXTINF:-1 group-title="其他频道",衡阳公共
-http://175.10.59.126:4022/udp/239.76.248.14:1234
-#EXTINF:-1 group-title="其他频道",衡阳公共
-http://175.10.59.126:4022/udp/239.76.248.14:1234
-#EXTINF:-1 group-title="其他频道",衡阳综合
-http://175.10.59.126:4022/udp/239.76.248.13:1234
-#EXTINF:-1 group-title="其他频道",衡阳综合
-http://175.10.59.126:4022/udp/239.76.248.13:1234
-#EXTINF:-1 group-title="其他频道",衡阳综合
-http://175.10.59.126:4022/udp/239.76.248.13:1234
-#EXTINF:-1 group-title="其他频道",衡阳综合
-http://175.10.59.126:4022/udp/239.76.248.13:1234
-#EXTINF:-1 group-title="其他频道",衡阳综合
-http://175.10.59.126:4022/udp/239.76.248.13:1234
-#EXTINF:-1 group-title="其他频道",衡阳综合
-http://175.10.59.126:4022/udp/239.76.248.13:1234
-#EXTINF:-1 group-title="其他频道",衡阳综合
-http://175.10.59.126:4022/udp/239.76.248.13:1234
-#EXTINF:-1 group-title="其他频道",衡阳综合
-http://175.10.59.126:4022/udp/239.76.248.13:1234
-#EXTINF:-1 group-title="其他频道",衡阳综合
-http://175.10.59.126:4022/udp/239.76.248.13:1234
-#EXTINF:-1 group-title="其他频道",衡阳综合
-http://175.10.59.126:4022/udp/239.76.248.13:1234
-#EXTINF:-1 group-title="其他频道",邵阳新闻
-http://175.10.59.126:4022/udp/239.76.248.23:1234
-#EXTINF:-1 group-title="其他频道",邵阳新闻
-http://175.10.59.126:4022/udp/239.76.248.23:1234
-#EXTINF:-1 group-title="其他频道",邵阳新闻
-http://175.10.59.126:4022/udp/239.76.248.23:1234
-#EXTINF:-1 group-title="其他频道",邵阳新闻
-http://175.10.59.126:4022/udp/239.76.248.23:1234
-#EXTINF:-1 group-title="其他频道",邵阳新闻
-http://175.10.59.126:4022/udp/239.76.248.23:1234
-#EXTINF:-1 group-title="其他频道",邵阳新闻
-http://175.10.59.126:4022/udp/239.76.248.23:1234
-#EXTINF:-1 group-title="其他频道",邵阳新闻
-http://175.10.59.126:4022/udp/239.76.248.23:1234
-#EXTINF:-1 group-title="其他频道",邵阳新闻
-http://175.10.59.126:4022/udp/239.76.248.23:1234
-#EXTINF:-1 group-title="其他频道",邵阳新闻
-http://175.10.59.126:4022/udp/239.76.248.23:1234
-#EXTINF:-1 group-title="其他频道",邵阳新闻
-http://175.10.59.126:4022/udp/239.76.248.23:1234
-#EXTINF:-1 group-title="其他频道",都市剧场
-http://175.10.59.126:4022/udp/239.76.246.215:1234
-#EXTINF:-1 group-title="其他频道",都市剧场
-http://175.10.59.126:4022/udp/239.76.246.215:1234
-#EXTINF:-1 group-title="其他频道",都市剧场
-http://175.10.59.126:4022/udp/239.76.246.215:1234
-#EXTINF:-1 group-title="其他频道",都市剧场
-http://175.10.59.126:4022/udp/239.76.246.215:1234
-#EXTINF:-1 group-title="其他频道",都市剧场
-http://175.10.59.126:4022/udp/239.76.246.215:1234
-#EXTINF:-1 group-title="其他频道",都市剧场
-http://175.10.59.126:4022/udp/239.76.246.215:1234
-#EXTINF:-1 group-title="其他频道",都市剧场
-http://175.10.59.126:4022/udp/239.76.246.215:1234
-#EXTINF:-1 group-title="其他频道",都市剧场
-http://175.10.59.126:4022/udp/239.76.246.215:1234
-#EXTINF:-1 group-title="其他频道",都市剧场
-http://175.10.59.126:4022/udp/239.76.246.215:1234
-#EXTINF:-1 group-title="其他频道",都市剧场
-http://175.10.59.126:4022/udp/239.76.246.215:1234
-#EXTINF:-1 group-title="其他频道",金色夕阳
-http://175.10.59.126:4022/udp/239.76.254.43:9000
-#EXTINF:-1 group-title="其他频道",金色夕阳
-http://175.10.59.126:4022/udp/239.76.254.43:9000
-#EXTINF:-1 group-title="其他频道",金色夕阳
-http://175.10.59.126:4022/udp/239.76.254.43:9000
-#EXTINF:-1 group-title="其他频道",金色夕阳
-http://175.10.59.126:4022/udp/239.76.254.43:9000
-#EXTINF:-1 group-title="其他频道",金色夕阳
-http://175.10.59.126:4022/udp/239.76.254.43:9000
-#EXTINF:-1 group-title="其他频道",金色夕阳
-http://175.10.59.126:4022/udp/239.76.254.43:9000
-#EXTINF:-1 group-title="其他频道",金色夕阳
-http://175.10.59.126:4022/udp/239.76.254.43:9000
-#EXTINF:-1 group-title="其他频道",金色夕阳
-http://175.10.59.126:4022/udp/239.76.254.43:9000
-#EXTINF:-1 group-title="其他频道",金色夕阳
-http://175.10.59.126:4022/udp/239.76.254.43:9000
-#EXTINF:-1 group-title="其他频道",金色夕阳
-http://175.10.59.126:4022/udp/239.76.254.43:9000
-#EXTINF:-1 group-title="其他频道",金色学堂
-http://175.10.59.126:4022/udp/239.76.253.139:9000
-#EXTINF:-1 group-title="其他频道",金色学堂
-http://175.10.59.126:4022/udp/239.76.253.139:9000
-#EXTINF:-1 group-title="其他频道",金色学堂
-http://175.10.59.126:4022/udp/239.76.253.139:9000
-#EXTINF:-1 group-title="其他频道",金色学堂
-http://175.10.59.126:4022/udp/239.76.253.139:9000
-#EXTINF:-1 group-title="其他频道",金色学堂
-http://175.10.59.126:4022/udp/239.76.253.139:9000
-#EXTINF:-1 group-title="其他频道",金色学堂
-http://175.10.59.126:4022/udp/239.76.253.139:9000
-#EXTINF:-1 group-title="其他频道",金色学堂
-http://175.10.59.126:4022/udp/239.76.253.139:9000
-#EXTINF:-1 group-title="其他频道",金色学堂
-http://175.10.59.126:4022/udp/239.76.253.139:9000
-#EXTINF:-1 group-title="其他频道",金色学堂
-http://175.10.59.126:4022/udp/239.76.253.139:9000
-#EXTINF:-1 group-title="其他频道",金色学堂
-http://175.10.59.126:4022/udp/239.76.253.139:9000
-#EXTINF:-1 group-title="其他频道",风云剧场
-http://175.10.59.126:4022/udp/239.76.254.50:9000
-#EXTINF:-1 group-title="其他频道",风云剧场
-http://175.10.59.126:4022/udp/239.76.254.50:9000
-#EXTINF:-1 group-title="其他频道",风云剧场
-http://175.10.59.126:4022/udp/239.76.254.50:9000
-#EXTINF:-1 group-title="其他频道",风云剧场
-http://175.10.59.126:4022/udp/239.76.254.50:9000
-#EXTINF:-1 group-title="其他频道",风云剧场
-http://175.10.59.126:4022/udp/239.76.254.50:9000
-#EXTINF:-1 group-title="其他频道",风云剧场
-http://175.10.59.126:4022/udp/239.76.254.50:9000
-#EXTINF:-1 group-title="其他频道",风云剧场
-http://175.10.59.126:4022/udp/239.76.254.50:9000
-#EXTINF:-1 group-title="其他频道",风云剧场
-http://175.10.59.126:4022/udp/239.76.254.50:9000
-#EXTINF:-1 group-title="其他频道",风云剧场
-http://175.10.59.126:4022/udp/239.76.254.50:9000
-#EXTINF:-1 group-title="其他频道",风云剧场
-http://175.10.59.126:4022/udp/239.76.254.50:9000
-#EXTINF:-1 group-title="其他频道",风云足球
-http://175.10.59.126:4022/udp/239.76.254.52:9000
-#EXTINF:-1 group-title="其他频道",风云足球
-http://175.10.59.126:4022/udp/239.76.254.52:9000
-#EXTINF:-1 group-title="其他频道",风云足球
-http://175.10.59.126:4022/udp/239.76.254.52:9000
-#EXTINF:-1 group-title="其他频道",风云足球
-http://175.10.59.126:4022/udp/239.76.254.52:9000
-#EXTINF:-1 group-title="其他频道",风云足球
-http://175.10.59.126:4022/udp/239.76.254.52:9000
-#EXTINF:-1 group-title="其他频道",风云足球
-http://175.10.59.126:4022/udp/239.76.254.52:9000
-#EXTINF:-1 group-title="其他频道",风云足球
-http://175.10.59.126:4022/udp/239.76.254.52:9000
-#EXTINF:-1 group-title="其他频道",风云足球
-http://175.10.59.126:4022/udp/239.76.254.52:9000
-#EXTINF:-1 group-title="其他频道",风云足球
-http://175.10.59.126:4022/udp/239.76.254.52:9000
-#EXTINF:-1 group-title="其他频道",风云足球
-http://175.10.59.126:4022/udp/239.76.254.52:9000
-#EXTINF:-1 group-title="其他频道",风云音乐
-http://175.10.59.126:4022/udp/239.76.254.51:9000
-#EXTINF:-1 group-title="其他频道",风云音乐
-http://175.10.59.126:4022/udp/239.76.254.51:9000
-#EXTINF:-1 group-title="其他频道",风云音乐
-http://175.10.59.126:4022/udp/239.76.254.51:9000
-#EXTINF:-1 group-title="其他频道",风云音乐
-http://175.10.59.126:4022/udp/239.76.254.51:9000
-#EXTINF:-1 group-title="其他频道",风云音乐
-http://175.10.59.126:4022/udp/239.76.254.51:9000
-#EXTINF:-1 group-title="其他频道",风云音乐
-http://175.10.59.126:4022/udp/239.76.254.51:9000
-#EXTINF:-1 group-title="其他频道",风云音乐
-http://175.10.59.126:4022/udp/239.76.254.51:9000
-#EXTINF:-1 group-title="其他频道",风云音乐
-http://175.10.59.126:4022/udp/239.76.254.51:9000
-#EXTINF:-1 group-title="其他频道",风云音乐
-http://175.10.59.126:4022/udp/239.76.254.51:9000
-#EXTINF:-1 group-title="其他频道",风云音乐
-http://175.10.59.126:4022/udp/239.76.254.51:9000
 #EXTINF:-1 group-title="港澳频道",凤凰资讯
 http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 group-title="港澳频道",凤凰资讯
@@ -6025,5 +4625,5 @@ https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
 https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 #EXTINF:-1 group-title="更新时间",2024-04-27
 url
-#EXTINF:-1 group-title="更新时间",08:18:01
+#EXTINF:-1 group-title="更新时间",08:32:27
 url
