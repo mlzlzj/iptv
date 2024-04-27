@@ -24,7 +24,8 @@ jobs:
         run: pip install selenium requests futures eventlet
                 
       - name: Run ZB
-        run: python ${{ github.workspace }}/hunan-ZB.py
+        run: python ${{ github.workspace }}/DXZB.py
+
 
       - name: 提交更改
         run: |
