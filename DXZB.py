@@ -86,25 +86,25 @@ for url in urls:
 
 urls_all = set(urls_all)  # 去重得到唯一的URL列表
 for urlx in urls_all:
-    # channel = [f'{name},{url.replace("http://8.8.8.8:8", urlx)}' for name, url in
+    # channel = [f'{name},{url.replace("http://8.8.8.8:8", urlx)}' for name, url in                   # 未知
     #            [line.strip().split(',') for line in open("hunan0.txt", 'r', encoding='utf-8')]]
     
-    # channel = [f'{name},{url.replace("http://175.10.59.126:4022", urlx)}' for name, url in
+    # channel = [f'{name},{url.replace("http://175.10.59.126:4022", urlx)}' for name, url in          # 长沙
     #            [line.strip().split(',') for line in open("hunan1.txt", 'r', encoding='utf-8')]]
     
-    channel = [f'{name},{url.replace("http://118.254.200.3:8888", urlx)}' for name, url in
-               [line.strip().split(',') for line in open("hunan2.txt", 'r', encoding='utf-8')]]
+    # channel = [f'{name},{url.replace("http://118.254.200.3:8888", urlx)}' for name, url in          # 衡阳
+    #            [line.strip().split(',') for line in open("hunan2.txt", 'r', encoding='utf-8')]]
     #
-    # channel = [f'{name},{url.replace("http://223.144.160.215:58888", urlx)}' for name, url in
-    #            [line.strip().split(',') for line in open("hunan3.txt", 'r', encoding='utf-8')]]
+    channel = [f'{name},{url.replace("http://223.144.160.215:58888", urlx)}' for name, url in       # 岳阳
+               [line.strip().split(',') for line in open("hunan3.txt", 'r', encoding='utf-8')]]
     # 
-    # channel = [f'{name},{url.replace("http://118.254.158.16:8888", urlx)}' for name, url in
+    # channel = [f'{name},{url.replace("http://118.254.158.16:8888", urlx)}' for name, url in         # 衡阳
     #            [line.strip().split(',') for line in open("hunan4.txt", 'r', encoding='utf-8')]]
     #
-    # channel = [f'{name},{url.replace("http://118.254.159.7:8888", urlx)}' for name, url in
+    # channel = [f'{name},{url.replace("http://118.254.159.7:8888", urlx)}' for name, url in          # 衡阳
     #            [line.strip().split(',') for line in open("hunan5.txt", 'r', encoding='utf-8')]]
     #
-    # channel = [f'{name},{url.replace("http://124.230.56.124:55555", urlx)}' for name, url in
+    # channel = [f'{name},{url.replace("http://124.230.56.124:55555", urlx)}' for name, url in        # 邵阳
     #            [line.strip().split(',') for line in open("hunan6.txt", 'r', encoding='utf-8')]]
     results.extend(channel)
 
