@@ -241,7 +241,6 @@ os.remove("iptv.txt")
 os.remove("HK.txt")
 os.remove("TW.txt")
 os.remove("GAT.txt")
-os.remove("i.txt")
 
 def txt_to_m3u(input_file, output_file):
     # 读取txt文件内容
