@@ -217,26 +217,9 @@ with open("iptv.txt", 'w', encoding='utf-8') as file:
                 file.write(f"{channel_name},{channel_url}\n")
                 channel_counters[channel_name] = 1
 
-    # channel_counters = {}
-    # file.write('\n其他频道,#genre#\n')
-    # for result in resultxs:
-    #     channel_name, channel_url = result
-    #     if 'CCTV' not in channel_name and '卫视' not in channel_name and '测试' not in channel_name and '湖南' not in \
-    #             channel_name and '长沙' not in channel_name and '金鹰' not in channel_name and '凤凰' not in channel_name:
-    #         if channel_name in channel_counters:
-    #             if channel_counters[channel_name] >= result_counter:
-    #                 continue
-    #             else:
-    #                 file.write(f"{channel_name},{channel_url}\n")
-    #                 channel_counters[channel_name] += 1
-    #         else:
-    #             file.write(f"{channel_name},{channel_url}\n")
-    #             channel_counters[channel_name] = 1
-
-
 # 合并所有的txt文件
 file_contents = []
-file_paths = ["iptv.txt", "GAT.txt", "zdy.txt"]  # 替换为实际的文件路径列表
+file_paths = ["iptv.txt", "i.txt", "GAT.txt", "zdy.txt"]  # 替换为实际的文件路径列表
 for file_path in file_paths:
     with open(file_path, 'r', encoding="utf-8") as file:
         content = file.read()
@@ -258,6 +241,7 @@ os.remove("iptv.txt")
 os.remove("HK.txt")
 os.remove("TW.txt")
 os.remove("GAT.txt")
+os.remove("i.txt")
 
 def txt_to_m3u(input_file, output_file):
     # 读取txt文件内容
