@@ -22,9 +22,6 @@ jobs:
 
       - name: Install dependencies
         run: pip install selenium requests futures eventlet
-
-      - name: Run I
-        run: python ${{ github.workspace }}/i.py
               
       - name: Run ZB
         run: python ${{ github.workspace }}/DXZB.py
