@@ -1,58 +1,54 @@
 #EXTM3U
 #EXTINF:-1 group-title="央视频道",CCTV1
-http://118.251.35.10:4022/udp/239.76.245.51:1234
-#EXTINF:-1 group-title="央视频道",CCTV1
-http://118.248.160.63:8888/udp/239.76.246.151:1234
+http://118.254.157.41:8888/udp/239.76.245.51:1234
 #EXTINF:-1 group-title="央视频道",CCTV1
 http://118.251.35.10:4022/udp/239.76.246.151:1234
 #EXTINF:-1 group-title="央视频道",CCTV1
-http://118.251.35.10:4022/udp/239.76.253.151:9000
-#EXTINF:-1 group-title="央视频道",CCTV1
-http://118.254.157.41:8888/udp/239.76.245.51:1234
-#EXTINF:-1 group-title="央视频道",CCTV1
-http://118.248.160.63:8888/udp/239.76.253.151:9000
-#EXTINF:-1 group-title="央视频道",CCTV1
-http://118.248.160.63:8888/udp/239.76.245.51:1234
-#EXTINF:-1 group-title="央视频道",CCTV1
-http://118.254.157.41:8888/udp/239.76.246.151:1234
-#EXTINF:-1 group-title="央视频道",CCTV1
-http://118.254.157.41:8888/udp/239.76.253.151:9000
-#EXTINF:-1 group-title="央视频道",CCTV1
-http://118.254.159.7:8888/udp/239.76.253.151:9000
+http://118.254.159.7:8888/udp/239.76.245.51:1234
 #EXTINF:-1 group-title="央视频道",CCTV1
 http://118.254.159.7:8888/udp/239.76.246.151:1234
 #EXTINF:-1 group-title="央视频道",CCTV1
-http://118.254.200.67:8888/udp/239.76.253.151:9000
+http://118.254.159.7:8888/udp/239.76.253.151:9000
 #EXTINF:-1 group-title="央视频道",CCTV1
-http://175.11.104.226:4022/udp/239.76.245.51:1234
+http://118.254.157.41:8888/udp/239.76.246.151:1234
+#EXTINF:-1 group-title="央视频道",CCTV1
+http://118.251.35.10:4022/udp/239.76.253.151:9000
+#EXTINF:-1 group-title="央视频道",CCTV1
+http://118.254.157.41:8888/udp/239.76.253.151:9000
 #EXTINF:-1 group-title="央视频道",CCTV1
 http://118.254.200.67:8888/udp/239.76.245.51:1234
 #EXTINF:-1 group-title="央视频道",CCTV1
-http://175.11.104.226:4022/udp/239.76.246.151:1234
+http://118.254.200.67:8888/udp/239.76.246.151:1234
 #EXTINF:-1 group-title="央视频道",CCTV1
-http://175.15.135.124:8888/udp/239.76.245.51:1234
+http://175.11.104.226:4022/udp/239.76.245.51:1234
+#EXTINF:-1 group-title="央视频道",CCTV1
+http://118.254.200.67:8888/udp/239.76.253.151:9000
+#EXTINF:-1 group-title="央视频道",CCTV1
+http://124.230.56.124:55555/udp/239.76.245.51:1234
 #EXTINF:-1 group-title="央视频道",CCTV1
 http://175.11.104.226:4022/udp/239.76.253.151:9000
 #EXTINF:-1 group-title="央视频道",CCTV1
-http://118.254.200.67:8888/udp/239.76.246.151:1234
+http://124.230.56.124:55555/udp/239.76.246.151:1234
 #EXTINF:-1 group-title="央视频道",CCTV1
-http://175.15.135.124:8888/udp/239.76.246.151:1234
+http://175.11.104.226:4022/udp/239.76.246.151:1234
 #EXTINF:-1 group-title="央视频道",CCTV1
-http://175.8.87.127:3000/udp/239.76.245.51:1234
-#EXTINF:-1 group-title="央视频道",CCTV2
-http://118.248.160.63:8888/udp/239.76.246.152:1234
+http://124.230.56.124:55555/udp/239.76.253.151:9000
+#EXTINF:-1 group-title="央视频道",CCTV1
+http://175.15.135.124:8888/udp/239.76.245.51:1234
+#EXTINF:-1 group-title="央视频道",CCTV1
+http://118.251.35.10:4022/udp/239.76.245.51:1234
+#EXTINF:-1 group-title="央视频道",CCTV1
+http://175.15.135.124:8888/udp/239.76.253.151:9000
 #EXTINF:-1 group-title="央视频道",CCTV2
 http://118.251.35.10:4022/udp/239.76.246.152:1234
-#EXTINF:-1 group-title="央视频道",CCTV2
-http://118.248.160.63:8888/udp/239.76.253.152:9000
 #EXTINF:-1 group-title="央视频道",CCTV2
 http://118.251.35.10:4022/udp/239.76.253.152:9000
 #EXTINF:-1 group-title="央视频道",CCTV2
 http://118.254.157.41:8888/udp/239.76.246.152:1234
 #EXTINF:-1 group-title="央视频道",CCTV2
-http://118.254.157.41:8888/udp/239.76.253.152:9000
-#EXTINF:-1 group-title="央视频道",CCTV2
 http://118.254.159.7:8888/udp/239.76.246.152:1234
+#EXTINF:-1 group-title="央视频道",CCTV2
+http://118.254.157.41:8888/udp/239.76.253.152:9000
 #EXTINF:-1 group-title="央视频道",CCTV2
 http://118.254.159.7:8888/udp/239.76.253.152:9000
 #EXTINF:-1 group-title="央视频道",CCTV2
@@ -60,7 +56,11 @@ http://118.254.200.67:8888/udp/239.76.246.152:1234
 #EXTINF:-1 group-title="央视频道",CCTV2
 http://118.254.200.67:8888/udp/239.76.253.152:9000
 #EXTINF:-1 group-title="央视频道",CCTV2
+http://124.230.56.124:55555/udp/239.76.246.152:1234
+#EXTINF:-1 group-title="央视频道",CCTV2
 http://175.11.104.226:4022/udp/239.76.253.152:9000
+#EXTINF:-1 group-title="央视频道",CCTV2
+http://124.230.56.124:55555/udp/239.76.253.152:9000
 #EXTINF:-1 group-title="央视频道",CCTV2
 http://175.11.104.226:4022/udp/239.76.246.152:1234
 #EXTINF:-1 group-title="央视频道",CCTV2
@@ -68,21 +68,17 @@ http://175.15.135.124:8888/udp/239.76.246.152:1234
 #EXTINF:-1 group-title="央视频道",CCTV2
 http://175.15.135.124:8888/udp/239.76.253.152:9000
 #EXTINF:-1 group-title="央视频道",CCTV2
-http://175.8.87.127:3000/udp/239.76.246.152:1234
-#EXTINF:-1 group-title="央视频道",CCTV2
 http://175.8.87.127:3000/udp/239.76.253.152:9000
 #EXTINF:-1 group-title="央视频道",CCTV2
+http://175.8.87.127:3000/udp/239.76.246.152:1234
+#EXTINF:-1 group-title="央视频道",CCTV2
 http://223.144.160.215:58888/udp/239.76.246.152:1234
+#EXTINF:-1 group-title="央视频道",CCTV2
+http://223.144.160.215:58888/udp/239.76.253.152:9000
 #EXTINF:-1 group-title="央视频道",CCTV2
 http://58.46.248.145:4022/udp/239.76.246.152:1234
 #EXTINF:-1 group-title="央视频道",CCTV2
 http://58.46.248.145:4022/udp/239.76.253.152:9000
-#EXTINF:-1 group-title="央视频道",CCTV2
-http://223.144.160.215:58888/udp/239.76.253.152:9000
-#EXTINF:-1 group-title="央视频道",CCTV3
-http://118.248.160.63:8888/udp/239.76.246.153:1234
-#EXTINF:-1 group-title="央视频道",CCTV3
-http://118.248.160.63:8888/udp/239.76.253.153:9000
 #EXTINF:-1 group-title="央视频道",CCTV3
 http://118.251.35.10:4022/udp/239.76.246.153:1234
 #EXTINF:-1 group-title="央视频道",CCTV3
@@ -90,21 +86,21 @@ http://118.251.35.10:4022/udp/239.76.253.153:9000
 #EXTINF:-1 group-title="央视频道",CCTV3
 http://118.254.157.41:8888/udp/239.76.246.153:1234
 #EXTINF:-1 group-title="央视频道",CCTV3
-http://118.254.157.41:8888/udp/239.76.253.153:9000
+http://118.254.159.7:8888/udp/239.76.253.153:9000
 #EXTINF:-1 group-title="央视频道",CCTV3
-http://118.254.159.7:8888/udp/239.76.246.153:1234
+http://118.254.157.41:8888/udp/239.76.253.153:9000
 #EXTINF:-1 group-title="央视频道",CCTV3
 http://118.254.200.67:8888/udp/239.76.246.153:1234
 #EXTINF:-1 group-title="央视频道",CCTV3
 http://118.254.200.67:8888/udp/239.76.253.153:9000
 #EXTINF:-1 group-title="央视频道",CCTV3
-http://118.254.159.7:8888/udp/239.76.253.153:9000
+http://124.230.56.124:55555/udp/239.76.246.153:1234
 #EXTINF:-1 group-title="央视频道",CCTV3
 http://175.11.104.226:4022/udp/239.76.246.153:1234
 #EXTINF:-1 group-title="央视频道",CCTV3
-http://175.15.135.124:8888/udp/239.76.246.153:1234
-#EXTINF:-1 group-title="央视频道",CCTV3
 http://175.11.104.226:4022/udp/239.76.253.153:9000
+#EXTINF:-1 group-title="央视频道",CCTV3
+http://124.230.56.124:55555/udp/239.76.253.153:9000
 #EXTINF:-1 group-title="央视频道",CCTV3
 http://175.15.135.124:8888/udp/239.76.253.153:9000
 #EXTINF:-1 group-title="央视频道",CCTV3
@@ -116,21 +112,19 @@ http://223.144.160.215:58888/udp/239.76.246.153:1234
 #EXTINF:-1 group-title="央视频道",CCTV3
 http://58.46.248.145:4022/udp/239.76.246.153:1234
 #EXTINF:-1 group-title="央视频道",CCTV3
+http://223.144.160.215:58888/udp/239.76.253.153:9000
+#EXTINF:-1 group-title="央视频道",CCTV3
 http://58.46.248.145:4022/udp/239.76.253.153:9000
 #EXTINF:-1 group-title="央视频道",CCTV3
-http://223.144.160.215:58888/udp/239.76.253.153:9000
-#EXTINF:-1 group-title="央视频道",CCTV4
-http://118.248.160.63:8888/udp/239.76.245.195:1234
-#EXTINF:-1 group-title="央视频道",CCTV4
-http://118.248.160.63:8888/udp/239.76.246.154:1234
-#EXTINF:-1 group-title="央视频道",CCTV4
-http://118.248.160.63:8888/udp/239.76.253.154:9000
+http://175.15.135.124:8888/udp/239.76.246.153:1234
+#EXTINF:-1 group-title="央视频道",CCTV3
+http://118.254.159.7:8888/udp/239.76.246.153:1234
 #EXTINF:-1 group-title="央视频道",CCTV4
 http://118.251.35.10:4022/udp/239.76.245.195:1234
 #EXTINF:-1 group-title="央视频道",CCTV4
-http://118.251.35.10:4022/udp/239.76.246.154:1234
-#EXTINF:-1 group-title="央视频道",CCTV4
 http://118.251.35.10:4022/udp/239.76.253.154:9000
+#EXTINF:-1 group-title="央视频道",CCTV4
+http://118.251.35.10:4022/udp/239.76.246.154:1234
 #EXTINF:-1 group-title="央视频道",CCTV4
 http://118.254.157.41:8888/udp/239.76.245.195:1234
 #EXTINF:-1 group-title="央视频道",CCTV4
@@ -140,9 +134,9 @@ http://118.254.157.41:8888/udp/239.76.253.154:9000
 #EXTINF:-1 group-title="央视频道",CCTV4
 http://118.254.159.7:8888/udp/239.76.245.195:1234
 #EXTINF:-1 group-title="央视频道",CCTV4
-http://118.254.159.7:8888/udp/239.76.246.154:1234
-#EXTINF:-1 group-title="央视频道",CCTV4
 http://118.254.159.7:8888/udp/239.76.253.154:9000
+#EXTINF:-1 group-title="央视频道",CCTV4
+http://118.254.159.7:8888/udp/239.76.246.154:1234
 #EXTINF:-1 group-title="央视频道",CCTV4
 http://118.254.200.67:8888/udp/239.76.245.195:1234
 #EXTINF:-1 group-title="央视频道",CCTV4
@@ -150,35 +144,41 @@ http://118.254.200.67:8888/udp/239.76.246.154:1234
 #EXTINF:-1 group-title="央视频道",CCTV4
 http://118.254.200.67:8888/udp/239.76.253.154:9000
 #EXTINF:-1 group-title="央视频道",CCTV4
+http://124.230.56.124:55555/udp/239.76.245.195:1234
+#EXTINF:-1 group-title="央视频道",CCTV4
+http://124.230.56.124:55555/udp/239.76.246.154:1234
+#EXTINF:-1 group-title="央视频道",CCTV4
 http://175.11.104.226:4022/udp/239.76.245.195:1234
 #EXTINF:-1 group-title="央视频道",CCTV4
-http://175.11.104.226:4022/udp/239.76.253.154:9000
+http://124.230.56.124:55555/udp/239.76.253.154:9000
 #EXTINF:-1 group-title="央视频道",CCTV4
 http://175.11.104.226:4022/udp/239.76.246.154:1234
 #EXTINF:-1 group-title="央视频道",CCTV4
+http://175.11.104.226:4022/udp/239.76.253.154:9000
+#EXTINF:-1 group-title="央视频道",CCTV4
 http://175.15.135.124:8888/udp/239.76.246.154:1234
 #EXTINF:-1 group-title="央视频道",CCTV4
-http://175.15.135.124:8888/udp/239.76.245.195:1234
-#EXTINF:-1 group-title="央视频道",CCTV4欧洲
-http://118.248.160.63:8888/udp/239.76.246.95:1234
+http://175.8.87.127:3000/udp/239.76.245.195:1234
 #EXTINF:-1 group-title="央视频道",CCTV4欧洲
 http://118.251.35.10:4022/udp/239.76.246.95:1234
 #EXTINF:-1 group-title="央视频道",CCTV4欧洲
-http://118.248.160.63:8888/udp/239.76.253.95:9000
+http://118.254.157.41:8888/udp/239.76.246.95:1234
 #EXTINF:-1 group-title="央视频道",CCTV4欧洲
 http://118.251.35.10:4022/udp/239.76.253.95:9000
 #EXTINF:-1 group-title="央视频道",CCTV4欧洲
-http://118.254.157.41:8888/udp/239.76.246.95:1234
-#EXTINF:-1 group-title="央视频道",CCTV4欧洲
 http://118.254.157.41:8888/udp/239.76.253.95:9000
-#EXTINF:-1 group-title="央视频道",CCTV4欧洲
-http://118.254.159.7:8888/udp/239.76.253.95:9000
-#EXTINF:-1 group-title="央视频道",CCTV4欧洲
-http://118.254.200.67:8888/udp/239.76.246.95:1234
 #EXTINF:-1 group-title="央视频道",CCTV4欧洲
 http://118.254.159.7:8888/udp/239.76.246.95:1234
 #EXTINF:-1 group-title="央视频道",CCTV4欧洲
+http://118.254.200.67:8888/udp/239.76.246.95:1234
+#EXTINF:-1 group-title="央视频道",CCTV4欧洲
+http://118.254.159.7:8888/udp/239.76.253.95:9000
+#EXTINF:-1 group-title="央视频道",CCTV4欧洲
 http://118.254.200.67:8888/udp/239.76.253.95:9000
+#EXTINF:-1 group-title="央视频道",CCTV4欧洲
+http://124.230.56.124:55555/udp/239.76.246.95:1234
+#EXTINF:-1 group-title="央视频道",CCTV4欧洲
+http://124.230.56.124:55555/udp/239.76.253.95:9000
 #EXTINF:-1 group-title="央视频道",CCTV4欧洲
 http://175.11.104.226:4022/udp/239.76.246.95:1234
 #EXTINF:-1 group-title="央视频道",CCTV4欧洲
@@ -192,35 +192,35 @@ http://175.8.87.127:3000/udp/239.76.246.95:1234
 #EXTINF:-1 group-title="央视频道",CCTV4欧洲
 http://175.8.87.127:3000/udp/239.76.253.95:9000
 #EXTINF:-1 group-title="央视频道",CCTV4欧洲
-http://223.144.160.215:58888/udp/239.76.253.95:9000
-#EXTINF:-1 group-title="央视频道",CCTV4欧洲
-http://58.46.248.145:4022/udp/239.76.246.95:1234
-#EXTINF:-1 group-title="央视频道",CCTV4欧洲
 http://223.144.160.215:58888/udp/239.76.246.95:1234
 #EXTINF:-1 group-title="央视频道",CCTV4欧洲
+http://223.144.160.215:58888/udp/239.76.253.95:9000
+#EXTINF:-1 group-title="央视频道",CCTV4欧洲
 http://58.46.248.145:4022/udp/239.76.253.95:9000
-#EXTINF:-1 group-title="央视频道",CCTV4美洲
-http://118.248.160.63:8888/udp/239.76.253.96:9000
-#EXTINF:-1 group-title="央视频道",CCTV4美洲
-http://118.251.35.10:4022/udp/239.76.246.96:1234
+#EXTINF:-1 group-title="央视频道",CCTV4欧洲
+http://58.46.248.145:4022/udp/239.76.246.95:1234
 #EXTINF:-1 group-title="央视频道",CCTV4美洲
 http://118.251.35.10:4022/udp/239.76.253.96:9000
 #EXTINF:-1 group-title="央视频道",CCTV4美洲
-http://118.254.157.41:8888/udp/239.76.246.96:1234
+http://118.251.35.10:4022/udp/239.76.246.96:1234
 #EXTINF:-1 group-title="央视频道",CCTV4美洲
 http://118.254.157.41:8888/udp/239.76.253.96:9000
+#EXTINF:-1 group-title="央视频道",CCTV4美洲
+http://118.254.200.67:8888/udp/239.76.246.96:1234
 #EXTINF:-1 group-title="央视频道",CCTV4美洲
 http://118.254.159.7:8888/udp/239.76.246.96:1234
 #EXTINF:-1 group-title="央视频道",CCTV4美洲
 http://118.254.159.7:8888/udp/239.76.253.96:9000
 #EXTINF:-1 group-title="央视频道",CCTV4美洲
-http://118.254.200.67:8888/udp/239.76.246.96:1234
-#EXTINF:-1 group-title="央视频道",CCTV4美洲
 http://118.254.200.67:8888/udp/239.76.253.96:9000
 #EXTINF:-1 group-title="央视频道",CCTV4美洲
-http://175.11.104.226:4022/udp/239.76.246.96:1234
+http://124.230.56.124:55555/udp/239.76.253.96:9000
+#EXTINF:-1 group-title="央视频道",CCTV4美洲
+http://124.230.56.124:55555/udp/239.76.246.96:1234
 #EXTINF:-1 group-title="央视频道",CCTV4美洲
 http://175.11.104.226:4022/udp/239.76.253.96:9000
+#EXTINF:-1 group-title="央视频道",CCTV4美洲
+http://175.11.104.226:4022/udp/239.76.246.96:1234
 #EXTINF:-1 group-title="央视频道",CCTV4美洲
 http://175.15.135.124:8888/udp/239.76.246.96:1234
 #EXTINF:-1 group-title="央视频道",CCTV4美洲
@@ -230,35 +230,37 @@ http://175.15.135.124:8888/udp/239.76.253.96:9000
 #EXTINF:-1 group-title="央视频道",CCTV4美洲
 http://175.8.87.127:3000/udp/239.76.253.96:9000
 #EXTINF:-1 group-title="央视频道",CCTV4美洲
-http://58.46.248.145:4022/udp/239.76.246.96:1234
-#EXTINF:-1 group-title="央视频道",CCTV4美洲
 http://223.144.160.215:58888/udp/239.76.246.96:1234
 #EXTINF:-1 group-title="央视频道",CCTV4美洲
 http://223.144.160.215:58888/udp/239.76.253.96:9000
 #EXTINF:-1 group-title="央视频道",CCTV4美洲
-http://118.248.160.63:8888/udp/239.76.246.96:1234
+http://58.46.248.145:4022/udp/239.76.246.96:1234
 #EXTINF:-1 group-title="央视频道",CCTV4美洲
 http://58.46.248.145:4022/udp/239.76.253.96:9000
-#EXTINF:-1 group-title="央视频道",CCTV5+
-http://118.248.160.63:8888/udp/239.76.246.168:1234
-#EXTINF:-1 group-title="央视频道",CCTV5+
-http://118.248.160.63:8888/udp/239.76.253.168:9000
-#EXTINF:-1 group-title="央视频道",CCTV5+
-http://118.251.35.10:4022/udp/239.76.253.168:9000
+#EXTINF:-1 group-title="央视频道",CCTV4美洲
+http://118.254.157.41:8888/udp/239.76.246.96:1234
 #EXTINF:-1 group-title="央视频道",CCTV5+
 http://118.251.35.10:4022/udp/239.76.246.168:1234
 #EXTINF:-1 group-title="央视频道",CCTV5+
-http://118.254.157.41:8888/udp/239.76.246.168:1234
+http://118.251.35.10:4022/udp/239.76.253.168:9000
 #EXTINF:-1 group-title="央视频道",CCTV5+
-http://118.254.157.41:8888/udp/239.76.253.168:9000
+http://118.254.157.41:8888/udp/239.76.246.168:1234
 #EXTINF:-1 group-title="央视频道",CCTV5+
 http://118.254.159.7:8888/udp/239.76.246.168:1234
 #EXTINF:-1 group-title="央视频道",CCTV5+
+http://118.254.157.41:8888/udp/239.76.253.168:9000
+#EXTINF:-1 group-title="央视频道",CCTV5+
 http://118.254.159.7:8888/udp/239.76.253.168:9000
 #EXTINF:-1 group-title="央视频道",CCTV5+
-http://175.11.104.226:4022/udp/239.76.246.168:1234
+http://118.254.200.67:8888/udp/239.76.246.168:1234
 #EXTINF:-1 group-title="央视频道",CCTV5+
 http://118.254.200.67:8888/udp/239.76.253.168:9000
+#EXTINF:-1 group-title="央视频道",CCTV5+
+http://124.230.56.124:55555/udp/239.76.246.168:1234
+#EXTINF:-1 group-title="央视频道",CCTV5+
+http://124.230.56.124:55555/udp/239.76.253.168:9000
+#EXTINF:-1 group-title="央视频道",CCTV5+
+http://175.11.104.226:4022/udp/239.76.246.168:1234
 #EXTINF:-1 group-title="央视频道",CCTV5+
 http://175.11.104.226:4022/udp/239.76.253.168:9000
 #EXTINF:-1 group-title="央视频道",CCTV5+
@@ -270,17 +272,13 @@ http://175.8.87.127:3000/udp/239.76.246.168:1234
 #EXTINF:-1 group-title="央视频道",CCTV5+
 http://175.8.87.127:3000/udp/239.76.253.168:9000
 #EXTINF:-1 group-title="央视频道",CCTV5+
+http://223.144.160.215:58888/udp/239.76.246.168:1234
+#EXTINF:-1 group-title="央视频道",CCTV5+
 http://223.144.160.215:58888/udp/239.76.253.168:9000
 #EXTINF:-1 group-title="央视频道",CCTV5+
-http://223.144.160.215:58888/udp/239.76.246.168:1234
-#EXTINF:-1 group-title="央视频道",CCTV5
-http://118.248.160.63:8888/udp/239.76.246.155:1234
+http://58.46.248.145:4022/udp/239.76.253.168:9000
 #EXTINF:-1 group-title="央视频道",CCTV5+
 http://58.46.248.145:4022/udp/239.76.246.168:1234
-#EXTINF:-1 group-title="央视频道",CCTV5+
-http://58.46.248.145:4022/udp/239.76.253.168:9000
-#EXTINF:-1 group-title="央视频道",CCTV5
-http://118.248.160.63:8888/udp/239.76.253.155:9000
 #EXTINF:-1 group-title="央视频道",CCTV5
 http://118.251.35.10:4022/udp/239.76.246.155:1234
 #EXTINF:-1 group-title="央视频道",CCTV5
@@ -288,23 +286,23 @@ http://118.251.35.10:4022/udp/239.76.253.155:9000
 #EXTINF:-1 group-title="央视频道",CCTV5
 http://118.254.157.41:8888/udp/239.76.246.155:1234
 #EXTINF:-1 group-title="央视频道",CCTV5
-http://118.254.157.41:8888/udp/239.76.253.155:9000
-#EXTINF:-1 group-title="央视频道",CCTV5
 http://118.254.159.7:8888/udp/239.76.246.155:1234
+#EXTINF:-1 group-title="央视频道",CCTV5
+http://118.254.157.41:8888/udp/239.76.253.155:9000
 #EXTINF:-1 group-title="央视频道",CCTV5
 http://118.254.159.7:8888/udp/239.76.253.155:9000
 #EXTINF:-1 group-title="央视频道",CCTV5
+http://118.254.200.67:8888/udp/239.76.246.155:1234
+#EXTINF:-1 group-title="央视频道",CCTV5
 http://118.254.200.67:8888/udp/239.76.253.155:9000
 #EXTINF:-1 group-title="央视频道",CCTV5
-http://118.254.200.67:8888/udp/239.76.246.155:1234
-#EXTINF:-1 group-title="央视频道",CCTV5+
-http://118.254.200.67:8888/udp/239.76.246.168:1234
+http://124.230.56.124:55555/udp/239.76.246.155:1234
+#EXTINF:-1 group-title="央视频道",CCTV5
+http://124.230.56.124:55555/udp/239.76.253.155:9000
 #EXTINF:-1 group-title="央视频道",CCTV5
 http://175.11.104.226:4022/udp/239.76.246.155:1234
 #EXTINF:-1 group-title="央视频道",CCTV5
 http://175.11.104.226:4022/udp/239.76.253.155:9000
-#EXTINF:-1 group-title="央视频道",CCTV5
-http://175.15.135.124:8888/udp/239.76.246.155:1234
 #EXTINF:-1 group-title="央视频道",CCTV5
 http://175.15.135.124:8888/udp/239.76.253.155:9000
 #EXTINF:-1 group-title="央视频道",CCTV5
@@ -314,13 +312,13 @@ http://175.8.87.127:3000/udp/239.76.253.155:9000
 #EXTINF:-1 group-title="央视频道",CCTV5
 http://223.144.160.215:58888/udp/239.76.246.155:1234
 #EXTINF:-1 group-title="央视频道",CCTV5
-http://223.144.160.215:58888/udp/239.76.253.155:9000
-#EXTINF:-1 group-title="央视频道",CCTV5
 http://58.46.248.145:4022/udp/239.76.246.155:1234
 #EXTINF:-1 group-title="央视频道",CCTV5
 http://58.46.248.145:4022/udp/239.76.253.155:9000
-#EXTINF:-1 group-title="央视频道",CCTV6
-http://118.248.160.63:8888/udp/239.76.253.156:9000
+#EXTINF:-1 group-title="央视频道",CCTV5
+http://223.144.160.215:58888/udp/239.76.253.155:9000
+#EXTINF:-1 group-title="央视频道",CCTV5
+http://175.15.135.124:8888/udp/239.76.246.155:1234
 #EXTINF:-1 group-title="央视频道",CCTV6
 http://118.251.35.10:4022/udp/239.76.246.156:1234
 #EXTINF:-1 group-title="央视频道",CCTV6
@@ -332,21 +330,23 @@ http://118.254.157.41:8888/udp/239.76.253.156:9000
 #EXTINF:-1 group-title="央视频道",CCTV6
 http://118.254.159.7:8888/udp/239.76.246.156:1234
 #EXTINF:-1 group-title="央视频道",CCTV6
-http://118.254.159.7:8888/udp/239.76.253.156:9000
+http://118.254.200.67:8888/udp/239.76.253.156:9000
 #EXTINF:-1 group-title="央视频道",CCTV6
 http://118.254.200.67:8888/udp/239.76.246.156:1234
 #EXTINF:-1 group-title="央视频道",CCTV6
-http://118.254.200.67:8888/udp/239.76.253.156:9000
+http://124.230.56.124:55555/udp/239.76.246.156:1234
 #EXTINF:-1 group-title="央视频道",CCTV6
 http://175.11.104.226:4022/udp/239.76.246.156:1234
+#EXTINF:-1 group-title="央视频道",CCTV6
+http://124.230.56.124:55555/udp/239.76.253.156:9000
 #EXTINF:-1 group-title="央视频道",CCTV6
 http://175.11.104.226:4022/udp/239.76.253.156:9000
 #EXTINF:-1 group-title="央视频道",CCTV6
 http://175.15.135.124:8888/udp/239.76.246.156:1234
 #EXTINF:-1 group-title="央视频道",CCTV6
-http://175.15.135.124:8888/udp/239.76.253.156:9000
-#EXTINF:-1 group-title="央视频道",CCTV6
 http://175.8.87.127:3000/udp/239.76.246.156:1234
+#EXTINF:-1 group-title="央视频道",CCTV6
+http://175.15.135.124:8888/udp/239.76.253.156:9000
 #EXTINF:-1 group-title="央视频道",CCTV6
 http://175.8.87.127:3000/udp/239.76.253.156:9000
 #EXTINF:-1 group-title="央视频道",CCTV6
@@ -358,17 +358,13 @@ http://58.46.248.145:4022/udp/239.76.246.156:1234
 #EXTINF:-1 group-title="央视频道",CCTV6
 http://58.46.248.145:4022/udp/239.76.253.156:9000
 #EXTINF:-1 group-title="央视频道",CCTV6
-http://118.248.160.63:8888/udp/239.76.246.156:1234
-#EXTINF:-1 group-title="央视频道",CCTV7
-http://118.248.160.63:8888/udp/239.76.253.157:9000
-#EXTINF:-1 group-title="央视频道",CCTV7
-http://118.248.160.63:8888/udp/239.76.246.157:1234
+http://118.254.159.7:8888/udp/239.76.253.156:9000
 #EXTINF:-1 group-title="央视频道",CCTV7
 http://118.251.35.10:4022/udp/239.76.246.157:1234
 #EXTINF:-1 group-title="央视频道",CCTV7
-http://118.254.157.41:8888/udp/239.76.246.157:1234
-#EXTINF:-1 group-title="央视频道",CCTV7
 http://118.251.35.10:4022/udp/239.76.253.157:9000
+#EXTINF:-1 group-title="央视频道",CCTV7
+http://118.254.157.41:8888/udp/239.76.246.157:1234
 #EXTINF:-1 group-title="央视频道",CCTV7
 http://118.254.157.41:8888/udp/239.76.253.157:9000
 #EXTINF:-1 group-title="央视频道",CCTV7
@@ -378,53 +374,55 @@ http://118.254.159.7:8888/udp/239.76.253.157:9000
 #EXTINF:-1 group-title="央视频道",CCTV7
 http://118.254.200.67:8888/udp/239.76.246.157:1234
 #EXTINF:-1 group-title="央视频道",CCTV7
-http://175.11.104.226:4022/udp/239.76.246.157:1234
-#EXTINF:-1 group-title="央视频道",CCTV7
 http://118.254.200.67:8888/udp/239.76.253.157:9000
 #EXTINF:-1 group-title="央视频道",CCTV7
-http://175.11.104.226:4022/udp/239.76.253.157:9000
+http://124.230.56.124:55555/udp/239.76.246.157:1234
+#EXTINF:-1 group-title="央视频道",CCTV7
+http://124.230.56.124:55555/udp/239.76.253.157:9000
+#EXTINF:-1 group-title="央视频道",CCTV7
+http://175.11.104.226:4022/udp/239.76.246.157:1234
 #EXTINF:-1 group-title="央视频道",CCTV7
 http://175.15.135.124:8888/udp/239.76.246.157:1234
 #EXTINF:-1 group-title="央视频道",CCTV7
 http://175.15.135.124:8888/udp/239.76.253.157:9000
 #EXTINF:-1 group-title="央视频道",CCTV7
+http://175.11.104.226:4022/udp/239.76.253.157:9000
+#EXTINF:-1 group-title="央视频道",CCTV7
 http://175.8.87.127:3000/udp/239.76.246.157:1234
 #EXTINF:-1 group-title="央视频道",CCTV7
 http://175.8.87.127:3000/udp/239.76.253.157:9000
 #EXTINF:-1 group-title="央视频道",CCTV7
-http://58.46.248.145:4022/udp/239.76.246.157:1234
+http://223.144.160.215:58888/udp/239.76.246.157:1234
 #EXTINF:-1 group-title="央视频道",CCTV7
 http://223.144.160.215:58888/udp/239.76.253.157:9000
 #EXTINF:-1 group-title="央视频道",CCTV7
-http://223.144.160.215:58888/udp/239.76.246.157:1234
-#EXTINF:-1 group-title="央视频道",CCTV7
 http://58.46.248.145:4022/udp/239.76.253.157:9000
-#EXTINF:-1 group-title="央视频道",CCTV8
-http://118.248.160.63:8888/udp/239.76.253.158:9000
-#EXTINF:-1 group-title="央视频道",CCTV8
-http://118.248.160.63:8888/udp/239.76.246.158:1234
+#EXTINF:-1 group-title="央视频道",CCTV7
+http://58.46.248.145:4022/udp/239.76.246.157:1234
 #EXTINF:-1 group-title="央视频道",CCTV8
 http://118.251.35.10:4022/udp/239.76.246.158:1234
-#EXTINF:-1 group-title="央视频道",CCTV8
-http://118.251.35.10:4022/udp/239.76.253.158:9000
 #EXTINF:-1 group-title="央视频道",CCTV8
 http://118.254.157.41:8888/udp/239.76.246.158:1234
 #EXTINF:-1 group-title="央视频道",CCTV8
 http://118.254.157.41:8888/udp/239.76.253.158:9000
 #EXTINF:-1 group-title="央视频道",CCTV8
+http://118.251.35.10:4022/udp/239.76.253.158:9000
+#EXTINF:-1 group-title="央视频道",CCTV8
 http://118.254.159.7:8888/udp/239.76.246.158:1234
 #EXTINF:-1 group-title="央视频道",CCTV8
 http://118.254.159.7:8888/udp/239.76.253.158:9000
 #EXTINF:-1 group-title="央视频道",CCTV8
+http://118.254.200.67:8888/udp/239.76.253.158:9000
+#EXTINF:-1 group-title="央视频道",CCTV8
 http://118.254.200.67:8888/udp/239.76.246.158:1234
 #EXTINF:-1 group-title="央视频道",CCTV8
-http://118.254.200.67:8888/udp/239.76.253.158:9000
+http://124.230.56.124:55555/udp/239.76.246.158:1234
+#EXTINF:-1 group-title="央视频道",CCTV8
+http://124.230.56.124:55555/udp/239.76.253.158:9000
 #EXTINF:-1 group-title="央视频道",CCTV8
 http://175.11.104.226:4022/udp/239.76.246.158:1234
 #EXTINF:-1 group-title="央视频道",CCTV8
 http://175.11.104.226:4022/udp/239.76.253.158:9000
-#EXTINF:-1 group-title="央视频道",CCTV8
-http://175.15.135.124:8888/udp/239.76.246.158:1234
 #EXTINF:-1 group-title="央视频道",CCTV8
 http://175.15.135.124:8888/udp/239.76.253.158:9000
 #EXTINF:-1 group-title="央视频道",CCTV8
@@ -432,37 +430,37 @@ http://175.8.87.127:3000/udp/239.76.246.158:1234
 #EXTINF:-1 group-title="央视频道",CCTV8
 http://175.8.87.127:3000/udp/239.76.253.158:9000
 #EXTINF:-1 group-title="央视频道",CCTV8
-http://223.144.160.215:58888/udp/239.76.246.158:1234
+http://175.15.135.124:8888/udp/239.76.246.158:1234
 #EXTINF:-1 group-title="央视频道",CCTV8
-http://58.46.248.145:4022/udp/239.76.246.158:1234
+http://223.144.160.215:58888/udp/239.76.246.158:1234
 #EXTINF:-1 group-title="央视频道",CCTV8
 http://223.144.160.215:58888/udp/239.76.253.158:9000
 #EXTINF:-1 group-title="央视频道",CCTV8
 http://58.46.248.145:4022/udp/239.76.253.158:9000
-#EXTINF:-1 group-title="央视频道",CCTV9
-http://118.248.160.63:8888/udp/239.76.253.159:9000
-#EXTINF:-1 group-title="央视频道",CCTV9
-http://118.248.160.63:8888/udp/239.76.246.159:1234
-#EXTINF:-1 group-title="央视频道",CCTV9
-http://118.251.35.10:4022/udp/239.76.253.159:9000
+#EXTINF:-1 group-title="央视频道",CCTV8
+http://58.46.248.145:4022/udp/239.76.246.158:1234
 #EXTINF:-1 group-title="央视频道",CCTV9
 http://118.251.35.10:4022/udp/239.76.246.159:1234
 #EXTINF:-1 group-title="央视频道",CCTV9
 http://118.254.157.41:8888/udp/239.76.253.159:9000
 #EXTINF:-1 group-title="央视频道",CCTV9
-http://118.254.157.41:8888/udp/239.76.246.159:1234
-#EXTINF:-1 group-title="央视频道",CCTV9
 http://118.254.159.7:8888/udp/239.76.246.159:1234
+#EXTINF:-1 group-title="央视频道",CCTV9
+http://118.251.35.10:4022/udp/239.76.253.159:9000
+#EXTINF:-1 group-title="央视频道",CCTV9
+http://118.254.157.41:8888/udp/239.76.246.159:1234
 #EXTINF:-1 group-title="央视频道",CCTV9
 http://118.254.159.7:8888/udp/239.76.253.159:9000
 #EXTINF:-1 group-title="央视频道",CCTV9
-http://118.254.200.67:8888/udp/239.76.246.159:1234
-#EXTINF:-1 group-title="央视频道",CCTV9
 http://118.254.200.67:8888/udp/239.76.253.159:9000
 #EXTINF:-1 group-title="央视频道",CCTV9
-http://175.11.104.226:4022/udp/239.76.246.159:1234
+http://118.254.200.67:8888/udp/239.76.246.159:1234
 #EXTINF:-1 group-title="央视频道",CCTV9
-http://175.11.104.226:4022/udp/239.76.253.159:9000
+http://124.230.56.124:55555/udp/239.76.246.159:1234
+#EXTINF:-1 group-title="央视频道",CCTV9
+http://124.230.56.124:55555/udp/239.76.253.159:9000
+#EXTINF:-1 group-title="央视频道",CCTV9
+http://175.11.104.226:4022/udp/239.76.246.159:1234
 #EXTINF:-1 group-title="央视频道",CCTV9
 http://175.15.135.124:8888/udp/239.76.246.159:1234
 #EXTINF:-1 group-title="央视频道",CCTV9
@@ -479,58 +477,58 @@ http://223.144.160.215:58888/udp/239.76.253.159:9000
 http://58.46.248.145:4022/udp/239.76.246.159:1234
 #EXTINF:-1 group-title="央视频道",CCTV9
 http://58.46.248.145:4022/udp/239.76.253.159:9000
-#EXTINF:-1 group-title="央视频道",CCTV10
-http://118.248.160.63:8888/udp/239.76.253.160:9000
-#EXTINF:-1 group-title="央视频道",CCTV10
-http://118.248.160.63:8888/udp/239.76.246.160:1234
-#EXTINF:-1 group-title="央视频道",CCTV10
-http://118.251.35.10:4022/udp/239.76.253.160:9000
-#EXTINF:-1 group-title="央视频道",CCTV10
-http://118.251.35.10:4022/udp/239.76.246.160:1234
+#EXTINF:-1 group-title="央视频道",CCTV9
+http://175.11.104.226:4022/udp/239.76.253.159:9000
 #EXTINF:-1 group-title="央视频道",CCTV10
 http://118.254.157.41:8888/udp/239.76.246.160:1234
+#EXTINF:-1 group-title="央视频道",CCTV10
+http://118.254.159.7:8888/udp/239.76.246.160:1234
 #EXTINF:-1 group-title="央视频道",CCTV10
 http://118.254.157.41:8888/udp/239.76.253.160:9000
 #EXTINF:-1 group-title="央视频道",CCTV10
 http://118.254.159.7:8888/udp/239.76.253.160:9000
 #EXTINF:-1 group-title="央视频道",CCTV10
-http://118.254.159.7:8888/udp/239.76.246.160:1234
+http://118.251.35.10:4022/udp/239.76.246.160:1234
 #EXTINF:-1 group-title="央视频道",CCTV10
-http://118.254.200.67:8888/udp/239.76.246.160:1234
+http://118.251.35.10:4022/udp/239.76.253.160:9000
 #EXTINF:-1 group-title="央视频道",CCTV10
 http://118.254.200.67:8888/udp/239.76.253.160:9000
 #EXTINF:-1 group-title="央视频道",CCTV10
-http://175.11.104.226:4022/udp/239.76.246.160:1234
+http://124.230.56.124:55555/udp/239.76.246.160:1234
+#EXTINF:-1 group-title="央视频道",CCTV10
+http://124.230.56.124:55555/udp/239.76.253.160:9000
 #EXTINF:-1 group-title="央视频道",CCTV10
 http://175.15.135.124:8888/udp/239.76.246.160:1234
 #EXTINF:-1 group-title="央视频道",CCTV10
+http://175.11.104.226:4022/udp/239.76.246.160:1234
+#EXTINF:-1 group-title="央视频道",CCTV10
 http://175.11.104.226:4022/udp/239.76.253.160:9000
+#EXTINF:-1 group-title="央视频道",CCTV10
+http://175.8.87.127:3000/udp/239.76.246.160:1234
 #EXTINF:-1 group-title="央视频道",CCTV10
 http://175.15.135.124:8888/udp/239.76.253.160:9000
 #EXTINF:-1 group-title="央视频道",CCTV10
 http://175.8.87.127:3000/udp/239.76.253.160:9000
 #EXTINF:-1 group-title="央视频道",CCTV10
-http://175.8.87.127:3000/udp/239.76.246.160:1234
+http://223.144.160.215:58888/udp/239.76.253.160:9000
 #EXTINF:-1 group-title="央视频道",CCTV10
 http://223.144.160.215:58888/udp/239.76.246.160:1234
-#EXTINF:-1 group-title="央视频道",CCTV10
-http://223.144.160.215:58888/udp/239.76.253.160:9000
 #EXTINF:-1 group-title="央视频道",CCTV10
 http://58.46.248.145:4022/udp/239.76.246.160:1234
 #EXTINF:-1 group-title="央视频道",CCTV10
 http://58.46.248.145:4022/udp/239.76.253.160:9000
-#EXTINF:-1 group-title="央视频道",CCTV11
-http://118.254.157.41:8888/udp/239.76.245.251:1234
-#EXTINF:-1 group-title="央视频道",CCTV11
-http://118.248.160.63:8888/udp/239.76.245.251:1234
-#EXTINF:-1 group-title="央视频道",CCTV11
-http://118.254.159.7:8888/udp/239.76.245.251:1234
+#EXTINF:-1 group-title="央视频道",CCTV10
+http://118.254.200.67:8888/udp/239.76.246.160:1234
 #EXTINF:-1 group-title="央视频道",CCTV11
 http://118.251.35.10:4022/udp/239.76.245.251:1234
 #EXTINF:-1 group-title="央视频道",CCTV11
+http://118.254.157.41:8888/udp/239.76.245.251:1234
+#EXTINF:-1 group-title="央视频道",CCTV11
+http://118.254.159.7:8888/udp/239.76.245.251:1234
+#EXTINF:-1 group-title="央视频道",CCTV11
 http://118.254.200.67:8888/udp/239.76.245.251:1234
 #EXTINF:-1 group-title="央视频道",CCTV11
-http://175.8.87.127:3000/udp/239.76.245.251:1234
+http://124.230.56.124:55555/udp/239.76.245.251:1234
 #EXTINF:-1 group-title="央视频道",CCTV11
 http://175.11.104.226:4022/udp/239.76.245.251:1234
 #EXTINF:-1 group-title="央视频道",CCTV11
@@ -539,34 +537,38 @@ http://175.15.135.124:8888/udp/239.76.245.251:1234
 http://223.144.160.215:58888/udp/239.76.245.251:1234
 #EXTINF:-1 group-title="央视频道",CCTV11
 http://58.46.248.145:4022/udp/239.76.245.251:1234
-#EXTINF:-1 group-title="央视频道",CCTV12
-http://118.248.160.63:8888/udp/239.76.253.162:9000
-#EXTINF:-1 group-title="央视频道",CCTV12
-http://118.251.35.10:4022/udp/239.76.246.162:1234
-#EXTINF:-1 group-title="央视频道",CCTV12
-http://118.248.160.63:8888/udp/239.76.246.162:1234
+#EXTINF:-1 group-title="央视频道",CCTV11
+http://175.8.87.127:3000/udp/239.76.245.251:1234
 #EXTINF:-1 group-title="央视频道",CCTV12
 http://118.251.35.10:4022/udp/239.76.253.162:9000
+#EXTINF:-1 group-title="央视频道",CCTV12
+http://118.251.35.10:4022/udp/239.76.246.162:1234
 #EXTINF:-1 group-title="央视频道",CCTV12
 http://118.254.157.41:8888/udp/239.76.253.162:9000
 #EXTINF:-1 group-title="央视频道",CCTV12
 http://118.254.157.41:8888/udp/239.76.246.162:1234
 #EXTINF:-1 group-title="央视频道",CCTV12
-http://118.254.159.7:8888/udp/239.76.253.162:9000
-#EXTINF:-1 group-title="央视频道",CCTV12
 http://118.254.159.7:8888/udp/239.76.246.162:1234
 #EXTINF:-1 group-title="央视频道",CCTV12
-http://118.254.200.67:8888/udp/239.76.246.162:1234
+http://118.254.159.7:8888/udp/239.76.253.162:9000
 #EXTINF:-1 group-title="央视频道",CCTV12
-http://175.11.104.226:4022/udp/239.76.246.162:1234
+http://118.254.200.67:8888/udp/239.76.246.162:1234
 #EXTINF:-1 group-title="央视频道",CCTV12
 http://118.254.200.67:8888/udp/239.76.253.162:9000
 #EXTINF:-1 group-title="央视频道",CCTV12
 http://175.11.104.226:4022/udp/239.76.253.162:9000
 #EXTINF:-1 group-title="央视频道",CCTV12
-http://175.15.135.124:8888/udp/239.76.246.162:1234
+http://124.230.56.124:55555/udp/239.76.253.162:9000
+#EXTINF:-1 group-title="央视频道",CCTV12
+http://175.11.104.226:4022/udp/239.76.246.162:1234
+#EXTINF:-1 group-title="央视频道",CCTV12
+http://124.230.56.124:55555/udp/239.76.246.162:1234
 #EXTINF:-1 group-title="央视频道",CCTV12
 http://175.15.135.124:8888/udp/239.76.253.162:9000
+#EXTINF:-1 group-title="央视频道",CCTV12
+http://175.15.135.124:8888/udp/239.76.246.162:1234
+#EXTINF:-1 group-title="央视频道",CCTV12
+http://175.8.87.127:3000/udp/239.76.246.162:1234
 #EXTINF:-1 group-title="央视频道",CCTV12
 http://175.8.87.127:3000/udp/239.76.253.162:9000
 #EXTINF:-1 group-title="央视频道",CCTV12
@@ -577,52 +579,46 @@ http://223.144.160.215:58888/udp/239.76.253.162:9000
 http://58.46.248.145:4022/udp/239.76.246.162:1234
 #EXTINF:-1 group-title="央视频道",CCTV12
 http://58.46.248.145:4022/udp/239.76.253.162:9000
-#EXTINF:-1 group-title="央视频道",CCTV12
-http://175.8.87.127:3000/udp/239.76.246.162:1234
-#EXTINF:-1 group-title="央视频道",CCTV13
-http://118.248.160.63:8888/udp/239.76.246.93:1234
 #EXTINF:-1 group-title="央视频道",CCTV13
 http://118.251.35.10:4022/udp/239.76.253.93:9000
 #EXTINF:-1 group-title="央视频道",CCTV13
-http://118.248.160.63:8888/udp/239.76.253.93:9000
-#EXTINF:-1 group-title="央视频道",CCTV13
 http://118.251.35.10:4022/udp/239.76.246.93:1234
-#EXTINF:-1 group-title="央视频道",CCTV13
-http://118.254.157.41:8888/udp/239.76.246.93:1234
 #EXTINF:-1 group-title="央视频道",CCTV13
 http://118.254.157.41:8888/udp/239.76.253.93:9000
 #EXTINF:-1 group-title="央视频道",CCTV13
-http://118.254.159.7:8888/udp/239.76.246.93:1234
+http://118.254.157.41:8888/udp/239.76.246.93:1234
 #EXTINF:-1 group-title="央视频道",CCTV13
-http://118.254.200.67:8888/udp/239.76.246.93:1234
+http://118.254.159.7:8888/udp/239.76.246.93:1234
 #EXTINF:-1 group-title="央视频道",CCTV13
 http://118.254.159.7:8888/udp/239.76.253.93:9000
 #EXTINF:-1 group-title="央视频道",CCTV13
-http://175.11.104.226:4022/udp/239.76.246.93:1234
+http://118.254.200.67:8888/udp/239.76.253.93:9000
 #EXTINF:-1 group-title="央视频道",CCTV13
 http://175.11.104.226:4022/udp/239.76.253.93:9000
 #EXTINF:-1 group-title="央视频道",CCTV13
-http://175.15.135.124:8888/udp/239.76.246.93:1234
+http://175.11.104.226:4022/udp/239.76.246.93:1234
+#EXTINF:-1 group-title="央视频道",CCTV13
+http://124.230.56.124:55555/udp/239.76.253.93:9000
 #EXTINF:-1 group-title="央视频道",CCTV13
 http://175.15.135.124:8888/udp/239.76.253.93:9000
 #EXTINF:-1 group-title="央视频道",CCTV13
-http://175.8.87.127:3000/udp/239.76.246.93:1234
+http://175.15.135.124:8888/udp/239.76.246.93:1234
 #EXTINF:-1 group-title="央视频道",CCTV13
 http://175.8.87.127:3000/udp/239.76.253.93:9000
 #EXTINF:-1 group-title="央视频道",CCTV13
 http://223.144.160.215:58888/udp/239.76.246.93:1234
 #EXTINF:-1 group-title="央视频道",CCTV13
-http://58.46.248.145:4022/udp/239.76.246.93:1234
+http://223.144.160.215:58888/udp/239.76.253.93:9000
 #EXTINF:-1 group-title="央视频道",CCTV13
 http://58.46.248.145:4022/udp/239.76.253.93:9000
 #EXTINF:-1 group-title="央视频道",CCTV13
-http://223.144.160.215:58888/udp/239.76.253.93:9000
+http://58.46.248.145:4022/udp/239.76.246.93:1234
 #EXTINF:-1 group-title="央视频道",CCTV13
-http://118.254.200.67:8888/udp/239.76.253.93:9000
-#EXTINF:-1 group-title="央视频道",CCTV14
-http://118.248.160.63:8888/udp/239.76.246.164:1234
-#EXTINF:-1 group-title="央视频道",CCTV14
-http://118.248.160.63:8888/udp/239.76.253.164:9000
+http://118.254.200.67:8888/udp/239.76.246.93:1234
+#EXTINF:-1 group-title="央视频道",CCTV13
+http://175.8.87.127:3000/udp/239.76.246.93:1234
+#EXTINF:-1 group-title="央视频道",CCTV13
+http://124.230.56.124:55555/udp/239.76.246.93:1234
 #EXTINF:-1 group-title="央视频道",CCTV14
 http://118.251.35.10:4022/udp/239.76.246.164:1234
 #EXTINF:-1 group-title="央视频道",CCTV14
@@ -632,15 +628,17 @@ http://118.254.157.41:8888/udp/239.76.246.164:1234
 #EXTINF:-1 group-title="央视频道",CCTV14
 http://118.254.157.41:8888/udp/239.76.253.164:9000
 #EXTINF:-1 group-title="央视频道",CCTV14
-http://118.254.159.7:8888/udp/239.76.246.164:1234
-#EXTINF:-1 group-title="央视频道",CCTV14
 http://118.254.159.7:8888/udp/239.76.253.164:9000
 #EXTINF:-1 group-title="央视频道",CCTV14
 http://118.254.200.67:8888/udp/239.76.246.164:1234
 #EXTINF:-1 group-title="央视频道",CCTV14
-http://175.11.104.226:4022/udp/239.76.246.164:1234
-#EXTINF:-1 group-title="央视频道",CCTV14
 http://118.254.200.67:8888/udp/239.76.253.164:9000
+#EXTINF:-1 group-title="央视频道",CCTV14
+http://124.230.56.124:55555/udp/239.76.246.164:1234
+#EXTINF:-1 group-title="央视频道",CCTV14
+http://124.230.56.124:55555/udp/239.76.253.164:9000
+#EXTINF:-1 group-title="央视频道",CCTV14
+http://175.11.104.226:4022/udp/239.76.246.164:1234
 #EXTINF:-1 group-title="央视频道",CCTV14
 http://175.11.104.226:4022/udp/239.76.253.164:9000
 #EXTINF:-1 group-title="央视频道",CCTV14
@@ -652,21 +650,25 @@ http://175.8.87.127:3000/udp/239.76.246.164:1234
 #EXTINF:-1 group-title="央视频道",CCTV14
 http://175.8.87.127:3000/udp/239.76.253.164:9000
 #EXTINF:-1 group-title="央视频道",CCTV14
+http://223.144.160.215:58888/udp/239.76.246.164:1234
+#EXTINF:-1 group-title="央视频道",CCTV14
 http://223.144.160.215:58888/udp/239.76.253.164:9000
 #EXTINF:-1 group-title="央视频道",CCTV14
 http://58.46.248.145:4022/udp/239.76.246.164:1234
 #EXTINF:-1 group-title="央视频道",CCTV14
 http://58.46.248.145:4022/udp/239.76.253.164:9000
-#EXTINF:-1 group-title="央视频道",CCTV15
-http://118.248.160.63:8888/udp/239.76.245.252:1234
+#EXTINF:-1 group-title="央视频道",CCTV14
+http://118.254.159.7:8888/udp/239.76.246.164:1234
 #EXTINF:-1 group-title="央视频道",CCTV15
 http://118.254.157.41:8888/udp/239.76.245.252:1234
 #EXTINF:-1 group-title="央视频道",CCTV15
-http://118.251.35.10:4022/udp/239.76.245.252:1234
-#EXTINF:-1 group-title="央视频道",CCTV15
 http://118.254.159.7:8888/udp/239.76.245.252:1234
 #EXTINF:-1 group-title="央视频道",CCTV15
+http://118.251.35.10:4022/udp/239.76.245.252:1234
+#EXTINF:-1 group-title="央视频道",CCTV15
 http://118.254.200.67:8888/udp/239.76.245.252:1234
+#EXTINF:-1 group-title="央视频道",CCTV15
+http://124.230.56.124:55555/udp/239.76.245.252:1234
 #EXTINF:-1 group-title="央视频道",CCTV15
 http://175.11.104.226:4022/udp/239.76.245.252:1234
 #EXTINF:-1 group-title="央视频道",CCTV15
@@ -677,10 +679,6 @@ http://175.8.87.127:3000/udp/239.76.245.252:1234
 http://223.144.160.215:58888/udp/239.76.245.252:1234
 #EXTINF:-1 group-title="央视频道",CCTV15
 http://58.46.248.145:4022/udp/239.76.245.252:1234
-#EXTINF:-1 group-title="央视频道",CCTV16
-http://118.248.160.63:8888/udp/239.76.253.98:9000
-#EXTINF:-1 group-title="央视频道",CCTV16
-http://118.248.160.63:8888/udp/239.76.246.98:1234
 #EXTINF:-1 group-title="央视频道",CCTV16
 http://118.251.35.10:4022/udp/239.76.246.98:1234
 #EXTINF:-1 group-title="央视频道",CCTV16
@@ -698,7 +696,11 @@ http://118.254.200.67:8888/udp/239.76.246.98:1234
 #EXTINF:-1 group-title="央视频道",CCTV16
 http://118.254.200.67:8888/udp/239.76.253.98:9000
 #EXTINF:-1 group-title="央视频道",CCTV16
+http://124.230.56.124:55555/udp/239.76.246.98:1234
+#EXTINF:-1 group-title="央视频道",CCTV16
 http://175.11.104.226:4022/udp/239.76.246.98:1234
+#EXTINF:-1 group-title="央视频道",CCTV16
+http://124.230.56.124:55555/udp/239.76.253.98:9000
 #EXTINF:-1 group-title="央视频道",CCTV16
 http://175.11.104.226:4022/udp/239.76.253.98:9000
 #EXTINF:-1 group-title="央视频道",CCTV16
@@ -712,13 +714,11 @@ http://175.8.87.127:3000/udp/239.76.253.98:9000
 #EXTINF:-1 group-title="央视频道",CCTV16
 http://223.144.160.215:58888/udp/239.76.246.98:1234
 #EXTINF:-1 group-title="央视频道",CCTV16
-http://58.46.248.145:4022/udp/239.76.246.98:1234
-#EXTINF:-1 group-title="央视频道",CCTV16
 http://223.144.160.215:58888/udp/239.76.253.98:9000
 #EXTINF:-1 group-title="央视频道",CCTV16
+http://58.46.248.145:4022/udp/239.76.246.98:1234
+#EXTINF:-1 group-title="央视频道",CCTV16
 http://58.46.248.145:4022/udp/239.76.253.98:9000
-#EXTINF:-1 group-title="央视频道",CCTV17
-http://118.248.160.63:8888/udp/239.76.245.238:1234
 #EXTINF:-1 group-title="央视频道",CCTV17
 http://118.251.35.10:4022/udp/239.76.245.238:1234
 #EXTINF:-1 group-title="央视频道",CCTV17
@@ -730,6 +730,8 @@ http://118.254.200.67:8888/udp/239.76.245.238:1234
 #EXTINF:-1 group-title="央视频道",CCTV17
 http://175.11.104.226:4022/udp/239.76.245.238:1234
 #EXTINF:-1 group-title="央视频道",CCTV17
+http://124.230.56.124:55555/udp/239.76.245.238:1234
+#EXTINF:-1 group-title="央视频道",CCTV17
 http://175.15.135.124:8888/udp/239.76.245.238:1234
 #EXTINF:-1 group-title="央视频道",CCTV17
 http://175.8.87.127:3000/udp/239.76.245.238:1234
@@ -740,29 +742,23 @@ http://58.46.248.145:4022/udp/239.76.245.238:1234
 #EXTINF:-1 group-title="央视频道",CCTV世界地理
 http://118.251.35.10:4022/udp/239.76.254.57:9000
 #EXTINF:-1 group-title="央视频道",CCTV世界地理
-http://118.248.160.63:8888/udp/239.76.254.57:9000
+http://118.254.200.67:8888/udp/239.76.254.57:9000
 #EXTINF:-1 group-title="央视频道",CCTV世界地理
 http://118.254.157.41:8888/udp/239.76.254.57:9000
 #EXTINF:-1 group-title="央视频道",CCTV世界地理
 http://118.254.159.7:8888/udp/239.76.254.57:9000
 #EXTINF:-1 group-title="央视频道",CCTV世界地理
-http://118.254.200.67:8888/udp/239.76.254.57:9000
+http://124.230.56.124:55555/udp/239.76.254.57:9000
 #EXTINF:-1 group-title="央视频道",CCTV世界地理
 http://175.11.104.226:4022/udp/239.76.254.57:9000
 #EXTINF:-1 group-title="央视频道",CCTV世界地理
 http://175.15.135.124:8888/udp/239.76.254.57:9000
 #EXTINF:-1 group-title="央视频道",CCTV世界地理
 http://175.8.87.127:3000/udp/239.76.254.57:9000
-#EXTINF:-1 group-title="央视频道",CCTV世界地理
-http://223.144.160.215:58888/udp/239.76.254.57:9000
-#EXTINF:-1 group-title="央视频道",CCTV兵器科技
-http://118.251.35.10:4022/udp/239.76.254.59:9000
-#EXTINF:-1 group-title="央视频道",CCTV世界地理
-http://58.46.248.145:4022/udp/239.76.254.57:9000
-#EXTINF:-1 group-title="央视频道",CCTV兵器科技
-http://118.248.160.63:8888/udp/239.76.254.59:9000
 #EXTINF:-1 group-title="央视频道",CCTV兵器科技
 http://118.254.157.41:8888/udp/239.76.254.59:9000
+#EXTINF:-1 group-title="央视频道",CCTV兵器科技
+http://118.251.35.10:4022/udp/239.76.254.59:9000
 #EXTINF:-1 group-title="央视频道",CCTV兵器科技
 http://118.254.159.7:8888/udp/239.76.254.59:9000
 #EXTINF:-1 group-title="央视频道",CCTV兵器科技
@@ -770,27 +766,33 @@ http://118.254.200.67:8888/udp/239.76.254.59:9000
 #EXTINF:-1 group-title="央视频道",CCTV兵器科技
 http://175.11.104.226:4022/udp/239.76.254.59:9000
 #EXTINF:-1 group-title="央视频道",CCTV兵器科技
+http://124.230.56.124:55555/udp/239.76.254.59:9000
+#EXTINF:-1 group-title="央视频道",CCTV兵器科技
 http://175.15.135.124:8888/udp/239.76.254.59:9000
 #EXTINF:-1 group-title="央视频道",CCTV兵器科技
 http://175.8.87.127:3000/udp/239.76.254.59:9000
 #EXTINF:-1 group-title="央视频道",CCTV兵器科技
 http://223.144.160.215:58888/udp/239.76.254.59:9000
+#EXTINF:-1 group-title="央视频道",CCTV世界地理
+http://58.46.248.145:4022/udp/239.76.254.57:9000
+#EXTINF:-1 group-title="央视频道",CCTV世界地理
+http://223.144.160.215:58888/udp/239.76.254.57:9000
 #EXTINF:-1 group-title="央视频道",CCTV兵器科技
 http://58.46.248.145:4022/udp/239.76.254.59:9000
 #EXTINF:-1 group-title="央视频道",CCTV央视台球
-http://118.248.160.63:8888/udp/239.76.254.58:9000
-#EXTINF:-1 group-title="央视频道",CCTV央视台球
 http://118.251.35.10:4022/udp/239.76.254.58:9000
-#EXTINF:-1 group-title="央视频道",CCTV央视台球
-http://118.254.157.41:8888/udp/239.76.254.58:9000
 #EXTINF:-1 group-title="央视频道",CCTV央视台球
 http://118.254.159.7:8888/udp/239.76.254.58:9000
 #EXTINF:-1 group-title="央视频道",CCTV央视台球
 http://118.254.200.67:8888/udp/239.76.254.58:9000
 #EXTINF:-1 group-title="央视频道",CCTV央视台球
-http://175.11.104.226:4022/udp/239.76.254.58:9000
+http://118.254.157.41:8888/udp/239.76.254.58:9000
+#EXTINF:-1 group-title="央视频道",CCTV央视台球
+http://124.230.56.124:55555/udp/239.76.254.58:9000
 #EXTINF:-1 group-title="央视频道",CCTV央视台球
 http://175.15.135.124:8888/udp/239.76.254.58:9000
+#EXTINF:-1 group-title="央视频道",CCTV央视台球
+http://175.11.104.226:4022/udp/239.76.254.58:9000
 #EXTINF:-1 group-title="央视频道",CCTV央视台球
 http://175.8.87.127:3000/udp/239.76.254.58:9000
 #EXTINF:-1 group-title="央视频道",CCTV央视台球
@@ -798,35 +800,35 @@ http://223.144.160.215:58888/udp/239.76.254.58:9000
 #EXTINF:-1 group-title="央视频道",CCTV央视台球
 http://58.46.248.145:4022/udp/239.76.254.58:9000
 #EXTINF:-1 group-title="央视频道",CCTV央视文化精品
-http://118.248.160.63:8888/udp/239.76.254.56:9000
-#EXTINF:-1 group-title="央视频道",CCTV央视文化精品
 http://118.251.35.10:4022/udp/239.76.254.56:9000
 #EXTINF:-1 group-title="央视频道",CCTV央视文化精品
 http://118.254.157.41:8888/udp/239.76.254.56:9000
 #EXTINF:-1 group-title="央视频道",CCTV央视文化精品
+http://118.254.159.7:8888/udp/239.76.254.56:9000
+#EXTINF:-1 group-title="央视频道",CCTV央视文化精品
 http://118.254.200.67:8888/udp/239.76.254.56:9000
 #EXTINF:-1 group-title="央视频道",CCTV央视文化精品
-http://118.254.159.7:8888/udp/239.76.254.56:9000
+http://124.230.56.124:55555/udp/239.76.254.56:9000
 #EXTINF:-1 group-title="央视频道",CCTV央视文化精品
 http://175.11.104.226:4022/udp/239.76.254.56:9000
 #EXTINF:-1 group-title="央视频道",CCTV央视文化精品
+http://175.8.87.127:3000/udp/239.76.254.56:9000
+#EXTINF:-1 group-title="央视频道",CCTV央视文化精品
 http://175.15.135.124:8888/udp/239.76.254.56:9000
 #EXTINF:-1 group-title="央视频道",CCTV央视文化精品
-http://175.8.87.127:3000/udp/239.76.254.56:9000
+http://223.144.160.215:58888/udp/239.76.254.56:9000
 #EXTINF:-1 group-title="央视频道",CCTV央视文化精品
 http://58.46.248.145:4022/udp/239.76.254.56:9000
 #EXTINF:-1 group-title="央视频道",CCTV央视高尔夫
-http://118.248.160.63:8888/udp/239.76.254.62:9000
-#EXTINF:-1 group-title="央视频道",CCTV央视高尔夫
 http://118.251.35.10:4022/udp/239.76.254.62:9000
-#EXTINF:-1 group-title="央视频道",CCTV央视文化精品
-http://223.144.160.215:58888/udp/239.76.254.56:9000
-#EXTINF:-1 group-title="央视频道",CCTV央视高尔夫
-http://118.254.157.41:8888/udp/239.76.254.62:9000
 #EXTINF:-1 group-title="央视频道",CCTV央视高尔夫
 http://118.254.159.7:8888/udp/239.76.254.62:9000
 #EXTINF:-1 group-title="央视频道",CCTV央视高尔夫
+http://118.254.157.41:8888/udp/239.76.254.62:9000
+#EXTINF:-1 group-title="央视频道",CCTV央视高尔夫
 http://118.254.200.67:8888/udp/239.76.254.62:9000
+#EXTINF:-1 group-title="央视频道",CCTV央视高尔夫
+http://124.230.56.124:55555/udp/239.76.254.62:9000
 #EXTINF:-1 group-title="央视频道",CCTV央视高尔夫
 http://175.11.104.226:4022/udp/239.76.254.62:9000
 #EXTINF:-1 group-title="央视频道",CCTV央视高尔夫
@@ -838,8 +840,6 @@ http://223.144.160.215:58888/udp/239.76.254.62:9000
 #EXTINF:-1 group-title="央视频道",CCTV央视高尔夫
 http://58.46.248.145:4022/udp/239.76.254.62:9000
 #EXTINF:-1 group-title="央视频道",CCTV女姓时尚
-http://118.248.160.63:8888/udp/239.76.254.55:9000
-#EXTINF:-1 group-title="央视频道",CCTV女姓时尚
 http://118.251.35.10:4022/udp/239.76.254.55:9000
 #EXTINF:-1 group-title="央视频道",CCTV女姓时尚
 http://118.254.157.41:8888/udp/239.76.254.55:9000
@@ -848,45 +848,45 @@ http://118.254.159.7:8888/udp/239.76.254.55:9000
 #EXTINF:-1 group-title="央视频道",CCTV女姓时尚
 http://118.254.200.67:8888/udp/239.76.254.55:9000
 #EXTINF:-1 group-title="央视频道",CCTV女姓时尚
-http://175.11.104.226:4022/udp/239.76.254.55:9000
+http://124.230.56.124:55555/udp/239.76.254.55:9000
 #EXTINF:-1 group-title="央视频道",CCTV女姓时尚
-http://175.15.135.124:8888/udp/239.76.254.55:9000
+http://175.11.104.226:4022/udp/239.76.254.55:9000
 #EXTINF:-1 group-title="央视频道",CCTV女姓时尚
 http://175.8.87.127:3000/udp/239.76.254.55:9000
 #EXTINF:-1 group-title="央视频道",CCTV女姓时尚
-http://58.46.248.145:4022/udp/239.76.254.55:9000
+http://175.15.135.124:8888/udp/239.76.254.55:9000
 #EXTINF:-1 group-title="央视频道",CCTV女姓时尚
 http://223.144.160.215:58888/udp/239.76.254.55:9000
 #EXTINF:-1 group-title="央视频道",CCTV怀旧剧场
-http://118.248.160.63:8888/udp/239.76.254.53:9000
+http://118.251.35.10:4022/udp/239.76.254.53:9000
+#EXTINF:-1 group-title="央视频道",CCTV女姓时尚
+http://58.46.248.145:4022/udp/239.76.254.55:9000
 #EXTINF:-1 group-title="央视频道",CCTV怀旧剧场
 http://118.254.157.41:8888/udp/239.76.254.53:9000
 #EXTINF:-1 group-title="央视频道",CCTV怀旧剧场
-http://118.251.35.10:4022/udp/239.76.254.53:9000
-#EXTINF:-1 group-title="央视频道",CCTV怀旧剧场
 http://118.254.159.7:8888/udp/239.76.254.53:9000
-#EXTINF:-1 group-title="央视频道",CCTV怀旧剧场
-http://175.11.104.226:4022/udp/239.76.254.53:9000
 #EXTINF:-1 group-title="央视频道",CCTV怀旧剧场
 http://118.254.200.67:8888/udp/239.76.254.53:9000
 #EXTINF:-1 group-title="央视频道",CCTV怀旧剧场
+http://124.230.56.124:55555/udp/239.76.254.53:9000
+#EXTINF:-1 group-title="央视频道",CCTV怀旧剧场
+http://175.11.104.226:4022/udp/239.76.254.53:9000
+#EXTINF:-1 group-title="央视频道",CCTV怀旧剧场
 http://175.15.135.124:8888/udp/239.76.254.53:9000
 #EXTINF:-1 group-title="央视频道",CCTV怀旧剧场
-http://175.8.87.127:3000/udp/239.76.254.53:9000
-#EXTINF:-1 group-title="央视频道",CCTV怀旧剧场
 http://223.144.160.215:58888/udp/239.76.254.53:9000
-#EXTINF:-1 group-title="央视频道",CCTV电视指南
-http://118.248.160.63:8888/udp/239.76.254.61:9000
-#EXTINF:-1 group-title="央视频道",CCTV电视指南
-http://118.254.157.41:8888/udp/239.76.254.61:9000
 #EXTINF:-1 group-title="央视频道",CCTV电视指南
 http://118.251.35.10:4022/udp/239.76.254.61:9000
 #EXTINF:-1 group-title="央视频道",CCTV怀旧剧场
 http://58.46.248.145:4022/udp/239.76.254.53:9000
 #EXTINF:-1 group-title="央视频道",CCTV电视指南
+http://118.254.157.41:8888/udp/239.76.254.61:9000
+#EXTINF:-1 group-title="央视频道",CCTV电视指南
 http://118.254.159.7:8888/udp/239.76.254.61:9000
 #EXTINF:-1 group-title="央视频道",CCTV电视指南
 http://118.254.200.67:8888/udp/239.76.254.61:9000
+#EXTINF:-1 group-title="央视频道",CCTV电视指南
+http://124.230.56.124:55555/udp/239.76.254.61:9000
 #EXTINF:-1 group-title="央视频道",CCTV电视指南
 http://175.11.104.226:4022/udp/239.76.254.61:9000
 #EXTINF:-1 group-title="央视频道",CCTV电视指南
@@ -896,17 +896,19 @@ http://175.8.87.127:3000/udp/239.76.254.61:9000
 #EXTINF:-1 group-title="央视频道",CCTV电视指南
 http://223.144.160.215:58888/udp/239.76.254.61:9000
 #EXTINF:-1 group-title="央视频道",CCTV第一剧场
-http://118.254.159.7:8888/udp/239.76.254.49:9000
-#EXTINF:-1 group-title="央视频道",CCTV第一剧场
 http://118.251.35.10:4022/udp/239.76.254.49:9000
-#EXTINF:-1 group-title="央视频道",CCTV第一剧场
-http://118.254.157.41:8888/udp/239.76.254.49:9000
-#EXTINF:-1 group-title="央视频道",CCTV第一剧场
-http://118.248.160.63:8888/udp/239.76.254.49:9000
 #EXTINF:-1 group-title="央视频道",CCTV电视指南
 http://58.46.248.145:4022/udp/239.76.254.61:9000
 #EXTINF:-1 group-title="央视频道",CCTV第一剧场
+http://118.254.157.41:8888/udp/239.76.254.49:9000
+#EXTINF:-1 group-title="央视频道",CCTV怀旧剧场
+http://175.8.87.127:3000/udp/239.76.254.53:9000
+#EXTINF:-1 group-title="央视频道",CCTV第一剧场
+http://118.254.159.7:8888/udp/239.76.254.49:9000
+#EXTINF:-1 group-title="央视频道",CCTV第一剧场
 http://118.254.200.67:8888/udp/239.76.254.49:9000
+#EXTINF:-1 group-title="央视频道",CCTV第一剧场
+http://124.230.56.124:55555/udp/239.76.254.49:9000
 #EXTINF:-1 group-title="央视频道",CCTV第一剧场
 http://175.11.104.226:4022/udp/239.76.254.49:9000
 #EXTINF:-1 group-title="央视频道",CCTV第一剧场
@@ -914,31 +916,29 @@ http://175.15.135.124:8888/udp/239.76.254.49:9000
 #EXTINF:-1 group-title="央视频道",CCTV第一剧场
 http://175.8.87.127:3000/udp/239.76.254.49:9000
 #EXTINF:-1 group-title="央视频道",CCTV第一剧场
-http://223.144.160.215:58888/udp/239.76.254.49:9000
-#EXTINF:-1 group-title="央视频道",CCTV风云剧场
-http://118.254.159.7:8888/udp/239.76.254.50:9000
-#EXTINF:-1 group-title="央视频道",CCTV第一剧场
 http://58.46.248.145:4022/udp/239.76.254.49:9000
 #EXTINF:-1 group-title="央视频道",CCTV风云剧场
-http://118.248.160.63:8888/udp/239.76.254.50:9000
+http://118.251.35.10:4022/udp/239.76.254.50:9000
+#EXTINF:-1 group-title="央视频道",CCTV第一剧场
+http://223.144.160.215:58888/udp/239.76.254.49:9000
 #EXTINF:-1 group-title="央视频道",CCTV风云剧场
 http://118.254.157.41:8888/udp/239.76.254.50:9000
+#EXTINF:-1 group-title="央视频道",CCTV风云剧场
+http://118.254.159.7:8888/udp/239.76.254.50:9000
 #EXTINF:-1 group-title="央视频道",CCTV风云剧场
 http://118.254.200.67:8888/udp/239.76.254.50:9000
 #EXTINF:-1 group-title="央视频道",CCTV风云剧场
 http://175.11.104.226:4022/udp/239.76.254.50:9000
 #EXTINF:-1 group-title="央视频道",CCTV风云剧场
+http://124.230.56.124:55555/udp/239.76.254.50:9000
+#EXTINF:-1 group-title="央视频道",CCTV风云剧场
 http://175.15.135.124:8888/udp/239.76.254.50:9000
 #EXTINF:-1 group-title="央视频道",CCTV风云剧场
-http://175.8.87.127:3000/udp/239.76.254.50:9000
-#EXTINF:-1 group-title="央视频道",CCTV风云剧场
-http://58.46.248.145:4022/udp/239.76.254.50:9000
+http://223.144.160.215:58888/udp/239.76.254.50:9000
 #EXTINF:-1 group-title="央视频道",CCTV风云足球
 http://118.251.35.10:4022/udp/239.76.254.52:9000
-#EXTINF:-1 group-title="央视频道",CCTV风云足球
-http://118.248.160.63:8888/udp/239.76.254.52:9000
 #EXTINF:-1 group-title="央视频道",CCTV风云剧场
-http://223.144.160.215:58888/udp/239.76.254.50:9000
+http://58.46.248.145:4022/udp/239.76.254.50:9000
 #EXTINF:-1 group-title="央视频道",CCTV风云足球
 http://118.254.157.41:8888/udp/239.76.254.52:9000
 #EXTINF:-1 group-title="央视频道",CCTV风云足球
@@ -948,39 +948,39 @@ http://118.254.200.67:8888/udp/239.76.254.52:9000
 #EXTINF:-1 group-title="央视频道",CCTV风云足球
 http://175.11.104.226:4022/udp/239.76.254.52:9000
 #EXTINF:-1 group-title="央视频道",CCTV风云足球
+http://124.230.56.124:55555/udp/239.76.254.52:9000
+#EXTINF:-1 group-title="央视频道",CCTV风云足球
 http://175.15.135.124:8888/udp/239.76.254.52:9000
-#EXTINF:-1 group-title="央视频道",CCTV风云剧场
-http://118.251.35.10:4022/udp/239.76.254.50:9000
 #EXTINF:-1 group-title="央视频道",CCTV风云足球
 http://175.8.87.127:3000/udp/239.76.254.52:9000
 #EXTINF:-1 group-title="央视频道",CCTV风云足球
+http://223.144.160.215:58888/udp/239.76.254.52:9000
+#EXTINF:-1 group-title="央视频道",CCTV风云足球
 http://58.46.248.145:4022/udp/239.76.254.52:9000
 #EXTINF:-1 group-title="央视频道",CCTV风云音乐
-http://118.248.160.63:8888/udp/239.76.254.51:9000
-#EXTINF:-1 group-title="央视频道",CCTV风云足球
-http://223.144.160.215:58888/udp/239.76.254.52:9000
+http://118.254.157.41:8888/udp/239.76.254.51:9000
 #EXTINF:-1 group-title="央视频道",CCTV风云音乐
 http://118.251.35.10:4022/udp/239.76.254.51:9000
-#EXTINF:-1 group-title="央视频道",CCTV风云音乐
-http://118.254.157.41:8888/udp/239.76.254.51:9000
 #EXTINF:-1 group-title="央视频道",CCTV风云音乐
 http://118.254.159.7:8888/udp/239.76.254.51:9000
 #EXTINF:-1 group-title="央视频道",CCTV风云音乐
 http://118.254.200.67:8888/udp/239.76.254.51:9000
 #EXTINF:-1 group-title="央视频道",CCTV风云音乐
-http://175.15.135.124:8888/udp/239.76.254.51:9000
+http://124.230.56.124:55555/udp/239.76.254.51:9000
 #EXTINF:-1 group-title="央视频道",CCTV风云音乐
 http://175.11.104.226:4022/udp/239.76.254.51:9000
 #EXTINF:-1 group-title="央视频道",CCTV风云音乐
+http://175.15.135.124:8888/udp/239.76.254.51:9000
+#EXTINF:-1 group-title="央视频道",CCTV风云音乐
 http://175.8.87.127:3000/udp/239.76.254.51:9000
 #EXTINF:-1 group-title="央视频道",CCTV风云音乐
-http://58.46.248.145:4022/udp/239.76.254.51:9000
-#EXTINF:-1 group-title="央视频道",CCTV风云音乐
 http://223.144.160.215:58888/udp/239.76.254.51:9000
+#EXTINF:-1 group-title="央视频道",CCTV风云音乐
+http://58.46.248.145:4022/udp/239.76.254.51:9000
+#EXTINF:-1 group-title="央视频道",CCTV风云剧场
+http://175.8.87.127:3000/udp/239.76.254.50:9000
 #EXTINF:-1 group-title="卫视频道",CHC动作电影
 http://118.251.35.10:4022/udp/239.76.245.243:1234
-#EXTINF:-1 group-title="卫视频道",CHC动作电影
-http://118.248.160.63:8888/udp/239.76.245.243:1234
 #EXTINF:-1 group-title="卫视频道",CHC动作电影
 http://118.254.157.41:8888/udp/239.76.245.243:1234
 #EXTINF:-1 group-title="卫视频道",CHC动作电影
@@ -988,19 +988,19 @@ http://118.254.159.7:8888/udp/239.76.245.243:1234
 #EXTINF:-1 group-title="卫视频道",CHC动作电影
 http://118.254.200.67:8888/udp/239.76.245.243:1234
 #EXTINF:-1 group-title="卫视频道",CHC动作电影
-http://175.15.135.124:8888/udp/239.76.245.243:1234
-#EXTINF:-1 group-title="卫视频道",CHC动作电影
 http://175.11.104.226:4022/udp/239.76.245.243:1234
+#EXTINF:-1 group-title="卫视频道",CHC动作电影
+http://124.230.56.124:55555/udp/239.76.245.243:1234
+#EXTINF:-1 group-title="卫视频道",CHC动作电影
+http://175.15.135.124:8888/udp/239.76.245.243:1234
 #EXTINF:-1 group-title="卫视频道",CHC动作电影
 http://175.8.87.127:3000/udp/239.76.245.243:1234
 #EXTINF:-1 group-title="卫视频道",CHC动作电影
 http://223.144.160.215:58888/udp/239.76.245.243:1234
-#EXTINF:-1 group-title="卫视频道",CHC家庭影院
-http://118.251.35.10:4022/udp/239.76.245.241:1234
 #EXTINF:-1 group-title="卫视频道",CHC动作电影
 http://58.46.248.145:4022/udp/239.76.245.243:1234
 #EXTINF:-1 group-title="卫视频道",CHC家庭影院
-http://118.248.160.63:8888/udp/239.76.245.241:1234
+http://118.251.35.10:4022/udp/239.76.245.241:1234
 #EXTINF:-1 group-title="卫视频道",CHC家庭影院
 http://118.254.157.41:8888/udp/239.76.245.241:1234
 #EXTINF:-1 group-title="卫视频道",CHC家庭影院
@@ -1012,35 +1012,33 @@ http://175.11.104.226:4022/udp/239.76.245.241:1234
 #EXTINF:-1 group-title="卫视频道",CHC家庭影院
 http://175.15.135.124:8888/udp/239.76.245.241:1234
 #EXTINF:-1 group-title="卫视频道",CHC家庭影院
+http://124.230.56.124:55555/udp/239.76.245.241:1234
+#EXTINF:-1 group-title="卫视频道",CHC家庭影院
 http://175.8.87.127:3000/udp/239.76.245.241:1234
 #EXTINF:-1 group-title="卫视频道",CHC家庭影院
 http://58.46.248.145:4022/udp/239.76.245.241:1234
-#EXTINF:-1 group-title="卫视频道",CHC高清电影
-http://118.251.35.10:4022/udp/239.76.245.242:1234
 #EXTINF:-1 group-title="卫视频道",CHC家庭影院
 http://223.144.160.215:58888/udp/239.76.245.241:1234
 #EXTINF:-1 group-title="卫视频道",CHC高清电影
-http://118.248.160.63:8888/udp/239.76.245.242:1234
-#EXTINF:-1 group-title="卫视频道",CHC高清电影
 http://118.254.157.41:8888/udp/239.76.245.242:1234
+#EXTINF:-1 group-title="卫视频道",CHC高清电影
+http://118.251.35.10:4022/udp/239.76.245.242:1234
 #EXTINF:-1 group-title="卫视频道",CHC高清电影
 http://118.254.200.67:8888/udp/239.76.245.242:1234
 #EXTINF:-1 group-title="卫视频道",CHC高清电影
+http://175.11.104.226:4022/udp/239.76.245.242:1234
+#EXTINF:-1 group-title="卫视频道",CHC高清电影
 http://175.15.135.124:8888/udp/239.76.245.242:1234
 #EXTINF:-1 group-title="卫视频道",CHC高清电影
-http://175.11.104.226:4022/udp/239.76.245.242:1234
+http://124.230.56.124:55555/udp/239.76.245.242:1234
+#EXTINF:-1 group-title="卫视频道",CHC高清电影
+http://175.8.87.127:3000/udp/239.76.245.242:1234
 #EXTINF:-1 group-title="卫视频道",CHC高清电影
 http://223.144.160.215:58888/udp/239.76.245.242:1234
 #EXTINF:-1 group-title="卫视频道",CHC高清电影
 http://58.46.248.145:4022/udp/239.76.245.242:1234
 #EXTINF:-1 group-title="卫视频道",CHC高清电影
-http://175.8.87.127:3000/udp/239.76.245.242:1234
-#EXTINF:-1 group-title="卫视频道",CHC高清电影
 http://118.254.159.7:8888/udp/239.76.245.242:1234
-#EXTINF:-1 group-title="卫视频道",东南卫视
-http://118.248.160.63:8888/udp/239.76.252.190:9000
-#EXTINF:-1 group-title="卫视频道",东南卫视
-http://118.248.160.63:8888/udp/239.76.245.190:1234
 #EXTINF:-1 group-title="卫视频道",东南卫视
 http://118.251.35.10:4022/udp/239.76.245.190:1234
 #EXTINF:-1 group-title="卫视频道",东南卫视
@@ -1052,17 +1050,19 @@ http://118.254.157.41:8888/udp/239.76.252.190:9000
 #EXTINF:-1 group-title="卫视频道",东南卫视
 http://118.254.159.7:8888/udp/239.76.252.190:9000
 #EXTINF:-1 group-title="卫视频道",东南卫视
-http://118.254.200.67:8888/udp/239.76.245.190:1234
-#EXTINF:-1 group-title="卫视频道",东南卫视
 http://118.254.159.7:8888/udp/239.76.245.190:1234
+#EXTINF:-1 group-title="卫视频道",东南卫视
+http://118.254.200.67:8888/udp/239.76.245.190:1234
 #EXTINF:-1 group-title="卫视频道",东南卫视
 http://118.254.200.67:8888/udp/239.76.252.190:9000
 #EXTINF:-1 group-title="卫视频道",东南卫视
+http://124.230.56.124:55555/udp/239.76.245.190:1234
+#EXTINF:-1 group-title="卫视频道",东南卫视
 http://175.11.104.226:4022/udp/239.76.245.190:1234
 #EXTINF:-1 group-title="卫视频道",东南卫视
-http://175.11.104.226:4022/udp/239.76.252.190:9000
+http://124.230.56.124:55555/udp/239.76.252.190:9000
 #EXTINF:-1 group-title="卫视频道",东南卫视
-http://175.15.135.124:8888/udp/239.76.245.190:1234
+http://175.11.104.226:4022/udp/239.76.252.190:9000
 #EXTINF:-1 group-title="卫视频道",东南卫视
 http://175.15.135.124:8888/udp/239.76.252.190:9000
 #EXTINF:-1 group-title="卫视频道",东南卫视
@@ -1070,19 +1070,15 @@ http://175.8.87.127:3000/udp/239.76.245.190:1234
 #EXTINF:-1 group-title="卫视频道",东南卫视
 http://175.8.87.127:3000/udp/239.76.252.190:9000
 #EXTINF:-1 group-title="卫视频道",东南卫视
+http://223.144.160.215:58888/udp/239.76.245.190:1234
+#EXTINF:-1 group-title="卫视频道",东南卫视
 http://223.144.160.215:58888/udp/239.76.252.190:9000
 #EXTINF:-1 group-title="卫视频道",东南卫视
 http://58.46.248.145:4022/udp/239.76.245.190:1234
 #EXTINF:-1 group-title="卫视频道",东方卫视
-http://118.248.160.63:8888/udp/239.76.246.186:1234
-#EXTINF:-1 group-title="卫视频道",东南卫视
-http://223.144.160.215:58888/udp/239.76.245.190:1234
+http://118.251.35.10:4022/udp/239.76.246.186:1234
 #EXTINF:-1 group-title="卫视频道",东南卫视
 http://58.46.248.145:4022/udp/239.76.252.190:9000
-#EXTINF:-1 group-title="卫视频道",东方卫视
-http://118.248.160.63:8888/udp/239.76.253.186:9000
-#EXTINF:-1 group-title="卫视频道",东方卫视
-http://118.251.35.10:4022/udp/239.76.246.186:1234
 #EXTINF:-1 group-title="卫视频道",东方卫视
 http://118.251.35.10:4022/udp/239.76.253.186:9000
 #EXTINF:-1 group-title="卫视频道",东方卫视
@@ -1092,11 +1088,17 @@ http://118.254.157.41:8888/udp/239.76.253.186:9000
 #EXTINF:-1 group-title="卫视频道",东方卫视
 http://118.254.159.7:8888/udp/239.76.246.186:1234
 #EXTINF:-1 group-title="卫视频道",东方卫视
+http://118.254.200.67:8888/udp/239.76.253.186:9000
+#EXTINF:-1 group-title="卫视频道",东方卫视
 http://118.254.159.7:8888/udp/239.76.253.186:9000
 #EXTINF:-1 group-title="卫视频道",东方卫视
-http://175.11.104.226:4022/udp/239.76.246.186:1234
+http://118.254.200.67:8888/udp/239.76.246.186:1234
 #EXTINF:-1 group-title="卫视频道",东方卫视
-http://118.254.200.67:8888/udp/239.76.253.186:9000
+http://124.230.56.124:55555/udp/239.76.246.186:1234
+#EXTINF:-1 group-title="卫视频道",东方卫视
+http://124.230.56.124:55555/udp/239.76.253.186:9000
+#EXTINF:-1 group-title="卫视频道",东方卫视
+http://175.11.104.226:4022/udp/239.76.246.186:1234
 #EXTINF:-1 group-title="卫视频道",东方卫视
 http://175.11.104.226:4022/udp/239.76.253.186:9000
 #EXTINF:-1 group-title="卫视频道",东方卫视
@@ -1108,23 +1110,23 @@ http://175.8.87.127:3000/udp/239.76.246.186:1234
 #EXTINF:-1 group-title="卫视频道",东方卫视
 http://175.8.87.127:3000/udp/239.76.253.186:9000
 #EXTINF:-1 group-title="卫视频道",东方卫视
-http://58.46.248.145:4022/udp/239.76.246.186:1234
-#EXTINF:-1 group-title="卫视频道",东方卫视
 http://223.144.160.215:58888/udp/239.76.246.186:1234
-#EXTINF:-1 group-title="卫视频道",东方卫视
-http://58.46.248.145:4022/udp/239.76.253.186:9000
-#EXTINF:-1 group-title="卫视频道",东方卫视
-http://118.254.200.67:8888/udp/239.76.246.186:1234
+#EXTINF:-1 group-title="卫视频道",东南卫视
+http://175.15.135.124:8888/udp/239.76.245.190:1234
 #EXTINF:-1 group-title="卫视频道",东方卫视
 http://223.144.160.215:58888/udp/239.76.253.186:9000
+#EXTINF:-1 group-title="卫视频道",东方卫视
+http://58.46.248.145:4022/udp/239.76.246.186:1234
+#EXTINF:-1 group-title="卫视频道",东方卫视
+http://58.46.248.145:4022/udp/239.76.253.186:9000
 #EXTINF:-1 group-title="卫视频道",云南卫视
-http://118.248.160.63:8888/udp/239.76.254.60:9000
+http://118.254.157.41:8888/udp/239.76.254.60:9000
 #EXTINF:-1 group-title="卫视频道",云南卫视
 http://118.251.35.10:4022/udp/239.76.254.60:9000
 #EXTINF:-1 group-title="卫视频道",云南卫视
 http://118.254.159.7:8888/udp/239.76.254.60:9000
 #EXTINF:-1 group-title="卫视频道",云南卫视
-http://118.254.157.41:8888/udp/239.76.254.60:9000
+http://124.230.56.124:55555/udp/239.76.254.60:9000
 #EXTINF:-1 group-title="卫视频道",云南卫视
 http://118.254.200.67:8888/udp/239.76.254.60:9000
 #EXTINF:-1 group-title="卫视频道",云南卫视
@@ -1138,25 +1140,15 @@ http://223.144.160.215:58888/udp/239.76.254.60:9000
 #EXTINF:-1 group-title="卫视频道",云南卫视
 http://58.46.248.145:4022/udp/239.76.254.60:9000
 #EXTINF:-1 group-title="卫视频道",凤凰中文
-http://118.248.160.63:8888/udp/239.76.246.134:1234
-#EXTINF:-1 group-title="卫视频道",凤凰中文
-http://118.248.160.63:8888/udp/239.76.246.7:1234
-#EXTINF:-1 group-title="卫视频道",凤凰中文
-http://118.248.160.63:8888/udp/239.76.253.135:9000
-#EXTINF:-1 group-title="卫视频道",凤凰中文
-http://118.248.160.63:8888/udp/239.76.253.135:9000
-#EXTINF:-1 group-title="卫视频道",凤凰中文
-http://118.251.35.10:4022/udp/239.76.246.7:1234
-#EXTINF:-1 group-title="卫视频道",凤凰中文
 http://118.251.35.10:4022/udp/239.76.246.134:1234
 #EXTINF:-1 group-title="卫视频道",凤凰中文
 http://118.251.35.10:4022/udp/239.76.253.135:9000
 #EXTINF:-1 group-title="卫视频道",凤凰中文
-http://118.251.35.10:4022/udp/239.76.253.135:9000
+http://118.251.35.10:4022/udp/239.76.246.7:1234
 #EXTINF:-1 group-title="卫视频道",凤凰中文
 http://118.254.157.41:8888/udp/239.76.246.134:1234
 #EXTINF:-1 group-title="卫视频道",凤凰中文
-http://118.254.157.41:8888/udp/239.76.253.135:9000
+http://118.251.35.10:4022/udp/239.76.253.135:9000
 #EXTINF:-1 group-title="卫视频道",凤凰中文
 http://118.254.157.41:8888/udp/239.76.246.7:1234
 #EXTINF:-1 group-title="卫视频道",凤凰中文
@@ -1164,27 +1156,29 @@ http://118.254.157.41:8888/udp/239.76.253.135:9000
 #EXTINF:-1 group-title="卫视频道",凤凰中文
 http://118.254.159.7:8888/udp/239.76.246.7:1234
 #EXTINF:-1 group-title="卫视频道",凤凰中文
-http://118.254.159.7:8888/udp/239.76.253.135:9000
-#EXTINF:-1 group-title="卫视频道",凤凰中文
-http://118.254.200.67:8888/udp/239.76.246.134:1234
-#EXTINF:-1 group-title="卫视频道",凤凰中文
-http://118.254.200.67:8888/udp/239.76.246.7:1234
-#EXTINF:-1 group-title="卫视频道",凤凰中文
 http://118.254.159.7:8888/udp/239.76.246.134:1234
 #EXTINF:-1 group-title="卫视频道",凤凰中文
 http://118.254.159.7:8888/udp/239.76.253.135:9000
 #EXTINF:-1 group-title="卫视频道",凤凰中文
+http://118.254.200.67:8888/udp/239.76.246.134:1234
+#EXTINF:-1 group-title="卫视频道",凤凰中文
+http://118.254.157.41:8888/udp/239.76.253.135:9000
+#EXTINF:-1 group-title="卫视频道",凤凰中文
+http://118.254.200.67:8888/udp/239.76.246.7:1234
+#EXTINF:-1 group-title="卫视频道",凤凰中文
 http://118.254.200.67:8888/udp/239.76.253.135:9000
 #EXTINF:-1 group-title="卫视频道",凤凰中文
 http://118.254.200.67:8888/udp/239.76.253.135:9000
-#EXTINF:-1 group-title="卫视频道",凤凰资讯
-http://118.248.160.63:8888/udp/239.76.246.135:1234
-#EXTINF:-1 group-title="卫视频道",凤凰资讯
-http://118.248.160.63:8888/udp/239.76.246.8:1234
-#EXTINF:-1 group-title="卫视频道",凤凰资讯
-http://118.248.160.63:8888/udp/239.76.253.134:9000
-#EXTINF:-1 group-title="卫视频道",凤凰资讯
-http://118.248.160.63:8888/udp/239.76.253.134:9000
+#EXTINF:-1 group-title="卫视频道",凤凰中文
+http://124.230.56.124:55555/udp/239.76.246.134:1234
+#EXTINF:-1 group-title="卫视频道",凤凰中文
+http://124.230.56.124:55555/udp/239.76.246.7:1234
+#EXTINF:-1 group-title="卫视频道",凤凰中文
+http://124.230.56.124:55555/udp/239.76.253.135:9000
+#EXTINF:-1 group-title="卫视频道",凤凰中文
+http://124.230.56.124:55555/udp/239.76.253.135:9000
+#EXTINF:-1 group-title="卫视频道",凤凰中文
+http://175.11.104.226:4022/udp/239.76.246.134:1234
 #EXTINF:-1 group-title="卫视频道",凤凰资讯
 http://118.251.35.10:4022/udp/239.76.246.135:1234
 #EXTINF:-1 group-title="卫视频道",凤凰资讯
@@ -1192,15 +1186,17 @@ http://118.251.35.10:4022/udp/239.76.253.134:9000
 #EXTINF:-1 group-title="卫视频道",凤凰资讯
 http://118.251.35.10:4022/udp/239.76.246.8:1234
 #EXTINF:-1 group-title="卫视频道",凤凰资讯
-http://118.254.157.41:8888/udp/239.76.246.135:1234
-#EXTINF:-1 group-title="卫视频道",凤凰资讯
 http://118.251.35.10:4022/udp/239.76.253.134:9000
 #EXTINF:-1 group-title="卫视频道",凤凰资讯
 http://118.254.157.41:8888/udp/239.76.246.8:1234
 #EXTINF:-1 group-title="卫视频道",凤凰资讯
+http://118.254.157.41:8888/udp/239.76.246.135:1234
+#EXTINF:-1 group-title="卫视频道",凤凰资讯
 http://118.254.157.41:8888/udp/239.76.253.134:9000
 #EXTINF:-1 group-title="卫视频道",凤凰资讯
 http://118.254.157.41:8888/udp/239.76.253.134:9000
+#EXTINF:-1 group-title="卫视频道",凤凰资讯
+http://118.254.159.7:8888/udp/239.76.246.135:1234
 #EXTINF:-1 group-title="卫视频道",凤凰资讯
 http://118.254.159.7:8888/udp/239.76.246.8:1234
 #EXTINF:-1 group-title="卫视频道",凤凰资讯
@@ -1214,21 +1210,23 @@ http://118.254.200.67:8888/udp/239.76.246.8:1234
 #EXTINF:-1 group-title="卫视频道",凤凰资讯
 http://118.254.200.67:8888/udp/239.76.253.134:9000
 #EXTINF:-1 group-title="卫视频道",凤凰资讯
-http://118.254.200.67:8888/udp/239.76.253.134:9000
+http://124.230.56.124:55555/udp/239.76.246.135:1234
+#EXTINF:-1 group-title="卫视频道",凤凰资讯
+http://124.230.56.124:55555/udp/239.76.246.8:1234
+#EXTINF:-1 group-title="卫视频道",凤凰资讯
+http://124.230.56.124:55555/udp/239.76.253.134:9000
 #EXTINF:-1 group-title="卫视频道",凤凰资讯
 http://175.11.104.226:4022/udp/239.76.246.135:1234
-#EXTINF:-1 group-title="卫视频道",北京卫视
-http://118.248.160.63:8888/udp/239.76.246.184:1234
-#EXTINF:-1 group-title="卫视频道",北京卫视
-http://118.248.160.63:8888/udp/239.76.253.184:9000
+#EXTINF:-1 group-title="卫视频道",凤凰资讯
+http://124.230.56.124:55555/udp/239.76.253.134:9000
 #EXTINF:-1 group-title="卫视频道",北京卫视
 http://118.251.35.10:4022/udp/239.76.253.184:9000
 #EXTINF:-1 group-title="卫视频道",北京卫视
 http://118.251.35.10:4022/udp/239.76.246.184:1234
 #EXTINF:-1 group-title="卫视频道",北京卫视
-http://118.254.157.41:8888/udp/239.76.246.184:1234
-#EXTINF:-1 group-title="卫视频道",北京卫视
 http://118.254.157.41:8888/udp/239.76.253.184:9000
+#EXTINF:-1 group-title="卫视频道",北京卫视
+http://118.254.157.41:8888/udp/239.76.246.184:1234
 #EXTINF:-1 group-title="卫视频道",北京卫视
 http://118.254.159.7:8888/udp/239.76.246.184:1234
 #EXTINF:-1 group-title="卫视频道",北京卫视
@@ -1238,11 +1236,15 @@ http://118.254.200.67:8888/udp/239.76.246.184:1234
 #EXTINF:-1 group-title="卫视频道",北京卫视
 http://118.254.200.67:8888/udp/239.76.253.184:9000
 #EXTINF:-1 group-title="卫视频道",北京卫视
+http://124.230.56.124:55555/udp/239.76.253.184:9000
+#EXTINF:-1 group-title="卫视频道",北京卫视
+http://124.230.56.124:55555/udp/239.76.246.184:1234
+#EXTINF:-1 group-title="卫视频道",北京卫视
 http://175.11.104.226:4022/udp/239.76.246.184:1234
 #EXTINF:-1 group-title="卫视频道",北京卫视
 http://175.11.104.226:4022/udp/239.76.253.184:9000
 #EXTINF:-1 group-title="卫视频道",北京卫视
-http://175.15.135.124:8888/udp/239.76.253.184:9000
+http://175.15.135.124:8888/udp/239.76.246.184:1234
 #EXTINF:-1 group-title="卫视频道",北京卫视
 http://175.8.87.127:3000/udp/239.76.246.184:1234
 #EXTINF:-1 group-title="卫视频道",北京卫视
@@ -1256,51 +1258,47 @@ http://58.46.248.145:4022/udp/239.76.246.184:1234
 #EXTINF:-1 group-title="卫视频道",北京卫视
 http://58.46.248.145:4022/udp/239.76.253.184:9000
 #EXTINF:-1 group-title="卫视频道",吉林卫视
-http://118.248.160.63:8888/udp/239.76.246.201:1234
-#EXTINF:-1 group-title="卫视频道",吉林卫视
 http://118.251.35.10:4022/udp/239.76.246.201:1234
 #EXTINF:-1 group-title="卫视频道",吉林卫视
 http://118.251.35.10:4022/udp/239.76.253.201:9000
 #EXTINF:-1 group-title="卫视频道",吉林卫视
-http://118.248.160.63:8888/udp/239.76.253.201:9000
-#EXTINF:-1 group-title="卫视频道",吉林卫视
 http://118.254.157.41:8888/udp/239.76.246.201:1234
 #EXTINF:-1 group-title="卫视频道",吉林卫视
 http://118.254.157.41:8888/udp/239.76.253.201:9000
+#EXTINF:-1 group-title="卫视频道",北京卫视
+http://175.15.135.124:8888/udp/239.76.253.184:9000
 #EXTINF:-1 group-title="卫视频道",吉林卫视
 http://118.254.159.7:8888/udp/239.76.246.201:1234
 #EXTINF:-1 group-title="卫视频道",吉林卫视
-http://118.254.159.7:8888/udp/239.76.253.201:9000
+http://118.254.200.67:8888/udp/239.76.246.201:1234
 #EXTINF:-1 group-title="卫视频道",吉林卫视
 http://118.254.200.67:8888/udp/239.76.253.201:9000
 #EXTINF:-1 group-title="卫视频道",吉林卫视
-http://118.254.200.67:8888/udp/239.76.246.201:1234
+http://124.230.56.124:55555/udp/239.76.246.201:1234
+#EXTINF:-1 group-title="卫视频道",吉林卫视
+http://124.230.56.124:55555/udp/239.76.253.201:9000
 #EXTINF:-1 group-title="卫视频道",吉林卫视
 http://175.11.104.226:4022/udp/239.76.246.201:1234
 #EXTINF:-1 group-title="卫视频道",吉林卫视
-http://175.15.135.124:8888/udp/239.76.246.201:1234
+http://118.254.159.7:8888/udp/239.76.253.201:9000
 #EXTINF:-1 group-title="卫视频道",吉林卫视
 http://175.11.104.226:4022/udp/239.76.253.201:9000
 #EXTINF:-1 group-title="卫视频道",吉林卫视
-http://175.15.135.124:8888/udp/239.76.253.201:9000
+http://175.15.135.124:8888/udp/239.76.246.201:1234
 #EXTINF:-1 group-title="卫视频道",吉林卫视
 http://175.8.87.127:3000/udp/239.76.246.201:1234
+#EXTINF:-1 group-title="卫视频道",吉林卫视
+http://175.15.135.124:8888/udp/239.76.253.201:9000
 #EXTINF:-1 group-title="卫视频道",吉林卫视
 http://175.8.87.127:3000/udp/239.76.253.201:9000
 #EXTINF:-1 group-title="卫视频道",吉林卫视
 http://223.144.160.215:58888/udp/239.76.246.201:1234
-#EXTINF:-1 group-title="卫视频道",北京卫视
-http://175.15.135.124:8888/udp/239.76.246.184:1234
 #EXTINF:-1 group-title="卫视频道",吉林卫视
 http://223.144.160.215:58888/udp/239.76.253.201:9000
 #EXTINF:-1 group-title="卫视频道",吉林卫视
-http://58.46.248.145:4022/udp/239.76.246.201:1234
-#EXTINF:-1 group-title="卫视频道",吉林卫视
 http://58.46.248.145:4022/udp/239.76.253.201:9000
-#EXTINF:-1 group-title="卫视频道",四川卫视
-http://118.248.160.63:8888/udp/239.76.253.91:9000
-#EXTINF:-1 group-title="卫视频道",四川卫视
-http://118.248.160.63:8888/udp/239.76.246.91:1234
+#EXTINF:-1 group-title="卫视频道",吉林卫视
+http://58.46.248.145:4022/udp/239.76.246.201:1234
 #EXTINF:-1 group-title="卫视频道",四川卫视
 http://118.251.35.10:4022/udp/239.76.246.91:1234
 #EXTINF:-1 group-title="卫视频道",四川卫视
@@ -1316,7 +1314,11 @@ http://118.254.159.7:8888/udp/239.76.253.91:9000
 #EXTINF:-1 group-title="卫视频道",四川卫视
 http://118.254.200.67:8888/udp/239.76.246.91:1234
 #EXTINF:-1 group-title="卫视频道",四川卫视
+http://124.230.56.124:55555/udp/239.76.246.91:1234
+#EXTINF:-1 group-title="卫视频道",四川卫视
 http://118.254.200.67:8888/udp/239.76.253.91:9000
+#EXTINF:-1 group-title="卫视频道",四川卫视
+http://124.230.56.124:55555/udp/239.76.253.91:9000
 #EXTINF:-1 group-title="卫视频道",四川卫视
 http://175.11.104.226:4022/udp/239.76.246.91:1234
 #EXTINF:-1 group-title="卫视频道",四川卫视
@@ -1324,23 +1326,17 @@ http://175.11.104.226:4022/udp/239.76.253.91:9000
 #EXTINF:-1 group-title="卫视频道",四川卫视
 http://175.15.135.124:8888/udp/239.76.246.91:1234
 #EXTINF:-1 group-title="卫视频道",四川卫视
-http://175.15.135.124:8888/udp/239.76.253.91:9000
-#EXTINF:-1 group-title="卫视频道",四川卫视
 http://175.8.87.127:3000/udp/239.76.246.91:1234
+#EXTINF:-1 group-title="卫视频道",四川卫视
+http://175.15.135.124:8888/udp/239.76.253.91:9000
 #EXTINF:-1 group-title="卫视频道",四川卫视
 http://175.8.87.127:3000/udp/239.76.253.91:9000
 #EXTINF:-1 group-title="卫视频道",四川卫视
-http://223.144.160.215:58888/udp/239.76.253.91:9000
-#EXTINF:-1 group-title="卫视频道",四川卫视
 http://223.144.160.215:58888/udp/239.76.246.91:1234
 #EXTINF:-1 group-title="卫视频道",四川卫视
-http://58.46.248.145:4022/udp/239.76.253.91:9000
-#EXTINF:-1 group-title="卫视频道",四川卫视
 http://58.46.248.145:4022/udp/239.76.246.91:1234
-#EXTINF:-1 group-title="卫视频道",天津卫视
-http://118.248.160.63:8888/udp/239.76.246.185:1234
-#EXTINF:-1 group-title="卫视频道",天津卫视
-http://118.248.160.63:8888/udp/239.76.253.185:9000
+#EXTINF:-1 group-title="卫视频道",四川卫视
+http://58.46.248.145:4022/udp/239.76.253.91:9000
 #EXTINF:-1 group-title="卫视频道",天津卫视
 http://118.251.35.10:4022/udp/239.76.246.185:1234
 #EXTINF:-1 group-title="卫视频道",天津卫视
@@ -1358,29 +1354,31 @@ http://118.254.200.67:8888/udp/239.76.246.185:1234
 #EXTINF:-1 group-title="卫视频道",天津卫视
 http://118.254.200.67:8888/udp/239.76.253.185:9000
 #EXTINF:-1 group-title="卫视频道",天津卫视
+http://124.230.56.124:55555/udp/239.76.246.185:1234
+#EXTINF:-1 group-title="卫视频道",天津卫视
 http://175.11.104.226:4022/udp/239.76.246.185:1234
 #EXTINF:-1 group-title="卫视频道",天津卫视
-http://175.11.104.226:4022/udp/239.76.253.185:9000
+http://124.230.56.124:55555/udp/239.76.253.185:9000
 #EXTINF:-1 group-title="卫视频道",天津卫视
-http://175.15.135.124:8888/udp/239.76.253.185:9000
+http://175.11.104.226:4022/udp/239.76.253.185:9000
+#EXTINF:-1 group-title="卫视频道",四川卫视
+http://223.144.160.215:58888/udp/239.76.253.91:9000
 #EXTINF:-1 group-title="卫视频道",天津卫视
 http://175.15.135.124:8888/udp/239.76.246.185:1234
+#EXTINF:-1 group-title="卫视频道",天津卫视
+http://175.15.135.124:8888/udp/239.76.253.185:9000
 #EXTINF:-1 group-title="卫视频道",天津卫视
 http://175.8.87.127:3000/udp/239.76.246.185:1234
 #EXTINF:-1 group-title="卫视频道",天津卫视
 http://175.8.87.127:3000/udp/239.76.253.185:9000
 #EXTINF:-1 group-title="卫视频道",天津卫视
-http://223.144.160.215:58888/udp/239.76.253.185:9000
-#EXTINF:-1 group-title="卫视频道",天津卫视
 http://223.144.160.215:58888/udp/239.76.246.185:1234
 #EXTINF:-1 group-title="卫视频道",天津卫视
-http://58.46.248.145:4022/udp/239.76.253.185:9000
+http://223.144.160.215:58888/udp/239.76.253.185:9000
 #EXTINF:-1 group-title="卫视频道",天津卫视
 http://58.46.248.145:4022/udp/239.76.246.185:1234
-#EXTINF:-1 group-title="卫视频道",安徽卫视
-http://118.248.160.63:8888/udp/239.76.245.196:1234
-#EXTINF:-1 group-title="卫视频道",安徽卫视
-http://118.248.160.63:8888/udp/239.76.252.196:9000
+#EXTINF:-1 group-title="卫视频道",天津卫视
+http://58.46.248.145:4022/udp/239.76.253.185:9000
 #EXTINF:-1 group-title="卫视频道",安徽卫视
 http://118.251.35.10:4022/udp/239.76.245.196:1234
 #EXTINF:-1 group-title="卫视频道",安徽卫视
@@ -1390,17 +1388,21 @@ http://118.254.157.41:8888/udp/239.76.245.196:1234
 #EXTINF:-1 group-title="卫视频道",安徽卫视
 http://118.254.157.41:8888/udp/239.76.252.196:9000
 #EXTINF:-1 group-title="卫视频道",安徽卫视
+http://118.254.159.7:8888/udp/239.76.245.196:1234
+#EXTINF:-1 group-title="卫视频道",安徽卫视
 http://118.254.159.7:8888/udp/239.76.252.196:9000
 #EXTINF:-1 group-title="卫视频道",安徽卫视
 http://118.254.200.67:8888/udp/239.76.245.196:1234
 #EXTINF:-1 group-title="卫视频道",安徽卫视
-http://175.11.104.226:4022/udp/239.76.245.196:1234
+http://118.254.200.67:8888/udp/239.76.252.196:9000
+#EXTINF:-1 group-title="卫视频道",安徽卫视
+http://124.230.56.124:55555/udp/239.76.245.196:1234
 #EXTINF:-1 group-title="卫视频道",安徽卫视
 http://175.11.104.226:4022/udp/239.76.252.196:9000
 #EXTINF:-1 group-title="卫视频道",安徽卫视
-http://118.254.200.67:8888/udp/239.76.252.196:9000
-#EXTINF:-1 group-title="卫视频道",安徽卫视
 http://175.15.135.124:8888/udp/239.76.245.196:1234
+#EXTINF:-1 group-title="卫视频道",安徽卫视
+http://175.11.104.226:4022/udp/239.76.245.196:1234
 #EXTINF:-1 group-title="卫视频道",安徽卫视
 http://175.15.135.124:8888/udp/239.76.252.196:9000
 #EXTINF:-1 group-title="卫视频道",安徽卫视
@@ -1410,41 +1412,43 @@ http://175.8.87.127:3000/udp/239.76.252.196:9000
 #EXTINF:-1 group-title="卫视频道",安徽卫视
 http://223.144.160.215:58888/udp/239.76.245.196:1234
 #EXTINF:-1 group-title="卫视频道",安徽卫视
-http://58.46.248.145:4022/udp/239.76.245.196:1234
-#EXTINF:-1 group-title="卫视频道",安徽卫视
 http://223.144.160.215:58888/udp/239.76.252.196:9000
-#EXTINF:-1 group-title="卫视频道",山东卫视
-http://118.248.160.63:8888/udp/239.76.246.195:1234
-#EXTINF:-1 group-title="卫视频道",山东卫视
-http://118.248.160.63:8888/udp/239.76.253.195:9000
-#EXTINF:-1 group-title="卫视频道",山东卫视
-http://118.251.35.10:4022/udp/239.76.246.195:1234
+#EXTINF:-1 group-title="卫视频道",安徽卫视
+http://58.46.248.145:4022/udp/239.76.245.196:1234
 #EXTINF:-1 group-title="卫视频道",山东卫视
 http://118.251.35.10:4022/udp/239.76.253.195:9000
+#EXTINF:-1 group-title="卫视频道",安徽卫视
+http://58.46.248.145:4022/udp/239.76.252.196:9000
 #EXTINF:-1 group-title="卫视频道",山东卫视
 http://118.254.157.41:8888/udp/239.76.246.195:1234
 #EXTINF:-1 group-title="卫视频道",山东卫视
+http://118.251.35.10:4022/udp/239.76.246.195:1234
+#EXTINF:-1 group-title="卫视频道",山东卫视
 http://118.254.157.41:8888/udp/239.76.253.195:9000
+#EXTINF:-1 group-title="卫视频道",安徽卫视
+http://124.230.56.124:55555/udp/239.76.252.196:9000
 #EXTINF:-1 group-title="卫视频道",山东卫视
 http://118.254.159.7:8888/udp/239.76.246.195:1234
 #EXTINF:-1 group-title="卫视频道",山东卫视
 http://118.254.159.7:8888/udp/239.76.253.195:9000
 #EXTINF:-1 group-title="卫视频道",山东卫视
 http://118.254.200.67:8888/udp/239.76.246.195:1234
-#EXTINF:-1 group-title="卫视频道",安徽卫视
-http://118.254.159.7:8888/udp/239.76.245.196:1234
-#EXTINF:-1 group-title="卫视频道",山东卫视
-http://175.11.104.226:4022/udp/239.76.253.195:9000
-#EXTINF:-1 group-title="卫视频道",山东卫视
-http://175.11.104.226:4022/udp/239.76.246.195:1234
 #EXTINF:-1 group-title="卫视频道",山东卫视
 http://118.254.200.67:8888/udp/239.76.253.195:9000
 #EXTINF:-1 group-title="卫视频道",山东卫视
+http://175.11.104.226:4022/udp/239.76.246.195:1234
+#EXTINF:-1 group-title="卫视频道",山东卫视
+http://175.11.104.226:4022/udp/239.76.253.195:9000
+#EXTINF:-1 group-title="卫视频道",山东卫视
+http://124.230.56.124:55555/udp/239.76.253.195:9000
+#EXTINF:-1 group-title="卫视频道",山东卫视
+http://124.230.56.124:55555/udp/239.76.246.195:1234
+#EXTINF:-1 group-title="卫视频道",山东卫视
 http://175.15.135.124:8888/udp/239.76.246.195:1234
 #EXTINF:-1 group-title="卫视频道",山东卫视
-http://175.15.135.124:8888/udp/239.76.253.195:9000
-#EXTINF:-1 group-title="卫视频道",山东卫视
 http://175.8.87.127:3000/udp/239.76.246.195:1234
+#EXTINF:-1 group-title="卫视频道",山东卫视
+http://175.15.135.124:8888/udp/239.76.253.195:9000
 #EXTINF:-1 group-title="卫视频道",山东卫视
 http://175.8.87.127:3000/udp/239.76.253.195:9000
 #EXTINF:-1 group-title="卫视频道",山东卫视
@@ -1452,21 +1456,15 @@ http://223.144.160.215:58888/udp/239.76.246.195:1234
 #EXTINF:-1 group-title="卫视频道",山东卫视
 http://223.144.160.215:58888/udp/239.76.253.195:9000
 #EXTINF:-1 group-title="卫视频道",山东卫视
-http://58.46.248.145:4022/udp/239.76.253.195:9000
-#EXTINF:-1 group-title="卫视频道",安徽卫视
-http://58.46.248.145:4022/udp/239.76.252.196:9000
-#EXTINF:-1 group-title="卫视频道",山东卫视
 http://58.46.248.145:4022/udp/239.76.246.195:1234
-#EXTINF:-1 group-title="卫视频道",广东卫视
-http://118.248.160.63:8888/udp/239.76.245.189:1234
-#EXTINF:-1 group-title="卫视频道",广东卫视
-http://118.248.160.63:8888/udp/239.76.252.189:9000
-#EXTINF:-1 group-title="卫视频道",广东卫视
-http://118.251.35.10:4022/udp/239.76.245.189:1234
+#EXTINF:-1 group-title="卫视频道",山东卫视
+http://58.46.248.145:4022/udp/239.76.253.195:9000
 #EXTINF:-1 group-title="卫视频道",广东卫视
 http://118.251.35.10:4022/udp/239.76.252.189:9000
 #EXTINF:-1 group-title="卫视频道",广东卫视
 http://118.254.157.41:8888/udp/239.76.245.189:1234
+#EXTINF:-1 group-title="卫视频道",广东卫视
+http://118.254.200.67:8888/udp/239.76.245.189:1234
 #EXTINF:-1 group-title="卫视频道",广东卫视
 http://118.254.157.41:8888/udp/239.76.252.189:9000
 #EXTINF:-1 group-title="卫视频道",广东卫视
@@ -1474,17 +1472,17 @@ http://118.254.159.7:8888/udp/239.76.245.189:1234
 #EXTINF:-1 group-title="卫视频道",广东卫视
 http://118.254.159.7:8888/udp/239.76.252.189:9000
 #EXTINF:-1 group-title="卫视频道",广东卫视
-http://175.11.104.226:4022/udp/239.76.252.189:9000
-#EXTINF:-1 group-title="卫视频道",广东卫视
-http://118.254.200.67:8888/udp/239.76.245.189:1234
-#EXTINF:-1 group-title="卫视频道",广东卫视
 http://118.254.200.67:8888/udp/239.76.252.189:9000
+#EXTINF:-1 group-title="卫视频道",广东卫视
+http://124.230.56.124:55555/udp/239.76.245.189:1234
+#EXTINF:-1 group-title="卫视频道",广东卫视
+http://124.230.56.124:55555/udp/239.76.252.189:9000
 #EXTINF:-1 group-title="卫视频道",广东卫视
 http://175.11.104.226:4022/udp/239.76.245.189:1234
 #EXTINF:-1 group-title="卫视频道",广东卫视
 http://175.15.135.124:8888/udp/239.76.245.189:1234
 #EXTINF:-1 group-title="卫视频道",广东卫视
-http://175.15.135.124:8888/udp/239.76.252.189:9000
+http://175.11.104.226:4022/udp/239.76.252.189:9000
 #EXTINF:-1 group-title="卫视频道",广东卫视
 http://175.8.87.127:3000/udp/239.76.245.189:1234
 #EXTINF:-1 group-title="卫视频道",广东卫视
@@ -1492,13 +1490,15 @@ http://175.8.87.127:3000/udp/239.76.252.189:9000
 #EXTINF:-1 group-title="卫视频道",广东卫视
 http://223.144.160.215:58888/udp/239.76.245.189:1234
 #EXTINF:-1 group-title="卫视频道",广东卫视
-http://58.46.248.145:4022/udp/239.76.252.189:9000
-#EXTINF:-1 group-title="卫视频道",广西卫视
-http://118.248.160.63:8888/udp/239.76.254.54:9000
+http://223.144.160.215:58888/udp/239.76.252.189:9000
 #EXTINF:-1 group-title="卫视频道",广东卫视
 http://58.46.248.145:4022/udp/239.76.245.189:1234
+#EXTINF:-1 group-title="卫视频道",广东卫视
+http://118.251.35.10:4022/udp/239.76.245.189:1234
 #EXTINF:-1 group-title="卫视频道",广西卫视
 http://118.251.35.10:4022/udp/239.76.254.54:9000
+#EXTINF:-1 group-title="卫视频道",广东卫视
+http://58.46.248.145:4022/udp/239.76.252.189:9000
 #EXTINF:-1 group-title="卫视频道",广西卫视
 http://118.254.157.41:8888/udp/239.76.254.54:9000
 #EXTINF:-1 group-title="卫视频道",广西卫视
@@ -1506,21 +1506,19 @@ http://118.254.159.7:8888/udp/239.76.254.54:9000
 #EXTINF:-1 group-title="卫视频道",广西卫视
 http://118.254.200.67:8888/udp/239.76.254.54:9000
 #EXTINF:-1 group-title="卫视频道",广西卫视
-http://175.15.135.124:8888/udp/239.76.254.54:9000
+http://124.230.56.124:55555/udp/239.76.254.54:9000
 #EXTINF:-1 group-title="卫视频道",广西卫视
 http://175.11.104.226:4022/udp/239.76.254.54:9000
 #EXTINF:-1 group-title="卫视频道",广西卫视
+http://175.15.135.124:8888/udp/239.76.254.54:9000
+#EXTINF:-1 group-title="卫视频道",广西卫视
 http://175.8.87.127:3000/udp/239.76.254.54:9000
 #EXTINF:-1 group-title="卫视频道",广西卫视
-http://58.46.248.145:4022/udp/239.76.254.54:9000
-#EXTINF:-1 group-title="卫视频道",广西卫视
 http://223.144.160.215:58888/udp/239.76.254.54:9000
+#EXTINF:-1 group-title="卫视频道",广西卫视
+http://58.46.248.145:4022/udp/239.76.254.54:9000
 #EXTINF:-1 group-title="卫视频道",广东卫视
-http://223.144.160.215:58888/udp/239.76.252.189:9000
-#EXTINF:-1 group-title="卫视频道",江苏卫视
-http://118.248.160.63:8888/udp/239.76.253.181:9000
-#EXTINF:-1 group-title="卫视频道",江苏卫视
-http://118.248.160.63:8888/udp/239.76.246.181:1234
+http://175.15.135.124:8888/udp/239.76.252.189:9000
 #EXTINF:-1 group-title="卫视频道",江苏卫视
 http://118.251.35.10:4022/udp/239.76.246.181:1234
 #EXTINF:-1 group-title="卫视频道",江苏卫视
@@ -1532,19 +1530,23 @@ http://118.254.157.41:8888/udp/239.76.253.181:9000
 #EXTINF:-1 group-title="卫视频道",江苏卫视
 http://118.254.159.7:8888/udp/239.76.246.181:1234
 #EXTINF:-1 group-title="卫视频道",江苏卫视
+http://118.254.159.7:8888/udp/239.76.253.181:9000
+#EXTINF:-1 group-title="卫视频道",江苏卫视
 http://118.254.200.67:8888/udp/239.76.246.181:1234
 #EXTINF:-1 group-title="卫视频道",江苏卫视
 http://118.254.200.67:8888/udp/239.76.253.181:9000
 #EXTINF:-1 group-title="卫视频道",江苏卫视
-http://118.254.159.7:8888/udp/239.76.253.181:9000
+http://124.230.56.124:55555/udp/239.76.253.181:9000
+#EXTINF:-1 group-title="卫视频道",江苏卫视
+http://175.11.104.226:4022/udp/239.76.246.181:1234
+#EXTINF:-1 group-title="卫视频道",江苏卫视
+http://124.230.56.124:55555/udp/239.76.246.181:1234
+#EXTINF:-1 group-title="卫视频道",江苏卫视
+http://175.11.104.226:4022/udp/239.76.253.181:9000
 #EXTINF:-1 group-title="卫视频道",江苏卫视
 http://175.15.135.124:8888/udp/239.76.246.181:1234
 #EXTINF:-1 group-title="卫视频道",江苏卫视
 http://175.15.135.124:8888/udp/239.76.253.181:9000
-#EXTINF:-1 group-title="卫视频道",江苏卫视
-http://175.11.104.226:4022/udp/239.76.246.181:1234
-#EXTINF:-1 group-title="卫视频道",江苏卫视
-http://175.11.104.226:4022/udp/239.76.253.181:9000
 #EXTINF:-1 group-title="卫视频道",江苏卫视
 http://175.8.87.127:3000/udp/239.76.246.181:1234
 #EXTINF:-1 group-title="卫视频道",江苏卫视
@@ -1552,51 +1554,53 @@ http://175.8.87.127:3000/udp/239.76.253.181:9000
 #EXTINF:-1 group-title="卫视频道",江苏卫视
 http://223.144.160.215:58888/udp/239.76.246.181:1234
 #EXTINF:-1 group-title="卫视频道",江苏卫视
-http://58.46.248.145:4022/udp/239.76.253.181:9000
-#EXTINF:-1 group-title="卫视频道",江西卫视
-http://118.254.157.41:8888/udp/239.76.245.225:1234
+http://223.144.160.215:58888/udp/239.76.253.181:9000
 #EXTINF:-1 group-title="卫视频道",江西卫视
 http://118.251.35.10:4022/udp/239.76.245.225:1234
-#EXTINF:-1 group-title="卫视频道",江西卫视
-http://118.248.160.63:8888/udp/239.76.245.225:1234
+#EXTINF:-1 group-title="卫视频道",江苏卫视
+http://58.46.248.145:4022/udp/239.76.253.181:9000
 #EXTINF:-1 group-title="卫视频道",江苏卫视
 http://58.46.248.145:4022/udp/239.76.246.181:1234
-#EXTINF:-1 group-title="卫视频道",江苏卫视
-http://223.144.160.215:58888/udp/239.76.253.181:9000
+#EXTINF:-1 group-title="卫视频道",江西卫视
+http://118.254.157.41:8888/udp/239.76.245.225:1234
 #EXTINF:-1 group-title="卫视频道",江西卫视
 http://118.254.159.7:8888/udp/239.76.245.225:1234
 #EXTINF:-1 group-title="卫视频道",江西卫视
 http://118.254.200.67:8888/udp/239.76.245.225:1234
+#EXTINF:-1 group-title="卫视频道",江西卫视
+http://124.230.56.124:55555/udp/239.76.245.225:1234
 #EXTINF:-1 group-title="卫视频道",江西卫视
 http://175.11.104.226:4022/udp/239.76.245.225:1234
 #EXTINF:-1 group-title="卫视频道",江西卫视
 http://175.15.135.124:8888/udp/239.76.245.225:1234
 #EXTINF:-1 group-title="卫视频道",江西卫视
 http://175.8.87.127:3000/udp/239.76.245.225:1234
-#EXTINF:-1 group-title="卫视频道",河北卫视
-http://118.248.160.63:8888/udp/239.76.245.199:1234
-#EXTINF:-1 group-title="卫视频道",河北卫视
-http://118.251.35.10:4022/udp/239.76.245.199:1234
-#EXTINF:-1 group-title="卫视频道",河北卫视
-http://118.248.160.63:8888/udp/239.76.252.199:9000
-#EXTINF:-1 group-title="卫视频道",河北卫视
-http://118.251.35.10:4022/udp/239.76.252.199:9000
 #EXTINF:-1 group-title="卫视频道",江西卫视
 http://58.46.248.145:4022/udp/239.76.245.225:1234
+#EXTINF:-1 group-title="卫视频道",河北卫视
+http://118.251.35.10:4022/udp/239.76.245.199:1234
 #EXTINF:-1 group-title="卫视频道",江西卫视
 http://223.144.160.215:58888/udp/239.76.245.225:1234
 #EXTINF:-1 group-title="卫视频道",河北卫视
-http://118.254.157.41:8888/udp/239.76.252.199:9000
+http://118.251.35.10:4022/udp/239.76.252.199:9000
 #EXTINF:-1 group-title="卫视频道",河北卫视
 http://118.254.157.41:8888/udp/239.76.245.199:1234
 #EXTINF:-1 group-title="卫视频道",河北卫视
+http://118.254.157.41:8888/udp/239.76.252.199:9000
+#EXTINF:-1 group-title="卫视频道",河北卫视
 http://118.254.159.7:8888/udp/239.76.245.199:1234
+#EXTINF:-1 group-title="卫视频道",河北卫视
+http://118.254.159.7:8888/udp/239.76.252.199:9000
 #EXTINF:-1 group-title="卫视频道",河北卫视
 http://118.254.200.67:8888/udp/239.76.245.199:1234
 #EXTINF:-1 group-title="卫视频道",河北卫视
+http://118.254.200.67:8888/udp/239.76.252.199:9000
+#EXTINF:-1 group-title="卫视频道",河北卫视
 http://175.11.104.226:4022/udp/239.76.245.199:1234
 #EXTINF:-1 group-title="卫视频道",河北卫视
-http://118.254.159.7:8888/udp/239.76.252.199:9000
+http://124.230.56.124:55555/udp/239.76.245.199:1234
+#EXTINF:-1 group-title="卫视频道",河北卫视
+http://124.230.56.124:55555/udp/239.76.252.199:9000
 #EXTINF:-1 group-title="卫视频道",河北卫视
 http://175.11.104.226:4022/udp/239.76.252.199:9000
 #EXTINF:-1 group-title="卫视频道",河北卫视
@@ -1604,43 +1608,41 @@ http://175.15.135.124:8888/udp/239.76.245.199:1234
 #EXTINF:-1 group-title="卫视频道",河北卫视
 http://175.15.135.124:8888/udp/239.76.252.199:9000
 #EXTINF:-1 group-title="卫视频道",河北卫视
-http://118.254.200.67:8888/udp/239.76.252.199:9000
-#EXTINF:-1 group-title="卫视频道",河北卫视
 http://175.8.87.127:3000/udp/239.76.245.199:1234
 #EXTINF:-1 group-title="卫视频道",河北卫视
 http://175.8.87.127:3000/udp/239.76.252.199:9000
 #EXTINF:-1 group-title="卫视频道",河北卫视
 http://223.144.160.215:58888/udp/239.76.245.199:1234
 #EXTINF:-1 group-title="卫视频道",河北卫视
-http://58.46.248.145:4022/udp/239.76.245.199:1234
-#EXTINF:-1 group-title="卫视频道",河北卫视
 http://223.144.160.215:58888/udp/239.76.252.199:9000
 #EXTINF:-1 group-title="卫视频道",河南卫视
-http://118.248.160.63:8888/udp/239.76.253.202:9000
+http://118.251.35.10:4022/udp/239.76.246.202:1234
+#EXTINF:-1 group-title="卫视频道",河北卫视
+http://58.46.248.145:4022/udp/239.76.245.199:1234
 #EXTINF:-1 group-title="卫视频道",河北卫视
 http://58.46.248.145:4022/udp/239.76.252.199:9000
 #EXTINF:-1 group-title="卫视频道",河南卫视
 http://118.251.35.10:4022/udp/239.76.253.202:9000
 #EXTINF:-1 group-title="卫视频道",河南卫视
-http://118.248.160.63:8888/udp/239.76.246.202:1234
-#EXTINF:-1 group-title="卫视频道",河南卫视
-http://118.251.35.10:4022/udp/239.76.246.202:1234
-#EXTINF:-1 group-title="卫视频道",河南卫视
 http://118.254.157.41:8888/udp/239.76.246.202:1234
 #EXTINF:-1 group-title="卫视频道",河南卫视
 http://118.254.157.41:8888/udp/239.76.253.202:9000
 #EXTINF:-1 group-title="卫视频道",河南卫视
-http://118.254.159.7:8888/udp/239.76.246.202:1234
-#EXTINF:-1 group-title="卫视频道",河南卫视
 http://118.254.159.7:8888/udp/239.76.253.202:9000
 #EXTINF:-1 group-title="卫视频道",河南卫视
-http://175.11.104.226:4022/udp/239.76.246.202:1234
+http://118.254.159.7:8888/udp/239.76.246.202:1234
 #EXTINF:-1 group-title="卫视频道",河南卫视
 http://118.254.200.67:8888/udp/239.76.246.202:1234
 #EXTINF:-1 group-title="卫视频道",河南卫视
-http://175.11.104.226:4022/udp/239.76.253.202:9000
-#EXTINF:-1 group-title="卫视频道",河南卫视
 http://118.254.200.67:8888/udp/239.76.253.202:9000
+#EXTINF:-1 group-title="卫视频道",河南卫视
+http://175.11.104.226:4022/udp/239.76.246.202:1234
+#EXTINF:-1 group-title="卫视频道",河南卫视
+http://124.230.56.124:55555/udp/239.76.246.202:1234
+#EXTINF:-1 group-title="卫视频道",河南卫视
+http://124.230.56.124:55555/udp/239.76.253.202:9000
+#EXTINF:-1 group-title="卫视频道",河南卫视
+http://175.11.104.226:4022/udp/239.76.253.202:9000
 #EXTINF:-1 group-title="卫视频道",河南卫视
 http://175.15.135.124:8888/udp/239.76.246.202:1234
 #EXTINF:-1 group-title="卫视频道",河南卫视
@@ -1650,17 +1652,13 @@ http://175.8.87.127:3000/udp/239.76.246.202:1234
 #EXTINF:-1 group-title="卫视频道",河南卫视
 http://175.8.87.127:3000/udp/239.76.253.202:9000
 #EXTINF:-1 group-title="卫视频道",河南卫视
+http://223.144.160.215:58888/udp/239.76.246.202:1234
+#EXTINF:-1 group-title="卫视频道",河南卫视
 http://223.144.160.215:58888/udp/239.76.253.202:9000
 #EXTINF:-1 group-title="卫视频道",河南卫视
 http://58.46.248.145:4022/udp/239.76.246.202:1234
 #EXTINF:-1 group-title="卫视频道",河南卫视
 http://58.46.248.145:4022/udp/239.76.253.202:9000
-#EXTINF:-1 group-title="卫视频道",河南卫视
-http://223.144.160.215:58888/udp/239.76.246.202:1234
-#EXTINF:-1 group-title="卫视频道",浙江卫视
-http://118.248.160.63:8888/udp/239.76.253.182:9000
-#EXTINF:-1 group-title="卫视频道",浙江卫视
-http://118.248.160.63:8888/udp/239.76.246.182:1234
 #EXTINF:-1 group-title="卫视频道",浙江卫视
 http://118.251.35.10:4022/udp/239.76.246.182:1234
 #EXTINF:-1 group-title="卫视频道",浙江卫视
@@ -1670,17 +1668,17 @@ http://118.251.35.10:4022/udp/239.76.253.182:9000
 #EXTINF:-1 group-title="卫视频道",浙江卫视
 http://118.254.157.41:8888/udp/239.76.253.182:9000
 #EXTINF:-1 group-title="卫视频道",浙江卫视
-http://118.254.159.7:8888/udp/239.76.253.182:9000
-#EXTINF:-1 group-title="卫视频道",浙江卫视
 http://118.254.159.7:8888/udp/239.76.246.182:1234
 #EXTINF:-1 group-title="卫视频道",浙江卫视
-http://118.254.200.67:8888/udp/239.76.246.182:1234
-#EXTINF:-1 group-title="卫视频道",浙江卫视
-http://175.11.104.226:4022/udp/239.76.253.182:9000
-#EXTINF:-1 group-title="卫视频道",浙江卫视
-http://175.11.104.226:4022/udp/239.76.246.182:1234
+http://118.254.159.7:8888/udp/239.76.253.182:9000
 #EXTINF:-1 group-title="卫视频道",浙江卫视
 http://118.254.200.67:8888/udp/239.76.253.182:9000
+#EXTINF:-1 group-title="卫视频道",浙江卫视
+http://124.230.56.124:55555/udp/239.76.246.182:1234
+#EXTINF:-1 group-title="卫视频道",浙江卫视
+http://124.230.56.124:55555/udp/239.76.253.182:9000
+#EXTINF:-1 group-title="卫视频道",浙江卫视
+http://175.11.104.226:4022/udp/239.76.246.182:1234
 #EXTINF:-1 group-title="卫视频道",浙江卫视
 http://175.15.135.124:8888/udp/239.76.246.182:1234
 #EXTINF:-1 group-title="卫视频道",浙江卫视
@@ -1694,13 +1692,11 @@ http://223.144.160.215:58888/udp/239.76.246.182:1234
 #EXTINF:-1 group-title="卫视频道",浙江卫视
 http://223.144.160.215:58888/udp/239.76.253.182:9000
 #EXTINF:-1 group-title="卫视频道",浙江卫视
+http://58.46.248.145:4022/udp/239.76.253.182:9000
+#EXTINF:-1 group-title="卫视频道",浙江卫视
 http://58.46.248.145:4022/udp/239.76.246.182:1234
 #EXTINF:-1 group-title="卫视频道",浙江卫视
-http://58.46.248.145:4022/udp/239.76.253.182:9000
-#EXTINF:-1 group-title="卫视频道",海南卫视
-http://118.248.160.63:8888/udp/239.76.246.203:1234
-#EXTINF:-1 group-title="卫视频道",海南卫视
-http://118.248.160.63:8888/udp/239.76.253.203:9000
+http://118.254.200.67:8888/udp/239.76.246.182:1234
 #EXTINF:-1 group-title="卫视频道",海南卫视
 http://118.251.35.10:4022/udp/239.76.246.203:1234
 #EXTINF:-1 group-title="卫视频道",海南卫视
@@ -1714,33 +1710,37 @@ http://118.254.159.7:8888/udp/239.76.246.203:1234
 #EXTINF:-1 group-title="卫视频道",海南卫视
 http://118.254.159.7:8888/udp/239.76.253.203:9000
 #EXTINF:-1 group-title="卫视频道",海南卫视
-http://118.254.200.67:8888/udp/239.76.253.203:9000
-#EXTINF:-1 group-title="卫视频道",海南卫视
 http://118.254.200.67:8888/udp/239.76.246.203:1234
 #EXTINF:-1 group-title="卫视频道",海南卫视
-http://175.11.104.226:4022/udp/239.76.253.203:9000
+http://124.230.56.124:55555/udp/239.76.246.203:1234
+#EXTINF:-1 group-title="卫视频道",海南卫视
+http://124.230.56.124:55555/udp/239.76.253.203:9000
 #EXTINF:-1 group-title="卫视频道",海南卫视
 http://175.11.104.226:4022/udp/239.76.246.203:1234
 #EXTINF:-1 group-title="卫视频道",海南卫视
+http://175.11.104.226:4022/udp/239.76.253.203:9000
+#EXTINF:-1 group-title="卫视频道",海南卫视
 http://175.15.135.124:8888/udp/239.76.246.203:1234
+#EXTINF:-1 group-title="卫视频道",海南卫视
+http://118.254.200.67:8888/udp/239.76.253.203:9000
+#EXTINF:-1 group-title="卫视频道",海南卫视
+http://175.15.135.124:8888/udp/239.76.253.203:9000
+#EXTINF:-1 group-title="卫视频道",浙江卫视
+http://175.11.104.226:4022/udp/239.76.253.182:9000
 #EXTINF:-1 group-title="卫视频道",海南卫视
 http://175.8.87.127:3000/udp/239.76.246.203:1234
 #EXTINF:-1 group-title="卫视频道",海南卫视
 http://175.8.87.127:3000/udp/239.76.253.203:9000
 #EXTINF:-1 group-title="卫视频道",海南卫视
-http://223.144.160.215:58888/udp/239.76.253.203:9000
-#EXTINF:-1 group-title="卫视频道",海南卫视
 http://223.144.160.215:58888/udp/239.76.246.203:1234
 #EXTINF:-1 group-title="卫视频道",海南卫视
 http://58.46.248.145:4022/udp/239.76.246.203:1234
-#EXTINF:-1 group-title="卫视频道",深圳卫视
-http://118.248.160.63:8888/udp/239.76.253.188:9000
 #EXTINF:-1 group-title="卫视频道",海南卫视
-http://58.46.248.145:4022/udp/239.76.253.203:9000
-#EXTINF:-1 group-title="卫视频道",深圳卫视
-http://118.248.160.63:8888/udp/239.76.246.188:1234
+http://223.144.160.215:58888/udp/239.76.253.203:9000
 #EXTINF:-1 group-title="卫视频道",深圳卫视
 http://118.251.35.10:4022/udp/239.76.246.188:1234
+#EXTINF:-1 group-title="卫视频道",海南卫视
+http://58.46.248.145:4022/udp/239.76.253.203:9000
 #EXTINF:-1 group-title="卫视频道",深圳卫视
 http://118.251.35.10:4022/udp/239.76.253.188:9000
 #EXTINF:-1 group-title="卫视频道",深圳卫视
@@ -1750,19 +1750,21 @@ http://118.254.157.41:8888/udp/239.76.253.188:9000
 #EXTINF:-1 group-title="卫视频道",深圳卫视
 http://118.254.159.7:8888/udp/239.76.246.188:1234
 #EXTINF:-1 group-title="卫视频道",深圳卫视
-http://118.254.200.67:8888/udp/239.76.246.188:1234
-#EXTINF:-1 group-title="卫视频道",深圳卫视
 http://118.254.159.7:8888/udp/239.76.253.188:9000
 #EXTINF:-1 group-title="卫视频道",深圳卫视
+http://118.254.200.67:8888/udp/239.76.246.188:1234
+#EXTINF:-1 group-title="卫视频道",深圳卫视
 http://118.254.200.67:8888/udp/239.76.253.188:9000
+#EXTINF:-1 group-title="卫视频道",深圳卫视
+http://124.230.56.124:55555/udp/239.76.246.188:1234
 #EXTINF:-1 group-title="卫视频道",深圳卫视
 http://175.11.104.226:4022/udp/239.76.246.188:1234
 #EXTINF:-1 group-title="卫视频道",深圳卫视
 http://175.11.104.226:4022/udp/239.76.253.188:9000
 #EXTINF:-1 group-title="卫视频道",深圳卫视
+http://124.230.56.124:55555/udp/239.76.253.188:9000
+#EXTINF:-1 group-title="卫视频道",深圳卫视
 http://175.15.135.124:8888/udp/239.76.246.188:1234
-#EXTINF:-1 group-title="卫视频道",海南卫视
-http://175.15.135.124:8888/udp/239.76.253.203:9000
 #EXTINF:-1 group-title="卫视频道",深圳卫视
 http://175.15.135.124:8888/udp/239.76.253.188:9000
 #EXTINF:-1 group-title="卫视频道",深圳卫视
@@ -1772,15 +1774,11 @@ http://175.8.87.127:3000/udp/239.76.253.188:9000
 #EXTINF:-1 group-title="卫视频道",深圳卫视
 http://223.144.160.215:58888/udp/239.76.246.188:1234
 #EXTINF:-1 group-title="卫视频道",深圳卫视
-http://223.144.160.215:58888/udp/239.76.253.188:9000
-#EXTINF:-1 group-title="卫视频道",深圳卫视
 http://58.46.248.145:4022/udp/239.76.246.188:1234
 #EXTINF:-1 group-title="卫视频道",深圳卫视
+http://223.144.160.215:58888/udp/239.76.253.188:9000
+#EXTINF:-1 group-title="卫视频道",深圳卫视
 http://58.46.248.145:4022/udp/239.76.253.188:9000
-#EXTINF:-1 group-title="卫视频道",湖北卫视
-http://118.248.160.63:8888/udp/239.76.246.193:1234
-#EXTINF:-1 group-title="卫视频道",湖北卫视
-http://118.248.160.63:8888/udp/239.76.253.193:9000
 #EXTINF:-1 group-title="卫视频道",湖北卫视
 http://118.251.35.10:4022/udp/239.76.246.193:1234
 #EXTINF:-1 group-title="卫视频道",湖北卫视
@@ -1792,53 +1790,45 @@ http://118.254.157.41:8888/udp/239.76.253.193:9000
 #EXTINF:-1 group-title="卫视频道",湖北卫视
 http://118.254.159.7:8888/udp/239.76.246.193:1234
 #EXTINF:-1 group-title="卫视频道",湖北卫视
-http://118.254.200.67:8888/udp/239.76.246.193:1234
-#EXTINF:-1 group-title="卫视频道",湖北卫视
 http://118.254.159.7:8888/udp/239.76.253.193:9000
 #EXTINF:-1 group-title="卫视频道",湖北卫视
-http://175.11.104.226:4022/udp/239.76.246.193:1234
+http://118.254.200.67:8888/udp/239.76.246.193:1234
 #EXTINF:-1 group-title="卫视频道",湖北卫视
 http://118.254.200.67:8888/udp/239.76.253.193:9000
 #EXTINF:-1 group-title="卫视频道",湖北卫视
-http://175.15.135.124:8888/udp/239.76.246.193:1234
+http://124.230.56.124:55555/udp/239.76.246.193:1234
+#EXTINF:-1 group-title="卫视频道",湖北卫视
+http://124.230.56.124:55555/udp/239.76.253.193:9000
+#EXTINF:-1 group-title="卫视频道",湖北卫视
+http://175.11.104.226:4022/udp/239.76.246.193:1234
 #EXTINF:-1 group-title="卫视频道",湖北卫视
 http://175.11.104.226:4022/udp/239.76.253.193:9000
 #EXTINF:-1 group-title="卫视频道",湖北卫视
+http://175.15.135.124:8888/udp/239.76.246.193:1234
+#EXTINF:-1 group-title="卫视频道",湖北卫视
 http://175.15.135.124:8888/udp/239.76.253.193:9000
 #EXTINF:-1 group-title="卫视频道",湖北卫视
-http://175.8.87.127:3000/udp/239.76.253.193:9000
-#EXTINF:-1 group-title="卫视频道",湖北卫视
 http://175.8.87.127:3000/udp/239.76.246.193:1234
+#EXTINF:-1 group-title="卫视频道",湖北卫视
+http://175.8.87.127:3000/udp/239.76.253.193:9000
 #EXTINF:-1 group-title="卫视频道",湖北卫视
 http://223.144.160.215:58888/udp/239.76.246.193:1234
 #EXTINF:-1 group-title="卫视频道",湖北卫视
 http://223.144.160.215:58888/udp/239.76.253.193:9000
 #EXTINF:-1 group-title="卫视频道",湖北卫视
-http://58.46.248.145:4022/udp/239.76.246.193:1234
-#EXTINF:-1 group-title="卫视频道",湖北卫视
 http://58.46.248.145:4022/udp/239.76.253.193:9000
-#EXTINF:-1 group-title="卫视频道",湖南卫视
-http://118.248.160.63:8888/udp/239.76.245.115:1234
-#EXTINF:-1 group-title="卫视频道",湖南卫视
-http://118.248.160.63:8888/udp/239.76.246.100:1234
-#EXTINF:-1 group-title="卫视频道",湖南卫视
-http://118.248.160.63:8888/udp/239.76.246.101:1234
-#EXTINF:-1 group-title="卫视频道",湖南卫视
-http://118.248.160.63:8888/udp/239.76.253.100:9000
-#EXTINF:-1 group-title="卫视频道",湖南卫视
-http://118.248.160.63:8888/udp/239.76.252.115:9000
+#EXTINF:-1 group-title="卫视频道",湖北卫视
+http://58.46.248.145:4022/udp/239.76.246.193:1234
 #EXTINF:-1 group-title="卫视频道",湖南卫视
 http://118.251.35.10:4022/udp/239.76.245.115:1234
-#EXTINF:-1 group-title="卫视频道",湖南卫视
-http://118.248.160.63:8888/udp/239.76.253.101:9000
 #EXTINF:-1 group-title="卫视频道",湖南卫视
 http://118.251.35.10:4022/udp/239.76.246.100:1234
 #EXTINF:-1 group-title="卫视频道",湖南卫视
 http://118.251.35.10:4022/udp/239.76.246.101:1234
 #EXTINF:-1 group-title="卫视频道",湖南卫视
-http://118.251.35.10:4022/udp/239.76.253.100:9000
-#EXTINF:-1 group-title="卫视频道",湖南卫视
 http://118.251.35.10:4022/udp/239.76.252.115:9000
+#EXTINF:-1 group-title="卫视频道",湖南卫视
+http://118.251.35.10:4022/udp/239.76.253.100:9000
 #EXTINF:-1 group-title="卫视频道",湖南卫视
 http://118.251.35.10:4022/udp/239.76.253.101:9000
 #EXTINF:-1 group-title="卫视频道",湖南卫视
@@ -1846,21 +1836,29 @@ http://118.254.157.41:8888/udp/239.76.245.115:1234
 #EXTINF:-1 group-title="卫视频道",湖南卫视
 http://118.254.157.41:8888/udp/239.76.246.100:1234
 #EXTINF:-1 group-title="卫视频道",湖南卫视
-http://118.254.157.41:8888/udp/239.76.246.101:1234
-#EXTINF:-1 group-title="卫视频道",湖南卫视
-http://118.254.157.41:8888/udp/239.76.252.115:9000
-#EXTINF:-1 group-title="卫视频道",湖南卫视
 http://118.254.157.41:8888/udp/239.76.253.100:9000
 #EXTINF:-1 group-title="卫视频道",湖南卫视
 http://118.254.157.41:8888/udp/239.76.253.101:9000
 #EXTINF:-1 group-title="卫视频道",湖南卫视
-http://118.254.159.7:8888/udp/239.76.245.115:1234
+http://118.254.157.41:8888/udp/239.76.252.115:9000
+#EXTINF:-1 group-title="卫视频道",湖南卫视
+http://118.254.159.7:8888/udp/239.76.246.100:1234
 #EXTINF:-1 group-title="卫视频道",湖南卫视
 http://118.254.159.7:8888/udp/239.76.246.101:1234
-#EXTINF:-1 group-title="卫视频道",甘肃卫视
-http://118.248.160.63:8888/udp/239.76.246.94:1234
-#EXTINF:-1 group-title="卫视频道",甘肃卫视
-http://118.248.160.63:8888/udp/239.76.253.94:9000
+#EXTINF:-1 group-title="卫视频道",湖南卫视
+http://118.254.159.7:8888/udp/239.76.252.115:9000
+#EXTINF:-1 group-title="卫视频道",湖南卫视
+http://118.254.159.7:8888/udp/239.76.253.100:9000
+#EXTINF:-1 group-title="卫视频道",湖南卫视
+http://118.254.159.7:8888/udp/239.76.253.101:9000
+#EXTINF:-1 group-title="卫视频道",湖南卫视
+http://118.254.200.67:8888/udp/239.76.245.115:1234
+#EXTINF:-1 group-title="卫视频道",湖南卫视
+http://118.254.200.67:8888/udp/239.76.246.101:1234
+#EXTINF:-1 group-title="卫视频道",湖南卫视
+http://118.254.200.67:8888/udp/239.76.252.115:9000
+#EXTINF:-1 group-title="卫视频道",湖南卫视
+http://118.254.157.41:8888/udp/239.76.246.101:1234
 #EXTINF:-1 group-title="卫视频道",甘肃卫视
 http://118.251.35.10:4022/udp/239.76.246.94:1234
 #EXTINF:-1 group-title="卫视频道",甘肃卫视
@@ -1872,21 +1870,25 @@ http://118.254.157.41:8888/udp/239.76.253.94:9000
 #EXTINF:-1 group-title="卫视频道",甘肃卫视
 http://118.254.159.7:8888/udp/239.76.246.94:1234
 #EXTINF:-1 group-title="卫视频道",甘肃卫视
-http://118.254.200.67:8888/udp/239.76.246.94:1234
-#EXTINF:-1 group-title="卫视频道",甘肃卫视
 http://118.254.159.7:8888/udp/239.76.253.94:9000
 #EXTINF:-1 group-title="卫视频道",甘肃卫视
 http://118.254.200.67:8888/udp/239.76.253.94:9000
+#EXTINF:-1 group-title="卫视频道",甘肃卫视
+http://118.254.200.67:8888/udp/239.76.246.94:1234
+#EXTINF:-1 group-title="卫视频道",甘肃卫视
+http://124.230.56.124:55555/udp/239.76.246.94:1234
+#EXTINF:-1 group-title="卫视频道",甘肃卫视
+http://124.230.56.124:55555/udp/239.76.253.94:9000
 #EXTINF:-1 group-title="卫视频道",甘肃卫视
 http://175.11.104.226:4022/udp/239.76.246.94:1234
 #EXTINF:-1 group-title="卫视频道",甘肃卫视
 http://175.11.104.226:4022/udp/239.76.253.94:9000
 #EXTINF:-1 group-title="卫视频道",甘肃卫视
-http://175.15.135.124:8888/udp/239.76.253.94:9000
-#EXTINF:-1 group-title="卫视频道",甘肃卫视
 http://175.15.135.124:8888/udp/239.76.246.94:1234
 #EXTINF:-1 group-title="卫视频道",甘肃卫视
 http://175.8.87.127:3000/udp/239.76.246.94:1234
+#EXTINF:-1 group-title="卫视频道",甘肃卫视
+http://175.15.135.124:8888/udp/239.76.253.94:9000
 #EXTINF:-1 group-title="卫视频道",甘肃卫视
 http://175.8.87.127:3000/udp/239.76.253.94:9000
 #EXTINF:-1 group-title="卫视频道",甘肃卫视
@@ -1898,13 +1900,9 @@ http://58.46.248.145:4022/udp/239.76.246.94:1234
 #EXTINF:-1 group-title="卫视频道",甘肃卫视
 http://58.46.248.145:4022/udp/239.76.253.94:9000
 #EXTINF:-1 group-title="卫视频道",贵州卫视
-http://118.248.160.63:8888/udp/239.76.245.198:1234
-#EXTINF:-1 group-title="卫视频道",贵州卫视
-http://118.248.160.63:8888/udp/239.76.252.198:9000
+http://118.251.35.10:4022/udp/239.76.252.198:9000
 #EXTINF:-1 group-title="卫视频道",贵州卫视
 http://118.251.35.10:4022/udp/239.76.245.198:1234
-#EXTINF:-1 group-title="卫视频道",贵州卫视
-http://118.251.35.10:4022/udp/239.76.252.198:9000
 #EXTINF:-1 group-title="卫视频道",贵州卫视
 http://118.254.157.41:8888/udp/239.76.245.198:1234
 #EXTINF:-1 group-title="卫视频道",贵州卫视
@@ -1912,13 +1910,17 @@ http://118.254.157.41:8888/udp/239.76.252.198:9000
 #EXTINF:-1 group-title="卫视频道",贵州卫视
 http://118.254.159.7:8888/udp/239.76.245.198:1234
 #EXTINF:-1 group-title="卫视频道",贵州卫视
-http://118.254.200.67:8888/udp/239.76.245.198:1234
-#EXTINF:-1 group-title="卫视频道",贵州卫视
 http://118.254.159.7:8888/udp/239.76.252.198:9000
 #EXTINF:-1 group-title="卫视频道",贵州卫视
-http://175.11.104.226:4022/udp/239.76.245.198:1234
+http://118.254.200.67:8888/udp/239.76.245.198:1234
 #EXTINF:-1 group-title="卫视频道",贵州卫视
 http://118.254.200.67:8888/udp/239.76.252.198:9000
+#EXTINF:-1 group-title="卫视频道",贵州卫视
+http://124.230.56.124:55555/udp/239.76.245.198:1234
+#EXTINF:-1 group-title="卫视频道",贵州卫视
+http://124.230.56.124:55555/udp/239.76.252.198:9000
+#EXTINF:-1 group-title="卫视频道",贵州卫视
+http://175.11.104.226:4022/udp/239.76.245.198:1234
 #EXTINF:-1 group-title="卫视频道",贵州卫视
 http://175.11.104.226:4022/udp/239.76.252.198:9000
 #EXTINF:-1 group-title="卫视频道",贵州卫视
@@ -1926,9 +1928,9 @@ http://175.15.135.124:8888/udp/239.76.245.198:1234
 #EXTINF:-1 group-title="卫视频道",贵州卫视
 http://175.15.135.124:8888/udp/239.76.252.198:9000
 #EXTINF:-1 group-title="卫视频道",贵州卫视
-http://175.8.87.127:3000/udp/239.76.252.198:9000
-#EXTINF:-1 group-title="卫视频道",贵州卫视
 http://175.8.87.127:3000/udp/239.76.245.198:1234
+#EXTINF:-1 group-title="卫视频道",贵州卫视
+http://175.8.87.127:3000/udp/239.76.252.198:9000
 #EXTINF:-1 group-title="卫视频道",贵州卫视
 http://223.144.160.215:58888/udp/239.76.245.198:1234
 #EXTINF:-1 group-title="卫视频道",贵州卫视
@@ -1938,17 +1940,13 @@ http://223.144.160.215:58888/udp/239.76.252.198:9000
 #EXTINF:-1 group-title="卫视频道",贵州卫视
 http://58.46.248.145:4022/udp/239.76.252.198:9000
 #EXTINF:-1 group-title="卫视频道",辽宁卫视
-http://118.248.160.63:8888/udp/239.76.245.197:1234
+http://118.251.35.10:4022/udp/239.76.252.197:9000
 #EXTINF:-1 group-title="卫视频道",辽宁卫视
 http://118.251.35.10:4022/udp/239.76.245.197:1234
 #EXTINF:-1 group-title="卫视频道",辽宁卫视
-http://118.248.160.63:8888/udp/239.76.252.197:9000
-#EXTINF:-1 group-title="卫视频道",辽宁卫视
-http://118.251.35.10:4022/udp/239.76.252.197:9000
+http://118.254.157.41:8888/udp/239.76.245.197:1234
 #EXTINF:-1 group-title="卫视频道",辽宁卫视
 http://118.254.157.41:8888/udp/239.76.252.197:9000
-#EXTINF:-1 group-title="卫视频道",辽宁卫视
-http://118.254.157.41:8888/udp/239.76.245.197:1234
 #EXTINF:-1 group-title="卫视频道",辽宁卫视
 http://118.254.159.7:8888/udp/239.76.245.197:1234
 #EXTINF:-1 group-title="卫视频道",辽宁卫视
@@ -1958,49 +1956,57 @@ http://118.254.200.67:8888/udp/239.76.245.197:1234
 #EXTINF:-1 group-title="卫视频道",辽宁卫视
 http://118.254.200.67:8888/udp/239.76.252.197:9000
 #EXTINF:-1 group-title="卫视频道",辽宁卫视
-http://175.11.104.226:4022/udp/239.76.252.197:9000
+http://124.230.56.124:55555/udp/239.76.245.197:1234
+#EXTINF:-1 group-title="卫视频道",辽宁卫视
+http://124.230.56.124:55555/udp/239.76.252.197:9000
 #EXTINF:-1 group-title="卫视频道",辽宁卫视
 http://175.11.104.226:4022/udp/239.76.245.197:1234
 #EXTINF:-1 group-title="卫视频道",辽宁卫视
+http://175.11.104.226:4022/udp/239.76.252.197:9000
+#EXTINF:-1 group-title="卫视频道",辽宁卫视
 http://175.15.135.124:8888/udp/239.76.245.197:1234
 #EXTINF:-1 group-title="卫视频道",辽宁卫视
-http://175.8.87.127:3000/udp/239.76.252.197:9000
+http://175.15.135.124:8888/udp/239.76.252.197:9000
 #EXTINF:-1 group-title="卫视频道",辽宁卫视
 http://175.8.87.127:3000/udp/239.76.245.197:1234
 #EXTINF:-1 group-title="卫视频道",辽宁卫视
-http://223.144.160.215:58888/udp/239.76.245.197:1234
+http://175.8.87.127:3000/udp/239.76.252.197:9000
 #EXTINF:-1 group-title="卫视频道",辽宁卫视
-http://223.144.160.215:58888/udp/239.76.252.197:9000
+http://223.144.160.215:58888/udp/239.76.245.197:1234
 #EXTINF:-1 group-title="卫视频道",辽宁卫视
 http://58.46.248.145:4022/udp/239.76.245.197:1234
 #EXTINF:-1 group-title="卫视频道",辽宁卫视
-http://58.46.248.145:4022/udp/239.76.252.197:9000
+http://223.144.160.215:58888/udp/239.76.252.197:9000
 #EXTINF:-1 group-title="卫视频道",辽宁卫视
-http://175.15.135.124:8888/udp/239.76.252.197:9000
-#EXTINF:-1 group-title="卫视频道",重庆卫视
-http://118.248.160.63:8888/udp/239.76.246.92:1234
-#EXTINF:-1 group-title="卫视频道",重庆卫视
-http://118.248.160.63:8888/udp/239.76.253.92:9000
-#EXTINF:-1 group-title="卫视频道",重庆卫视
-http://118.251.35.10:4022/udp/239.76.253.92:9000
+http://58.46.248.145:4022/udp/239.76.252.197:9000
 #EXTINF:-1 group-title="卫视频道",重庆卫视
 http://118.251.35.10:4022/udp/239.76.246.92:1234
+#EXTINF:-1 group-title="卫视频道",重庆卫视
+http://118.251.35.10:4022/udp/239.76.253.92:9000
 #EXTINF:-1 group-title="卫视频道",重庆卫视
 http://118.254.157.41:8888/udp/239.76.246.92:1234
 #EXTINF:-1 group-title="卫视频道",重庆卫视
 http://118.254.157.41:8888/udp/239.76.253.92:9000
 #EXTINF:-1 group-title="卫视频道",重庆卫视
+http://118.254.159.7:8888/udp/239.76.246.92:1234
+#EXTINF:-1 group-title="卫视频道",重庆卫视
 http://118.254.159.7:8888/udp/239.76.253.92:9000
 #EXTINF:-1 group-title="卫视频道",重庆卫视
+http://118.254.200.67:8888/udp/239.76.246.92:1234
+#EXTINF:-1 group-title="卫视频道",重庆卫视
 http://118.254.200.67:8888/udp/239.76.253.92:9000
+#EXTINF:-1 group-title="卫视频道",重庆卫视
+http://124.230.56.124:55555/udp/239.76.253.92:9000
+#EXTINF:-1 group-title="卫视频道",重庆卫视
+http://124.230.56.124:55555/udp/239.76.246.92:1234
 #EXTINF:-1 group-title="卫视频道",重庆卫视
 http://175.11.104.226:4022/udp/239.76.246.92:1234
 #EXTINF:-1 group-title="卫视频道",重庆卫视
 http://175.11.104.226:4022/udp/239.76.253.92:9000
 #EXTINF:-1 group-title="卫视频道",重庆卫视
-http://175.15.135.124:8888/udp/239.76.253.92:9000
-#EXTINF:-1 group-title="卫视频道",重庆卫视
 http://175.15.135.124:8888/udp/239.76.246.92:1234
+#EXTINF:-1 group-title="卫视频道",重庆卫视
+http://175.15.135.124:8888/udp/239.76.253.92:9000
 #EXTINF:-1 group-title="卫视频道",重庆卫视
 http://175.8.87.127:3000/udp/239.76.246.92:1234
 #EXTINF:-1 group-title="卫视频道",重庆卫视
@@ -2008,67 +2014,59 @@ http://175.8.87.127:3000/udp/239.76.253.92:9000
 #EXTINF:-1 group-title="卫视频道",重庆卫视
 http://223.144.160.215:58888/udp/239.76.246.92:1234
 #EXTINF:-1 group-title="卫视频道",重庆卫视
-http://58.46.248.145:4022/udp/239.76.246.92:1234
-#EXTINF:-1 group-title="卫视频道",重庆卫视
 http://223.144.160.215:58888/udp/239.76.253.92:9000
 #EXTINF:-1 group-title="卫视频道",重庆卫视
+http://58.46.248.145:4022/udp/239.76.246.92:1234
+#EXTINF:-1 group-title="卫视频道",重庆卫视
 http://58.46.248.145:4022/udp/239.76.253.92:9000
-#EXTINF:-1 group-title="卫视频道",重庆卫视
-http://118.254.159.7:8888/udp/239.76.246.92:1234
-#EXTINF:-1 group-title="卫视频道",重庆卫视
-http://118.254.200.67:8888/udp/239.76.246.92:1234
-#EXTINF:-1 group-title="卫视频道",陕西卫视
-http://118.251.35.10:4022/udp/239.76.254.76:9000
-#EXTINF:-1 group-title="卫视频道",陕西卫视
-http://118.248.160.63:8888/udp/239.76.254.76:9000
-#EXTINF:-1 group-title="卫视频道",陕西卫视
-http://118.254.157.41:8888/udp/239.76.254.76:9000
 #EXTINF:-1 group-title="卫视频道",陕西卫视
 http://118.254.159.7:8888/udp/239.76.254.76:9000
+#EXTINF:-1 group-title="卫视频道",陕西卫视
+http://118.254.157.41:8888/udp/239.76.254.76:9000
 #EXTINF:-1 group-title="卫视频道",陕西卫视
 http://118.254.200.67:8888/udp/239.76.254.76:9000
 #EXTINF:-1 group-title="卫视频道",陕西卫视
 http://175.11.104.226:4022/udp/239.76.254.76:9000
 #EXTINF:-1 group-title="卫视频道",陕西卫视
-http://175.15.135.124:8888/udp/239.76.254.76:9000
+http://124.230.56.124:55555/udp/239.76.254.76:9000
 #EXTINF:-1 group-title="卫视频道",陕西卫视
-http://175.8.87.127:3000/udp/239.76.254.76:9000
+http://175.15.135.124:8888/udp/239.76.254.76:9000
 #EXTINF:-1 group-title="卫视频道",陕西卫视
 http://223.144.160.215:58888/udp/239.76.254.76:9000
 #EXTINF:-1 group-title="卫视频道",陕西卫视
+http://175.8.87.127:3000/udp/239.76.254.76:9000
+#EXTINF:-1 group-title="卫视频道",陕西卫视
 http://58.46.248.145:4022/udp/239.76.254.76:9000
 #EXTINF:-1 group-title="卫视频道",青海卫视
-http://118.248.160.63:8888/udp/239.76.254.132:9000
+http://118.254.157.41:8888/udp/239.76.254.132:9000
 #EXTINF:-1 group-title="卫视频道",青海卫视
 http://118.251.35.10:4022/udp/239.76.254.132:9000
-#EXTINF:-1 group-title="卫视频道",青海卫视
-http://118.254.157.41:8888/udp/239.76.254.132:9000
 #EXTINF:-1 group-title="卫视频道",青海卫视
 http://118.254.159.7:8888/udp/239.76.254.132:9000
 #EXTINF:-1 group-title="卫视频道",青海卫视
 http://118.254.200.67:8888/udp/239.76.254.132:9000
 #EXTINF:-1 group-title="卫视频道",青海卫视
-http://175.11.104.226:4022/udp/239.76.254.132:9000
+http://124.230.56.124:55555/udp/239.76.254.132:9000
 #EXTINF:-1 group-title="卫视频道",青海卫视
-http://175.15.135.124:8888/udp/239.76.254.132:9000
+http://175.11.104.226:4022/udp/239.76.254.132:9000
 #EXTINF:-1 group-title="卫视频道",青海卫视
 http://175.8.87.127:3000/udp/239.76.254.132:9000
 #EXTINF:-1 group-title="卫视频道",青海卫视
+http://175.15.135.124:8888/udp/239.76.254.132:9000
+#EXTINF:-1 group-title="卫视频道",青海卫视
 http://223.144.160.215:58888/udp/239.76.254.132:9000
-#EXTINF:-1 group-title="卫视频道",黑龙江卫视
-http://118.248.160.63:8888/udp/239.76.253.200:9000
-#EXTINF:-1 group-title="卫视频道",黑龙江卫视
-http://118.248.160.63:8888/udp/239.76.246.200:1234
 #EXTINF:-1 group-title="卫视频道",青海卫视
 http://58.46.248.145:4022/udp/239.76.254.132:9000
 #EXTINF:-1 group-title="卫视频道",黑龙江卫视
-http://118.251.35.10:4022/udp/239.76.246.200:1234
-#EXTINF:-1 group-title="卫视频道",黑龙江卫视
 http://118.251.35.10:4022/udp/239.76.253.200:9000
 #EXTINF:-1 group-title="卫视频道",黑龙江卫视
-http://118.254.157.41:8888/udp/239.76.246.200:1234
+http://118.251.35.10:4022/udp/239.76.246.200:1234
 #EXTINF:-1 group-title="卫视频道",黑龙江卫视
 http://118.254.157.41:8888/udp/239.76.253.200:9000
+#EXTINF:-1 group-title="卫视频道",陕西卫视
+http://118.251.35.10:4022/udp/239.76.254.76:9000
+#EXTINF:-1 group-title="卫视频道",黑龙江卫视
+http://118.254.157.41:8888/udp/239.76.246.200:1234
 #EXTINF:-1 group-title="卫视频道",黑龙江卫视
 http://118.254.159.7:8888/udp/239.76.246.200:1234
 #EXTINF:-1 group-title="卫视频道",黑龙江卫视
@@ -2076,15 +2074,17 @@ http://118.254.159.7:8888/udp/239.76.253.200:9000
 #EXTINF:-1 group-title="卫视频道",黑龙江卫视
 http://118.254.200.67:8888/udp/239.76.246.200:1234
 #EXTINF:-1 group-title="卫视频道",黑龙江卫视
-http://175.11.104.226:4022/udp/239.76.253.200:9000
+http://118.254.200.67:8888/udp/239.76.253.200:9000
+#EXTINF:-1 group-title="卫视频道",黑龙江卫视
+http://124.230.56.124:55555/udp/239.76.246.200:1234
 #EXTINF:-1 group-title="卫视频道",黑龙江卫视
 http://175.11.104.226:4022/udp/239.76.246.200:1234
 #EXTINF:-1 group-title="卫视频道",黑龙江卫视
-http://118.254.200.67:8888/udp/239.76.253.200:9000
-#EXTINF:-1 group-title="卫视频道",黑龙江卫视
-http://175.15.135.124:8888/udp/239.76.246.200:1234
+http://175.11.104.226:4022/udp/239.76.253.200:9000
 #EXTINF:-1 group-title="卫视频道",黑龙江卫视
 http://175.15.135.124:8888/udp/239.76.253.200:9000
+#EXTINF:-1 group-title="卫视频道",黑龙江卫视
+http://175.15.135.124:8888/udp/239.76.246.200:1234
 #EXTINF:-1 group-title="卫视频道",黑龙江卫视
 http://175.8.87.127:3000/udp/239.76.246.200:1234
 #EXTINF:-1 group-title="卫视频道",黑龙江卫视
@@ -2097,20 +2097,20 @@ http://223.144.160.215:58888/udp/239.76.253.200:9000
 http://58.46.248.145:4022/udp/239.76.246.200:1234
 #EXTINF:-1 group-title="卫视频道",黑龙江卫视
 http://58.46.248.145:4022/udp/239.76.253.200:9000
-#EXTINF:-1 group-title="湖南频道",全纪实
-http://118.248.160.63:8888/udp/239.76.253.137:9000
-#EXTINF:-1 group-title="湖南频道",全纪实
-http://118.248.160.63:8888/udp/239.76.246.137:1234
+#EXTINF:-1 group-title="卫视频道",黑龙江卫视
+http://124.230.56.124:55555/udp/239.76.253.200:9000
 #EXTINF:-1 group-title="湖南频道",全纪实
 http://118.251.35.10:4022/udp/239.76.246.137:1234
 #EXTINF:-1 group-title="湖南频道",全纪实
-http://118.251.35.10:4022/udp/239.76.253.137:9000
-#EXTINF:-1 group-title="湖南频道",全纪实
 http://118.254.157.41:8888/udp/239.76.246.137:1234
+#EXTINF:-1 group-title="湖南频道",全纪实
+http://118.251.35.10:4022/udp/239.76.253.137:9000
 #EXTINF:-1 group-title="湖南频道",全纪实
 http://118.254.157.41:8888/udp/239.76.253.137:9000
 #EXTINF:-1 group-title="湖南频道",全纪实
 http://118.254.159.7:8888/udp/239.76.246.137:1234
+#EXTINF:-1 group-title="湖南频道",全纪实
+http://118.254.159.7:8888/udp/239.76.253.137:9000
 #EXTINF:-1 group-title="湖南频道",全纪实
 http://118.254.200.67:8888/udp/239.76.246.137:1234
 #EXTINF:-1 group-title="湖南频道",全纪实
@@ -2118,11 +2118,13 @@ http://118.254.200.67:8888/udp/239.76.253.137:9000
 #EXTINF:-1 group-title="湖南频道",全纪实
 http://175.11.104.226:4022/udp/239.76.246.137:1234
 #EXTINF:-1 group-title="湖南频道",全纪实
-http://175.11.104.226:4022/udp/239.76.253.137:9000
+http://124.230.56.124:55555/udp/239.76.253.137:9000
+#EXTINF:-1 group-title="湖南频道",全纪实
+http://124.230.56.124:55555/udp/239.76.246.137:1234
 #EXTINF:-1 group-title="湖南频道",全纪实
 http://175.15.135.124:8888/udp/239.76.246.137:1234
 #EXTINF:-1 group-title="湖南频道",全纪实
-http://175.15.135.124:8888/udp/239.76.253.137:9000
+http://175.11.104.226:4022/udp/239.76.253.137:9000
 #EXTINF:-1 group-title="湖南频道",全纪实
 http://175.8.87.127:3000/udp/239.76.246.137:1234
 #EXTINF:-1 group-title="湖南频道",全纪实
@@ -2130,15 +2132,13 @@ http://175.8.87.127:3000/udp/239.76.253.137:9000
 #EXTINF:-1 group-title="湖南频道",全纪实
 http://223.144.160.215:58888/udp/239.76.246.137:1234
 #EXTINF:-1 group-title="湖南频道",全纪实
-http://58.46.248.145:4022/udp/239.76.246.137:1234
-#EXTINF:-1 group-title="湖南频道",全纪实
 http://223.144.160.215:58888/udp/239.76.253.137:9000
 #EXTINF:-1 group-title="湖南频道",全纪实
-http://118.254.159.7:8888/udp/239.76.253.137:9000
+http://58.46.248.145:4022/udp/239.76.246.137:1234
 #EXTINF:-1 group-title="湖南频道",全纪实
 http://58.46.248.145:4022/udp/239.76.253.137:9000
-#EXTINF:-1 group-title="湖南频道",娄底公共
-http://118.248.160.63:8888/udp/239.76.248.19:1234
+#EXTINF:-1 group-title="湖南频道",全纪实
+http://175.15.135.124:8888/udp/239.76.253.137:9000
 #EXTINF:-1 group-title="湖南频道",娄底公共
 http://118.251.35.10:4022/udp/239.76.248.19:1234
 #EXTINF:-1 group-title="湖南频道",娄底公共
@@ -2148,17 +2148,17 @@ http://118.254.159.7:8888/udp/239.76.248.19:1234
 #EXTINF:-1 group-title="湖南频道",娄底公共
 http://118.254.200.67:8888/udp/239.76.248.19:1234
 #EXTINF:-1 group-title="湖南频道",娄底公共
+http://124.230.56.124:55555/udp/239.76.248.19:1234
+#EXTINF:-1 group-title="湖南频道",娄底公共
 http://175.11.104.226:4022/udp/239.76.248.19:1234
 #EXTINF:-1 group-title="湖南频道",娄底公共
 http://175.15.135.124:8888/udp/239.76.248.19:1234
 #EXTINF:-1 group-title="湖南频道",娄底公共
+http://223.144.160.215:58888/udp/239.76.248.19:1234
+#EXTINF:-1 group-title="湖南频道",娄底公共
 http://175.8.87.127:3000/udp/239.76.248.19:1234
 #EXTINF:-1 group-title="湖南频道",娄底公共
 http://58.46.248.145:4022/udp/239.76.248.19:1234
-#EXTINF:-1 group-title="湖南频道",娄底公共
-http://223.144.160.215:58888/udp/239.76.248.19:1234
-#EXTINF:-1 group-title="湖南频道",娄底综合
-http://118.248.160.63:8888/udp/239.76.248.18:1234
 #EXTINF:-1 group-title="湖南频道",娄底综合
 http://118.251.35.10:4022/udp/239.76.248.18:1234
 #EXTINF:-1 group-title="湖南频道",娄底综合
@@ -2167,6 +2167,8 @@ http://118.254.159.7:8888/udp/239.76.248.18:1234
 http://118.254.157.41:8888/udp/239.76.248.18:1234
 #EXTINF:-1 group-title="湖南频道",娄底综合
 http://118.254.200.67:8888/udp/239.76.248.18:1234
+#EXTINF:-1 group-title="湖南频道",娄底综合
+http://124.230.56.124:55555/udp/239.76.248.18:1234
 #EXTINF:-1 group-title="湖南频道",娄底综合
 http://175.11.104.226:4022/udp/239.76.248.18:1234
 #EXTINF:-1 group-title="湖南频道",娄底综合
@@ -2178,65 +2180,69 @@ http://223.144.160.215:58888/udp/239.76.248.18:1234
 #EXTINF:-1 group-title="湖南频道",娄底综合
 http://58.46.248.145:4022/udp/239.76.248.18:1234
 #EXTINF:-1 group-title="湖南频道",常德公共
-http://118.248.160.63:8888/udp/239.76.248.11:1234
-#EXTINF:-1 group-title="湖南频道",常德公共
 http://118.251.35.10:4022/udp/239.76.248.11:1234
 #EXTINF:-1 group-title="湖南频道",常德公共
 http://118.254.157.41:8888/udp/239.76.248.11:1234
 #EXTINF:-1 group-title="湖南频道",常德公共
-http://118.254.159.7:8888/udp/239.76.248.11:1234
-#EXTINF:-1 group-title="湖南频道",常德公共
 http://118.254.200.67:8888/udp/239.76.248.11:1234
 #EXTINF:-1 group-title="湖南频道",常德公共
-http://175.11.104.226:4022/udp/239.76.248.11:1234
+http://124.230.56.124:55555/udp/239.76.248.11:1234
 #EXTINF:-1 group-title="湖南频道",常德公共
 http://175.15.135.124:8888/udp/239.76.248.11:1234
 #EXTINF:-1 group-title="湖南频道",常德公共
 http://175.8.87.127:3000/udp/239.76.248.11:1234
 #EXTINF:-1 group-title="湖南频道",常德公共
-http://223.144.160.215:58888/udp/239.76.248.11:1234
-#EXTINF:-1 group-title="湖南频道",常德公共
 http://58.46.248.145:4022/udp/239.76.248.11:1234
-#EXTINF:-1 group-title="湖南频道",常德综合
-http://118.248.160.63:8888/udp/239.76.248.10:1234
 #EXTINF:-1 group-title="湖南频道",常德综合
 http://118.251.35.10:4022/udp/239.76.248.10:1234
 #EXTINF:-1 group-title="湖南频道",常德综合
 http://118.254.157.41:8888/udp/239.76.248.10:1234
-#EXTINF:-1 group-title="湖南频道",常德综合
-http://118.254.200.67:8888/udp/239.76.248.10:1234
+#EXTINF:-1 group-title="湖南频道",常德公共
+http://223.144.160.215:58888/udp/239.76.248.11:1234
 #EXTINF:-1 group-title="湖南频道",常德综合
 http://118.254.159.7:8888/udp/239.76.248.10:1234
 #EXTINF:-1 group-title="湖南频道",常德综合
+http://118.254.200.67:8888/udp/239.76.248.10:1234
+#EXTINF:-1 group-title="湖南频道",常德综合
 http://175.11.104.226:4022/udp/239.76.248.10:1234
 #EXTINF:-1 group-title="湖南频道",常德综合
-http://175.15.135.124:8888/udp/239.76.248.10:1234
-#EXTINF:-1 group-title="湖南频道",常德综合
 http://175.8.87.127:3000/udp/239.76.248.10:1234
+#EXTINF:-1 group-title="湖南频道",常德综合
+http://175.15.135.124:8888/udp/239.76.248.10:1234
 #EXTINF:-1 group-title="湖南频道",常德综合
 http://58.46.248.145:4022/udp/239.76.248.10:1234
 #EXTINF:-1 group-title="湖南频道",常德综合
 http://223.144.160.215:58888/udp/239.76.248.10:1234
-#EXTINF:-1 group-title="湖南频道",张家界
-http://118.248.160.63:8888/udp/239.76.245.235:1234
-#EXTINF:-1 group-title="湖南频道",张家界
-http://118.248.160.63:8888/udp/239.76.252.235:9000
+#EXTINF:-1 group-title="湖南频道",常德公共
+http://175.11.104.226:4022/udp/239.76.248.11:1234
+#EXTINF:-1 group-title="湖南频道",常德公共
+http://118.254.159.7:8888/udp/239.76.248.11:1234
+#EXTINF:-1 group-title="湖南频道",常德综合
+http://124.230.56.124:55555/udp/239.76.248.10:1234
 #EXTINF:-1 group-title="湖南频道",张家界
 http://118.251.35.10:4022/udp/239.76.245.235:1234
 #EXTINF:-1 group-title="湖南频道",张家界
 http://118.251.35.10:4022/udp/239.76.252.235:9000
 #EXTINF:-1 group-title="湖南频道",张家界
-http://118.254.157.41:8888/udp/239.76.252.235:9000
-#EXTINF:-1 group-title="湖南频道",张家界
 http://118.254.157.41:8888/udp/239.76.245.235:1234
+#EXTINF:-1 group-title="湖南频道",张家界
+http://118.254.157.41:8888/udp/239.76.252.235:9000
 #EXTINF:-1 group-title="湖南频道",张家界
 http://118.254.159.7:8888/udp/239.76.245.235:1234
 #EXTINF:-1 group-title="湖南频道",张家界
 http://118.254.159.7:8888/udp/239.76.252.235:9000
 #EXTINF:-1 group-title="湖南频道",张家界
+http://118.254.200.67:8888/udp/239.76.245.235:1234
+#EXTINF:-1 group-title="湖南频道",张家界
 http://118.254.200.67:8888/udp/239.76.252.235:9000
 #EXTINF:-1 group-title="湖南频道",张家界
-http://118.254.200.67:8888/udp/239.76.245.235:1234
+http://124.230.56.124:55555/udp/239.76.245.235:1234
+#EXTINF:-1 group-title="湖南频道",张家界
+http://124.230.56.124:55555/udp/239.76.252.235:9000
+#EXTINF:-1 group-title="湖南频道",张家界
+http://175.11.104.226:4022/udp/239.76.245.235:1234
+#EXTINF:-1 group-title="湖南频道",张家界
+http://175.11.104.226:4022/udp/239.76.252.235:9000
 #EXTINF:-1 group-title="湖南频道",张家界
 http://175.15.135.124:8888/udp/239.76.245.235:1234
 #EXTINF:-1 group-title="湖南频道",张家界
@@ -2246,15 +2252,13 @@ http://175.8.87.127:3000/udp/239.76.245.235:1234
 #EXTINF:-1 group-title="湖南频道",张家界
 http://175.8.87.127:3000/udp/239.76.252.235:9000
 #EXTINF:-1 group-title="湖南频道",张家界
-http://58.46.248.145:4022/udp/239.76.245.235:1234
+http://223.144.160.215:58888/udp/239.76.245.235:1234
 #EXTINF:-1 group-title="湖南频道",张家界
 http://223.144.160.215:58888/udp/239.76.252.235:9000
 #EXTINF:-1 group-title="湖南频道",张家界
+http://58.46.248.145:4022/udp/239.76.245.235:1234
+#EXTINF:-1 group-title="湖南频道",张家界
 http://58.46.248.145:4022/udp/239.76.252.235:9000
-#EXTINF:-1 group-title="湖南频道",张家界综合
-http://118.248.160.63:8888/udp/239.76.245.234:1234
-#EXTINF:-1 group-title="湖南频道",张家界综合
-http://118.248.160.63:8888/udp/239.76.252.234:9000
 #EXTINF:-1 group-title="湖南频道",张家界综合
 http://118.251.35.10:4022/udp/239.76.245.234:1234
 #EXTINF:-1 group-title="湖南频道",张家界综合
@@ -2265,8 +2269,6 @@ http://118.254.157.41:8888/udp/239.76.245.234:1234
 http://118.254.157.41:8888/udp/239.76.252.234:9000
 #EXTINF:-1 group-title="湖南频道",张家界综合
 http://118.254.159.7:8888/udp/239.76.245.234:1234
-#EXTINF:-1 group-title="湖南频道",张家界
-http://223.144.160.215:58888/udp/239.76.245.235:1234
 #EXTINF:-1 group-title="湖南频道",张家界综合
 http://118.254.159.7:8888/udp/239.76.252.234:9000
 #EXTINF:-1 group-title="湖南频道",张家界综合
@@ -2275,12 +2277,10 @@ http://118.254.200.67:8888/udp/239.76.245.234:1234
 http://118.254.200.67:8888/udp/239.76.252.234:9000
 #EXTINF:-1 group-title="湖南频道",张家界综合
 http://175.11.104.226:4022/udp/239.76.245.234:1234
-#EXTINF:-1 group-title="湖南频道",张家界
-http://175.11.104.226:4022/udp/239.76.245.235:1234
-#EXTINF:-1 group-title="湖南频道",张家界
-http://175.11.104.226:4022/udp/239.76.252.235:9000
 #EXTINF:-1 group-title="湖南频道",张家界综合
-http://175.15.135.124:8888/udp/239.76.245.234:1234
+http://124.230.56.124:55555/udp/239.76.245.234:1234
+#EXTINF:-1 group-title="湖南频道",张家界综合
+http://124.230.56.124:55555/udp/239.76.252.234:9000
 #EXTINF:-1 group-title="湖南频道",张家界综合
 http://175.11.104.226:4022/udp/239.76.252.234:9000
 #EXTINF:-1 group-title="湖南频道",张家界综合
@@ -2292,13 +2292,13 @@ http://175.8.87.127:3000/udp/239.76.252.234:9000
 #EXTINF:-1 group-title="湖南频道",张家界综合
 http://223.144.160.215:58888/udp/239.76.245.234:1234
 #EXTINF:-1 group-title="湖南频道",张家界综合
+http://223.144.160.215:58888/udp/239.76.252.234:9000
+#EXTINF:-1 group-title="湖南频道",张家界综合
 http://58.46.248.145:4022/udp/239.76.245.234:1234
 #EXTINF:-1 group-title="湖南频道",张家界综合
 http://58.46.248.145:4022/udp/239.76.252.234:9000
 #EXTINF:-1 group-title="湖南频道",张家界综合
-http://223.144.160.215:58888/udp/239.76.252.234:9000
-#EXTINF:-1 group-title="湖南频道",怀化综合
-http://118.248.160.63:8888/udp/239.76.255.12:9000
+http://175.15.135.124:8888/udp/239.76.245.234:1234
 #EXTINF:-1 group-title="湖南频道",怀化综合
 http://118.251.35.10:4022/udp/239.76.255.12:9000
 #EXTINF:-1 group-title="湖南频道",怀化综合
@@ -2306,11 +2306,13 @@ http://118.254.157.41:8888/udp/239.76.255.12:9000
 #EXTINF:-1 group-title="湖南频道",怀化综合
 http://118.254.159.7:8888/udp/239.76.255.12:9000
 #EXTINF:-1 group-title="湖南频道",怀化综合
+http://124.230.56.124:55555/udp/239.76.255.12:9000
+#EXTINF:-1 group-title="湖南频道",怀化综合
 http://118.254.200.67:8888/udp/239.76.255.12:9000
 #EXTINF:-1 group-title="湖南频道",怀化综合
-http://175.15.135.124:8888/udp/239.76.255.12:9000
-#EXTINF:-1 group-title="湖南频道",怀化综合
 http://175.11.104.226:4022/udp/239.76.255.12:9000
+#EXTINF:-1 group-title="湖南频道",怀化综合
+http://175.15.135.124:8888/udp/239.76.255.12:9000
 #EXTINF:-1 group-title="湖南频道",怀化综合
 http://175.8.87.127:3000/udp/239.76.255.12:9000
 #EXTINF:-1 group-title="湖南频道",怀化综合
@@ -2318,15 +2320,15 @@ http://223.144.160.215:58888/udp/239.76.255.12:9000
 #EXTINF:-1 group-title="湖南频道",怀化综合
 http://58.46.248.145:4022/udp/239.76.255.12:9000
 #EXTINF:-1 group-title="湖南频道",浏阳
-http://118.248.160.63:8888/udp/239.76.248.6:1234
-#EXTINF:-1 group-title="湖南频道",浏阳
 http://118.251.35.10:4022/udp/239.76.248.6:1234
 #EXTINF:-1 group-title="湖南频道",浏阳
 http://118.254.157.41:8888/udp/239.76.248.6:1234
 #EXTINF:-1 group-title="湖南频道",浏阳
+http://118.254.159.7:8888/udp/239.76.248.6:1234
+#EXTINF:-1 group-title="湖南频道",浏阳
 http://118.254.200.67:8888/udp/239.76.248.6:1234
 #EXTINF:-1 group-title="湖南频道",浏阳
-http://118.254.159.7:8888/udp/239.76.248.6:1234
+http://124.230.56.124:55555/udp/239.76.248.6:1234
 #EXTINF:-1 group-title="湖南频道",浏阳
 http://175.11.104.226:4022/udp/239.76.248.6:1234
 #EXTINF:-1 group-title="湖南频道",浏阳
@@ -2334,27 +2336,17 @@ http://175.15.135.124:8888/udp/239.76.248.6:1234
 #EXTINF:-1 group-title="湖南频道",浏阳
 http://175.8.87.127:3000/udp/239.76.248.6:1234
 #EXTINF:-1 group-title="湖南频道",浏阳
-http://58.46.248.145:4022/udp/239.76.248.6:1234
-#EXTINF:-1 group-title="湖南频道",浏阳
 http://223.144.160.215:58888/udp/239.76.248.6:1234
-#EXTINF:-1 group-title="湖南频道",湖南公共
-http://118.248.160.63:8888/udp/239.76.245.123:1234
-#EXTINF:-1 group-title="湖南频道",湖南公共
-http://118.248.160.63:8888/udp/239.76.246.109:1234
-#EXTINF:-1 group-title="湖南频道",湖南公共
-http://118.248.160.63:8888/udp/239.76.252.123:9000
-#EXTINF:-1 group-title="湖南频道",湖南公共
-http://118.248.160.63:8888/udp/239.76.253.109:9000
-#EXTINF:-1 group-title="湖南频道",湖南公共
-http://118.251.35.10:4022/udp/239.76.246.109:1234
+#EXTINF:-1 group-title="湖南频道",浏阳
+http://58.46.248.145:4022/udp/239.76.248.6:1234
 #EXTINF:-1 group-title="湖南频道",湖南公共
 http://118.251.35.10:4022/udp/239.76.245.123:1234
 #EXTINF:-1 group-title="湖南频道",湖南公共
-http://118.251.35.10:4022/udp/239.76.253.109:9000
+http://118.251.35.10:4022/udp/239.76.246.109:1234
 #EXTINF:-1 group-title="湖南频道",湖南公共
 http://118.251.35.10:4022/udp/239.76.252.123:9000
 #EXTINF:-1 group-title="湖南频道",湖南公共
-http://118.254.157.41:8888/udp/239.76.245.123:1234
+http://118.251.35.10:4022/udp/239.76.253.109:9000
 #EXTINF:-1 group-title="湖南频道",湖南公共
 http://118.254.157.41:8888/udp/239.76.246.109:1234
 #EXTINF:-1 group-title="湖南频道",湖南公共
@@ -2366,6 +2358,8 @@ http://118.254.157.41:8888/udp/239.76.253.109:9000
 #EXTINF:-1 group-title="湖南频道",湖南公共
 http://118.254.159.7:8888/udp/239.76.246.109:1234
 #EXTINF:-1 group-title="湖南频道",湖南公共
+http://118.254.159.7:8888/udp/239.76.252.123:9000
+#EXTINF:-1 group-title="湖南频道",湖南公共
 http://118.254.159.7:8888/udp/239.76.253.109:9000
 #EXTINF:-1 group-title="湖南频道",湖南公共
 http://118.254.200.67:8888/udp/239.76.245.123:1234
@@ -2376,29 +2370,25 @@ http://118.254.200.67:8888/udp/239.76.252.123:9000
 #EXTINF:-1 group-title="湖南频道",湖南公共
 http://118.254.200.67:8888/udp/239.76.253.109:9000
 #EXTINF:-1 group-title="湖南频道",湖南公共
-http://175.11.104.226:4022/udp/239.76.245.123:1234
-#EXTINF:-1 group-title="湖南频道",湖南卫视
-http://118.248.160.63:8888/udp/239.76.245.115:1234
-#EXTINF:-1 group-title="湖南频道",湖南卫视
-http://118.248.160.63:8888/udp/239.76.246.100:1234
-#EXTINF:-1 group-title="湖南频道",湖南卫视
-http://118.248.160.63:8888/udp/239.76.246.101:1234
-#EXTINF:-1 group-title="湖南频道",湖南卫视
-http://118.248.160.63:8888/udp/239.76.253.100:9000
-#EXTINF:-1 group-title="湖南频道",湖南卫视
-http://118.248.160.63:8888/udp/239.76.252.115:9000
+http://124.230.56.124:55555/udp/239.76.245.123:1234
+#EXTINF:-1 group-title="湖南频道",湖南公共
+http://118.254.157.41:8888/udp/239.76.245.123:1234
+#EXTINF:-1 group-title="湖南频道",湖南公共
+http://124.230.56.124:55555/udp/239.76.246.109:1234
+#EXTINF:-1 group-title="湖南频道",湖南公共
+http://124.230.56.124:55555/udp/239.76.252.123:9000
+#EXTINF:-1 group-title="湖南频道",湖南公共
+http://124.230.56.124:55555/udp/239.76.253.109:9000
 #EXTINF:-1 group-title="湖南频道",湖南卫视
 http://118.251.35.10:4022/udp/239.76.245.115:1234
-#EXTINF:-1 group-title="湖南频道",湖南卫视
-http://118.248.160.63:8888/udp/239.76.253.101:9000
 #EXTINF:-1 group-title="湖南频道",湖南卫视
 http://118.251.35.10:4022/udp/239.76.246.100:1234
 #EXTINF:-1 group-title="湖南频道",湖南卫视
 http://118.251.35.10:4022/udp/239.76.246.101:1234
 #EXTINF:-1 group-title="湖南频道",湖南卫视
-http://118.251.35.10:4022/udp/239.76.253.100:9000
-#EXTINF:-1 group-title="湖南频道",湖南卫视
 http://118.251.35.10:4022/udp/239.76.252.115:9000
+#EXTINF:-1 group-title="湖南频道",湖南卫视
+http://118.251.35.10:4022/udp/239.76.253.100:9000
 #EXTINF:-1 group-title="湖南频道",湖南卫视
 http://118.251.35.10:4022/udp/239.76.253.101:9000
 #EXTINF:-1 group-title="湖南频道",湖南卫视
@@ -2406,35 +2396,41 @@ http://118.254.157.41:8888/udp/239.76.245.115:1234
 #EXTINF:-1 group-title="湖南频道",湖南卫视
 http://118.254.157.41:8888/udp/239.76.246.100:1234
 #EXTINF:-1 group-title="湖南频道",湖南卫视
-http://118.254.157.41:8888/udp/239.76.246.101:1234
-#EXTINF:-1 group-title="湖南频道",湖南卫视
-http://118.254.157.41:8888/udp/239.76.252.115:9000
-#EXTINF:-1 group-title="湖南频道",湖南卫视
 http://118.254.157.41:8888/udp/239.76.253.100:9000
 #EXTINF:-1 group-title="湖南频道",湖南卫视
 http://118.254.157.41:8888/udp/239.76.253.101:9000
 #EXTINF:-1 group-title="湖南频道",湖南卫视
-http://118.254.159.7:8888/udp/239.76.245.115:1234
+http://118.254.157.41:8888/udp/239.76.252.115:9000
+#EXTINF:-1 group-title="湖南频道",湖南卫视
+http://118.254.159.7:8888/udp/239.76.246.100:1234
 #EXTINF:-1 group-title="湖南频道",湖南卫视
 http://118.254.159.7:8888/udp/239.76.246.101:1234
-#EXTINF:-1 group-title="湖南频道",湖南国际
-http://118.248.160.63:8888/udp/239.76.252.124:9000
-#EXTINF:-1 group-title="湖南频道",湖南国际
-http://118.248.160.63:8888/udp/239.76.246.102:1234
-#EXTINF:-1 group-title="湖南频道",湖南国际
-http://118.248.160.63:8888/udp/239.76.253.102:9000
-#EXTINF:-1 group-title="湖南频道",湖南国际
-http://118.251.35.10:4022/udp/239.76.245.124:1234
+#EXTINF:-1 group-title="湖南频道",湖南卫视
+http://118.254.159.7:8888/udp/239.76.252.115:9000
+#EXTINF:-1 group-title="湖南频道",湖南卫视
+http://118.254.159.7:8888/udp/239.76.253.100:9000
+#EXTINF:-1 group-title="湖南频道",湖南卫视
+http://118.254.159.7:8888/udp/239.76.253.101:9000
+#EXTINF:-1 group-title="湖南频道",湖南卫视
+http://118.254.200.67:8888/udp/239.76.245.115:1234
+#EXTINF:-1 group-title="湖南频道",湖南卫视
+http://118.254.200.67:8888/udp/239.76.246.101:1234
+#EXTINF:-1 group-title="湖南频道",湖南卫视
+http://118.254.200.67:8888/udp/239.76.252.115:9000
+#EXTINF:-1 group-title="湖南频道",湖南卫视
+http://118.254.157.41:8888/udp/239.76.246.101:1234
 #EXTINF:-1 group-title="湖南频道",湖南国际
 http://118.251.35.10:4022/udp/239.76.246.102:1234
+#EXTINF:-1 group-title="湖南频道",湖南国际
+http://118.251.35.10:4022/udp/239.76.245.124:1234
 #EXTINF:-1 group-title="湖南频道",湖南国际
 http://118.251.35.10:4022/udp/239.76.252.124:9000
 #EXTINF:-1 group-title="湖南频道",湖南国际
 http://118.251.35.10:4022/udp/239.76.253.102:9000
 #EXTINF:-1 group-title="湖南频道",湖南国际
-http://118.254.157.41:8888/udp/239.76.246.102:1234
-#EXTINF:-1 group-title="湖南频道",湖南国际
 http://118.254.157.41:8888/udp/239.76.245.124:1234
+#EXTINF:-1 group-title="湖南频道",湖南国际
+http://118.254.157.41:8888/udp/239.76.246.102:1234
 #EXTINF:-1 group-title="湖南频道",湖南国际
 http://118.254.157.41:8888/udp/239.76.252.124:9000
 #EXTINF:-1 group-title="湖南频道",湖南国际
@@ -2442,11 +2438,7 @@ http://118.254.157.41:8888/udp/239.76.253.102:9000
 #EXTINF:-1 group-title="湖南频道",湖南国际
 http://118.254.159.7:8888/udp/239.76.245.124:1234
 #EXTINF:-1 group-title="湖南频道",湖南国际
-http://118.248.160.63:8888/udp/239.76.245.124:1234
-#EXTINF:-1 group-title="湖南频道",湖南国际
 http://118.254.159.7:8888/udp/239.76.246.102:1234
-#EXTINF:-1 group-title="湖南频道",湖南国际
-http://118.254.159.7:8888/udp/239.76.253.102:9000
 #EXTINF:-1 group-title="湖南频道",湖南国际
 http://118.254.159.7:8888/udp/239.76.252.124:9000
 #EXTINF:-1 group-title="湖南频道",湖南国际
@@ -2457,14 +2449,16 @@ http://118.254.200.67:8888/udp/239.76.246.102:1234
 http://118.254.200.67:8888/udp/239.76.252.124:9000
 #EXTINF:-1 group-title="湖南频道",湖南国际
 http://118.254.200.67:8888/udp/239.76.253.102:9000
-#EXTINF:-1 group-title="湖南频道",湖南娱乐
-http://118.248.160.63:8888/udp/239.76.245.121:1234
-#EXTINF:-1 group-title="湖南频道",湖南娱乐
-http://118.248.160.63:8888/udp/239.76.246.105:1234
-#EXTINF:-1 group-title="湖南频道",湖南娱乐
-http://118.248.160.63:8888/udp/239.76.252.121:9000
-#EXTINF:-1 group-title="湖南频道",湖南娱乐
-http://118.248.160.63:8888/udp/239.76.253.105:9000
+#EXTINF:-1 group-title="湖南频道",湖南国际
+http://118.254.159.7:8888/udp/239.76.253.102:9000
+#EXTINF:-1 group-title="湖南频道",湖南国际
+http://124.230.56.124:55555/udp/239.76.245.124:1234
+#EXTINF:-1 group-title="湖南频道",湖南国际
+http://124.230.56.124:55555/udp/239.76.246.102:1234
+#EXTINF:-1 group-title="湖南频道",湖南国际
+http://175.11.104.226:4022/udp/239.76.245.124:1234
+#EXTINF:-1 group-title="湖南频道",湖南国际
+http://124.230.56.124:55555/udp/239.76.253.102:9000
 #EXTINF:-1 group-title="湖南频道",湖南娱乐
 http://118.251.35.10:4022/udp/239.76.245.121:1234
 #EXTINF:-1 group-title="湖南频道",湖南娱乐
@@ -2480,9 +2474,9 @@ http://118.254.157.41:8888/udp/239.76.246.105:1234
 #EXTINF:-1 group-title="湖南频道",湖南娱乐
 http://118.254.157.41:8888/udp/239.76.252.121:9000
 #EXTINF:-1 group-title="湖南频道",湖南娱乐
-http://118.254.157.41:8888/udp/239.76.253.105:9000
-#EXTINF:-1 group-title="湖南频道",湖南娱乐
 http://118.254.159.7:8888/udp/239.76.245.121:1234
+#EXTINF:-1 group-title="湖南频道",湖南娱乐
+http://118.254.157.41:8888/udp/239.76.253.105:9000
 #EXTINF:-1 group-title="湖南频道",湖南娱乐
 http://118.254.159.7:8888/udp/239.76.246.105:1234
 #EXTINF:-1 group-title="湖南频道",湖南娱乐
@@ -2497,10 +2491,14 @@ http://118.254.200.67:8888/udp/239.76.246.105:1234
 http://118.254.200.67:8888/udp/239.76.252.121:9000
 #EXTINF:-1 group-title="湖南频道",湖南娱乐
 http://118.254.200.67:8888/udp/239.76.253.105:9000
-#EXTINF:-1 group-title="湖南频道",湖南教育
-http://118.248.160.63:8888/udp/239.76.252.233:9000
-#EXTINF:-1 group-title="湖南频道",湖南教育
-http://118.248.160.63:8888/udp/239.76.245.233:1234
+#EXTINF:-1 group-title="湖南频道",湖南娱乐
+http://124.230.56.124:55555/udp/239.76.246.105:1234
+#EXTINF:-1 group-title="湖南频道",湖南娱乐
+http://124.230.56.124:55555/udp/239.76.245.121:1234
+#EXTINF:-1 group-title="湖南频道",湖南娱乐
+http://124.230.56.124:55555/udp/239.76.252.121:9000
+#EXTINF:-1 group-title="湖南频道",湖南娱乐
+http://124.230.56.124:55555/udp/239.76.253.105:9000
 #EXTINF:-1 group-title="湖南频道",湖南教育
 http://118.251.35.10:4022/udp/239.76.245.233:1234
 #EXTINF:-1 group-title="湖南频道",湖南教育
@@ -2512,17 +2510,25 @@ http://118.254.157.41:8888/udp/239.76.252.233:9000
 #EXTINF:-1 group-title="湖南频道",湖南教育
 http://118.254.159.7:8888/udp/239.76.245.233:1234
 #EXTINF:-1 group-title="湖南频道",湖南教育
+http://118.254.159.7:8888/udp/239.76.252.233:9000
+#EXTINF:-1 group-title="湖南频道",湖南教育
 http://118.254.200.67:8888/udp/239.76.245.233:1234
 #EXTINF:-1 group-title="湖南频道",湖南教育
-http://175.11.104.226:4022/udp/239.76.252.233:9000
+http://118.254.200.67:8888/udp/239.76.252.233:9000
+#EXTINF:-1 group-title="湖南频道",湖南教育
+http://124.230.56.124:55555/udp/239.76.245.233:1234
+#EXTINF:-1 group-title="湖南频道",湖南教育
+http://124.230.56.124:55555/udp/239.76.252.233:9000
 #EXTINF:-1 group-title="湖南频道",湖南教育
 http://175.11.104.226:4022/udp/239.76.245.233:1234
 #EXTINF:-1 group-title="湖南频道",湖南教育
-http://118.254.200.67:8888/udp/239.76.252.233:9000
+http://175.11.104.226:4022/udp/239.76.252.233:9000
 #EXTINF:-1 group-title="湖南频道",湖南教育
 http://175.15.135.124:8888/udp/239.76.245.233:1234
 #EXTINF:-1 group-title="湖南频道",湖南教育
 http://175.15.135.124:8888/udp/239.76.252.233:9000
+#EXTINF:-1 group-title="湖南频道",湖南教育
+http://175.8.87.127:3000/udp/239.76.245.233:1234
 #EXTINF:-1 group-title="湖南频道",湖南教育
 http://175.8.87.127:3000/udp/239.76.252.233:9000
 #EXTINF:-1 group-title="湖南频道",湖南教育
@@ -2531,40 +2537,28 @@ http://223.144.160.215:58888/udp/239.76.245.233:1234
 http://223.144.160.215:58888/udp/239.76.252.233:9000
 #EXTINF:-1 group-title="湖南频道",湖南教育
 http://58.46.248.145:4022/udp/239.76.245.233:1234
-#EXTINF:-1 group-title="湖南频道",湖南电影
-http://118.248.160.63:8888/udp/239.76.245.119:1234
 #EXTINF:-1 group-title="湖南频道",湖南教育
 http://58.46.248.145:4022/udp/239.76.252.233:9000
-#EXTINF:-1 group-title="湖南频道",湖南电影
-http://118.248.160.63:8888/udp/239.76.246.106:1234
-#EXTINF:-1 group-title="湖南频道",湖南电影
-http://118.248.160.63:8888/udp/239.76.252.119:9000
-#EXTINF:-1 group-title="湖南频道",湖南电影
-http://118.248.160.63:8888/udp/239.76.253.106:9000
 #EXTINF:-1 group-title="湖南频道",湖南电影
 http://118.251.35.10:4022/udp/239.76.245.119:1234
 #EXTINF:-1 group-title="湖南频道",湖南电影
 http://118.251.35.10:4022/udp/239.76.246.106:1234
 #EXTINF:-1 group-title="湖南频道",湖南电影
 http://118.251.35.10:4022/udp/239.76.252.119:9000
-#EXTINF:-1 group-title="湖南频道",湖南教育
-http://118.254.159.7:8888/udp/239.76.252.233:9000
 #EXTINF:-1 group-title="湖南频道",湖南电影
 http://118.251.35.10:4022/udp/239.76.253.106:9000
 #EXTINF:-1 group-title="湖南频道",湖南电影
-http://118.254.157.41:8888/udp/239.76.245.119:1234
-#EXTINF:-1 group-title="湖南频道",湖南电影
 http://118.254.157.41:8888/udp/239.76.246.106:1234
+#EXTINF:-1 group-title="湖南频道",湖南电影
+http://118.254.157.41:8888/udp/239.76.245.119:1234
 #EXTINF:-1 group-title="湖南频道",湖南电影
 http://118.254.157.41:8888/udp/239.76.252.119:9000
 #EXTINF:-1 group-title="湖南频道",湖南电影
-http://118.254.157.41:8888/udp/239.76.253.106:9000
-#EXTINF:-1 group-title="湖南频道",湖南电影
 http://118.254.159.7:8888/udp/239.76.245.119:1234
 #EXTINF:-1 group-title="湖南频道",湖南电影
+http://118.254.157.41:8888/udp/239.76.253.106:9000
+#EXTINF:-1 group-title="湖南频道",湖南电影
 http://118.254.159.7:8888/udp/239.76.246.106:1234
-#EXTINF:-1 group-title="湖南频道",湖南教育
-http://175.8.87.127:3000/udp/239.76.245.233:1234
 #EXTINF:-1 group-title="湖南频道",湖南电影
 http://118.254.159.7:8888/udp/239.76.252.119:9000
 #EXTINF:-1 group-title="湖南频道",湖南电影
@@ -2574,17 +2568,17 @@ http://118.254.200.67:8888/udp/239.76.245.119:1234
 #EXTINF:-1 group-title="湖南频道",湖南电影
 http://118.254.200.67:8888/udp/239.76.246.106:1234
 #EXTINF:-1 group-title="湖南频道",湖南电影
+http://118.254.200.67:8888/udp/239.76.253.106:9000
+#EXTINF:-1 group-title="湖南频道",湖南电影
 http://118.254.200.67:8888/udp/239.76.252.119:9000
 #EXTINF:-1 group-title="湖南频道",湖南电影
-http://118.254.200.67:8888/udp/239.76.253.106:9000
-#EXTINF:-1 group-title="湖南频道",湖南电视剧
-http://118.248.160.63:8888/udp/239.76.245.118:1234
-#EXTINF:-1 group-title="湖南频道",湖南电视剧
-http://118.248.160.63:8888/udp/239.76.246.108:1234
-#EXTINF:-1 group-title="湖南频道",湖南电视剧
-http://118.248.160.63:8888/udp/239.76.252.118:9000
-#EXTINF:-1 group-title="湖南频道",湖南电视剧
-http://118.248.160.63:8888/udp/239.76.253.108:9000
+http://124.230.56.124:55555/udp/239.76.245.119:1234
+#EXTINF:-1 group-title="湖南频道",湖南电影
+http://124.230.56.124:55555/udp/239.76.246.106:1234
+#EXTINF:-1 group-title="湖南频道",湖南电影
+http://124.230.56.124:55555/udp/239.76.252.119:9000
+#EXTINF:-1 group-title="湖南频道",湖南电影
+http://124.230.56.124:55555/udp/239.76.253.106:9000
 #EXTINF:-1 group-title="湖南频道",湖南电视剧
 http://118.251.35.10:4022/udp/239.76.245.118:1234
 #EXTINF:-1 group-title="湖南频道",湖南电视剧
@@ -2598,45 +2592,45 @@ http://118.254.157.41:8888/udp/239.76.245.118:1234
 #EXTINF:-1 group-title="湖南频道",湖南电视剧
 http://118.254.157.41:8888/udp/239.76.252.118:9000
 #EXTINF:-1 group-title="湖南频道",湖南电视剧
-http://118.254.157.41:8888/udp/239.76.246.108:1234
-#EXTINF:-1 group-title="湖南频道",湖南电视剧
 http://118.254.157.41:8888/udp/239.76.253.108:9000
 #EXTINF:-1 group-title="湖南频道",湖南电视剧
-http://118.254.159.7:8888/udp/239.76.246.108:1234
+http://118.254.157.41:8888/udp/239.76.246.108:1234
 #EXTINF:-1 group-title="湖南频道",湖南电视剧
 http://118.254.159.7:8888/udp/239.76.245.118:1234
 #EXTINF:-1 group-title="湖南频道",湖南电视剧
 http://118.254.159.7:8888/udp/239.76.252.118:9000
 #EXTINF:-1 group-title="湖南频道",湖南电视剧
-http://118.254.159.7:8888/udp/239.76.253.108:9000
-#EXTINF:-1 group-title="湖南频道",湖南电视剧
-http://118.254.200.67:8888/udp/239.76.245.118:1234
+http://118.254.159.7:8888/udp/239.76.246.108:1234
 #EXTINF:-1 group-title="湖南频道",湖南电视剧
 http://118.254.200.67:8888/udp/239.76.246.108:1234
 #EXTINF:-1 group-title="湖南频道",湖南电视剧
 http://118.254.200.67:8888/udp/239.76.252.118:9000
 #EXTINF:-1 group-title="湖南频道",湖南电视剧
 http://118.254.200.67:8888/udp/239.76.253.108:9000
-#EXTINF:-1 group-title="湖南频道",湖南经视
-http://118.248.160.63:8888/udp/239.76.245.116:1234
-#EXTINF:-1 group-title="湖南频道",湖南经视
-http://118.248.160.63:8888/udp/239.76.246.103:1234
-#EXTINF:-1 group-title="湖南频道",湖南经视
-http://118.248.160.63:8888/udp/239.76.252.116:9000
-#EXTINF:-1 group-title="湖南频道",湖南经视
-http://118.248.160.63:8888/udp/239.76.253.103:9000
+#EXTINF:-1 group-title="湖南频道",湖南电视剧
+http://124.230.56.124:55555/udp/239.76.245.118:1234
+#EXTINF:-1 group-title="湖南频道",湖南电视剧
+http://124.230.56.124:55555/udp/239.76.246.108:1234
+#EXTINF:-1 group-title="湖南频道",湖南电视剧
+http://124.230.56.124:55555/udp/239.76.252.118:9000
+#EXTINF:-1 group-title="湖南频道",湖南电视剧
+http://175.11.104.226:4022/udp/239.76.245.118:1234
+#EXTINF:-1 group-title="湖南频道",湖南电视剧
+http://124.230.56.124:55555/udp/239.76.253.108:9000
+#EXTINF:-1 group-title="湖南频道",湖南电视剧
+http://175.11.104.226:4022/udp/239.76.246.108:1234
 #EXTINF:-1 group-title="湖南频道",湖南经视
 http://118.251.35.10:4022/udp/239.76.245.116:1234
-#EXTINF:-1 group-title="湖南频道",湖南经视
-http://118.251.35.10:4022/udp/239.76.253.103:9000
 #EXTINF:-1 group-title="湖南频道",湖南经视
 http://118.251.35.10:4022/udp/239.76.246.103:1234
 #EXTINF:-1 group-title="湖南频道",湖南经视
 http://118.251.35.10:4022/udp/239.76.252.116:9000
 #EXTINF:-1 group-title="湖南频道",湖南经视
-http://118.254.157.41:8888/udp/239.76.245.116:1234
+http://118.251.35.10:4022/udp/239.76.253.103:9000
 #EXTINF:-1 group-title="湖南频道",湖南经视
 http://118.254.157.41:8888/udp/239.76.246.103:1234
+#EXTINF:-1 group-title="湖南频道",湖南经视
+http://118.254.157.41:8888/udp/239.76.245.116:1234
 #EXTINF:-1 group-title="湖南频道",湖南经视
 http://118.254.157.41:8888/udp/239.76.252.116:9000
 #EXTINF:-1 group-title="湖南频道",湖南经视
@@ -2648,35 +2642,35 @@ http://118.254.159.7:8888/udp/239.76.246.103:1234
 #EXTINF:-1 group-title="湖南频道",湖南经视
 http://118.254.159.7:8888/udp/239.76.252.116:9000
 #EXTINF:-1 group-title="湖南频道",湖南经视
-http://118.254.200.67:8888/udp/239.76.245.116:1234
-#EXTINF:-1 group-title="湖南频道",湖南经视
 http://118.254.159.7:8888/udp/239.76.253.103:9000
+#EXTINF:-1 group-title="湖南频道",湖南经视
+http://118.254.200.67:8888/udp/239.76.245.116:1234
 #EXTINF:-1 group-title="湖南频道",湖南经视
 http://118.254.200.67:8888/udp/239.76.246.103:1234
 #EXTINF:-1 group-title="湖南频道",湖南经视
 http://118.254.200.67:8888/udp/239.76.253.103:9000
 #EXTINF:-1 group-title="湖南频道",湖南经视
+http://118.254.200.67:8888/udp/239.76.252.116:9000
+#EXTINF:-1 group-title="湖南频道",湖南经视
+http://124.230.56.124:55555/udp/239.76.245.116:1234
+#EXTINF:-1 group-title="湖南频道",湖南经视
+http://124.230.56.124:55555/udp/239.76.246.103:1234
+#EXTINF:-1 group-title="湖南频道",湖南经视
+http://124.230.56.124:55555/udp/239.76.253.103:9000
+#EXTINF:-1 group-title="湖南频道",湖南经视
 http://175.11.104.226:4022/udp/239.76.245.116:1234
 #EXTINF:-1 group-title="湖南频道",湖南都市
-http://118.248.160.63:8888/udp/239.76.245.117:1234
-#EXTINF:-1 group-title="湖南频道",湖南都市
-http://118.248.160.63:8888/udp/239.76.246.104:1234
-#EXTINF:-1 group-title="湖南频道",湖南都市
-http://118.248.160.63:8888/udp/239.76.252.117:9000
-#EXTINF:-1 group-title="湖南频道",湖南都市
-http://118.248.160.63:8888/udp/239.76.253.104:9000
+http://118.251.35.10:4022/udp/239.76.245.117:1234
 #EXTINF:-1 group-title="湖南频道",湖南都市
 http://118.251.35.10:4022/udp/239.76.246.104:1234
 #EXTINF:-1 group-title="湖南频道",湖南都市
-http://118.251.35.10:4022/udp/239.76.245.117:1234
+http://118.254.157.41:8888/udp/239.76.246.104:1234
+#EXTINF:-1 group-title="湖南频道",湖南都市
+http://118.254.157.41:8888/udp/239.76.245.117:1234
 #EXTINF:-1 group-title="湖南频道",湖南都市
 http://118.251.35.10:4022/udp/239.76.252.117:9000
 #EXTINF:-1 group-title="湖南频道",湖南都市
 http://118.251.35.10:4022/udp/239.76.253.104:9000
-#EXTINF:-1 group-title="湖南频道",湖南都市
-http://118.254.157.41:8888/udp/239.76.245.117:1234
-#EXTINF:-1 group-title="湖南频道",湖南都市
-http://118.254.157.41:8888/udp/239.76.246.104:1234
 #EXTINF:-1 group-title="湖南频道",湖南都市
 http://118.254.157.41:8888/udp/239.76.252.117:9000
 #EXTINF:-1 group-title="湖南频道",湖南都市
@@ -2684,9 +2678,9 @@ http://118.254.157.41:8888/udp/239.76.253.104:9000
 #EXTINF:-1 group-title="湖南频道",湖南都市
 http://118.254.159.7:8888/udp/239.76.245.117:1234
 #EXTINF:-1 group-title="湖南频道",湖南都市
-http://118.254.159.7:8888/udp/239.76.246.104:1234
-#EXTINF:-1 group-title="湖南频道",湖南都市
 http://118.254.159.7:8888/udp/239.76.252.117:9000
+#EXTINF:-1 group-title="湖南频道",湖南都市
+http://118.254.159.7:8888/udp/239.76.246.104:1234
 #EXTINF:-1 group-title="湖南频道",湖南都市
 http://118.254.159.7:8888/udp/239.76.253.104:9000
 #EXTINF:-1 group-title="湖南频道",湖南都市
@@ -2697,10 +2691,14 @@ http://118.254.200.67:8888/udp/239.76.252.117:9000
 http://118.254.200.67:8888/udp/239.76.246.104:1234
 #EXTINF:-1 group-title="湖南频道",湖南都市
 http://118.254.200.67:8888/udp/239.76.253.104:9000
-#EXTINF:-1 group-title="湖南频道",湘西公共
-http://118.248.160.63:8888/udp/239.76.252.209:9000
-#EXTINF:-1 group-title="湖南频道",湘西公共
-http://118.248.160.63:8888/udp/239.76.252.210:9000
+#EXTINF:-1 group-title="湖南频道",湖南都市
+http://124.230.56.124:55555/udp/239.76.245.117:1234
+#EXTINF:-1 group-title="湖南频道",湖南都市
+http://124.230.56.124:55555/udp/239.76.246.104:1234
+#EXTINF:-1 group-title="湖南频道",湖南都市
+http://124.230.56.124:55555/udp/239.76.252.117:9000
+#EXTINF:-1 group-title="湖南频道",湖南都市
+http://124.230.56.124:55555/udp/239.76.253.104:9000
 #EXTINF:-1 group-title="湖南频道",湘西公共
 http://118.251.35.10:4022/udp/239.76.252.209:9000
 #EXTINF:-1 group-title="湖南频道",湘西公共
@@ -2708,9 +2706,9 @@ http://118.251.35.10:4022/udp/239.76.252.210:9000
 #EXTINF:-1 group-title="湖南频道",湘西公共
 http://118.254.157.41:8888/udp/239.76.252.209:9000
 #EXTINF:-1 group-title="湖南频道",湘西公共
-http://118.254.157.41:8888/udp/239.76.252.210:9000
-#EXTINF:-1 group-title="湖南频道",湘西公共
 http://118.254.159.7:8888/udp/239.76.252.209:9000
+#EXTINF:-1 group-title="湖南频道",湘西公共
+http://118.254.157.41:8888/udp/239.76.252.210:9000
 #EXTINF:-1 group-title="湖南频道",湘西公共
 http://118.254.159.7:8888/udp/239.76.252.210:9000
 #EXTINF:-1 group-title="湖南频道",湘西公共
@@ -2718,67 +2716,69 @@ http://118.254.200.67:8888/udp/239.76.252.209:9000
 #EXTINF:-1 group-title="湖南频道",湘西公共
 http://118.254.200.67:8888/udp/239.76.252.210:9000
 #EXTINF:-1 group-title="湖南频道",湘西公共
-http://175.11.104.226:4022/udp/239.76.252.209:9000
+http://124.230.56.124:55555/udp/239.76.252.209:9000
 #EXTINF:-1 group-title="湖南频道",湘西公共
 http://175.11.104.226:4022/udp/239.76.252.210:9000
 #EXTINF:-1 group-title="湖南频道",湘西公共
-http://175.15.135.124:8888/udp/239.76.252.210:9000
+http://175.11.104.226:4022/udp/239.76.252.209:9000
+#EXTINF:-1 group-title="湖南频道",湘西公共
+http://124.230.56.124:55555/udp/239.76.252.210:9000
 #EXTINF:-1 group-title="湖南频道",湘西公共
 http://175.15.135.124:8888/udp/239.76.252.209:9000
+#EXTINF:-1 group-title="湖南频道",湘西公共
+http://175.15.135.124:8888/udp/239.76.252.210:9000
 #EXTINF:-1 group-title="湖南频道",湘西公共
 http://175.8.87.127:3000/udp/239.76.252.209:9000
 #EXTINF:-1 group-title="湖南频道",湘西公共
 http://175.8.87.127:3000/udp/239.76.252.210:9000
 #EXTINF:-1 group-title="湖南频道",湘西公共
-http://58.46.248.145:4022/udp/239.76.252.209:9000
-#EXTINF:-1 group-title="湖南频道",湘西公共
 http://223.144.160.215:58888/udp/239.76.252.210:9000
-#EXTINF:-1 group-title="湖南频道",湘西公共
-http://223.144.160.215:58888/udp/239.76.252.209:9000
-#EXTINF:-1 group-title="湖南频道",湘西公共
-http://58.46.248.145:4022/udp/239.76.252.210:9000
-#EXTINF:-1 group-title="湖南频道",湘西综合
-http://118.248.160.63:8888/udp/239.76.245.208:1234
-#EXTINF:-1 group-title="湖南频道",湘西综合
-http://118.248.160.63:8888/udp/239.76.245.209:1234
-#EXTINF:-1 group-title="湖南频道",湘西综合
-http://118.251.35.10:4022/udp/239.76.245.208:1234
-#EXTINF:-1 group-title="湖南频道",湘西综合
-http://118.248.160.63:8888/udp/239.76.252.208:9000
 #EXTINF:-1 group-title="湖南频道",湘西综合
 http://118.251.35.10:4022/udp/239.76.245.209:1234
 #EXTINF:-1 group-title="湖南频道",湘西综合
+http://118.251.35.10:4022/udp/239.76.245.208:1234
+#EXTINF:-1 group-title="湖南频道",湘西公共
+http://58.46.248.145:4022/udp/239.76.252.209:9000
+#EXTINF:-1 group-title="湖南频道",湘西公共
+http://58.46.248.145:4022/udp/239.76.252.210:9000
+#EXTINF:-1 group-title="湖南频道",湘西综合
 http://118.251.35.10:4022/udp/239.76.252.208:9000
+#EXTINF:-1 group-title="湖南频道",湘西综合
+http://118.254.157.41:8888/udp/239.76.245.208:1234
 #EXTINF:-1 group-title="湖南频道",湘西综合
 http://118.254.157.41:8888/udp/239.76.245.209:1234
 #EXTINF:-1 group-title="湖南频道",湘西综合
 http://118.254.157.41:8888/udp/239.76.252.208:9000
 #EXTINF:-1 group-title="湖南频道",湘西综合
-http://118.254.157.41:8888/udp/239.76.245.208:1234
+http://118.254.159.7:8888/udp/239.76.252.208:9000
 #EXTINF:-1 group-title="湖南频道",湘西综合
 http://118.254.159.7:8888/udp/239.76.245.208:1234
 #EXTINF:-1 group-title="湖南频道",湘西综合
-http://118.254.159.7:8888/udp/239.76.245.209:1234
-#EXTINF:-1 group-title="湖南频道",湘西综合
-http://118.254.159.7:8888/udp/239.76.252.208:9000
-#EXTINF:-1 group-title="湖南频道",湘西综合
 http://118.254.200.67:8888/udp/239.76.245.208:1234
+#EXTINF:-1 group-title="湖南频道",湘西综合
+http://118.254.159.7:8888/udp/239.76.245.209:1234
 #EXTINF:-1 group-title="湖南频道",湘西综合
 http://118.254.200.67:8888/udp/239.76.245.209:1234
 #EXTINF:-1 group-title="湖南频道",湘西综合
 http://118.254.200.67:8888/udp/239.76.252.208:9000
 #EXTINF:-1 group-title="湖南频道",湘西综合
-http://175.11.104.226:4022/udp/239.76.245.208:1234
+http://124.230.56.124:55555/udp/239.76.245.208:1234
+#EXTINF:-1 group-title="湖南频道",湘西综合
+http://124.230.56.124:55555/udp/239.76.245.209:1234
 #EXTINF:-1 group-title="湖南频道",湘西综合
 http://175.11.104.226:4022/udp/239.76.245.209:1234
 #EXTINF:-1 group-title="湖南频道",湘西综合
+http://124.230.56.124:55555/udp/239.76.252.208:9000
+#EXTINF:-1 group-title="湖南频道",湘西综合
+http://175.11.104.226:4022/udp/239.76.245.208:1234
+#EXTINF:-1 group-title="湖南频道",湘西综合
 http://175.15.135.124:8888/udp/239.76.245.208:1234
 #EXTINF:-1 group-title="湖南频道",湘西综合
-http://175.11.104.226:4022/udp/239.76.252.208:9000
-#EXTINF:-1 group-title="湖南频道",湘西综合
 http://175.15.135.124:8888/udp/239.76.245.209:1234
-#EXTINF:-1 group-title="湖南频道",衡阳公共
-http://118.248.160.63:8888/udp/239.76.248.14:1234
+#EXTINF:-1 group-title="湖南频道",湘西公共
+http://223.144.160.215:58888/udp/239.76.252.209:9000
+#EXTINF:-1 group-title="湖南频道",湘西综合
+http://175.15.135.124:8888/udp/239.76.252.208:9000
 #EXTINF:-1 group-title="湖南频道",衡阳公共
 http://118.251.35.10:4022/udp/239.76.248.14:1234
 #EXTINF:-1 group-title="湖南频道",衡阳公共
@@ -2788,7 +2788,7 @@ http://118.254.159.7:8888/udp/239.76.248.14:1234
 #EXTINF:-1 group-title="湖南频道",衡阳公共
 http://118.254.200.67:8888/udp/239.76.248.14:1234
 #EXTINF:-1 group-title="湖南频道",衡阳公共
-http://175.11.104.226:4022/udp/239.76.248.14:1234
+http://124.230.56.124:55555/udp/239.76.248.14:1234
 #EXTINF:-1 group-title="湖南频道",衡阳公共
 http://175.15.135.124:8888/udp/239.76.248.14:1234
 #EXTINF:-1 group-title="湖南频道",衡阳公共
@@ -2796,67 +2796,61 @@ http://175.8.87.127:3000/udp/239.76.248.14:1234
 #EXTINF:-1 group-title="湖南频道",衡阳公共
 http://223.144.160.215:58888/udp/239.76.248.14:1234
 #EXTINF:-1 group-title="湖南频道",衡阳综合
-http://118.248.160.63:8888/udp/239.76.248.13:1234
-#EXTINF:-1 group-title="湖南频道",衡阳公共
-http://58.46.248.145:4022/udp/239.76.248.14:1234
-#EXTINF:-1 group-title="湖南频道",衡阳综合
 http://118.251.35.10:4022/udp/239.76.248.13:1234
 #EXTINF:-1 group-title="湖南频道",衡阳综合
 http://118.254.157.41:8888/udp/239.76.248.13:1234
 #EXTINF:-1 group-title="湖南频道",衡阳综合
 http://118.254.159.7:8888/udp/239.76.248.13:1234
 #EXTINF:-1 group-title="湖南频道",衡阳综合
-http://175.11.104.226:4022/udp/239.76.248.13:1234
-#EXTINF:-1 group-title="湖南频道",衡阳综合
 http://118.254.200.67:8888/udp/239.76.248.13:1234
+#EXTINF:-1 group-title="湖南频道",衡阳综合
+http://124.230.56.124:55555/udp/239.76.248.13:1234
+#EXTINF:-1 group-title="湖南频道",衡阳综合
+http://175.11.104.226:4022/udp/239.76.248.13:1234
 #EXTINF:-1 group-title="湖南频道",衡阳综合
 http://175.15.135.124:8888/udp/239.76.248.13:1234
 #EXTINF:-1 group-title="湖南频道",衡阳综合
 http://175.8.87.127:3000/udp/239.76.248.13:1234
 #EXTINF:-1 group-title="湖南频道",衡阳综合
-http://58.46.248.145:4022/udp/239.76.248.13:1234
-#EXTINF:-1 group-title="湖南频道",衡阳综合
 http://223.144.160.215:58888/udp/239.76.248.13:1234
-#EXTINF:-1 group-title="湖南频道",邵阳新闻
-http://118.248.160.63:8888/udp/239.76.248.23:1234
+#EXTINF:-1 group-title="湖南频道",衡阳综合
+http://58.46.248.145:4022/udp/239.76.248.13:1234
+#EXTINF:-1 group-title="湖南频道",衡阳公共
+http://175.11.104.226:4022/udp/239.76.248.14:1234
+#EXTINF:-1 group-title="湖南频道",衡阳公共
+http://58.46.248.145:4022/udp/239.76.248.14:1234
 #EXTINF:-1 group-title="湖南频道",邵阳新闻
 http://118.251.35.10:4022/udp/239.76.248.23:1234
-#EXTINF:-1 group-title="湖南频道",邵阳新闻
-http://118.254.157.41:8888/udp/239.76.248.23:1234
 #EXTINF:-1 group-title="湖南频道",邵阳新闻
 http://118.254.159.7:8888/udp/239.76.248.23:1234
 #EXTINF:-1 group-title="湖南频道",邵阳新闻
 http://118.254.200.67:8888/udp/239.76.248.23:1234
 #EXTINF:-1 group-title="湖南频道",邵阳新闻
-http://175.15.135.124:8888/udp/239.76.248.23:1234
-#EXTINF:-1 group-title="湖南频道",邵阳新闻
-http://175.8.87.127:3000/udp/239.76.248.23:1234
+http://124.230.56.124:55555/udp/239.76.248.23:1234
 #EXTINF:-1 group-title="湖南频道",邵阳新闻
 http://175.11.104.226:4022/udp/239.76.248.23:1234
 #EXTINF:-1 group-title="湖南频道",邵阳新闻
-http://58.46.248.145:4022/udp/239.76.248.23:1234
+http://175.15.135.124:8888/udp/239.76.248.23:1234
 #EXTINF:-1 group-title="湖南频道",邵阳新闻
 http://223.144.160.215:58888/udp/239.76.248.23:1234
-#EXTINF:-1 group-title="湖南频道",金鹰卡通
-http://118.248.160.63:8888/udp/239.76.245.120:1234
-#EXTINF:-1 group-title="湖南频道",金鹰卡通
-http://118.248.160.63:8888/udp/239.76.246.107:1234
-#EXTINF:-1 group-title="湖南频道",金鹰卡通
-http://118.248.160.63:8888/udp/239.76.252.120:9000
-#EXTINF:-1 group-title="湖南频道",金鹰卡通
-http://118.248.160.63:8888/udp/239.76.253.107:9000
+#EXTINF:-1 group-title="湖南频道",邵阳新闻
+http://175.8.87.127:3000/udp/239.76.248.23:1234
+#EXTINF:-1 group-title="湖南频道",邵阳新闻
+http://58.46.248.145:4022/udp/239.76.248.23:1234
+#EXTINF:-1 group-title="湖南频道",邵阳新闻
+http://118.254.157.41:8888/udp/239.76.248.23:1234
 #EXTINF:-1 group-title="湖南频道",金鹰卡通
 http://118.251.35.10:4022/udp/239.76.245.120:1234
 #EXTINF:-1 group-title="湖南频道",金鹰卡通
-http://118.251.35.10:4022/udp/239.76.252.120:9000
-#EXTINF:-1 group-title="湖南频道",金鹰卡通
 http://118.251.35.10:4022/udp/239.76.246.107:1234
+#EXTINF:-1 group-title="湖南频道",金鹰卡通
+http://118.251.35.10:4022/udp/239.76.252.120:9000
 #EXTINF:-1 group-title="湖南频道",金鹰卡通
 http://118.251.35.10:4022/udp/239.76.253.107:9000
 #EXTINF:-1 group-title="湖南频道",金鹰卡通
-http://118.254.157.41:8888/udp/239.76.246.107:1234
-#EXTINF:-1 group-title="湖南频道",金鹰卡通
 http://118.254.157.41:8888/udp/239.76.245.120:1234
+#EXTINF:-1 group-title="湖南频道",金鹰卡通
+http://118.254.157.41:8888/udp/239.76.246.107:1234
 #EXTINF:-1 group-title="湖南频道",金鹰卡通
 http://118.254.157.41:8888/udp/239.76.252.120:9000
 #EXTINF:-1 group-title="湖南频道",金鹰卡通
@@ -2868,23 +2862,25 @@ http://118.254.159.7:8888/udp/239.76.246.107:1234
 #EXTINF:-1 group-title="湖南频道",金鹰卡通
 http://118.254.159.7:8888/udp/239.76.252.120:9000
 #EXTINF:-1 group-title="湖南频道",金鹰卡通
-http://118.254.200.67:8888/udp/239.76.245.120:1234
-#EXTINF:-1 group-title="湖南频道",金鹰卡通
 http://118.254.159.7:8888/udp/239.76.253.107:9000
+#EXTINF:-1 group-title="湖南频道",金鹰卡通
+http://118.254.200.67:8888/udp/239.76.245.120:1234
 #EXTINF:-1 group-title="湖南频道",金鹰卡通
 http://118.254.200.67:8888/udp/239.76.246.107:1234
 #EXTINF:-1 group-title="湖南频道",金鹰卡通
+http://118.254.200.67:8888/udp/239.76.252.120:9000
+#EXTINF:-1 group-title="湖南频道",金鹰卡通
 http://118.254.200.67:8888/udp/239.76.253.107:9000
 #EXTINF:-1 group-title="湖南频道",金鹰卡通
-http://118.254.200.67:8888/udp/239.76.252.120:9000
+http://124.230.56.124:55555/udp/239.76.245.120:1234
+#EXTINF:-1 group-title="湖南频道",金鹰卡通
+http://124.230.56.124:55555/udp/239.76.246.107:1234
+#EXTINF:-1 group-title="湖南频道",金鹰卡通
+http://124.230.56.124:55555/udp/239.76.253.107:9000
+#EXTINF:-1 group-title="湖南频道",金鹰卡通
+http://124.230.56.124:55555/udp/239.76.252.120:9000
 #EXTINF:-1 group-title="湖南频道",金鹰纪实
-http://118.248.160.63:8888/udp/239.76.245.122:1234
-#EXTINF:-1 group-title="湖南频道",金鹰纪实
-http://118.248.160.63:8888/udp/239.76.246.110:1234
-#EXTINF:-1 group-title="湖南频道",金鹰纪实
-http://118.248.160.63:8888/udp/239.76.253.110:9000
-#EXTINF:-1 group-title="湖南频道",金鹰纪实
-http://118.248.160.63:8888/udp/239.76.252.122:9000
+http://118.251.35.10:4022/udp/239.76.245.122:1234
 #EXTINF:-1 group-title="湖南频道",金鹰纪实
 http://118.251.35.10:4022/udp/239.76.246.110:1234
 #EXTINF:-1 group-title="湖南频道",金鹰纪实
@@ -2898,29 +2894,31 @@ http://118.254.157.41:8888/udp/239.76.246.110:1234
 #EXTINF:-1 group-title="湖南频道",金鹰纪实
 http://118.254.157.41:8888/udp/239.76.252.122:9000
 #EXTINF:-1 group-title="湖南频道",金鹰纪实
-http://118.254.159.7:8888/udp/239.76.245.122:1234
-#EXTINF:-1 group-title="湖南频道",金鹰纪实
 http://118.254.157.41:8888/udp/239.76.253.110:9000
 #EXTINF:-1 group-title="湖南频道",金鹰纪实
-http://118.254.159.7:8888/udp/239.76.246.110:1234
+http://118.254.159.7:8888/udp/239.76.245.122:1234
 #EXTINF:-1 group-title="湖南频道",金鹰纪实
 http://118.254.159.7:8888/udp/239.76.252.122:9000
+#EXTINF:-1 group-title="湖南频道",金鹰纪实
+http://118.254.159.7:8888/udp/239.76.246.110:1234
 #EXTINF:-1 group-title="湖南频道",金鹰纪实
 http://118.254.159.7:8888/udp/239.76.253.110:9000
 #EXTINF:-1 group-title="湖南频道",金鹰纪实
 http://118.254.200.67:8888/udp/239.76.245.122:1234
 #EXTINF:-1 group-title="湖南频道",金鹰纪实
-http://118.254.200.67:8888/udp/239.76.246.110:1234
-#EXTINF:-1 group-title="湖南频道",金鹰纪实
 http://118.254.200.67:8888/udp/239.76.252.122:9000
 #EXTINF:-1 group-title="湖南频道",金鹰纪实
-http://118.251.35.10:4022/udp/239.76.245.122:1234
+http://118.254.200.67:8888/udp/239.76.246.110:1234
 #EXTINF:-1 group-title="湖南频道",金鹰纪实
 http://118.254.200.67:8888/udp/239.76.253.110:9000
-#EXTINF:-1 group-title="湖南频道",长沙女姓
-http://118.248.160.63:8888/udp/239.76.245.23:1234
-#EXTINF:-1 group-title="湖南频道",长沙女姓
-http://118.248.160.63:8888/udp/239.76.252.23:9000
+#EXTINF:-1 group-title="湖南频道",金鹰纪实
+http://124.230.56.124:55555/udp/239.76.245.122:1234
+#EXTINF:-1 group-title="湖南频道",金鹰纪实
+http://124.230.56.124:55555/udp/239.76.246.110:1234
+#EXTINF:-1 group-title="湖南频道",金鹰纪实
+http://124.230.56.124:55555/udp/239.76.252.122:9000
+#EXTINF:-1 group-title="湖南频道",金鹰纪实
+http://175.11.104.226:4022/udp/239.76.245.122:1234
 #EXTINF:-1 group-title="湖南频道",长沙女姓
 http://118.251.35.10:4022/udp/239.76.245.23:1234
 #EXTINF:-1 group-title="湖南频道",长沙女姓
@@ -2932,13 +2930,17 @@ http://118.254.157.41:8888/udp/239.76.252.23:9000
 #EXTINF:-1 group-title="湖南频道",长沙女姓
 http://118.254.159.7:8888/udp/239.76.245.23:1234
 #EXTINF:-1 group-title="湖南频道",长沙女姓
-http://118.254.200.67:8888/udp/239.76.245.23:1234
-#EXTINF:-1 group-title="湖南频道",长沙女姓
 http://118.254.159.7:8888/udp/239.76.252.23:9000
 #EXTINF:-1 group-title="湖南频道",长沙女姓
 http://118.254.200.67:8888/udp/239.76.252.23:9000
 #EXTINF:-1 group-title="湖南频道",长沙女姓
+http://118.254.200.67:8888/udp/239.76.245.23:1234
+#EXTINF:-1 group-title="湖南频道",长沙女姓
+http://124.230.56.124:55555/udp/239.76.245.23:1234
+#EXTINF:-1 group-title="湖南频道",长沙女姓
 http://175.11.104.226:4022/udp/239.76.245.23:1234
+#EXTINF:-1 group-title="湖南频道",长沙女姓
+http://124.230.56.124:55555/udp/239.76.252.23:9000
 #EXTINF:-1 group-title="湖南频道",长沙女姓
 http://175.11.104.226:4022/udp/239.76.252.23:9000
 #EXTINF:-1 group-title="湖南频道",长沙女姓
@@ -2952,21 +2954,19 @@ http://175.8.87.127:3000/udp/239.76.252.23:9000
 #EXTINF:-1 group-title="湖南频道",长沙女姓
 http://223.144.160.215:58888/udp/239.76.245.23:1234
 #EXTINF:-1 group-title="湖南频道",长沙女姓
-http://223.144.160.215:58888/udp/239.76.252.23:9000
+http://58.46.248.145:4022/udp/239.76.252.23:9000
 #EXTINF:-1 group-title="湖南频道",长沙女姓
 http://58.46.248.145:4022/udp/239.76.245.23:1234
 #EXTINF:-1 group-title="湖南频道",长沙女姓
-http://58.46.248.145:4022/udp/239.76.252.23:9000
-#EXTINF:-1 group-title="湖南频道",长沙影视
-http://118.248.160.63:8888/udp/239.76.245.204:1234
-#EXTINF:-1 group-title="湖南频道",长沙影视
-http://118.248.160.63:8888/udp/239.76.252.204:9000
+http://223.144.160.215:58888/udp/239.76.252.23:9000
 #EXTINF:-1 group-title="湖南频道",长沙影视
 http://118.251.35.10:4022/udp/239.76.245.204:1234
 #EXTINF:-1 group-title="湖南频道",长沙影视
 http://118.251.35.10:4022/udp/239.76.252.204:9000
 #EXTINF:-1 group-title="湖南频道",长沙影视
 http://118.254.157.41:8888/udp/239.76.245.204:1234
+#EXTINF:-1 group-title="湖南频道",长沙影视
+http://118.254.157.41:8888/udp/239.76.252.204:9000
 #EXTINF:-1 group-title="湖南频道",长沙影视
 http://118.254.159.7:8888/udp/239.76.245.204:1234
 #EXTINF:-1 group-title="湖南频道",长沙影视
@@ -2976,17 +2976,23 @@ http://118.254.200.67:8888/udp/239.76.245.204:1234
 #EXTINF:-1 group-title="湖南频道",长沙影视
 http://118.254.200.67:8888/udp/239.76.252.204:9000
 #EXTINF:-1 group-title="湖南频道",长沙影视
+http://124.230.56.124:55555/udp/239.76.252.204:9000
+#EXTINF:-1 group-title="湖南频道",长沙影视
+http://124.230.56.124:55555/udp/239.76.245.204:1234
+#EXTINF:-1 group-title="湖南频道",长沙影视
 http://175.11.104.226:4022/udp/239.76.245.204:1234
 #EXTINF:-1 group-title="湖南频道",长沙影视
 http://175.11.104.226:4022/udp/239.76.252.204:9000
+#EXTINF:-1 group-title="湖南频道",长沙影视
+http://175.15.135.124:8888/udp/239.76.245.204:1234
 #EXTINF:-1 group-title="湖南频道",长沙影视
 http://175.15.135.124:8888/udp/239.76.252.204:9000
 #EXTINF:-1 group-title="湖南频道",长沙影视
 http://175.8.87.127:3000/udp/239.76.245.204:1234
 #EXTINF:-1 group-title="湖南频道",长沙影视
-http://175.8.87.127:3000/udp/239.76.252.204:9000
-#EXTINF:-1 group-title="湖南频道",长沙影视
 http://223.144.160.215:58888/udp/239.76.245.204:1234
+#EXTINF:-1 group-title="湖南频道",长沙影视
+http://175.8.87.127:3000/udp/239.76.252.204:9000
 #EXTINF:-1 group-title="湖南频道",长沙影视
 http://223.144.160.215:58888/udp/239.76.252.204:9000
 #EXTINF:-1 group-title="湖南频道",长沙影视
@@ -2994,19 +3000,11 @@ http://58.46.248.145:4022/udp/239.76.252.204:9000
 #EXTINF:-1 group-title="湖南频道",长沙影视
 http://58.46.248.145:4022/udp/239.76.245.204:1234
 #EXTINF:-1 group-title="湖南频道",长沙政法
-http://118.248.160.63:8888/udp/239.76.246.122:1234
-#EXTINF:-1 group-title="湖南频道",长沙影视
-http://118.254.157.41:8888/udp/239.76.252.204:9000
-#EXTINF:-1 group-title="湖南频道",长沙政法
-http://118.248.160.63:8888/udp/239.76.253.122:9000
-#EXTINF:-1 group-title="湖南频道",长沙政法
 http://118.251.35.10:4022/udp/239.76.246.122:1234
-#EXTINF:-1 group-title="湖南频道",长沙影视
-http://175.15.135.124:8888/udp/239.76.245.204:1234
-#EXTINF:-1 group-title="湖南频道",长沙政法
-http://118.254.157.41:8888/udp/239.76.246.122:1234
 #EXTINF:-1 group-title="湖南频道",长沙政法
 http://118.251.35.10:4022/udp/239.76.253.122:9000
+#EXTINF:-1 group-title="湖南频道",长沙政法
+http://118.254.157.41:8888/udp/239.76.246.122:1234
 #EXTINF:-1 group-title="湖南频道",长沙政法
 http://118.254.157.41:8888/udp/239.76.253.122:9000
 #EXTINF:-1 group-title="湖南频道",长沙政法
@@ -3014,9 +3012,13 @@ http://118.254.159.7:8888/udp/239.76.246.122:1234
 #EXTINF:-1 group-title="湖南频道",长沙政法
 http://118.254.159.7:8888/udp/239.76.253.122:9000
 #EXTINF:-1 group-title="湖南频道",长沙政法
+http://118.254.200.67:8888/udp/239.76.253.122:9000
+#EXTINF:-1 group-title="湖南频道",长沙政法
 http://118.254.200.67:8888/udp/239.76.246.122:1234
 #EXTINF:-1 group-title="湖南频道",长沙政法
-http://118.254.200.67:8888/udp/239.76.253.122:9000
+http://124.230.56.124:55555/udp/239.76.246.122:1234
+#EXTINF:-1 group-title="湖南频道",长沙政法
+http://124.230.56.124:55555/udp/239.76.253.122:9000
 #EXTINF:-1 group-title="湖南频道",长沙政法
 http://175.11.104.226:4022/udp/239.76.246.122:1234
 #EXTINF:-1 group-title="湖南频道",长沙政法
@@ -3030,37 +3032,37 @@ http://175.8.87.127:3000/udp/239.76.246.122:1234
 #EXTINF:-1 group-title="湖南频道",长沙政法
 http://175.8.87.127:3000/udp/239.76.253.122:9000
 #EXTINF:-1 group-title="湖南频道",长沙政法
-http://58.46.248.145:4022/udp/239.76.246.122:1234
+http://223.144.160.215:58888/udp/239.76.246.122:1234
 #EXTINF:-1 group-title="湖南频道",长沙政法
 http://223.144.160.215:58888/udp/239.76.253.122:9000
 #EXTINF:-1 group-title="湖南频道",长沙政法
-http://223.144.160.215:58888/udp/239.76.246.122:1234
+http://58.46.248.145:4022/udp/239.76.246.122:1234
 #EXTINF:-1 group-title="湖南频道",长沙政法
 http://58.46.248.145:4022/udp/239.76.253.122:9000
 #EXTINF:-1 group-title="湖南频道",长沙新闻
-http://118.248.160.63:8888/udp/239.76.253.121:9000
-#EXTINF:-1 group-title="湖南频道",长沙新闻
-http://118.248.160.63:8888/udp/239.76.246.121:1234
-#EXTINF:-1 group-title="湖南频道",长沙新闻
 http://118.251.35.10:4022/udp/239.76.246.121:1234
-#EXTINF:-1 group-title="湖南频道",长沙新闻
-http://118.251.35.10:4022/udp/239.76.253.121:9000
 #EXTINF:-1 group-title="湖南频道",长沙新闻
 http://118.254.157.41:8888/udp/239.76.246.121:1234
 #EXTINF:-1 group-title="湖南频道",长沙新闻
-http://118.254.157.41:8888/udp/239.76.253.121:9000
+http://118.251.35.10:4022/udp/239.76.253.121:9000
 #EXTINF:-1 group-title="湖南频道",长沙新闻
 http://118.254.159.7:8888/udp/239.76.246.121:1234
 #EXTINF:-1 group-title="湖南频道",长沙新闻
-http://118.254.159.7:8888/udp/239.76.253.121:9000
+http://118.254.157.41:8888/udp/239.76.253.121:9000
 #EXTINF:-1 group-title="湖南频道",长沙新闻
-http://118.254.200.67:8888/udp/239.76.246.121:1234
+http://118.254.159.7:8888/udp/239.76.253.121:9000
 #EXTINF:-1 group-title="湖南频道",长沙新闻
 http://118.254.200.67:8888/udp/239.76.253.121:9000
 #EXTINF:-1 group-title="湖南频道",长沙新闻
-http://175.11.104.226:4022/udp/239.76.253.121:9000
+http://118.254.200.67:8888/udp/239.76.246.121:1234
+#EXTINF:-1 group-title="湖南频道",长沙新闻
+http://124.230.56.124:55555/udp/239.76.246.121:1234
+#EXTINF:-1 group-title="湖南频道",长沙新闻
+http://124.230.56.124:55555/udp/239.76.253.121:9000
 #EXTINF:-1 group-title="湖南频道",长沙新闻
 http://175.11.104.226:4022/udp/239.76.246.121:1234
+#EXTINF:-1 group-title="湖南频道",长沙新闻
+http://175.11.104.226:4022/udp/239.76.253.121:9000
 #EXTINF:-1 group-title="湖南频道",长沙新闻
 http://175.15.135.124:8888/udp/239.76.246.121:1234
 #EXTINF:-1 group-title="湖南频道",长沙新闻
@@ -3077,132 +3079,6 @@ http://223.144.160.215:58888/udp/239.76.253.121:9000
 http://58.46.248.145:4022/udp/239.76.246.121:1234
 #EXTINF:-1 group-title="湖南频道",长沙新闻
 http://58.46.248.145:4022/udp/239.76.253.121:9000
-#EXTINF:-1 group-title="影视综合",乐享超清
-http://220.166.249.56:4000/udp/239.93.0.43:5140
-#EXTINF:-1 group-title="影视综合",乐享超清
-http://118.113.53.113:8848/udp/239.93.0.43:5140
-#EXTINF:-1 group-title="影视综合",全球大片
-http://220.166.249.56:4000/udp/239.93.0.105:5140
-#EXTINF:-1 group-title="影视综合",峨眉电影
-http://220.166.249.56:4000/udp/239.93.1.18:5140
-#EXTINF:-1 group-title="影视综合",华语影院
-http://220.166.249.56:4000/udp/239.93.0.138:5140
-#EXTINF:-1 group-title="影视综合",全球大片
-http://118.113.53.113:8848/udp/239.93.0.105:5140
-#EXTINF:-1 group-title="影视综合",乐享超清
-http://222.214.176.16:8888/udp/239.93.0.43:5140
-#EXTINF:-1 group-title="影视综合",峨眉电影
-http://220.166.249.56:4000/udp/239.93.1.54:5140
-#EXTINF:-1 group-title="影视综合",峨眉电影
-http://222.214.176.16:8888/udp/239.93.1.54:5140
-#EXTINF:-1 group-title="影视综合",全球大片
-http://222.214.176.16:8888/udp/239.93.0.105:5140
-#EXTINF:-1 group-title="影视综合",华语影院
-http://222.214.176.16:8888/udp/239.93.0.138:5140
-#EXTINF:-1 group-title="影视综合",峨眉电影
-http://222.214.176.16:8888/udp/239.93.1.18:5140
-#EXTINF:-1 group-title="影视综合",星光院线
-http://220.166.249.56:4000/udp/239.93.0.139:5140
-#EXTINF:-1 group-title="影视综合",港剧风云
-http://222.214.176.16:8888/udp/239.93.0.143:5140
-#EXTINF:-1 group-title="影视综合",星光院线
-http://222.214.176.16:8888/udp/239.93.0.139:5140
-#EXTINF:-1 group-title="影视综合",热血剧场
-http://220.166.249.56:4000/udp/239.93.1.198:5140
-#EXTINF:-1 group-title="影视综合",港剧风云
-http://220.166.249.56:4000/udp/239.93.0.143:5140
-#EXTINF:-1 group-title="影视综合",热血剧场
-http://222.214.176.16:8888/udp/239.93.1.198:5140
-#EXTINF:-1 group-title="影视综合",热播剧场
-http://220.166.249.56:4000/udp/239.93.0.56:9020
-#EXTINF:-1 group-title="影视综合",热播剧场
-http://222.214.176.16:8888/udp/239.93.0.56:9020
-#EXTINF:-1 group-title="影视综合",热门综艺
-http://118.113.53.113:8848/udp/239.93.0.151:5140
-#EXTINF:-1 group-title="影视综合",热门剧场
-http://222.214.176.16:8888/udp/239.93.0.140:5140
-#EXTINF:-1 group-title="影视综合",爱传奇
-http://220.166.249.56:4000/udp/239.93.0.235:1282
-#EXTINF:-1 group-title="影视综合",热门综艺
-http://220.166.249.56:4000/udp/239.93.0.151:5140
-#EXTINF:-1 group-title="影视综合",爱传奇
-http://222.214.176.16:8888/udp/239.93.0.235:1282
-#EXTINF:-1 group-title="影视综合",热门综艺
-http://222.214.176.16:8888/udp/239.93.0.151:5140
-#EXTINF:-1 group-title="影视综合",爱传奇
-http://118.113.53.113:8848/udp/239.93.0.235:1282
-#EXTINF:-1 group-title="影视综合",爱体育
-http://222.214.176.16:8888/udp/239.93.0.135:9008
-#EXTINF:-1 group-title="影视综合",爱体育
-http://220.166.249.56:4000/udp/239.93.0.135:9008
-#EXTINF:-1 group-title="影视综合",爱军事
-http://220.166.249.56:4000/udp/239.93.0.204:9076
-#EXTINF:-1 group-title="影视综合",爱军事
-http://222.214.176.16:8888/udp/239.93.0.204:9076
-#EXTINF:-1 group-title="影视综合",爱喜剧
-http://220.166.249.56:4000/udp/239.93.42.9:5140
-#EXTINF:-1 group-title="影视综合",爱地理
-http://220.166.249.56:4000/udp/239.93.0.200:9052
-#EXTINF:-1 group-title="影视综合",爱喜剧
-http://222.214.176.16:8888/udp/239.93.42.9:5140
-#EXTINF:-1 group-title="影视综合",爱地理
-http://222.214.176.16:8888/udp/239.93.0.200:9052
-#EXTINF:-1 group-title="影视综合",爱奇谈
-http://220.166.249.56:4000/udp/239.93.42.22:5140
-#EXTINF:-1 group-title="影视综合",爱怀旧
-http://222.214.176.16:8888/udp/239.93.42.21:5140
-#EXTINF:-1 group-title="影视综合",爱奇谈
-http://222.214.176.16:8888/udp/239.93.42.22:5140
-#EXTINF:-1 group-title="影视综合",爱悬疑
-http://222.214.176.16:8888/udp/239.93.42.12:5140
-#EXTINF:-1 group-title="影视综合",爱求索
-http://220.166.249.56:4000/udp/239.93.42.24:5140
-#EXTINF:-1 group-title="影视综合",爱汽摩
-http://220.166.249.56:4000/udp/239.93.0.62:5140
-#EXTINF:-1 group-title="影视综合",爱汽摩
-http://118.113.53.113:8848/udp/239.93.0.62:5140
-#EXTINF:-1 group-title="影视综合",爱求索
-http://222.214.176.16:8888/udp/239.93.42.24:5140
-#EXTINF:-1 group-title="影视综合",爱生活
-http://220.166.249.56:4000/udp/239.93.0.206:8028
-#EXTINF:-1 group-title="影视综合",爱生活
-http://222.214.176.16:8888/udp/239.93.0.206:8028
-#EXTINF:-1 group-title="影视综合",爱汽摩
-http://222.214.176.16:8888/udp/239.93.0.62:5140
-#EXTINF:-1 group-title="影视综合",爱经典
-http://222.214.176.16:8888/udp/239.93.42.13:5140
-#EXTINF:-1 group-title="影视综合",爱科幻
-http://222.214.176.16:8888/udp/239.93.42.10:5140
-#EXTINF:-1 group-title="影视综合",爱解密
-http://220.166.249.56:4000/udp/239.93.0.199:9048
-#EXTINF:-1 group-title="影视综合",爱解密
-http://222.214.176.16:8888/udp/239.93.0.199:9048
-#EXTINF:-1 group-title="影视综合",爱谍战
-http://222.214.176.16:8888/udp/239.93.42.14:5140
-#EXTINF:-1 group-title="影视综合",爱都市
-http://222.214.176.16:8888/udp/239.93.42.15:5140
-#EXTINF:-1 group-title="影视综合",爱院线
-http://222.214.176.16:8888/udp/239.93.42.11:5140
-#EXTINF:-1 group-title="影视综合",爱青春
-http://222.214.176.16:8888/udp/239.93.42.16:5140
-#EXTINF:-1 group-title="影视综合",看电影
-http://222.214.176.16:8888/udp/239.93.42.47:5140
-#EXTINF:-1 group-title="影视综合",看电影
-http://220.166.249.56:4000/udp/239.93.42.47:5140
-#EXTINF:-1 group-title="影视综合",红色经典
-http://222.214.176.16:8888/udp/239.93.1.176:5140
-#EXTINF:-1 group-title="影视综合",红色经典
-http://118.113.53.113:8848/udp/239.93.1.176:5140
-#EXTINF:-1 group-title="影视综合",经典电影
-http://222.214.176.16:8888/udp/239.93.0.57:9024
-#EXTINF:-1 group-title="影视综合",谍战剧场
-http://222.214.176.16:8888/udp/239.93.0.95:5140
-#EXTINF:-1 group-title="影视综合",超清电影
-http://222.214.176.16:8888/udp/239.93.1.156:5140
-#EXTINF:-1 group-title="影视综合",音乐现场
-http://222.214.176.16:8888/udp/239.93.0.198:9044
-#EXTINF:-1 group-title="影视综合",都市剧场
-http://222.214.176.16:8888/udp/239.93.42.30:5140
 #EXTINF:-1 group-title="港澳频道",凤凰资讯
 http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 group-title="港澳频道",凤凰资讯
@@ -6209,5 +6085,5 @@ https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
 https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 #EXTINF:-1 group-title="更新时间",2024-04-28
 url
-#EXTINF:-1 group-title="更新时间",06:28:58
+#EXTINF:-1 group-title="更新时间",07:07:12
 url
