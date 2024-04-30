@@ -1616,4 +1616,4 @@ CHC动作电影,http://tvgslb.hn.chinamobile.com:8089/180000001002/0000000100000
 
 更新时间,#genre#
 2024-04-30,url
-01:24:48,url
+01:30:20,url
