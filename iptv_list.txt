@@ -1615,5 +1615,5 @@ CHC动作电影,http://tvgslb.hn.chinamobile.com:8089/180000001002/0000000100000
 春晚2024,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 
 更新时间,#genre#
-2024-04-29,url
-22:31:23,url
+2024-04-30,url
+00:16:33,url
