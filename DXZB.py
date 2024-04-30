@@ -106,7 +106,7 @@ for urlx in urls_all:
     
     # channel = [f'{name},{url.replace("http://124.230.56.124:55555", urlx)}' for name, url in        # 邵阳
     #            [line.strip().split(',') for line in open("hunan6.txt", 'r', encoding='utf-8')]]
-    # results.extend(channel)
+    results.extend(channel)
 
 results = sorted(results)
 
