@@ -65,6 +65,7 @@ for url in urls:
     try:
         response = requests.get(url_64, headers=headers, timeout=15)
         page_content = response.text
+        print(f" {url}  访问成功")        
         pattern = r'href="(http://\d+\.\d+\.\d+\.\d+:\d+)"'
         page_urls = re.findall(pattern, page_content)
         for urlx in page_urls:
@@ -86,36 +87,13 @@ for url in urls:
 
 urls_all = set(urls_all)  # 去重得到唯一的URL列表
 for urlx in urls_all:
-# 未知
-    # channel = [f'{name},{url.replace("http://8.8.8.8:8", urlx)}' for name, url in                   
-    #            [line.strip().split(',') for line in open("hunan0.txt", 'r', encoding='utf-8')]]
-    # results.extend(channel)        
-# 长沙
-    # channel = [f'{name},{url.replace("http://175.10.59.126:4022", urlx)}' for name, url in          
-    #            [line.strip().split(',') for line in open("hunan1.txt", 'r', encoding='utf-8')]]
-    # results.extend(channel)        
-# 衡阳
-    # channel = [f'{name},{url.replace("http://118.254.200.3:8888", urlx)}' for name, url in          
-    #            [line.strip().split(',') for line in open("hunan2.txt", 'r', encoding='utf-8')]]
-    # results.extend(channel)        
-# 岳阳
-    channel = [f'{name},{url.replace("http://223.144.160.215:58888", urlx)}' for name, url in       
-               [line.strip().split(',') for line in open("hunan3.txt", 'r', encoding='utf-8')]]
+    channel = [f'{name},{url.replace("http://8.8.8.8:8", urlx)}' for name, url in                   
+               [line.strip().split(',') for line in open("hunan.txt", 'r', encoding='utf-8')]]
     results.extend(channel)        
-# 衡阳
-    # channel = [f'{name},{url.replace("http://118.254.158.16:8888", urlx)}' for name, url in         
-    #            [line.strip().split(',') for line in open("hunan4.txt", 'r', encoding='utf-8')]]
-    # results.extend(channel)
-# 衡阳
-    # channel = [f'{name},{url.replace("http://118.254.159.7:8888", urlx)}' for name, url in          
-    #            [line.strip().split(',') for line in open("hunan5.txt", 'r', encoding='utf-8')]]
-    # results.extend(channel)
-# 邵阳
-    # channel = [f'{name},{url.replace("http://124.230.56.124:55555", urlx)}' for name, url in        
-    #            [line.strip().split(',') for line in open("hunan6.txt", 'r', encoding='utf-8')]]
-    # results.extend(channel)
 
 results = sorted(results)
+print(results)
+
 # 定义工作线程函数
 def worker():
     while True:
