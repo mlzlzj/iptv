@@ -205,9 +205,12 @@ for urlx in urls_all:
     channel = [f'{name},{url.replace("http://8.8.8.8:8", urlx)}' for name, url in
                [line.strip().split(',') for line in channelsx]]
     results.extend(channel)
-
+            
 results = sorted(results)
-print(results)
+with open("itv.txt", 'w', encoding='utf-8') as file:
+    for result in results:
+        file.write(result + "\n")
+        print(result)
 
 # 定义工作线程函数
 def worker():
