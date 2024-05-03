@@ -102,7 +102,7 @@ channelsx = [
     "凤凰中文,http://8.8.8.8:8/udp/239.76.253.135:9000", "凤凰资讯,http://8.8.8.8:8/udp/239.76.253.134:9000",
     "凤凰资讯,http://8.8.8.8:8/udp/239.76.246.135:1234", "体育,http://8.8.8.8:8/udp/239.76.253.136:9000",
     "全纪实,http://8.8.8.8:8/udp/239.76.246.137:1234", "法治天地,http://8.8.8.8:8/udp/239.76.246.138:1234",
-    "生活时尚,http://8.8.8.8:8/udp/239.76.246.223:1234", "浏阳,http://8.8.8.8:8/udp/239.76.248.6:1234",
+    "生活时尚,http://8.8.8.8:8/udp/239.76.246.223:1234", "浏阳新闻,http://8.8.8.8:8/udp/239.76.248.6:1234",
     "常德综合,http://8.8.8.8:8/udp/239.76.248.10:1234", "常德公共,http://8.8.8.8:8/udp/239.76.248.11:1234",
     "衡阳综合,http://8.8.8.8:8/udp/239.76.248.13:1234", "衡阳公共,http://8.8.8.8:8/udp/239.76.248.14:1234",
     "娄底综合,http://8.8.8.8:8/udp/239.76.248.18:1234", "娄底公共,http://8.8.8.8:8/udp/239.76.248.19:1234",
@@ -223,10 +223,10 @@ for urlx in urls_all:
     results.extend(channel)
             
 results = sorted(results)
-with open("itv.txt", 'w', encoding='utf-8') as file:
-    for result in results:
-        file.write(result + "\n")
-        print(result)
+# with open("itv.txt", 'w', encoding='utf-8') as file:
+#     for result in results:
+#         file.write(result + "\n")
+#         print(result)
 
 # 定义工作线程函数
 def worker():
@@ -324,7 +324,9 @@ with open("iptv.txt", 'w', encoding='utf-8') as file:
         channel_name, channel_url = result
         if '湖南' in channel_name or '长沙' in channel_name or '金鹰' in channel_name or '娄底' in channel_name or '常德' \
                 in channel_name or '张家界' in channel_name or '怀化' in channel_name or '浏阳' in channel_name or '湘西' \
-                in channel_name or '衡阳' in channel_name or '邵阳' in channel_name or '全纪实' in channel_name:
+                in channel_name or '衡阳' in channel_name or '邵阳' in channel_name or '郴州' in channel_name  or '岳阳' in channel_name or '溆浦' \
+                in channel_name or '武冈' in channel_name or '新化' in channel_name or '津市' in channel_name or '桂东' in channel_name \
+                 or '道县' in channel_name or '永州' in channel_name or '株洲' in channel_name or '湘潭' in channel_name or '益阳' in channel_name \:
             if channel_name in channel_counters:
                 if channel_counters[channel_name] >= result_counter:
                     continue
