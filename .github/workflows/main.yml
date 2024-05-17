@@ -21,7 +21,7 @@ jobs:
           python-version: 3.x
 
       - name: Install dependencies
-        run: pip install selenium requests futures eventlet
+        run: pip install selenium requests futures eventlet pypinyin
               
       - name: Run ZB
         run: python ${{ github.workspace }}/DXZB.py
