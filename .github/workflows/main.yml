@@ -24,7 +24,9 @@ jobs:
         run: |
           python -m pip install --upgrade pip
       - name: Install bs4
-        run: pip3 install bs4
+        run: pip3 install playwright
+      - name: Install bs4
+        run: pip3 install playwright
               
       - name: Run ZB
         run: python ${{ github.workspace }}/main.py
