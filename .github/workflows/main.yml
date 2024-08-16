@@ -29,6 +29,8 @@ jobs:
         run: pip3 install playwright
       - name: Install requests
         run: pip3 install requests     
+      - name: Install playwright install
+        run: playwright install
         
       - name: Run ZB
         run: python ${{ github.workspace }}/main.py
