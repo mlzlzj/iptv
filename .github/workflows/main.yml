@@ -21,7 +21,7 @@ jobs:
           python-version: 3.x
 
       - name: Install dependencies
-        run: pip install selenium requests futures eventlet threading random BeautifulSoup playwright ThreadPoolExecutor, as_completed
+        run: pip install selenium requests futures eventlet threading random BeautifulSoup playwright 
               
       - name: Run ZB
         run: python ${{ github.workspace }}/main.py
