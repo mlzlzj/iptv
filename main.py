@@ -455,5 +455,5 @@ def main(search_terms):
 
 
 if __name__ == "__main__":
-    search_terms = ["长沙", "娄底", "衡阳", "常德", "株洲", "湘潭", "邵阳", "张家界", "益阳", "郴州", "永州", "怀化"]
+    search_terms = ["长沙", "娄底"]
     main(search_terms)
