@@ -21,10 +21,10 @@ jobs:
           python-version: 3.x
 
       - name: Install dependencies
-        run: pip install selenium requests futures eventlet pypinyin
+        run: pip install selenium requests futures eventlet threading random BeautifulSoup playwright ThreadPoolExecutor, as_completed
               
       - name: Run ZB
-        run: python ${{ github.workspace }}/DXZB.py
+        run: python ${{ github.workspace }}/main.py
 
       - name: 提交更改
         run: |
