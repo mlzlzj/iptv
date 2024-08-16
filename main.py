@@ -11,7 +11,7 @@ from datetime import datetime
 import os
 
 
-# 初始化浏览器
+ # 初始化浏览器
 def init_browser():
     playwright = sync_playwright().start()
     browser = playwright.chromium.launch(headless=True)
@@ -37,6 +37,9 @@ def close_browser(browser, playwright):
 
 
 def fetch_channel_info_worker(task_queue, result_queue, place_name):
+    proxy= {
+        'http': '120.25.1.15:7890',
+    }
     browser, playwright = init_browser()
     page = browser.new_page()
     headers = {
