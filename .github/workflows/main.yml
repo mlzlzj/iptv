@@ -31,6 +31,8 @@ jobs:
         run: pip3 install requests     
       - name: Install playwright install
         run: playwright install
+      - name: Install datetime
+        run: pip install datetime
 
       - name: Run ZB1
         run: python ${{ github.workspace }}/DXZB.py
