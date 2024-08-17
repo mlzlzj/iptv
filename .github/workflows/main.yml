@@ -32,8 +32,8 @@ jobs:
       - name: Install playwright install
         run: playwright install
 
-      - name: Run ZB1
-        run: python ${{ github.workspace }}/DXZB.py
+      # - name: Run ZB1
+      # run: python ${{ github.workspace }}/DXZB.py
         
       - name: Run ZB2
         run: python ${{ github.workspace }}/main.py
