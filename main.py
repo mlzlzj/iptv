@@ -37,14 +37,14 @@ def close_browser(browser, playwright):
 
 
 def fetch_channel_info_worker(task_queue, result_queue, place_name):
-    proxy= {
-        'http': '120.25.1.15:7890',
-    }
-    browser, playwright = init_browser()
+        browser, playwright = init_browser()
     page = browser.new_page()
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0"
     }
+
+proxy = {'http': '58.246.58.150:9002', }
+
     page.set_extra_http_headers(headers)
 
     while True:
