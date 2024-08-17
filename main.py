@@ -11,6 +11,8 @@ from datetime import datetime
 import os
 
 
+proxy = {'http': '58.246.58.150:9002', }
+
  # 初始化浏览器
 def init_browser():
     playwright = sync_playwright().start()
@@ -42,9 +44,6 @@ def fetch_channel_info_worker(task_queue, result_queue, place_name):
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0"
     }
-
-proxy = {'http': '58.246.58.150:9002', }
-
     page.set_extra_http_headers(headers)
 
     while True:
