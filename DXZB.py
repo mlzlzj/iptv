@@ -42,7 +42,7 @@ def download_speed_test():
         speed_test_queue.task_done()
 
         # 如果下载速率大于或等于0.3MB/s，则添加到测速结果列表中
-        if download_rate >= 0.3:
+        if download_rate >= 0.2:
             speed_results.append((download_rate, name, url))
     # 按照下载速率降序排列
     sorted_channels = sorted(speed_results, reverse=True)
