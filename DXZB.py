@@ -44,6 +44,14 @@ def download_speed_test():
         # 如果下载速率大于或等于0.3MB/s，则添加到测速结果列表中
         if download_rate >= 0.3:
             speed_results.append((download_rate, name, url))
+    # 按照下载速率降序排列
+    sorted_channels = sorted(speed_results, reverse=True)
+
+    # 写入分类排序后的频道信息
+    with open("speed.txt", 'w', encoding='utf-8') as file:
+        for result in sorted_channels:
+            download_rate, channel_name, channel_url = result
+            file.write(f"{channel_name},{channel_url},{download_rate}\n")
 
 
 # 创建并启动线程
@@ -260,8 +268,8 @@ def channel_key(channel_name):
 
 # 对speed.txt文件进行分类排序
 def classify_and_sort_channels():
-    # 按照下载速率降序排列
-    sorted_channels = sorted(speed_results, reverse=True)
+    # # 按照下载速率降序排列
+    # sorted_channels = sorted(speed_results, reverse=True)
 
     with open("speed.txt", 'r', encoding='utf-8') as file:
         for line in file:
@@ -310,7 +318,9 @@ def classify_and_sort_channels():
             if '湖南' in channel_name or '长沙' in channel_name or '金鹰' in channel_name or 'CHC' in channel_name \
                     or '凤凰' in channel_name or '常德' in channel_name or '娄底' in channel_name or '永州' in channel_name \
                     or '湘西' in channel_name or '张家界' in channel_name or '衡阳' in channel_name or '邵阳' in channel_name \
-                    or '浏阳' in channel_name or '怀化' in channel_name:
+                    or '浏阳' in channel_name or '怀化' in channel_name or '溆浦' in channel_name or '岳阳' in channel_name \
+                    or '益阳' in channel_name or '津市' in channel_name or '道县' in channel_name or '湘潭' in channel_name \
+                    or '新化' in channel_name or '株洲' in channel_name:
                 if channel_name in channel_counters:
                     if channel_counters[channel_name] >= result_counter:
                         continue
@@ -329,7 +339,9 @@ def classify_and_sort_channels():
                     and '凤凰' not in channel_name and '常德' not in channel_name and '娄底' not in channel_name \
                     and '永州' not in channel_name and '湘西' not in channel_name and '衡阳' not in channel_name \
                     and '邵阳' not in channel_name and '浏阳' not in channel_name and '张家界' not in channel_name \
-                    and '怀化' not in channel_name:
+                    and '怀化' not in channel_name and '溆浦' not in channel_name and '岳阳' not in channel_name \
+                    and '益阳' not in channel_name and '津市' not in channel_name and '道县' not in channel_name \
+                    and '湘潭' not in channel_name and '新化' not in channel_name and '株洲' not in channel_name:
                 if channel_name in channel_counters:
                     if channel_counters[channel_name] >= result_counter:
                         continue
