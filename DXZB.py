@@ -378,7 +378,7 @@ def main():
 
     # 对iptv.txt文件中的所有频道列表进行多线程测速
     load_channels_to_speed_test()
-    start_speed_test_threads(10)
+    start_speed_test_threads(5)
 
     # 对speed.txt文件进行分类排序
     classify_and_sort_channels()
