@@ -301,10 +301,10 @@ with open("iptv_list.txt", 'w', encoding='utf-8') as file:
                 channel_counters[channel_name] = 1
 
 
-# 写入更新日期时间
-now = datetime.now()
-file.write(f"\n更新时间,#genre#\n")
-file.write(f"{now.strftime("%Y-%m-%d")},url\n")
-file.write(f"{now.strftime("%H:%M:%S")},url\n")
+    # 写入更新日期时间
+    now = datetime.now()
+    file.write(f"\n更新时间,#genre#\n")
+    file.write(f"{now.strftime("%Y-%m-%d")},url\n")
+    file.write(f"{now.strftime("%H:%M:%S")},url\n")
 
 print(f"电视频道成功写入iptv_list.txt")
