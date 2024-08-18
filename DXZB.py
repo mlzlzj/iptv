@@ -303,8 +303,8 @@ with open("iptv_list.txt", 'w', encoding='utf-8') as file:
 
 # 写入更新日期时间
 now = datetime.now()
-output.file(f"\n更新时间,#genre#\n")
-output.file(f"{now.strftime("%Y-%m-%d")},url\n")
-output.file(f"{now.strftime("%H:%M:%S")},url\n")
+file.write(f"\n更新时间,#genre#\n")
+file.write(f"{now.strftime("%Y-%m-%d")},url\n")
+file.write(f"{now.strftime("%H:%M:%S")},url\n")
 
 print(f"电视频道成功写入iptv_list.txt")
