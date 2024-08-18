@@ -20,8 +20,8 @@ def download_speed_test():
     while not speed_test_queue.empty():
         channel = speed_test_queue.get()
         name, url = channel
-        download_time = 15  # 设置下载时间为 10 秒
-        chunk_size = 4096  # 设置下载数据块大小为 8192 字节
+        download_time = 10  # 设置下载时间为 10 秒
+        chunk_size = 8192  # 设置下载数据块大小为 8192 字节
 
         try:
             start_time = time.time()
@@ -42,7 +42,7 @@ def download_speed_test():
         speed_test_queue.task_done()
 
         # 如果下载速率大于或等于0.2MB/s，则添加到测速结果列表中
-        if download_rate >= 0.2:
+        if download_rate >= 0:
             speed_results.append((download_rate, name, url))
     # 按照下载速率降序排列
     sorted_channels = sorted(speed_results, reverse=True)
