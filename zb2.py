@@ -524,5 +524,5 @@ def main(search_terms):
 
 
 if __name__ == "__main__":
-    search_terms = ["辽宁", "益阳"]
+    search_terms = ["广东", "北京"]
     main(search_terms)
