@@ -34,11 +34,11 @@ jobs:
       - name: Install datetime
         run: pip install datetime
 
-      # - name: Run ZB1
-      #   run: python ${{ github.workspace }}/DXZB.py
+      - name: Run ZB1
+        run: python ${{ github.workspace }}/DXZB.py
         
-      - name: Run zb2
-        run: python ${{ github.workspace }}/zb2.py
+      # - name: Run zb2
+      #   run: python ${{ github.workspace }}/zb2.py
 
       - name: 提交更改
         run: |
