@@ -188,10 +188,10 @@ for urlx in urls_all:
     results.extend(channel)
 
 results = sorted(results)
-with open("itv.txt", 'w', encoding='utf-8') as file:
-    for result in results:
-        file.write(result + "\n")
-        print(result)
+# with open("itv.txt", 'w', encoding='utf-8') as file:
+#     for result in results:
+#         file.write(result + "\n")
+#         print(result)
 
 
 # 定义工作线程函数
