@@ -493,7 +493,7 @@ from datetime import datetime
 
 
 # 测试下载速度的函数
-def test_download_speed(url, test_duration=5):
+def download_speed(url, test_duration=5):
     try:
         start_time = time.time()
         response = requests.get(url, timeout=test_duration + 5, stream=True)
@@ -523,7 +523,7 @@ def measure_download_speed_parallel(channels, max_threads=5):
         while not queue.empty():
             channel = queue.get()
             name, url = channel
-            speed = test_download_speed(url)
+            speed = download_speed(url)
             results.append((name, url, speed))
             processed_count += 1
             print(f"{name},{url} 下载速率: {speed:.2f}MB/s")
