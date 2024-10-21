@@ -595,7 +595,7 @@ def main():
         for group_name, channel_list in groups.items():
             file.write(f"{group_name}:\n")
             for name, url, speed in channel_list:
-                if speed >= 0.1:  # 只写入下载速度大于或等于 0.3 MB/s 的频道
+                if speed >= 0.01:  # 只写入下载速度大于或等于 0.01 MB/s 的频道
                     file.write(f"{name},{url}\n")
             file.write("\n")
 
