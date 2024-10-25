@@ -15,8 +15,7 @@ task_queue = Queue()
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36'}
 
-urls = ["yueyang", "changsha", "zhuzhou", "xiangtan", "hengyang", "shaoyang", "changde", "zhangjiajie", "yiyang",
-        "chenzhou", "yongzhou", "huaihua", "loudi"]
+urls = ["changsha", "shaoyang", "changde", "yongzhou", "huaihua", "loudi", "zhuzhou", "xiangtan", "hengyang", "zhangjiajie", "yiyang", "chenzhou"]
 channelsx = [
     "湖南卫视,http://8.8.8.8:8/udp/239.76.245.115:1234", "湖南经视,http://8.8.8.8:8/udp/239.76.245.116:1234",
     "湖南都市,http://8.8.8.8:8/udp/239.76.245.117:1234", "湖南电视剧,http://8.8.8.8:8/udp/239.76.245.118:1234",
