@@ -1,51 +1,51 @@
-# name: zb
+name: zb
 
-# on:
-#   schedule:
-#     - cron: '0 06,18 * * *'
-#   push:
-#     branches:
-#       - main
+on:
+  schedule:
+    - cron: '0 06,18 * * *'
+  push:
+    branches:
+      - main
 
-# jobs:
-#   build:
-#     runs-on: ubuntu-latest
+jobs:
+  build:
+    runs-on: ubuntu-latest
 
-#     steps:
-#       - name: Checkout code
-#         uses: actions/checkout@v2
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
     
-#       - name: Set up Python
-#         uses: actions/setup-python@v2
-#         with:
-#           python-version: 3.x
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.x
 
-#       - name: Install dependencies
-#         run: |
-#           python -m pip install --upgrade pip
-#       - name: Install bs4
-#         run: pip3 install bs4
-#       - name: Install playwright
-#         run: pip3 install playwright
-#       - name: Install requests
-#         run: pip3 install requests     
-#       - name: Install playwright install
-#         run: playwright install
-#       - name: Install datetime
-#         run: pip install datetime
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+      - name: Install bs4
+        run: pip3 install bs4
+      - name: Install playwright
+        run: pip3 install playwright
+      - name: Install requests
+        run: pip3 install requests     
+      - name: Install playwright install
+        run: playwright install
+      - name: Install datetime
+        run: pip install datetime
 
-#       - name: Run ZB1
-#         run: python ${{ github.workspace }}/DXZB.py
+      - name: Run ZB1
+        run: python ${{ github.workspace }}/DXZB.py
         
-#       # - name: Run zb2
-#       #   run: python ${{ github.workspace }}/zb2.py
+      # - name: Run zb2
+      #   run: python ${{ github.workspace }}/zb2.py
 
-#       - name: 提交更改
-#         run: |
-#           git config --local user.email "vjfchen@sina.com"
-#           git config --local user.name "mlzlzj"
-#           git add .
-#           git commit *.txt -m "Add generated file"
-#           # git commit *.m3u -m "Add generated file"
-#           #git pull --rebase
-#           git push -f
+      - name: 提交更改
+        run: |
+          git config --local user.email "vjfchen@sina.com"
+          git config --local user.name "mlzlzj"
+          git add .
+          git commit *.txt -m "Add generated file"
+          # git commit *.m3u -m "Add generated file"
+          #git pull --rebase
+          git push -f
