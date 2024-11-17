@@ -125,7 +125,7 @@ for ip in all_valid_ips:
     print(ip)
 
 # 读取湖南_电信.txt文件中的频道列表
-with open('zubo/湖南_电信.txt', 'r', encoding='utf-8') as f:
+with open('湖南_电信.txt', 'r', encoding='utf-8') as f:
     channels = f.readlines()
 
 # 将所有替换后的频道列表写入湖南_组播.txt文件中
