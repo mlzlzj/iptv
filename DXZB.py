@@ -76,7 +76,7 @@ unique_ip_ports = set()
 config_path = 'config.txt'
 configs = read_config(config_path)
 
-# 使用集合去除重复的 IP 地址及端口
+# 使用集合去除配置文件内重复的 IP 地址及端口
 unique_configs = []
 for ip_part, port, option in configs:
     ip_port = f"{ip_part}:{port}"
@@ -87,7 +87,7 @@ for ip_part, port, option in configs:
 # 执行 IP 扫描
 all_valid_ips = []
 for ip_part, port, option in unique_configs:
-    print(f"开始扫描地址: {ip_part}, 端口: {port}, 类型: {option}")
+    print(f"开始扫描地址: {ip_part}, 端口: {port}, 类型: {option} （类型为0扫描D段，类型为1扫描C,D段）")
     ips_to_check = generate_ips(ip_part, option)
 
     valid_ips = []
@@ -97,7 +97,7 @@ for ip_part, port, option in unique_configs:
 
     def update_status(checked_count):
         while checked_count[0] < total_ips:
-            print(f"验证数量: {checked_count[0]}, 有效数量: {len(valid_ips)}")
+            print(f"扫描数量: {checked_count[0]}, 有效数量: {len(valid_ips)}")
             time.sleep(10)
 
 
@@ -124,8 +124,9 @@ save_to_file('ip.txt', all_valid_ips)
 for ip in all_valid_ips:
     print(ip)
 
+# 替换组播ID并写入文件
 # 读取湖南_电信.txt文件中的频道列表
-with open('湖南_电信.txt', 'r', encoding='utf-8') as f:
+with open('zubo/湖南_电信.txt', 'r', encoding='utf-8') as f:
     channels = f.readlines()
 
 # 将所有替换后的频道列表写入湖南_组播.txt文件中
@@ -134,10 +135,9 @@ with open('湖南_组播.txt', 'w', encoding='utf-8') as f:
         replaced_channels = replace_ip_in_channels(ip, channels)
         for channel in replaced_channels:
             f.write(f"{channel}")
-        # 在每个IP地址的频道列表后添加一个空行，避免一行中写入两个频道列表
         f.write("\n")
 
-print(f"共扫描获取到有效IP {len(all_valid_ips)} 个，已全部匹配到湖南_组播.txt文件中\n。")
+print(f"共扫描获取到有效IP {len(all_valid_ips)} 个，已全部匹配到湖南_组播.txt文件中。\n")
 
 # 开始对组播源频道列表进行下载速度检测
 # 定义一个全局队列，用于存储需要测速的频道信息
@@ -204,8 +204,8 @@ speed_results.sort(reverse=True)
 with open("speed.txt", 'w', encoding='utf-8') as file:
     for result in speed_results:
         download_rate, channel_name, channel_url = result
-        file.write(f"{channel_name},{channel_url},{download_rate}\n")
-
+        if download_rate >= 0.01:  # 只写入下载速度大于或等于 0.01 MB/s 的频道
+            file.write(f"{channel_name},{channel_url},{download_rate}\n")
 
 # 对经过下载速度检测后的所有组播频道列表进行分组排序
 # 从测速后的文件中读取频道列表
@@ -252,7 +252,7 @@ def group_and_sort_channels(channels):
                 -float(x[2]) if x[2] is not None else float('-inf')  # 速度从高到低排序
             ))
 
-    # 筛选相同名称的频道，只保存10个
+    # 筛选相同名称的频道，只保存9个
     filtered_groups = {}
     overflow_groups = {}
 
@@ -275,18 +275,24 @@ def group_and_sort_channels(channels):
         filtered_groups[group_name] = filtered_list
         overflow_groups[group_name] = overflow_list
 
-    # # 获取当前时间
+    #  获取当前时间
     now = datetime.now()
     update_time_line = f"更新时间,#genre#\n{now.strftime('%Y-%m-%d %H:%M:%S')},url\n"
-    # 保存到 iptv_list.txt 文件
     with open('iptv_list.txt', 'w', encoding='utf-8') as file:
         file.write(update_time_line)
+        total_channels = 0  # 用于统计频道总数
         for group_name, channel_list in filtered_groups.items():
             file.write(f"{group_name}:\n")
+            print(f"{group_name}:")  # 打印分组名称
             for name, url, speed in channel_list:
                 # if speed >= 0.3:  # 只写入下载速度大于或等于 0.3 MB/s 的频道
                 file.write(f"{name},{url}\n")
-            file.write("\n")  # 打印空行分隔组
+                print(f"  {name},{url}")  # 打印频道信息
+                total_channels += 1  # 统计频道总数
+            file.write("\n")
+            print()  # 打印空行分隔组
+
+    print(f"\n经过测速分类排序后的频道列表数量为: {total_channels} 个，已全部写入iptv_list.txt文件中。")
 
     # # 保存频道数量超过10个的频道列表到新文件
     # with open('Filtered_iptv.txt', 'w', encoding='utf-8') as file:
@@ -304,5 +310,3 @@ grouped_channels = group_and_sort_channels(channels)
 os.remove("湖南_组播.txt")
 os.remove("speed.txt")
 # os.remove("ip.txt")
-
-print(f"\n经过测速分类排序后的频道列表已全部写入iptv_list.txt文件中。")
