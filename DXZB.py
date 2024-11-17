@@ -73,7 +73,7 @@ def replace_ip_in_channels(ip, channels):
 unique_ip_ports = set()
 
 # 读取配置文件
-config_path = 'config.txt'
+config_path = 'config_dx.txt'
 configs = read_config(config_path)
 
 # 使用集合去除配置文件内重复的 IP 地址及端口
@@ -276,10 +276,10 @@ def group_and_sort_channels(channels):
         overflow_groups[group_name] = overflow_list
 
     #  获取当前时间
-    now = datetime.now()
-    update_time_line = f"更新时间,#genre#\n{now.strftime('%Y-%m-%d %H:%M:%S')},url\n"
+    # now = datetime.now()
+    # update_time_line = f"更新时间,#genre#\n{now.strftime('%Y-%m-%d %H:%M:%S')},url\n"
     with open('iptv_list.txt', 'w', encoding='utf-8') as file:
-        file.write(update_time_line)
+        # file.write(update_time_line)
         total_channels = 0  # 用于统计频道总数
         for group_name, channel_list in filtered_groups.items():
             file.write(f"{group_name}:\n")
@@ -310,3 +310,25 @@ grouped_channels = group_and_sort_channels(channels)
 os.remove("湖南_组播.txt")
 os.remove("speed.txt")
 # os.remove("ip.txt")
+
+#  获取远程直播源文件
+url = "http://aktv.top/live.txt"
+r = requests.get(url)
+open('AKTV.txt', 'wb').write(r.content)
+
+# 合并所有的txt文件
+file_contents = []
+file_paths = ["iptv_list.txt", "AKTV.txt", "hnyd.txt"]  # 替换为实际的文件路径列表
+for file_path in file_paths:
+    with open(file_path, 'r', encoding="utf-8") as file:
+        content = file.read()
+        file_contents.append(content)
+
+# 写入合并后的txt文件
+with open("iptv_list.txt", "w", encoding="utf-8") as output:
+    output.write('\n'.join(file_contents))
+
+    # 写入更新日期时间
+    now = datetime.now()
+    output.write(f"更新时间,#genre#\n")
+    output.write(f"{now.strftime("%Y-%m-%d %H:%M:%S")},url\n")
