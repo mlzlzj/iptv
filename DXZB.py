@@ -105,7 +105,7 @@ for ip_part, port, option in unique_configs:
     status_thread = threading.Thread(target=update_status, args=(checked_count,))
     status_thread.start()
 
-    max_workers = 10 if option == 0 else 100  # 扫描IP线程数量
+    max_workers = 5 if option == 0 else 300  # 扫描IP线程数量
     with ThreadPoolExecutor(max_workers=max_workers) as executor:
         future_to_ip = {executor.submit(check_ip, ip, port): ip for ip in ips_to_check}
         for future in as_completed(future_to_ip):
