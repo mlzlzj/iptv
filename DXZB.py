@@ -244,7 +244,7 @@ def group_and_sort_channels(channels):
               or '东安' in name or '中方' in name or '会同' in name or '双牌' in name or '城步' in name or '宁乡' in name
               or '宁远' in name or '岳麓' in name or '新田' in name or '桃源' in name or '江华' in name or '江永' in name
               or '汨罗' in name or '洪江' in name or '涟源' in name or '湘江' in name or '祁阳' in name or '芷江' in name
-              or '蓝山' in name or '辰溪' in name or '通道' in name or '靖州' in name or '麻阳'):
+              or '蓝山' in name or '辰溪' in name or '通道' in name or '靖州' in name or '麻阳' in name):
             groups['湖南频道,#genre#'].append((name, url, speed))
         else:
             groups['其他频道,#genre#'].append((name, url, speed))
