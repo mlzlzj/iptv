@@ -11,7 +11,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 
 
 def should_run():
-    time_file_path = 'zubo/update_time.txt'
+    time_file_path = 'update_time.txt'
 
     # 如果时间文件不存在，说明需要执行
     if not os.path.exists(time_file_path):
@@ -33,7 +33,7 @@ def should_run():
 
 
 def update_run_time():
-    time_file_path = 'zubo/update_time.txt'
+    time_file_path = 'update_time.txt'
     current_time = datetime.now()
     with open(time_file_path, 'w') as file:
         file.write(current_time.strftime('%Y-%m-%d %H:%M:%S'))
@@ -170,7 +170,7 @@ if should_run():
         channels = f.readlines()
 
     # 将所有替换后的频道列表写入湖南_组播.txt文件中
-    with open('zubo/湖南_组播.txt', 'w', encoding='utf-8') as f:
+    with open('湖南_组播.txt', 'w', encoding='utf-8') as f:
         for ip in all_valid_ips:
             replaced_channels = replace_ip_in_channels(ip, channels)
             for channel in replaced_channels:
@@ -189,7 +189,7 @@ speed_results = []
 
 # 读取iptv_list.txt文件中的所有频道，并将它们添加到队列中
 def load_channels_to_speed_test():
-    with open('zubo/湖南_组播.txt', 'r', encoding='utf-8') as file:
+    with open('湖南_组播.txt', 'r', encoding='utf-8') as file:
         for line in file:
             channel_info = line.strip().split(',')
             if len(channel_info) >= 2:  # 假设至少有名称和URL
@@ -241,15 +241,15 @@ start_speed_test_threads(10)  # 测试下载速度线程数
 speed_results.sort(reverse=True)
 
 # 写入分类排序后的频道信息
-with open("zubo/speed.txt", 'w', encoding='utf-8') as file:
+with open("speed.txt", 'w', encoding='utf-8') as file:
     for result in speed_results:
         download_rate, channel_name, channel_url = result
-        if download_rate >= 0.01:  # 只写入下载速度大于或等于 0.01 MB/s 的频道
+        if download_rate >= 0.3:  # 只写入下载速度大于或等于 0.3 MB/s 的频道
             file.write(f"{channel_name},{channel_url},{download_rate}\n")
 
 # 对经过下载速度检测后的所有组播频道列表进行分组排序
 # 从测速后的文件中读取频道列表
-with open('zubo/speed.txt', 'r', encoding='utf-8') as file:
+with open('speed.txt', 'r', encoding='utf-8') as file:
     channels = []
     for line in file:
         line = line.strip()
@@ -293,7 +293,7 @@ def group_and_sort_channels(channels):
         for group in groups.values():
             group.sort(key=lambda x: (natural_key(x[0]), -float(x[2]) if x[2] is not None else float('-inf')))
 
-    # 筛选相同名称的频道，只保存9个
+    # 筛选相同名称的频道，只保存10个
     filtered_groups = {}
     overflow_groups = {}
 
@@ -307,7 +307,7 @@ def group_and_sort_channels(channels):
             if name not in seen_names:
                 seen_names[name] = 0
 
-            if seen_names[name] < 15:
+            if seen_names[name] < 10:
                 filtered_list.append(channel)
                 seen_names[name] += 1
             else:
@@ -328,8 +328,8 @@ def group_and_sort_channels(channels):
             for name, url, speed in channel_list:
                 # if speed >= 0.3:  # 只写入下载速度大于或等于 0.3 MB/s 的频道
                 file.write(f"{name},{url}\n")
-                print(f"  {name},{url}")  # 打印频道信息
-                total_channels += 1  # 统计频道总数
+                print(f"  {name},{url},{speed}")  # 打印频道信息
+                total_channels += 1  # 统计写入文件内的频道总数
             file.write("\n")
             print()  # 打印空行分隔组
 
@@ -344,9 +344,8 @@ def group_and_sort_channels(channels):
     print(f"\n经过测速分类排序后的频道列表数量为: {total_channels} 个，已全部写入iptv_list.txt文件中。")
     return groups
 
-
-# 对频道列表进行分组和排序
 grouped_channels = group_and_sort_channels(channels)
+
 # os.remove("湖南_组播.txt")
 # os.remove("speed.txt")
 # os.remove("ip.txt")
