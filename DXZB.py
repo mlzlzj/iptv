@@ -25,8 +25,8 @@ def should_run():
     # 获取当前时间
     current_time = datetime.now()
 
-    # 判断当前时间与上次执行时间的差异是否大于等于三天
-    if current_time - last_run_time >= timedelta(days=3):
+    # 判断当前时间与上次执行时间的差异是否大于等于两天
+    if current_time - last_run_time >= timedelta(days=2):
         return True
 
     return False
