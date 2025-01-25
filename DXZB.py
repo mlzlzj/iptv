@@ -351,9 +351,9 @@ grouped_channels = group_and_sort_channels(channels)
 # os.remove("ip.txt")
 
 #  获取远程直播源文件
-# url = "http://aktv.top/live.txt"
-# r = requests.get(url)
-# open('AKTV.txt', 'wb').write(r.content)
+url = "http://aktv.top/live.txt"
+r = requests.get(url)
+open('AKTV.txt', 'wb').write(r.content)
 
 # 合并所有的txt文件
 file_contents = []
