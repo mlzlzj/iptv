@@ -23,15 +23,38 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" href="/style.css">
+    <link rel="stylesheet" href="/style.css?V=2">
+    <script src="/jquery.js"></script>
+    
   </head>
+  
+      <style>
+        /*body { background-color: #000; color: white; text-align: center; }*/
+        #topology { width: 90vw; height: 80vh; margin: auto; }
+    </style>
+  
   <body>
     <section class="page-header">
-      <h1 class="project-name">AKTV</h1>
-      <h2 class="project-tagline">500G 特大带宽 + 集群服务器 全球都流畅！</h2>
-      
+      <h1 class="project-name">AKTV 直播源中转站</h1>
         <!--<a href="https://github.com/davidgilbertson/about-github" class="btn">View on GitHub</a>-->
+      <h2>
+          <img src="/img/1f680.gif" style="width: 38px;position: relative;top: 10px;left: -5px;">
+          在线高速源:<status_online_api1></status_online_api1>个
+          <img src="/img/2757.gif" style="width: 38px;position: relative;top: 10px;left: 6px;">
+          离线:<status_offline_api1></status_offline_api1>个
+      </h2>
+      <br>
+      <h2 class="project-tagline">您無法想象的500G+帶寬！</h2>
+      <h2 class="project-tagline">電視臺原畫質比地區機頂盒還高清！</h2>
+      <h2 class="project-tagline">500G 特大带宽 + 集群服务器 全球都流畅！</h2>
+      <h2 class="project-tagline">海量帶寬不限流量,高速秒播,歡迎使勁宣傳放心宣傳！</h2>
+      <br>
       
+      <h2 class="project-tagline">🤖 处理负载:<span id="cpuRealPercent">0</span>%</h2>
+      <h2 class="project-tagline">📄 运存负载:<span id="memRealPercent">0</span>%</h2>
+      <h2 class="project-tagline">📡 网络负载:<span id="NetOutSpeed3">0</span>% <span id="NetOutSpeed0"> </span></h2>
+      
+      <div id="topology"></div>
       
     </section>
 
@@ -42,7 +65,19 @@
         <p><span class="red-text">Free to download and use. Abuse and sale are strictly prohibited!</span></p>
         
         <h1>如何获取:</h1>
-        <p>还在做，目前无限制，直接请求：http://aktv.space/live.m3u 即可</p>
+        <p>订阅M3U地址:http://aktv.space/live.m3u</p>
+        
+        
+        <h1>进阶操作:</h1>
+        <p>你可以使用php或者nginx反向代理:http://aktv.space/live.m3u<br>预防主站被封无法更新源</p>
+        
+        
+        
+        <!---
+        <h1>将视频推流到AKTV:</h1>
+        <p>将视频推流到AKTV,小水管轻松变成大水管！</p>
+        <p>开发中</p>
+        --->
     </section>
 
     
@@ -51,10 +86,157 @@
 
 
 <script type="text/javascript">
+$.getJSON("/online.json",function(result){
+    $("status_online_api1").append(result.online);
+    $("status_offline_api1").append(result.offline);
+});
+
+
 (function() {
     const targetDomain = "aktv.space";
     if (window.location.hostname !== targetDomain) {
         window.location.href = `http://${targetDomain}`;
     }
 })();
+
+
+getJSONData();
+function getJSONData(){
+	setTimeout("getJSONData()", 1000);
+	$.getJSON("/apps/server_api.php",function(dataJSON){
+	    $("#memRealPercent").html(calculateMemoryUsage(dataJSON.mem).actualUsage);// 运存负载
+	    $("#NetOutSpeed3").html(calcBandwidthUsage(dataJSON.up).toFixed(1));// upnet
+	    $("#cpuRealPercent").html(dataJSON.cpu[0]);// cpu
+	    
+	    if($("#NetOutSpeed3").html()>100){
+	        $("#NetOutSpeed0").html(`  <img src="/img/1f525.gif" style="width: 38px;position: relative;top: 10px;left: 6px;">网络超频`)
+	    }else{
+	        $("#NetOutSpeed0").html("")
+	    }
+	    
+    });
+}
+
+
+
+function calcBandwidthUsage(kb) {
+    const totalKBps = 125000; // 1Gbps = 125000 KB/s
+    return (kb / totalKBps) * 100;
+}
+
+
+function calculateMemoryUsage(mem) {
+    const { memTotal, memFree, memAvailable, memRealUsed } = mem;
+
+    // 方式1: 物理内存使用率（不考虑缓存和缓冲）
+    const physicalUsage = ((memTotal - memFree) / memTotal) * 100;
+
+    // 方式2: 实际可用内存计算（考虑缓存和缓冲）
+    const actualUsage = ((memTotal - memAvailable) / memTotal) * 100;
+
+    // 方式3: 真实使用率（直接使用 memRealUsed）
+    const realUsage = (memRealUsed / memTotal) * 100;
+
+    return {
+        physicalUsage: physicalUsage.toFixed(1),
+        actualUsage: actualUsage.toFixed(1),
+        realUsage: realUsage.toFixed(1)
+    };
+}
+// // 示例
+// console.log(calcBandwidthUsage(50000).toFixed(2) + "%"); // 假设 50000 KB/s
+// console.log(calcBandwidthUsage(125000).toFixed(2) + "%"); // 满载 100%
+// console.log(calcBandwidthUsage(10000).toFixed(2) + "%"); // 假设 10000 KB/s
+
+
+</script>
+
+<script src="https://cdn.jsdelivr.net/npm/echarts@5.4.0/dist/echarts.min.js"></script>
+<script>
+var nodes=[]
+var transformedData=[]
+function createTopology(containerId) {
+    const chart = echarts.init(document.getElementById(containerId));
+
+    // 节点数据
+    const nodes = [
+        { name: "1号直播服务器", category: 0, symbolSize: 80 },
+        { name: "AKTV 主服务器", category: 0, symbolSize: 64 },
+        { name: "AKTV 节点", category: 1, symbolSize: 40 },
+        { name: "您", category: 1, symbolSize: 32 },
+    ];
+
+    // 连接数据
+    const links = [
+        { source: "1号直播服务器", target: "AKTV 主服务器" },
+        { source: "AKTV 主服务器", target: "AKTV 节点" },
+        { source: "AKTV 节点", target: "您" },
+    ];
+
+    // 处理带流动圆点的连接
+    const linksWithEffect = links.map(link => ({
+        ...link,
+        lineStyle: {
+            color: "#ffff",
+            width: 2
+        },
+        emphasis: { lineStyle: { width: 4 } }, // 悬停时加粗
+        effect: {
+            show: true,
+            symbol: "circle", // 圆点
+            symbolSize: 6,
+            color: "#ffcc00",
+            trailLength: 0.4, // 尾巴长度
+            loop: true, // 是否循环
+            period: 3 // 速度（秒）
+        }
+    }));
+
+    // 配置 ECharts 关系图
+    const option = {
+        // backgroundColor: "#000", // 黑色背景
+        title: {
+            // text: "P2P 网络拓扑（流动数据）",
+            textStyle: { color: "#fff" }
+        },
+        tooltip: { formatter: "{b}" }, // 悬停显示节点名称
+        series: [{
+            type: "graph",
+            layout: "force",
+            force: { repulsion: 200, edgeLength: 100 }, // 力导向布局
+            roam: true, // 允许缩放、拖拽
+            draggable: true,
+            data: nodes,
+            links: linksWithEffect, // 使用带有流动效果的连接
+            categories: [
+                { name: "AKTV 直播服务器", itemStyle: { color: "#ff4d4d" } },
+                { name: "AKTV NODE", itemStyle: { color: "#1e90ff" } }
+            ],
+            label: {
+                show: true,
+                color: "#fff",
+                fontSize: 10
+            }
+        }]
+    };
+
+    chart.setOption(option);
+}
+
+
+$.getJSON("/live.json",function(jsonData){
+    transformedData = jsonData.map(item => ({
+        name: `${item.name}${item.checkStream.status === "online" ? "[在线]" : "[离线]"}`,
+        category: 0,
+        symbolSize: 80
+    }));
+    
+    transformedData = [...transformedData, ...nodes];
+    console.log(transformedData);
+    // 创建拓扑图
+    createTopology("topology");
+    
+});
+
+
 </script>
