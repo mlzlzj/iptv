@@ -42,9 +42,19 @@
         <p><span class="red-text">Free to download and use. Abuse and sale are strictly prohibited!</span></p>
         
         <h1>如何获取:</h1>
-        <p>还在做</p>
+        <p>还在做，目前无限制，直接请求：http://aktv.space/live.m3u 即可</p>
     </section>
 
     
   </body>
 </html>
+
+
+<script type="text/javascript">
+(function() {
+    const targetDomain = "aktv.space";
+    if (window.location.hostname !== targetDomain) {
+        window.location.href = `http://${targetDomain}`;
+    }
+})();
+</script>
