@@ -2,19 +2,15 @@
 
 
 <!DOCTYPE html>
-<html lang="en-US">
+<html lang="zh-TW">
   <head>
     <meta charset="UTF-8">
 
 <!-- Begin Jekyll SEO tag v2.3.0 -->
 <title>AKTV</title>
 <meta property="og:title" content="AKTV" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="AKTV LIVE" />
-<!--<meta property="og:description" content="A repo for messing around with GitHub" />-->
-<!--<link rel="canonical" href="https://davidgilbertson.github.io/about-github/" />-->
-<!--<meta property="og:url" content="https://davidgilbertson.github.io/about-github/" />-->
-<!--<meta property="og:site_name" content="about-github" />-->
+<meta property="og:locale" content="zh_TW" />
+<meta name="description" content="AKTV 直播源" />
 <script type="application/ld+json">
 {"name":"about-github","description":"A repo for messing around with GitHub","author":null,"@type":"WebSite","url":"https://davidgilbertson.github.io/about-github/","image":null,"publisher":null,"headline":"about-github","dateModified":null,"datePublished":null,"sameAs":null,"mainEntityOfPage":null,"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
@@ -23,73 +19,70 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" href="/style.css?V=2">
+    <script src="https://cdn.jsdelivr.net/npm/layui-src/dist/layui.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/layui-src/dist/css/layui.css" />
     <script src="/jquery.js"></script>
+    <link rel="stylesheet" href="/style.css?V=2">
     
   </head>
   
       <style>
-        /*body { background-color: #000; color: white; text-align: center; }*/
         #topology { width: 100%; height: 80vh; margin: auto; }
     </style>
   
   <body>
     <section class="page-header">
-      <h1 class="project-name">AKTV 直播源中转站</h1>
-        <!--<a href="https://github.com/davidgilbertson/about-github" class="btn">View on GitHub</a>-->
+      <h1 class="project-name">AKTV 直播源中轉站</h1>
+
       <h2>
-          <img src="/img/1f680.gif" style="width: 38px;position: relative;top: 10px;left: -5px;">
-          在线高速源:<status_online_api1></status_online_api1>个
-          <img src="/img/2757.gif" style="width: 38px;position: relative;top: 10px;left: 6px;">
-          离线:<status_offline_api1></status_offline_api1>个
+          <img src="/img/1f680.gif" style="width: 38px;position: relative;left: -5px;">
+          在線高速源:<status_online_api1></status_online_api1>個
+          <img src="/img/2757.gif" style="width: 38px;position: relative;left: 6px;">
+          離線:<status_offline_api1></status_offline_api1>個
       </h2>
       <br>
-      <h2 class="project-tagline">您無法想象的500G+帶寬！</h2>
-      <h2 class="project-tagline">電視臺原畫質比地區機頂盒還高清！</h2>
-      <h2 class="project-tagline">500G 特大带宽 + 集群服务器 全球都流畅！</h2>
-      <h2 class="project-tagline">海量帶寬不限流量,高速秒播,歡迎使勁宣傳放心宣傳！</h2>
+      <h2 class="project-tagline">您無法想像的500G+帶寬！</h2>
+      <h2 class="project-tagline">電視台原畫質比地區機頂盒還高清！</h2>
+      <h2 class="project-tagline">超高性能处理器,每秒可处理10w+请求</h2>
+      <h2 class="project-tagline">500G 特大帶寬 + 集群伺服器 全球都流暢！</h2>
+      <h2 class="project-tagline">海量帶寬不限流量, 高速秒播, 歡迎使勁宣傳放心宣傳！</h2>
       <br>
       
-      <h2 class="project-tagline">🤖 处理负载:<span id="cpuRealPercent">0</span>%</h2>
-      <h2 class="project-tagline">📄 运存负载:<span id="memRealPercent">0</span>%</h2>
-      <h2 class="project-tagline">📡 网络负载:<span id="NetOutSpeed3">0</span>% <span id="NetOutSpeed0"> </span></h2>
+      <h2 class="project-tagline">🚀 请求处理:<qps></qps>次</h2>
+      <h2 class="project-tagline">🤖 處理負載:<span id="cpuRealPercent">0</span>%</h2>
+      <h2 class="project-tagline">📄 運存負載:<span id="memRealPercent">0</span>%</h2>
+      <h2 class="project-tagline">📡 網路負載:<span id="NetOutSpeed3">0</span>% <span id="NetOutSpeed0"> </span></h2>
       
+      <br>
+      <a href="https://t.me/MYOKKTV" target="_blank" class="btn">TG社群</a>
     </section>
 
-    <section class="main-content">
-        <p><span class="blue-text">所有視頻收集來自互聯網，用於伺服器的網絡和代碼測試!</span></p>
-        <p><span class="red-text">免費下載和使用，嚴禁濫用和出售！</span></p>
+    <section class="layui-container">
+        <br><br>
+        <p><span class="blue-text">所有視頻收集來自互聯網，用於伺服器的網路和代碼測試！</span></p>
+        <p><span class="red-text">免費下載和使用，嚴禁濫用和販售！</span></p>
         <p><span class="blue-text">All videos collected from the internet, used for network and code testing of servers!</span></p>
         <p><span class="red-text">Free to download and use. Abuse and sale are strictly prohibited!</span></p>
         
-        <h1>如何获取:</h1>
-        <p>订阅M3U地址:http://aktv.space/live.m3u</p>
+        <h1>如何獲取:</h1>
+        <p>訂閱M3U地址:(请确保一天至少更新一次订阅源)</p>
+        <p>http://aktv.space/live.m3u</p>
         
+        <h1>進階操作:</h1>
+        <p>你可以使用PHP或者Nginx反向代理:http://aktv.space/live.m3u<br>防止主站被封無法更新源</p>
         
-        <h1>进阶操作:</h1>
-        <p>你可以使用php或者nginx反向代理:http://aktv.space/live.m3u<br>预防主站被封无法更新源</p>
+        <h1>頻道單:</h1>
+        <table id="streamTable" lay-filter="streamTable"></table>
         
-        <h1>网络拓补:</h1>
-        <div id="topology"></div>
-        <!---
-        <h1>将视频推流到AKTV:</h1>
-        <p>将视频推流到AKTV,小水管轻松变成大水管！</p>
-        <p>开发中</p>
-        --->
     </section>
 
-    
+    <br><br>
   </body>
 </html>
 
 
+
 <script type="text/javascript">
-$.getJSON("/online.json",function(result){
-    $("status_online_api1").append(result.online);
-    $("status_offline_api1").append(result.offline);
-});
-
-
 (function() {
     const targetDomain = "aktv.space";
     if (window.location.hostname !== targetDomain) {
@@ -100,22 +93,31 @@ $.getJSON("/online.json",function(result){
 
 getJSONData();
 function getJSONData(){
-	setTimeout("getJSONData()", 1000);
+	setTimeout("getJSONData()", 1000*3);
 	$.getJSON("/apps/server_api.php",function(dataJSON){
 	    $("#memRealPercent").html(calculateMemoryUsage(dataJSON.mem).actualUsage);// 运存负载
 	    $("#NetOutSpeed3").html(calcBandwidthUsage(dataJSON.up).toFixed(1));// upnet
 	    $("#cpuRealPercent").html(dataJSON.cpu[0]);// cpu
 	    
 	    if($("#NetOutSpeed3").html()>100){
-	        $("#NetOutSpeed0").html(`  <img src="/img/1f525.gif" style="width: 38px;position: relative;top: 10px;left: 6px;">网络超频`)
+	        $("#NetOutSpeed0").html(`  <img src="/img/1f525.gif" style="width: 38px;position: relative;left: 6px;">网络超频`)
 	    }else{
 	        $("#NetOutSpeed0").html("")
 	    }
 	    
     });
+    
 }
 
-
+getJSONData2();
+function getJSONData2(){
+    setTimeout("getJSONData2()", 1000*15);
+     $.getJSON("/online.json",function(result){
+        $("status_online_api1").html(result.online);
+        $("status_offline_api1").html(result.offline);
+        $("qps").html(result.qps);
+    });
+}
 
 function calcBandwidthUsage(kb) {
     const totalKBps = 125000; // 1Gbps = 125000 KB/s
@@ -149,106 +151,53 @@ function calculateMemoryUsage(mem) {
 
 </script>
 
-<script src="https://cdn.jsdelivr.net/npm/echarts@5.4.0/dist/echarts.min.js"></script>
+
+
 <script>
-var nodes = [
-        { name: "1号直播服务器", category: 0, symbolSize: 160 },
-        { name: "AKTV 主服务器", category: 0, symbolSize: 64 },
-        { name: "AKTV 节点", category: 1, symbolSize: 40 },
-        { name: "您", category: 1, symbolSize: 32 },
-    ];
-    
-var transformedData=[]
+layui.use(['table'], function() {
+    var table = layui.table;
 
-
-var links = [
-        { source: "1号直播服务器", target: "AKTV 主服务器" },
-        { source: "AKTV 主服务器", target: "AKTV 节点" },
-        { source: "AKTV 节点", target: "您" },
-    ];
-
-var links_transformedData=[]
-
-function createTopology(containerId) {
-    const chart = echarts.init(document.getElementById(containerId));
-
-
-
-    // 处理带流动圆点的连接
-    const linksWithEffect = links_transformedData.map(link => ({
-        ...link,
-        lineStyle: {
-            color: "#000",
-            width: 2
-        },
-        emphasis: { lineStyle: { width: 4 } }, // 悬停时加粗
-        effect: {
-            show: true,
-            symbol: "circle", // 圆点
-            symbolSize: 6,
-            color: "#ffcc00",
-            trailLength: 0.4, // 尾巴长度
-            loop: true, // 是否循环
-            period: 3 // 速度（秒）
-        }
-    }));
-
-    // 配置 ECharts 关系图
-    const option = {
-        // backgroundColor: "#000", // 黑色背景
-        title: {
-            // text: "P2P 网络拓扑（流动数据）",
-            textStyle: { color: "#fff" }
-        },
-        tooltip: { formatter: "{b}" }, // 悬停显示节点名称
-        series: [{
-            type: "graph",
-            layout: "force",
-            force: { repulsion: 500, edgeLength: 200 }, // 线长度   力导向布局
-            roam: true, // 允许缩放、拖拽
-            draggable: true,
-            data: transformedData,
-            links: linksWithEffect, // 使用带有流动效果的连接
-            categories: [
-                { name: "AKTV 直播服务器", itemStyle: { color: "#155799" } },
-                { name: "AKTV NODE", itemStyle: { color: "#1e90ff" } },
-                { name: "节目", itemStyle: { color: "#159957" } },
-                { name: "节目下线", itemStyle: { color: "#ff4d4d" } },
-            ],
-            label: {
-                show: true,
-                color: "#000",
-                fontSize: 10
+    // 使用 jQuery 获取 JSON 数据
+    $.getJSON('/live.json', function(jsonData) {
+        // 将在线状态转换为繁体中文
+        jsonData.forEach(function(item) {
+            if (item.checkStream.status === "online") {
+                item.checkStream = "✅ 在線";
+            } else {
+                item.checkStream = "⚠️ 離線";
             }
-        }]
-    };
+            
+            item.live_give = `<a href="https://t.me/Y_IPTV" target="_blank">🔗 IPTV研究所</a>`;
+            item.net_give = "AKTV";
+            
+            
+            if (item.url.includes("/stream/useradd1/")) {
+                item.live_give = `AKTV`;
+            }
+            
+            // ss socks
+            if (item.url.includes("/stream/taiwan/")) {
+                item.net_give = `<a href="https://web.my.huy.ooo/zh/#/auth/signup;referral=z6e8vYP7" target="_blank">🔗 忽悠云(TW)</a>`;
+            }
+            
+        });
 
-    chart.setOption(option);
-}
-
-
-$.getJSON("/live.json",function(jsonData){
-    
-    // 处理点
-    transformedData = jsonData.map(item => ({
-        name: `${item.name}${item.checkStream.status === "online" ? "[在线]" : "[离线]"}`,
-        category: item.checkStream.status === "online" ? 2 : 3,
-        symbolSize: 64
-    }));
-    transformedData = [...transformedData, ...nodes];
-    
-    // 处理链接线
-    links_transformedData = jsonData.map(item => ({
-        source: `${item.name}${item.checkStream.status === "online" ? "[在线]" : "[离线]"}`,
-        target: "1号直播服务器",
-    }));
-    links_transformedData = [...links_transformedData, ...links];
-    
-    console.log(transformedData);
-    // 创建拓扑图
-    createTopology("topology");
-    
+        // 渲染表格
+        table.render({
+            elem: '#streamTable',
+            data: jsonData,
+            page: false,  // 禁用分页，显示所有数据
+            limit: 99999,  // 显示最多99999条数据，确保没有分页限制
+            cols: [
+                [
+                    {field: 'name', title: '節目名稱', width: 128},
+                    {field: 'url', title: '直播地址'},
+                    {field: 'checkStream', title: '狀態', width: 94},
+                    {field: 'live_give', title: '源提供者', width: 128},
+                    {field: 'net_give', title: '网络提供商', width: 128},
+                ]
+            ]
+        });
+    });
 });
-
-
 </script>
