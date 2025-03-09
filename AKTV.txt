@@ -58,7 +58,7 @@
       <h2 class="project-tagline">海量帶寬不限流量, 高速秒播, 歡迎使勁宣傳放心宣傳！</h2>
       <br>
       
-      <h2 class="project-tagline">🚀 请求处理:<qps></qps>次</h2>
+      <h2 class="project-tagline">🚀 切片处理:<qps></qps>/秒</h2>
       <h2 class="project-tagline">🤖 處理負載:<span id="cpuRealPercent">0</span>%</h2>
       <h2 class="project-tagline">📄 運存負載:<span id="memRealPercent">0</span>%</h2>
       <h2 class="project-tagline">📡 網路負載:<span id="NetOutSpeed3">0</span>% <span id="NetOutSpeed0"> </span></h2>
@@ -69,15 +69,34 @@
 
     <section class="layui-container">
         <br><br>
+        
+        <blockquote class="layui-elem-quote" style="margin-top: 30px;">
+            <div class="layui-text">
+                <li>
+                AKTV 完全由用户资助。考虑支持一下么？<br>
+                <red>注意！AKTV 的伺服器由用户自由赞助，如果你是付费购买，那你很可能是被骗了！</red><br>
+                
+                UDST钱包地址(TRC20)：TYdA5bDLAqErC17refckhNxwDX1rYttuXL<br>
+                是UDST钱包喔，别转成ETH喔
+                </li>
+        
+            </div>
+        </blockquote>
+        <br>
         <p><span class="blue-text">所有視頻收集來自互聯網，用於伺服器的網路和代碼測試！</span></p>
         <p><span class="red-text">免費下載和使用，嚴禁濫用和販售！</span></p>
         <p><span class="blue-text">All videos collected from the internet, used for network and code testing of servers!</span></p>
         <p><span class="red-text">Free to download and use. Abuse and sale are strictly prohibited!</span></p>
         
+        
+        
         <h1>如何獲取:</h1>
         <p>訂閱M3U地址:(请确保一天至少更新一次订阅源)</p>
         <p>http://aktv.space/live.m3u</p>
-
+        
+        
+        
+        
         <h1>頻道單:</h1>
         <table id="streamTable" lay-filter="streamTable"></table>
         
