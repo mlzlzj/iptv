@@ -57,6 +57,7 @@
       <h2 class="project-tagline">500G 特大帶寬 + 集群伺服器 全球都流暢！</h2>
       <h2 class="project-tagline">海量帶寬不限流量, 高速秒播, 歡迎使勁宣傳放心宣傳！</h2>
       <br>
+      <!--<h2 class="project-tagline">[测试中] 7天回看</h2>-->
       
       <h2 class="project-tagline">🚀 切片处理:<qps></qps>/秒</h2>
       <h2 class="project-tagline">🤖 處理負載:<span id="cpuRealPercent">0</span>%</h2>
