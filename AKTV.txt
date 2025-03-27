@@ -83,6 +83,17 @@
         
             </div>
         </blockquote>
+        
+        <blockquote class="layui-elem-quote" style="margin-top: 30px;">
+        <li>交流頻道:
+            <a target="_blank" href="https://t.me/+-3mprTryNzc2NWJl">
+            <img  src="old/Telegram-Logo-GIF-Telegram-Icon-GIF-Royalty-Free-Animated-Icon-GIF-1080px-after-effects-project.gif" style="
+    width: 22px;
+    margin: 0px 6px 0px 0px;
+">https://t.me/+-3mprTryNzc2NWJl</a>
+        </li>
+        </blockquote>
+        
         <br>
         <p><span class="blue-text">所有視頻收集來自互聯網，用於伺服器的網路和代碼測試！</span></p>
         <p><span class="red-text">免費下載和使用，嚴禁濫用和販售！</span></p>
@@ -91,9 +102,16 @@
         
         
         
-        <h1>如何獲取:</h1>
-        <p>訂閱M3U地址:(请确保一天至少更新一次订阅源)</p>
-        <p>http://aktv.space/live.m3u</p>
+<h1>如何獲取:</h1>
+<li>加入社群[推薦]:
+    <a target="_blank" href="https://t.me/+-3mprTryNzc2NWJl">
+    <img src="old/Telegram-Logo-GIF-Telegram-Icon-GIF-Royalty-Free-Animated-Icon-GIF-1080px-after-effects-project.gif" style="width: 22px; margin: 0px 6px 0px 0px;">
+    https://t.me/+-3mprTryNzc2NWJl</a>
+</li>
+<br>
+<p>訂閱 M3U 地址:(請確保一天至少更新一次訂閱源，隨時更新，建議加入社群)</p>
+<p>http://aktv.space/live.m3u</p>
+
         
         
         
