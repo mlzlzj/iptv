@@ -114,6 +114,7 @@
 <p>訂閱 M3U 地址: <red>(請確保一天至少更新一次訂閱源，隨時更新，建議加入社群)<red></p>
 <p>https://aktv.space/live.m3u</p>
 
+        <!--
         <br><hr>
         <h1>回放方式:</h1>
         <p>在 m3u8 直播串流後面加上 <strong>?playseek=開始時間-結束時間</strong>，記得回放時間不能超過 24 小時喔。</p>
@@ -121,7 +122,7 @@
         <p>這裡有個回放範例：記得回放只能是 <span style="color: red;">7</span> 天內的直播內容～</p>
         <p>http://aktv-stream.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8<span style="color: red;">?playseek=20250328150000-20250328150459</span></p>
         <p>🔥🔥 所有台都能均勻回放 🔥🔥</p>
-
+        -->
 
         
         <br><hr>
